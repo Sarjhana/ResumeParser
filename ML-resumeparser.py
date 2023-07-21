@@ -23,6 +23,12 @@ def extract_details_from_resume(pdf_path):
     skills = []
     education = []
     work_experience = []
+    linkedin = ""
+    github = ""
+
+    # Regex patterns for detecting LinkedIn and GitHub URLs
+    linkedin_regex = r'https?://(www\.)?linkedin\.com/\S+'
+    github_regex = r'https?://(www\.)?github\.com/\S+'
 
     # Loop through each page in the PDF
     for page_num in range(pdf_document.page_count):
@@ -43,6 +49,15 @@ def extract_details_from_resume(pdf_path):
         email_match = re.search(r'\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b', text)
         if email_match:
             email = email_match.group()
+
+        # Regular expressions for detecting LinkedIn and GitHub URLs
+        linkedin_match = re.search(linkedin_regex, text)
+        if linkedin_match:
+            linkedin = linkedin_match.group()
+
+        github_match = re.search(github_regex, text)
+        if github_match:
+            github = github_match.group()
 
         # Robust phone number extraction using phonenumbers library
         for match in phonenumbers.PhoneNumberMatcher(text, "US"):
@@ -74,12 +89,14 @@ def extract_details_from_resume(pdf_path):
         'phone': phone,
         'skills': skills,
         'education': education,
-        'work_experience': work_experience
+        'work_experience': work_experience,
+        'linkedin': linkedin,
+        'github': github
     }
     return details
 
 # Example usage:
-resume_path = '/Users/sarjhana/Desktop/CV:Resume/NaveenKandagatla.pdf'
+resume_path = '/Users/sarjhana/Desktop/CV:Resume/Resume - Sarjhana.pdf'
 resume_details = extract_details_from_resume(resume_path)
 
 # Convert the details to a Pandas DataFrame
