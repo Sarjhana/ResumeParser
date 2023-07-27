@@ -10,13 +10,40 @@ from nltk.corpus import wordnet
 # Download the NLTK wordnet data (if not already downloaded)
 nltk.download('wordnet')
 
+def extract_name(doc):
+    for ent in doc.ents:
+        if ent.label_ == "PERSON":
+            return ent.text.strip()
+    return ""
+
+def extract_email(text):
+    email_match = re.search(r'\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b', text)
+    if email_match:
+        return email_match.group()
+    return ""
+
+def extract_url(text, regex):
+    url_match = re.search(regex, text)
+    if url_match:
+        return url_match.group()
+    return ""
+
+def extract_phone_number(text):
+    for match in phonenumbers.PhoneNumberMatcher(text, "US"):
+        phone_number = phonenumbers.format_number(match.number, phonenumbers.PhoneNumberFormat.E164)
+        if phone_number:
+            return phone_number
+    return ""
+
+def extract_section_items(text, section_name):
+    section_header = rf"\b{section_name}\b"
+    section_match = re.split(section_header, text, flags=re.IGNORECASE)[-1]
+    return [item.strip().lstrip('•') for item in re.split(r'\n|•', section_match) if item.strip()]
+
 def extract_details_from_resume(pdf_path):
     nlp = spacy.load("en_core_web_sm")
-
-    # Open the PDF file using PyMuPDF
     pdf_document = fitz.open(pdf_path)
 
-    # Initialize variables to store extracted details
     name = ""
     email = ""
     phone = ""
@@ -26,63 +53,55 @@ def extract_details_from_resume(pdf_path):
     linkedin = ""
     github = ""
 
-    # Regex patterns for detecting LinkedIn and GitHub URLs
     linkedin_regex = r'https?://(www\.)?linkedin\.com/\S+'
     github_regex = r'https?://(www\.)?github\.com/\S+'
+    
+    section_headers = {
+        'Skills': {'Skills'},
+        'Education': {'Education'},
+        'Work Experience': {'Work Experience', 'Experience', 'Work History'},
+        # Add other possible synonyms for section headers here
+    }
 
-    # Loop through each page in the PDF
     for page_num in range(pdf_document.page_count):
-        # Extract text from the page
         page = pdf_document.load_page(page_num)
         text = page.get_text()
-
-        # Use spaCy NER for named entity extraction
         doc = nlp(text)
 
-        # Extract name using spaCy NER
-        for ent in doc.ents:
-            if ent.label_ == "PERSON" and not name:
-                name = ent.text.strip()
+        if not name:
+            name = extract_name(doc)
+        if not email:
+            email = extract_email(text)
+        if not linkedin:
+            linkedin = extract_url(text, linkedin_regex)
+        if not github:
+            github = extract_url(text, github_regex)
+        if not phone:
+            phone = extract_phone_number(text)
+
+        # Check for section headers and update the current section accordingly
+        current_section = None
+        for section_name, section_synonyms in section_headers.items():
+            for synonym in section_synonyms:
+                if re.search(rf'\b{synonym}\b', text, re.IGNORECASE):
+                    current_section = section_name
+                    break
+            if current_section is not None:
                 break
 
-        # Regular expression for extracting email
-        email_match = re.search(r'\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b', text)
-        if email_match:
-            email = email_match.group()
+        if current_section == "Education":
+            # Extract education details from the current page
+            education.extend(extract_section_items(text, 'Education'))
+            print("Education on page", page_num, ":", extract_section_items(text, 'Education'))
 
-        # Regular expressions for detecting LinkedIn and GitHub URLs
-        linkedin_match = re.search(linkedin_regex, text)
-        if linkedin_match:
-            linkedin = linkedin_match.group()
+        elif current_section == "Work Experience":
+            work_experience.extend(extract_section_items(text, 'Work Experience'))
+            print("Work Experience on page", page_num, ":", extract_section_items(text, 'Work Experience'))
 
-        github_match = re.search(github_regex, text)
-        if github_match:
-            github = github_match.group()
+        # Add handling for other sections (e.g., "Skills") here
 
-        # Robust phone number extraction using phonenumbers library
-        for match in phonenumbers.PhoneNumberMatcher(text, "US"):
-            phone_number = phonenumbers.format_number(match.number, phonenumbers.PhoneNumberFormat.E164)
-            if phone_number:
-                phone = phone_number
-                break
-
-        # Keyword matching for extracting skills, education, and work experience
-        if re.search(r'\bSkills\b', text, re.IGNORECASE):
-            skills_section = re.split(r'\bSkills\b', text, flags=re.IGNORECASE)[-1]
-            skills = [skill.strip().lstrip('•') for skill in re.split(r'\n|•', skills_section) if skill.strip()]
-
-        if re.search(r'\bEducation\b', text, re.IGNORECASE):
-            education_section = re.split(r'\bEducation\b', text, flags=re.IGNORECASE)[-1]
-            education = [edu.strip().lstrip('•') for edu in re.split(r'\n|•', education_section) if edu.strip()]
-
-        if re.search(r'\bWork Experience\b', text, re.IGNORECASE):
-            work_experience_section = re.split(r'\bWork Experience\b', text, flags=re.IGNORECASE)[-1]
-            work_experience = [exp.strip().lstrip('•') for exp in re.split(r'\n|•', work_experience_section) if exp.strip()]
-
-    # Close the PDF document
     pdf_document.close()
 
-    # Return the extracted details as a dictionary
     details = {
         'name': name,
         'email': email,
@@ -96,14 +115,9 @@ def extract_details_from_resume(pdf_path):
     return details
 
 # Example usage:
-resume_path = '/Users/sarjhana/Desktop/CV:Resume/Resume - Sarjhana.pdf'
+resume_path = '/Users/sarjhana/Desktop/CV:Resume/NaveenKandagatla.pdf'
 resume_details = extract_details_from_resume(resume_path)
 
-# Convert the details to a Pandas DataFrame
 df = pd.DataFrame([resume_details])
-
-# Save the DataFrame to a CSV file
 df.to_csv('resume_details.csv', index=False)
-
-# Print the DataFrame
-print(df)
+print(df['education'].values)
