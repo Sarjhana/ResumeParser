@@ -1,0 +1,41 @@
+9776543439	DATE
+College/Institutes	ORG
+Board/ 
+	ORG
+MCA	ORG
+Roland Institute of    
+Technology	ORG
+Ganjam	GPE
+78	CARDINAL
+Mahavidyalaya	ORG
+Chikiti	ORG
+Ganjam	GPE
+Odisha	PERSON
+2017-20	DATE
+76.4%	PERCENT
+Gayatri	PERSON
+Behampur	GPE
+2015-17	DATE
+badapur	PERSON
+Odisha	GPE
+PowerPoint	ORG
+PYTHON	ORG
+2023	CARDINAL
+NPTEL	ORG
+Data Analytics	ORG
+Python	ORG
+NPTEL	ORG
+NPTEL	ORG
+Database	ORG
+MCA Major	ORG
+09/2022	CARDINAL
+Java Enterprise Edition	ORG
+Java	ORG
+12-02-2000	DATE
+Odia	GPE
+Hindi	GPE
+English	LANGUAGE
+Badapur	GPE
+Ganjam	GPE
+Odisha	GPE
+761005	DATE

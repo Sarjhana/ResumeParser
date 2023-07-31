@@ -1,0 +1,53 @@
+Kapil Sharma	PERSON
+Punjab	PERSON
+Computer Science	PERSON
+Chandigarh Engineering College	ORG
+India	GPE
+8.4	CARDINAL
+1000000	CARDINAL
+07/2020	CARDINAL
+10/2020	CARDINAL
+Management System	ORG
+5000	CARDINAL
+Epam Systems	ORG
+500	CARDINAL
+50000	CARDINAL
+2	CARDINAL
+05/2022	CARDINAL
+India	GPE
+100	CARDINAL
+Bigcommerce	PERSON
+third	ORDINAL
+5000	CARDINAL
+10000	CARDINAL
+2	CARDINAL
+India	GPE
+Architecture	ORG
+Java	ORG
+Alpha	ORG
+India	GPE
+500	CARDINAL
+•2500	CARDINAL
+Alpha Tide	WORK_OF_ART
+1000000	DATE
+daily	DATE
+Software Engineer	PERSON
+Epam Systems	ORG
+Hyderabad	GPE
+India	GPE
+MasterCard	ORG
+Java	ORG
+VisitorsWeb Portal	PERSON
+5000	CARDINAL
+Programmer Intern	PERSON
+Noida	GPE
+India	GPE
+Outcenter Automation	ORG
+500000	CARDINAL
+50	CARDINAL
+the sugarcane season	DATE
+Data Structure	ORG
+Algorithms	PERSON
+Mysql	PERSON
+AWS Cloud Badge	PERSON
+Microsoft Azure Fundamentals Certified	ORG

@@ -1,0 +1,18 @@
+Adobe XD	ORG
+Sketch	GPE
+MS Office	ORG
+UX Research	ORG
+Prototype	ORG
+Usability Testing, Mock Up	ORG
+2000	CARDINAL
+Madhuri Nanduri	PERSON
+MNR PG College	ORG
+M.Sc	PERSON
+May 2011	DATE
+Google UX Design Course From Coursera 
+	WORK_OF_ART
+Goethe Institute	ORG
+English	LANGUAGE
+German	LANGUAGE
+Hindi	PERSON
+Playing Flute and Violin	WORK_OF_ART

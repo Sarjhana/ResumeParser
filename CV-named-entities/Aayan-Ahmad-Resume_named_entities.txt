@@ -1,0 +1,33 @@
+SUMMARY	ORG
+HTML	ORG
+CSS	ORG
+JavaScript	ORG
+MERN	PERSON
+HTML | CSS | JavaScript 
+Data Structures	PRODUCT
+Algorithms	PERSON
+Bengaluru	PERSON
+June 2022	DATE
+Business Administration	ORG
+Patna University	ORG
+Patna	ORG
+March 2018	DATE
+12	CARDINAL
+March 2016 - March 2018	DATE
+Patna	PERSON
+Bihar	PERSON
+7991187349	DATE
+Modsens	GPE
+5	CARDINAL
+5 days	DATE
+Pharma Website	ORG
+Category	ORG
+5	CARDINAL
+5 days	DATE
+Website of	ORG
+OTT	ORG
+Zee5 
+                   Sign	ORG
+HTML | CSS	PRODUCT
+5 days	DATE
+clone	ORG

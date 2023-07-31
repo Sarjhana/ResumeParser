@@ -1,0 +1,56 @@
+India	GPE
+July 2022	DATE
+20	CARDINAL
+REACT	ORG
+ANGULAR	ORG
+30	CARDINAL
+Algorithm	ORG
+JAVA	ORG
+6.5 million	CARDINAL
+HACKATHON	ORG
+10	CARDINAL
+PYTHON	ORG
+INSTASELL | Software Development	ORG
+India	GPE
+Feb 2022	DATE
+InstaSell	ORG
+REACT	ORG
+more than 120k+	CARDINAL
+25%	PERCENT
+DEXTROPY | Java Full-Stack Engineer Intern	WORK_OF_ART
+India	GPE
+100%	PERCENT
+MVP	ORG
+3	CARDINAL
+Angular	ORG
+JAVA	ORG
+India	GPE
+MODERN INSTITUTE OF TECHNOLOGY	ORG
+Algorithms	PERSON
+Operating Systems	ORG
+Software Engineering	ORG
+Computer Networking	ORG
+Database Management	ORG
+Distributed Systems	ORG
+GPA - 3.7/4	ORG
+Pepcoding Data Structures	ORG
+SQL	ORG
+CodeBasket	ORG
+™	PRODUCT
+2	CARDINAL
+CodeBasket	ORG
+™	PRODUCT
+Docker	PERSON
+more than 500	CARDINAL
+GITHUB PROFILE FINDER	ORG
+Firebase	PRODUCT
+GitHub Profile	PERSON
+app	ORG
+GitHub	NORP
+Firebase	PERSON
+JavaScript	ORG
+Spring Boot	PERSON
+Tools / Platforms: Docker, GIT	WORK_OF_ART
+Firebase	GPE
+Docker	PERSON
+Problem Solving	PERSON

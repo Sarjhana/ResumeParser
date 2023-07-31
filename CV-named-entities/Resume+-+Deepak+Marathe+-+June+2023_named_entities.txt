@@ -1,0 +1,355 @@
+Deepak	GPE
+Deepak Marathe	ORG
+Specializing	PERSON
+Cloud Solution	ORG
+Software Contributor	PERSON
+Web3/Blockchain/AI Entrepreneur	ORG
+Educator	GPE
+Sole Proprietor/Consultant	ORG
+Musician	NORP
+Instrumentalist	NORP
+a Vedic Astrologer	PERSON
+Programming Languages :	WORK_OF_ART
+SQL	ORG
+Java, Python	ORG
+Bash	PERSON
+Go-lang	PERSON
+NodeJS	GPE
+Scala	GPE
+C++	LOC
+Ruby	PERSON
+Hibernate	PERSON
+Dropwizard	GPE
+Spark	GPE
+Node(NodeJS	GPE
+Mongo	GPE
+Express	ORG
+ReactJS	ORG
+Ajax, JQuery	ORG
+HTML	ORG
+CSS	ORG
+Javascript	GPE
+Apache Kafka	PERSON
+Apache Flink	ORG
+Apache Spark	PERSON
+Apache	PRODUCT
+HBase	ORG
+Cassandra, ElasticSearch/OpenSearch	ORG
+Airﬂow	GPE
+Oozie	NORP
+Docker	PERSON
+Kubernetes	PERSON
+Helm	PERSON
+Chef	ORG
+TICK	ORG
+Grafana	ORG
+Kibana	PERSON
+Lambda	PERSON
+Amplify	GPE
+Beanstalk	GPE
+RDS	ORG
+Route 53	FAC
+ACM	ORG
+Athena	ORG
+EC2	ORG
+EMR	ORG
+Cognito	ORG
+GCP	ORG
+BigQuery	ORG
+DataProc	ORG
+FireBase	PRODUCT
+Azure Data Factory	ORG
+Azure DataBricks	WORK_OF_ART
+Databricks	PERSON
+Heroku	PERSON
+Netlify	PERSON
+4	DATE
+Truﬄe	PERSON
+Alchemy	PERSON
+Geth	PERSON
+Optical Character Recognition Application	ORG
+IDE	ORG
+Alexa Skill	PERSON
+Alexa Voice Services	ORG
+Selenium	WORK_OF_ART
+Operating System : Macintosh	WORK_OF_ART
+Linux	PERSON
+Windows	PERSON
+Github	GPE
+Bitbucket	GPE
+Continuous Integration :	WORK_OF_ART
+Jenkins/Hudson	ORG
+Mockito/PowerMock	ORG
+HBase/BigTable	ORG
+Cassandra	PERSON
+Ambient Noise	PERSON
+Ableton Live	PERSON
+Co-Founder/CTO	ORG
+Dec 2022 - Present	DATE
+a Fully Functional No-Code Analytics Fullstack Web Application for
+	WORK_OF_ART
+Business Owners	WORK_OF_ART
+Generative A Integration, Scalability, Security, Payments
+Integration	ORG
+Java, Spring	ORG
+Hibernate	PERSON
+CSS	ORG
+Javascript	PERSON
+AWS Elastic Beanstalk	FAC
+AWS Amplify	ORG
+AWS RDS	FAC
+AWS ACM	ORG
+AWS Route53	ORG
+ACM/HTTPS	ORG
+GWT	ORG
+AWS	ORG
+1000	MONEY
+Microsoft	ORG
+2500	MONEY
+CTO	ORG
+Network	ORG
+Alchemy	GPE
+Solidity(0.8.1	PERSON
+Remix	PERSON
+Truﬄe	PERSON
+Ganache	GPE
+Metamask, Alchemy	ORG
+Geth	PERSON
+Node,	WORK_OF_ART
+AWS Amplify	ORG
+Solidity	GPE
+Deployed	PERSON
+Remix Web IDE	PERSON
+Solana	PERSON
+Lookups	ORG
+Veriﬁcation	ORG
+#	CARDINAL
+SmartContracts	ORG
+#Ethereum #	MONEY
+Blockchain	LOC
+Deepak	GPE
+Jnyana Consultancy	PERSON
+Independent Consultant	ORG
+Unravel Data/USA/Remote	ORG
+Labs/USA/Remote	ORG
+Bonus Engine	ORG
+/USA/Remote	ORG
+Data Engineering	ORG
+a Data System	ORG
+State	ORG
+Unravel Data Systems INC	ORG
+Shivnath
+	PERSON
+Implemented Case-Insensitive Search on ElasticSearch	WORK_OF_ART
+7	CARDINAL
+Python, Flask	ORG
+Cloud Bigtable	PERSON
+Hive-SQL	ORG
+Spark	GPE
+Scala	GPE
+Airﬂow/Google Cloud Composer/Azure Data Factory	ORG
+On-Premise Data Platform	ORG
+AWS	ORG
+Spark	PERSON
+the Computation Time	EVENT
+AWS S3 Data Lake	FAC
+GCP	ORG
+Developed Distributed Application	ORG
+Window Based Aggregation on Streaming
+Data	WORK_OF_ART
+Flink	ORG
+Kafka	PERSON
+Visualised	PRODUCT
+Inﬂux Time Series Database	LAW
+Grafana	PERSON
+Blogs	PERSON
+Django, Python	ORG
+Heroku	GPE
+Distributed Multi-Dimensional Spatio	ORG
+Scan Operations	ORG
+Query Interface	PERSON
+CNF	ORG
+Sparse BitSets	PRODUCT
+Range Queries	PRODUCT
+Supports Interactive Aggregations	ORG
+10 years	DATE
+100	CARDINAL
+over 10 million	CARDINAL
+100	CARDINAL
+Disk/Cloud Storage Object	ORG
+Distributed Processing for Machine Learning Production Pipelines Using Apache Beam	ORG
+Deepak Marathe	ORG
+2021 - May 2022	DATE
+Reporting, Analytics (Python	ORG
+Improved Code Coverage to	WORK_OF_ART
+95%	PERCENT
+Generative AI	GPE
+Software Engineer	PERSON
+2019 - March 2020	DATE
+Rule Engine	PERSON
+Kafka	PERSON
+Drools	PERSON
+Scala	GPE
+Spark	GPE
+Improved Code Coverage to 90%	LAW
+Airﬂow	GPE
+Covid	NORP
+Halodoc	GPE
+Dec
+2018	DATE
+Deployed Features	PERSON
+the Halodoc Backend System	FAC
+Dropwizard	GPE
+Hibernate	PERSON
+Go-Lang	PERSON
+Serverless Architecture	ORG
+Lambda	PERSON
+second	ORDINAL
+Go-Lang	PERSON
+AWS Lambda	ORG
+Categories	PERSON
+Deepak	GPE
+GO-JEK/Halodoc	ORG
+Dec 2016	DATE
+Dec 2018	DATE
+Self-Serve Data Platform	ORG
+Millions	CARDINAL
+Pair Programming and Test	WORK_OF_ART
+Framework for Data Consumption	WORK_OF_ART
+Kafka	PERSON
+Consul	PRODUCT
+Backoff	ORG
+Datadog/Statsd/JMX	ORG
+Kafka	PERSON
+Flink/Yarn	ORG
+Inﬂux	GPE
+Grafana	PERSON
+HA Flink	ORG
+Google DataProc Service	ORG
+Customer Wallet Suspension Service for Fraud	ORG
+HashiCorp	ORG
+CI	ORG
+Intuit (	ORG
+Nov 2016	DATE
+Functional Tests	PERSON
+Intuit	ORG
+Amazon Voice Service/Alexa	ORG
+Amazon Echo	ORG
+Distributed Conﬁguration Management Service	ORG
+Archaius	ORG
+Netﬂix	ORG
+AWS-EC2	ORG
+HDFS/Hive	ORG
+Vertica	LOC
+HP Vertica	GPE
+20%	PERCENT
+80%	PERCENT
+CI	ORG
+Jenkins + Sonar	ORG
+Data Source	ORG
+Data Sink	ORG
+Local FS	ORG
+Vertica	GPE
+Vertica	GPE
+Sangria Console: Web Application	WORK_OF_ART
+Spring java	ORG
+App	ORG
+Intuit	ORG
+amazon	ORG
+QBO	ORG
+Amazon Echo	ORG
+Elastic Beanstalk	PRODUCT
+Raspberry Pi	PERSON
+LUA HTTP	PRODUCT
+raspberry pi	PERSON
+VLC	ORG
+VLC	ORG
+Data Engineer	ORG
+InMobi	GPE
+March 2012 - March 2015	DATE
+ETL Pipelines	ORG
+Batch Systems	ORG
+a few hundred	CARDINAL
+hundreds	CARDINAL
+Data Ingestion and Curation	ORG
+HBase	ORG
+ETL	ORG
+Apache Falcon	PERSON
+Oozie	NORP
+Graphana	PERSON
+SLA	ORG
+Daily Active Users	WORK_OF_ART
+Monthly	DATE
+Active Users	ORG
+Syntax Validations and	ORG
+Retargeting, Segment/Persona	ORG
+Personas	LOC
+User Proﬁle Creation	WORK_OF_ART
+Local Data Centers	ORG
+Online-Cache	ORG
+Hackathon	GPE
+InMobi	GPE
+InMobi	GPE
+Table Tennis	WORK_OF_ART
+Deepak	GPE
+Hewlett
+Packard	ORG
+Bangalore	PERSON
+2010	DATE
+March 2012	DATE
+OST	ORG
+OST	ORG
+HP	ORG
+Maintained	PRODUCT
+Automation for HP OST	ORG
+Hudson	PERSON
+Linux	PERSON
+rhel	PERSON
+Computer Graphics	ORG
+4th	ORDINAL
+Database Systems	ORG
+j2ME	GPE
+Online Chess Club	ORG
+Adlabs Foto Fast	WORK_OF_ART
+Struts	NORP
+MVC	ORG
+Tavant Technologies	ORG
+Bangalore	GPE
+AJAX	ORG
+Reporting Tools	PERSON
+iNAT Technologies	ORG
+NITK Campus	ORG
+B. Tech
+	PERSON
+NITK	ORG
+Surathkal	NORP
+2006-2010	DATE
+CGPA - 8.00/10	DATE
+C.B.S.E.	PERSON
+Javahar Navodaya Vidyalaya	PERSON
+Chara	GPE
+Udupi	GPE
+88.00%	PERCENT
+10th	ORDINAL
+C.B.S.E.	PERSON
+Javahar Navodaya Vidyalaya	PERSON
+Chara	GPE
+Udupi	GPE
+2003-2004	DATE
+86.00%	PERCENT
+GPT-3	GPE
+GPT-4	GPE
+Hyperledger	PERSON
+Tokens	PERSON
+SmartContracts	ORG
+Streaming Data Processing	ORG
+Real Time Analytics	ORG
+Algorithms	PERSON
+VST	ORG
+Angel Investor	ORG
+Vedic Astrologer	PERSON
+Apple Music	ORG
+2	CARDINAL
+Deepak	GPE
+Linkedin	PERSON
+December 08, 1988	DATE

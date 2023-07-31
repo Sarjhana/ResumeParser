@@ -1,0 +1,38 @@
+Vineet Vishwakarma	PERSON
+Java and Web Development	ORG
+India	GPE
+XII (M.P BOARD	ORG
+Holy Faith Convent School	ORG
+90%	PERCENT
+2018-2019	DATE
+Garhakota	GPE
+Holy Faith Convent School	ORG
+89%	PERCENT
+2016-2017	DATE
+Garhakota	GPE
+M.P	GPE
+PHP	ORG
+JavaScript	PRODUCT
+Amazon	ORG
+Data Structure	ORG
+Linux	GPE
+Time	ORG
+May 22 - Oct 22	DATE
+third	ORDINAL
+Feb 2023	DATE
+React	GPE
+Jan 2023	DATE
+Feb 2023	PERSON
+Nodejs	NORP
+Express	ORG
+March 2023	DATE
+four	CARDINAL
+Event Planning App	ORG
+NextJs	CARDINAL
+AWS Academy Graduate - Cloud Foundations Certified Batch	ORG
+Udemy Certified Full-Stack Web Developer	WORK_OF_ART
+95	CARDINAL
+India	GPE
+Next Level App	GPE
+150	CARDINAL
+HackerRank	ORG

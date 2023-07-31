@@ -1,0 +1,78 @@
+Afaaf Adam	PERSON
+INTI International University & Colleges	ORG
+Copywriter	LOC
+Southpaw MY & Host of This Week	ORG
+Maldives	GPE
+Subang Jaya	PERSON
+Selangor	GPE
+Malaysia	GPE
+Maldives	GPE
+Kuala Lumpur	GPE
+2021	DATE
+weekly	DATE
+This week	DATE
+Southpaw Malaysia - a Youtube	WORK_OF_ART
+MMA	ORG
+Malaysia	GPE
+Malaysia	GPE
+Raajje	NORP
+English News	ORG
+English	LANGUAGE
+1	CARDINAL
+2	CARDINAL
+Rotaract Club	ORG
+Page 1	PRODUCT
+3
+ 
+ 
+	QUANTITY
+weekly	DATE
+one	CARDINAL
+3	CARDINAL
+Malaysian	NORP
+4	CARDINAL
+November 2022	DATE
+9 months	DATE
+Malé	PERSON
+Malaysia	GPE
+April 2022	DATE
+1 year 4 months	DATE
+Malaysia	GPE
+2018	CARDINAL
+(5 years	DATE
+Video Journalist	PERSON
+September 2019	DATE
+April 2020	DATE
+8 months	DATE
+Malé	PERSON
+Writer	PERSON
+August 2017	DATE
+April 2018	DATE
+9 months	DATE
+' City	GPE
+Maldives
+ 
+Page 2	PERSON
+Taste Magazine - a bi-monthly	ORG
+the Maldives food & beverage	ORG
+first	ORDINAL
+Taste	ORG
+5th	ORDINAL
+University of Hertfordshire
+Bachelor	ORG
+Arts - BA	ORG
+Mass Communication/Media Studies	ORG
+April	DATE
+December 2023	DATE
+INTI International University & Colleges	ORG
+2020 - 2023	DATE
+Centre for Higher Secondary Education	WORK_OF_ART
+Science	PERSON
+May 2012	DATE
+July 2014	DATE
+Hiriya School	ORG
+Science	PERSON
+2009 - 	DATE
+2011	DATE
+3	CARDINAL
+3	CARDINAL

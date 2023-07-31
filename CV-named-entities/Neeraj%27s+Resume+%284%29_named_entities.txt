@@ -1,0 +1,35 @@
+Neeraj Rajput	PERSON
+8938065271	DATE
+India	GPE
+California	GPE
+United States	GPE
+India	GPE
+Video Editor (Internship	ORG
+CBS Venture	ORG
+10/2022 - 03/2023	CARDINAL
+London	GPE
+United Kingdom	GPE
+Jobaaj.com	ORG
+Nishtya Infotech Pvt.	ORG
+01/2020	CARDINAL
+India	GPE
+Jobaaj.com	ORG
+Noida	ORG
+2017 - 2020	DATE
+Secondary	ORDINAL
+Shivalik Cambridge College	PERSON
+2017	DATE
+Eﬀects	ORG
+Adobe Photoshop	ORG
+Adobe Illustrator	ORG
+2016	DATE
+National Cricket	ORG
+2016	DATE
+Rajasthan	LOC
+2017	DATE
+2nd	ORDINAL
+Player	PERSON
+2015	DATE
+District Volleyball	ORG
+2015	DATE
+English	LANGUAGE

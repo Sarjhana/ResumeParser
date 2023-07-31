@@ -1,0 +1,86 @@
+Kelly Zhang	PERSON
+| +17856694192 | New York	PRODUCT
+New York	GPE
+USA	GPE
+Data Engineering	ORG
+over $13M.	MONEY
+Bachelor	PERSON
+Degree / Computer Science, University of Pittsburgh	ORG
+1st	ORDINAL
+08/2008	CARDINAL
+Machine Learning Engineer	WORK_OF_ART
+KiwiTech
+•Preprocess	ORG
+MLOps	ORG
+New York	GPE
+USA	GPE
+AWS Lambda	ORG
+Sagemaker	PERSON
+Kinesis	GPE
+Firehose, Glue	GPE
+Athena	GPE
+EMR	PERSON
+Redshift	GPE
+CodeBuild	ORG
+CodeCommit	PRODUCT
+Guardian Life Insurance Limited	ORG
+Cloud	PERSON
+10	CARDINAL
+Oracle	GPE
+AI	GPE
+10	CARDINAL
+NLP	ORG
+PyTorch	ORG
+Yolo Model	PERSON
+5	CARDINAL
+New York	GPE
+Federal Reserve Board of Governors	ORG
+12	CARDINAL
+NLP	ORG
+NLTK	ORG
+up to 96%	PERCENT
+Washington DC	GPE
+USA	GPE
+8	CARDINAL
+10	CARDINAL
+75k	CARDINAL
+97%	PERCENT
+Canton	GPE
+Cesson	GPE
+France	GPE
+30	CARDINAL
+PHP	ORG
+JavaScript	ORG
+React	PERSON
+Vue	PRODUCT
+Angular	ORG
+8 months	DATE
+AWS, GCP	ORG
+Keras	GPE
+Numpy	GPE
+Scikit-Learn	NORP
+CI	ORG
+GPT4	PERSON
+LLM	ORG
+NLP	ORG
+Docker	PERSON
+Kubernetes	GPE
+LSTM	ORG
+CNN	ORG
+RNN	ORG
+Spacy	ORG
+Angular.js	PRODUCT
+Node.js	GPE
+JavaScript	ORG
+TypeScript	ORG
+Flask	GPE
+PHP	ORG
+Django	GPE
+RESTful	CARDINAL
+SQL	ORG
+Programming (Python	WORK_OF_ART
+C++	DATE
+Java	ORG
+JavaScript	ORG
+Scala	GPE
+Delphi	PERSON

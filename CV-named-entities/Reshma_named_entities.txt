@@ -1,0 +1,26 @@
+RESHMA.K
+	PERSON
+linkedin.com/in/reshma-k-773304225	PRODUCT
+LANGUAGE
+	ORG
+Bachelor Of Computer Science	WORK_OF_ART
+English	LANGUAGE
+Malayalam	GPE
+1.6 years	DATE
+Looker	PERSON
+Data Studio	PERSON
+Python	WORK_OF_ART
+Data Analyst	ORG
+Amplitude	PRODUCT
+BigQuery	ORG
+BigQuery	ORG
+Looker	ORG
+Data Studio	PERSON
+Data Analyst	ORG
+8 months	DATE
+the Bespin Project	ORG
+BigQuery	ORG
+Fivetran	ORG
+Looker	ORG
+2022	CARDINAL
+Linux	PERSON

@@ -1,0 +1,81 @@
+Tamil Nadu	PERSON
+503	CARDINAL
+India	GPE
+MATHEMATICS	ORG
+University-(2014-2017	PERSON
+Master Of Business Administration-	WORK_OF_ART
+INFOSYS BPM	WORK_OF_ART
+Working	PERSON
+US	GPE
+Creating Online	PERSON
+Email	ORG
+Google	ORG
+ROS	PERSON
+ROP	ORG
+SEO	ORG
+SMM	ORG
+31	CARDINAL
+US	GPE
+Manage	GPE
+SEO	ORG
+Jan 2022	DATE
+QIK DIGITAL  
+	ORG
+Handling 20	WORK_OF_ART
+SEO	ORG
+Monthly	DATE
+SEO	ORG
+Analyze	ORG
+Daily	DATE
+SEO	ORG
+PPC	ORG
+Google	ORG
+Yahoo	ORG
+Bing	ORG
+SEO	ORG
+Support	PRODUCT
+Goals/KPIs	LOC
+50%	PERCENT
+SEO	ORG
+200%	PERCENT
+6 
+months	DATE
+Facebook	ORG
+5,000	CARDINAL
+CPC	ORG
+Facebook	ORG
+140%	PERCENT
+Google	ORG
+Email	ORG
+SEO	ORG
+Facebook	ORG
+Instagram	PRODUCT
+Google	PRODUCT
+Email	ORG
+Word Press	ORG
+Google Ad Words & PPC	ORG
+Conversion Rate Optimization	ORG
+CRO	ORG
+Photoshop	PERSON
+English	LANGUAGE
+Microsoft Office (Word, Excel	ORG
+PowerPoint	ORG
+English	LANGUAGE
+Professional Digital Marketing Certificate Program	ORG
+360	CARDINAL
+Digital Marketing	ORG
+Academy	ORG
+Social Media Marketing - Workshop	ORG
+VIT University	ORG
+Review of Social Media Management	ORG
+360	CARDINAL
+Digital Marketing Academy	ORG
+Analysis of Various Social Network Management Systems-	ORG
+360	CARDINAL
+Digital	ORG
+Student Award	WORK_OF_ART
+Zonal Level Vellore District	FAC
+2018-2019	DATE
+The Green Environment	ORG
+SRM University Committee	ORG
+School Religious Activities	ORG

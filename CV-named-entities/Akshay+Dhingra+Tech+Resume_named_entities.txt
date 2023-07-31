@@ -1,0 +1,53 @@
+Akshay Dhingra	ORG
+KA | LinkedIn | +91-	ORG
+Birla Institute of Technology and Sciences	ORG
+Pilani	PERSON
+Pilani	PERSON
+Mechanical Engineering	ORG
+GPA	ORG
+7.30	CARDINAL
+June 2022	DATE
+Marudhara Cultural Assoc	ORG
+BasketBall	ORG
+Jaipur	ORG
+90.4	CARDINAL
+May 2018	DATE
+Delhi Public School	ORG
+10	CARDINAL
+May 2016	DATE
+BasketBall	ORG
+July 2022	DATE
+Deployed Python Scripts	PERSON
+Lacs	PERSON
+SQL Database	ORG
+30%	PERCENT
+Nodejs	ORG
+daily	DATE
+~50	PRODUCT
+SQL	ORG
+Python	ORG
+KA	PERSON
+January 2022 - June 2022	DATE
+daily	DATE
+Lacs	PERSON
+app	ORG
+app	ORG
+Advanced	NORP
+SQL	ORG
+Redash	WORK_OF_ART
+CRM	PRODUCT
+MoEngage, Google Analytics	ORG
+BITS Pilani	PERSON
+RJ	GPE
+Jan 2021	DATE
+Mar 2021	DATE
+Python	GPE
+BITS Pilani	PERSON
+RJ	GPE
+3D	ORDINAL
+Python	ORG
+SKILLS & INTERESTS	ORG
+SQL	ORG
+Personal Finance	ORG
+BasketBall	ORG
+Gaming	PERSON

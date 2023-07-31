@@ -1,0 +1,82 @@
+Ankit Mishra  
+Software Engineer	ORG
+AI	GPE
+Machine Learning	ORG
+Web Development	ORG
+Oct 2022	DATE
+April 2023	DATE
+India	GPE
+PHP & MySQL	ORG
+creating &	ORG
+Admin Dashboard & 
+	ORG
+Windows Sever	ORG
+Instructor	PERSON
+Nov 2022	DATE
+March 2023	DATE
+Mumbai	GPE
+India	GPE
+Teaching Python Programming to Educators	WORK_OF_ART
+MSC & BSC	ORG
+Learning Trainiee	PERSON
+2021	DATE
+Sept 2021	DATE
+Ignitech	NORP
+Mumbai	GPE
+India	GPE
+HTML	ORG
+Bootstrap	PERSON
+Gender	PERSON
+almost more than 1	CARDINAL
+lakh rows, & on basis	ORG
+Model	ORG
+Naive Bayes	PRODUCT
+Thakur College of Engineering & Technology                                                                               Mumbai	ORG
+India	GPE
+Artificial Intelligence & Machine Learning	ORG
+Jondhale Polytechnic	ORG
+Dombivli	ORG
+India	GPE
+87%	PERCENT
+2019	DATE
+PROJECTS & RESEARCH	ORG
+Pandas	LOC
+Tailwindcss	PERSON
+Javascript                                                                	PERSON
+March 2023-Present	DATE
+Indian Premier League &	ORG
+IPL	ORG
+HTML	ORG
+TailwindCSS	PERSON
+Javascript	PERSON
+TechWave | Flask	ORG
+Javascript	PERSON
+Tailwind CSS	PERSON
+Oct 2022	DATE
+Oct 2022	DATE
+WebScrapping & viewer	ORG
+Chat Visualizer | Numpy	PRODUCT
+May 2022	DATE
+The Chat Visualizer	WORK_OF_ART
+Most Used Words, Most Talkative Person	WORK_OF_ART
+Days & months	DATE
+JSON Formatter | React	PRODUCT
+July 2022	DATE
+July 2022	DATE
+Python, Java, C/C++	ORG
+SQL	ORG
+JavaScript	ORG
+HTML/CSS	ORG
+PHP	ORG
+Streamlit	PERSON
+Numpy	PERSON
+Seaborn	GPE
+Beautiful Soup	ORG
+React	PERSON
+Chakra UI	ORG
+Bootstrap	ORG
+Git & Github	ORG
+VSCode, PyCharm	ORG
+Postman	GPE
+Amazon	ORG
+Weka	ORG

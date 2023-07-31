@@ -1,0 +1,39 @@
+Neelesh Tiwari	PERSON
+Learner	GPE
+Jabalpur	GPE
+India	GPE
+linkedin.com/in/neelesh-tiwari-0451b621a	PRODUCT
+Govt	ORG
+Jabalpur M.P.	PERSON
+8.05	CARDINAL
+68%	PERCENT
+Xtreme Media Mumbai	ORG
+XtremeSignage	ORG
+India	GPE
+Digital Signage Software	ORG
+Support	ORG
+Pan India	GPE
+Cinemas	PERSON
+Mahindra	PERSON
+Satisﬁed	PERSON
+Xtransmatrix Consulting Service Private	ORG
+Lean-Agile	ORG
+Agile	GPE
+DevOps	ORG
+this 28 days	DATE
+Agile Methodology	GPE
+Agile Methodology	GPE
+Scrum	GPE
+Lean	LOC
+Udyog Liggat Papad	PERSON
+Jabalpur	PERSON
+Time Study, Method Study	ORG
+Scrum Framework	ORG
+Operating System	ORG
+C++	DATE
+OOPS	ORG
+C++	LANGUAGE
+Live Cricket Score Website	ORG
+Summer Training of Agile Methodology at Xtransmatix Consulting	WORK_OF_ART
+2022	CARDINAL
+Amazon	ORG

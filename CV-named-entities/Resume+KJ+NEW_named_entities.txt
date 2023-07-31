@@ -1,0 +1,56 @@
+Jagadeesh Karri	PERSON
+Jagadeesh Karri 
+         jagadeesh2102@gmail.com                          
+         	PERSON
+Jagadeesh Karri	PERSON
+SUMMARY	ORG
+B. Tech	PERSON
+8.97	CARDINAL
+Vignan	LOC
+88.6%	PERCENT
+Chaitanya	GPE
+8.8	CARDINAL
+Java Programming	ORG
+Familiar	ORG
+HTML	ORG
+CSS	ORG
+JavaScript	ORG
+Git	PERSON
+GitHub	NORP
+Good Communication	ORG
+HTML	ORG
+CSS	ORG
+JavaScript	ORG
+Netflix-Clone	ORG
+clone	ORG
+ReactJS	ORG
+CSS	ORG
+HTML	ORG
+Html	ORG
+CSS	ORG
+JavaScript	ORG
+Html	ORG
+CSS	ORG
+JavaScript	ORG
+2 Days	DATE
+hybrid vehicle design	WORK_OF_ART
+moto sports engineers	ORG
+2 Days	DATE
+Biped robot	WORK_OF_ART
+Days Bootcamp	WORK_OF_ART
+JavaScript Essential Bootcamp	WORK_OF_ART
+FLM Edu Tech	ORG
+Certified	ORG
+Java Skill	LOC
+Java	ORG
+Digital-Lync	ORG
+Udemy	GPE
+Fitness	PRODUCT
+Photography	PERSON
+Videography	WORK_OF_ART
+Creativity and Innovation	ORG
+DETAILS	ORG
+Karri Jagadeesh	PERSON
+Gender:	PERSON
+Indian	NORP
+Visakhapatnam	PERSON

@@ -1,0 +1,54 @@
+Django Developer	PERSON
+Oct 2021 - OCT 2022	DATE
+Python	ORG
+DRF	ORG
+BeautifulSoup	ORG
+Scrapy	ORG
+Redis	ORG
+Postman	ORG
+HTTP	ORG
+POST	ORG
+PUT	ORG
+Query Optimization	PERSON
+Css	PERSON
+JavaScript	ORG
+SQL	ORG
+Linux &Windows	ORG
+Postman	GPE
+Jira/ Excel	PRODUCT
+Developer | Intemize	WORK_OF_ART
+Oct 2022	DATE
+Notifications	PERSON
+third	ORDINAL
+Google	NORP
+Management System	PRODUCT
+Supply Chain Management System	ORG
+Advancing Medical Research	ORG
+Artificial Intelligence	ORG
+1	CARDINAL
+2	CARDINAL
+3	CARDINAL
+experience- 1.7 year's	DATE
+Polytechnic College	ORG
+Diploma in Computer Science	WORK_OF_ART
+70/100	CARDINAL
+C.M. Dubey Postgraduate College	ORG
+2022	CARDINAL
+Shishu Mandir	WORK_OF_ART
+75%	PERCENT
+Jan 2017	DATE
+83%	PERCENT
+Feb 2015	DATE
+CERTIFICATE & ACHIEVEMENT	ORG
+Python Basic Certification by HackerRank	LAW
+Python Data Structures and Algorithms Certification	ORG
+Natural Language Processing	WORK_OF_ART
+NLP	ORG
+SQL Essential Training Certification	ORG
+CSS &  HTML Certification	ORG
+March 2021 - April 2021	DATE
+HTML	ORG
+CSS	ORG
+Bootstrap	ORG
+Register, login & logout	ORG
+BootStrap	ORG

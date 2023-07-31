@@ -1,0 +1,45 @@
+1	CARDINAL
+2	CARDINAL
+Edit Profile	ORG
+3	CARDINAL
+Text Posts	PERSON
+4	CARDINAL
+5	CARDINAL
+6	CARDINAL
+7	CARDINAL
+Reset Password	PERSON
+C++	DATE
+Management Information System	ORG
+Guru Ghasidas University	ORG
+2018-2019	DATE
+B.Sc	PERSON
+8.27	CARDINAL
+Project | Basic Social Media	ORG
+| Using REST API
+	PRODUCT
+C++	LANGUAGE
+JavaScript	PERSON
+Chhattisgarh	PERSON
+SQL	ORG
+Data Structures	ORG
+Algorithm	ORG
+CSS	ORG
+JavaScript	ORG
+Cloud Tech :- AWS	PERSON
+Docker	PERSON
+English	LANGUAGE
+Hindi	PERSON
+Francis	PERSON
+Sec	PERSON
+Bilaspur (C.G.	ORG
+2014-15	DATE
+1	CARDINAL
+one	CARDINAL
+one	CARDINAL
+2	CARDINAL
+3	CARDINAL
+4	CARDINAL
+one	CARDINAL
+5	CARDINAL
+6	CARDINAL
+Project | Basic Chat Application | Using REST	LAW

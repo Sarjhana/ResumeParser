@@ -1,0 +1,35 @@
+Medapalli 
+Hyderabad	PERSON
+Telangana	PERSON
+500072	DATE
+Software Engineer	PERSON
+Nxtwave Disruptive Technologies	ORG
+CCBP Intensive	ORG
+Ready Certification Program	ORG
+CMR Engineering College	ORG
+6.84	CARDINAL
+75%	PERCENT
+Alphonsa	PERSON
+Hyderabad                                                                              2014	PERSON
+School of Certificate	ORG
+SSC	ORG
+8.7	CARDINAL
+CSS	ORG
+Bootstrap	ORG
+JavaScript	ORG
+CSS	ORG
+Bootstrap 
+ 
+	PERSON
+Bootstrap	ORG
+CSS	ORG
+musify.ccbpn.tech/	CARDINAL
+app	ORG
+Wipro Limited                                                                                                	PERSON
+Deccan	NORP
+Jan 2022	DATE
+2022	CARDINAL
+Python Full Stack	WORK_OF_ART
+Oct 2022	DATE
+Multi-Tasking  
+Decision	ORG

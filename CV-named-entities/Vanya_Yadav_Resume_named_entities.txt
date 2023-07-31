@@ -1,0 +1,44 @@
+SAP	ORG
+FICO
+PROFILE	PRODUCT
+SUMMARY	ORG
+SAP	ORG
+FICO
+	PRODUCT
+Financial Models	WORK_OF_ART
+DCF Valuation and Relative Valuation	ORG
+IRESH Consultants	ORG
+18th	ORDINAL
+April 2022	DATE
+SAP	ORG
+ESG Benchmark Models and Understanding of
+Environmental,	ORG
+EV	ORG
+Virtual Hackathon 2021	EVENT
+Market Research	ORG
+Financial Models	ORG
+Financial Analysis	ORG
+CERTIFICATIONS	ORG
+SAP	ORG
+HANA FICO Certification (Pursuing	ORG
+CII-Pune	ORG
+October 2021	DATE
+Kendriya Vidyalaya	PERSON
+Sangathan National	ORG
+Social Science Exhibition | 2016	EVENT
+2023	CARDINAL
+IIEBM Indus Business School	ORG
+63%	PERCENT
+2021	CARDINAL
+Aloysius College Jabalpur	PERSON
+57.5%	PERCENT
+HSC	ORG
+Kendriya Vidyalaya Khamaria	ORG
+Jabalpur	GPE
+62.4%	PERCENT
+2016	DATE
+Kendriya Vidyalaya Khamaria	ORG
+Jabalpur	GPE
+81.7%	PERCENT
+SOCIAL	ORG
+Business Analytics	ORG

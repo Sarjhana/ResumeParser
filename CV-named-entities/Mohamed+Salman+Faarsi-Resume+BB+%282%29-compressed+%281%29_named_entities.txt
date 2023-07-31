@@ -1,0 +1,121 @@
+Mohamed Salman Faarsi S	PERSON
+The Social League	ORG
+Annai Indira Nagar	PERSON
+Okkiyampet	GPE
+Thoraipakkam	PERSON
+Chennai-600097	ORG
+8072656649	CARDINAL
+Application Development	ORG
+Computer Application	ORG
+2020	DATE
+CGPA	ORG
+7.67	CARDINAL
+Madurai	PERSON
+Tamil Nadu   
+   
+	PERSON
+Computer Science            Graduated,2018(CGPA	ORG
+6.92	CARDINAL
+1	CARDINAL
+JavaScript	ORG
+Artificial Intelligence ( Deep Learning Models	ORG
+HTML	ORG
+CSS    
+   
+	ORG
+Tensorflow JS	PERSON
+2	CARDINAL
+AWS Textract	ORG
+JavaScript	ORG
+HTML	ORG
+CSS	ORG
+AWS Textract	ORG
+Google Cloud OCR	ORG
+AWS Textract	ORG
+3	CARDINAL
+Emotional Intelligence JavaScript	PERSON
+PHP	ORG
+Artificial Intelligence ( Deep Learning Models	ORG
+JSON	ORG
+HTML	ORG
+CSS	ORG
+Affiliations	ORG
+Career Highlights	PERSON
+10	CARDINAL
+3	CARDINAL
+Youcode Intelligence Solutions	ORG
+August 2021	DATE
+Blackboard Inc.	ORG
+Chennai	ORG
+Tamil Nadu	PERSON
+BBComms	ORG
+Bbcomms	ORG
+Angular JS	ORG
+AWS Opsworks	PRODUCT
+January 2020	DATE
+July 2021	DATE
+AI/ML Software	ORG
+ETOP Technology Pvt Ltd	ORG
+Tamil Nadu   
+   
+	PERSON
+Application	PRODUCT
+Linux	PERSON
+Android	PERSON
+September 2019	DATE
+December 2019	DATE
+Madurai	PERSON
+Tamil Nadu   
+   
+	PERSON
+Custom Deep Learning	FAC
+Windows	GPE
+Linux	PERSON
+Android	PERSON
+Keras  
+	ORG
+CNN	ORG
+Pytorch  
+	ORG
+Pycharm  
+	ORG
+Pandas  
+	ORG
+Matplot  
+	ORG
+•	PRODUCT
+Hypertuning Parameters  
+	ORG
+LSTM  
+	ORG
+Mongo DB	PERSON
+AWS Textract	ORG
+Linux	PERSON
+Achievements	PERSON
+Zonal level Volleyball	ORG
+Tamilnadu 
+Government	ORG
+2010	DATE
+Tamilnadu	GPE
+2013	DATE
+First	ORDINAL
+TANCET 2018    
+	LAW
+53.667	CARDINAL
+2018	DATE
+29th	DATE
+2006 Time’s Person of the Year  
+     
+Languages	WORK_OF_ART
+English	LANGUAGE
+Syed Ibrahim	PERSON
+December	DATE
+Male   
+   
+   
+Passport Number and Expiry :    R6314577	ORG
+2027	DATE
+Marital Status	WORK_OF_ART
+Indian	NORP
+Mohamed Salman Faarsi S	PERSON
+Mohamed Salman Faarsi S	PERSON

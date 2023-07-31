@@ -1,0 +1,38 @@
+1	CARDINAL
+CSS	ORG
+Bootstrap	ORG
+JavaScript	ORG
+MVT	ORG
+Operating Systems	ORG
+Postman	GPE
+My-SQL	PERSON
+SQL	ORG
+1	CARDINAL
+Roles	PERSON
+Utilize	ORG
+Niraj Somnath Nikam	PERSON
+Charoli Bk	PERSON
+Tal	PERSON
+Haveli	PERSON
+412105	DATE
+Maharashtra	ORG
+9850713988	DATE
+2	CARDINAL
+DETAILS	ORG
+Troubleshoot	PERSON
+Hospital Management System	ORG
+Hospital Management System	ORG
+Perfect IT Solution	EVENT
+SPPU University	ORG
+year 2022	DATE
+8.72	CARDINAL
+17th July 2000	DATE
+English	LANGUAGE
+Effective Presentation, Management 
+ 
+ 
+ 
+ 
+ 
+Date	ORG
+Niraj Somnath Nikam	ORG

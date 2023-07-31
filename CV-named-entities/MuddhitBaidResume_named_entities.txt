@@ -1,0 +1,24 @@
+Baid	ORG
+June 2022	DATE
+May 2021	DATE
+June 2022	DATE
+67%	PERCENT
+just four days	DATE
+first	ORDINAL
+Creative Analytics	ORG
+less than 2 weeks	DATE
+React JS	PERSON
+NodeJS	GPE
+AWS	ORG
+TypeScript	ORG
+2020	DATE
+May 2021	DATE
+Polygon	ORG
+Uses The Graph, Push Protocol	WORK_OF_ART
+Dune	WORK_OF_ART
+Summarize | ExpressJS	PRODUCT
+Slack App for Summarizing	WORK_OF_ART
+Summarize	NORP
+100	CARDINAL
+over 100	CARDINAL
+Newton School	ORG

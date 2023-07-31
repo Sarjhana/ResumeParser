@@ -1,0 +1,44 @@
+Karan Dasari	PERSON
+9518346947	DATE
+PUNE	ORG
+Computer Engg	ORG
+India	GPE
+7.23	CARDINAL
+SOLAPUR	ORG
+Diploma in Computer Engg	WORK_OF_ART
+Solapur	GPE
+India	GPE
+79.8	CARDINAL
+10th	ORDINAL
+Solapur	GPE
+India	GPE
+8.4	CARDINAL
+karandasari	PERSON
+C++	LOC
+HTML	PRODUCT
+JavaScript	PRODUCT
+District Level	GPE
+Smart	GPE
+Solapur	GPE
+Google Foobar	ORG
+3	CARDINAL
+1790	DATE
+August Long	DATE
+Codechef	PERSON
+Almost 1 year	DATE
+March 2020 - April	DATE
+India	GPE
+Jaspersoft(Jaspersoft software
+lets	PERSON
+UK	GPE
+April 2022	DATE
+United Kingdom	GPE
+DIABETIC EYE	ORG
+CNN	ORG
+Paytm	ORG
+Paytm	ORG
+Selenium Framework	ORG
+Selenium	NORP
+Question Papers on The Go	WORK_OF_ART
+Crypto Marketing	PERSON
+Volunteer Work	PERSON

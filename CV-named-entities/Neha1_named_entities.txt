@@ -1,0 +1,43 @@
+1.6 YEARS	DATE
+FLASK	ORG
+SQL	ORG
+DATA ANALYSIS	ORG
+PUNE	ORG
+Multiple	GPE
+Selenium WebDriver	ORG
+Beautiful Soup	PERSON
+Pandas	LOC
+Department of Mathematics Pune University	ORG
+Master of Science,Applied Mathematics Apr 2020	WORK_OF_ART
+Pandas	LOC
+Numpy	NORP
+Selenium WebDriver	PERSON
+SQLALchemy	ORG
+OpenCv	ORG
+SQL	ORG
+Git Lab	ORG
+1.6 YEARS	DATE
+Neutrino Tech Systems Pune - Python Developer	ORG
+PDF s	PRODUCT
+OCR	ORG
+Docano	PERSON
+OCR	ORG
+Flask	GPE
+Tesseract OCR	ORG
+Google	ORG
+OCR	ORG
+ORM	ORG
+Blog Post Application(Django	ORG
+ORM	ORG
+three	CARDINAL
+Post/Blog	ORG
+three	CARDINAL
+2021	DATE
+Mar 2022	CARDINAL
+Selenium WebDriver	WORK_OF_ART
+Python	WORK_OF_ART
+Beautiful Soup	ORG
+ORM	ORG
+MVT	ORG
+Python	ORG
+Python	ORG

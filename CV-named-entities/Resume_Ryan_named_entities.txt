@@ -1,0 +1,113 @@
+22/05/2023	TIME
+Sweden	GPE
+1	CARDINAL
+2	CARDINAL
+3	CARDINAL
+ML	PERSON
+4	CARDINAL
+NLP	ORG
+5	CARDINAL
+6	CARDINAL
+NLP	ORG
+7	CARDINAL
+NLP	ORG
+8	CARDINAL
+Switzerland	GPE
+NLP	ORG
+NLP	ORG
+NLP	ORG
+Computational Linguistics	ORG
+NLP Analyst	ORG
+Service Pack Software Technologies	ORG
+01/02/2023	DATE
+Hyderabad	PERSON
+India	GPE
+1.Responsibilities:-	CARDINAL
+NLTK	ORG
+Transcription, Diarization	ORG
+Data Analysis	ORG
+Group-work	ORG
+Machine learning Models	ORG
+Speech	PRODUCT
+Ryan Gilbert	PERSON
+Indian	NORP
+26/12/1999	DATE
+https://www.linkedin.com/in/ryan-gilbert-579055196/	PRODUCT
+	ORG
+Hyderabad	GPE
+India	GPE
+2.Activities:-	CARDINAL
+AI	GPE
+Text	LOC
+Text Analysis	PERSON
+NLP	ORG
+ML	PERSON
+Email-Writer	ORG
+English	LANGUAGE
+India	GPE
+three	CARDINAL
+Indian	NORP
+1	CARDINAL
+10	CARDINAL
+British	NORP
+English	LANGUAGE
+YouTube	PERSON
+Junior Data Analyst	ORG
+India	GPE
+Data Analysis	ORG
+Storytelling	PERSON
+1	CARDINAL
+2	CARDINAL
+3	CARDINAL
+Excel	PRODUCT
+Tableau	ORG
+Google Spreadsheet	PERSON
+4	CARDINAL
+5	CARDINAL
+English And Foreign Languages University	EVENT
+Hyderabad	PERSON
+India	GPE
+2	CARDINAL
+Psycholinguistics	NORP
+Automata Theory	ORG
+Corpus Linguistics	ORG
+Semantics	NORP
+The Joy of Computing using Python	WORK_OF_ART
+Google Data Analytics	ORG
+Google	ORG
+India	GPE
+Computational Linguistics	ORG
+Deccan College Post Graduate and Research Institute	ORG
+09/06/2021 – 09/08/2021	DATE
+India	GPE
+2	CARDINAL
+SPOKEN PRODUCTION A1	PRODUCT
+WRITING B2  
+SPOKEN PRODUCTION	ORG
+SPOKEN INTERACTION	ORG
+English	LANGUAGE
+India	GPE
+Organizational	ORG
+American Accent /  	ORG
+Analytical	ORG
+SQL	ORG
+NLTK	ORG
+PyTorch	ORG
+Microsoft Oﬃce	ORG
+GUI frameworks	PERSON
+Data Analysis	ORG
+Data Visualization	ORG
+Microsoft	ORG
+Excel	PRODUCT
+Windows	PRODUCT
+10	CARDINAL
+Indian	NORP
+Psycho	GPE
+Syntax, Semantics and Stylistics	ORG
+NLP	ORG
+Corpora	PERSON
+NLP	ORG
+NLP	ORG
+NLP	ORG
+Concord	GPE
+Linguistics	NORP

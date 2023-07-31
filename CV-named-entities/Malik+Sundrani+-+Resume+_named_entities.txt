@@ -1,0 +1,109 @@
+Page%1%of%2%
+ 
+ 
+         	PERSON
+Malik M. Sundrani 
+          	PERSON
+Video Editing	ORG
+15+ years	DATE
+Non-Linear	NORP
+Promos	ORG
+Film & Music	ORG
+Fashion Shows &  
+Corporate Events	ORG
+360	CARDINAL
+°	PRODUCT
+Premiere pro & I	ORG
+Visual Effects  
+Creative and Coordinator for a Show	ORG
+National Geographic	ORG
+(Mega Icons) - 
+	PERSON
+Team &	ORG
+Digital Rhombus Studios	ORG
+Mar 2018 - Jun 2019	DATE
+2	CARDINAL
+Freelance Video Editor	ORG
+Video Editor	ORG
+April 2015 - Mar 2018	DATE
+3	CARDINAL
+Sony Six	PERSON
+2014 - April 2015	DATE
+4	CARDINAL
+2011 - May 2014	DATE
+5	CARDINAL
+Khana Khazana	PERSON
+[Jan 2010 - July 2011	DATE
+6	CARDINAL
+Focus  	ORG
+Video Editor& Encoder	ORG
+7	CARDINAL
+The Machine Room (Division of Prime Focus)  
+	ORG
+Video Editor& Encoder	ORG
+May 2007 - Jun 2008	DATE
+Channel S - London	ORG
+Video Editor	ORG
+July 2006 - Mar 2007	DATE
+9	CARDINAL
+Focus Limited Mumbai	ORG
+Independent Video Editor	ORG
+10	CARDINAL
+Mar 2002	DATE
+NOV 2002	DATE
+English	LANGUAGE
+Hindi	GPE
+J-15	PRODUCT
+J&K Chs	ORG
+Zohra Agadi Nagar	PERSON
+Yari Road	FAC
+Andheri	PERSON
+Mumbai	PERSON
+1	CARDINAL
+Bank of Baroda - K Shrikant	ORG
+45	CARDINAL
+sec	ORG
+b. 
+	PERSON
+Bank of Baroda - PV Sindhu	ORG
+45sec	DATE
+2	CARDINAL
+3	CARDINAL
+Social Media Promo 
+	ORG
+Social Medi Commercials	ORG
+Vu Televisions	ORG
+India	GPE
+U-17 FIFA	PRODUCT
+Pune Metro	FAC
+Av Specially	PERSON
+MTDC Maharashtra Purushwadi (Maharashtra Tourism	WORK_OF_ART
+MTDC Maharashtra Raighad	ORG
+5	CARDINAL
+Social Media	ORG
+CSR	ORG
+Britannia Good Day	DATE
+6	CARDINAL
+Music Video  
+	ORG
+Ekla Chalo Re	ORG
+Ustaad	PERSON
+Amjad Ali Khan	PERSON
+Multi Cam 
+b. 
+	PERSON
+Saregama Music App Launch	WORK_OF_ART
+7	CARDINAL
+JCB Video	ORG
+Max Hospital	PERSON
+Max Hospital	PERSON
+DHFL Corporate AV	ORG
+DHFL House Making Corporate AV	ORG
+Max Hospital	PERSON
+ILC	ORG
+360	CARDINAL
+Last Employer	PERSON
+Social VR	ORG
+Last Employer	PERSON
+Last Employer	PERSON
+Malik M. Sundrani	PERSON

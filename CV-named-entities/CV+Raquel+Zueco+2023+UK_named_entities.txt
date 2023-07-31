@@ -1,0 +1,50 @@
+Strathclyde University	ORG
+Toulouse Business School	ORG
+three	CARDINAL
+350	CARDINAL
+1BQ	CARDINAL
+691070128	CARDINAL
+Spoken	ORG
+B2 Certificate	PERSON
+a 
+year	DATE
+France	GPE
+3	CARDINAL
+3	CARDINAL
+Travel	GPE
+500km	QUANTITY
+Spain	GPE
+10 years	DATE
+LANGUAGES University of Strathclyde	ORG
+2019-2024	DATE
+Human Resource Management	ORG
+International Management	ORG
+French	LANGUAGE
+FRANCE	GPE
+Toulouse Business School | 2022-2023	ORG
+SOCIAL MEDIA	ORG
+2021	DATE
+May 2022	DATE
+a Marketing Consultancy	PRODUCT
+Instagram, Facebook	WORK_OF_ART
+LinkedIn	CARDINAL
+Canva	ORG
+monthly	DATE
+Solidaria	GPE
+June 2022	DATE
+Aug. 2022	DATE
+UN	ORG
+two	CARDINAL
+Model UN Local Conferences	ORG
+two	CARDINAL
+3 months	DATE
+second	ORDINAL
+Capitol Square	FAC
+Toulouse	GPE
+South-West region	LOC
+France	GPE
+Languedoc	LOC
+2-3	CARDINAL
+WSET	NORP
+Education Trust	ORG
+London	GPE

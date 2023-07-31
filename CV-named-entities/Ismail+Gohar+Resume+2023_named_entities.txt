@@ -1,0 +1,81 @@
+St. George’s Bristol	GPE
+St. George's	GPE
+EAR Media	ORG
+Runner & media	ORG
+Bela Daleel	ORG
+Adobe	ORG
+KAI Collective  
+	ORG
+Instagram	PRODUCT
+July	DATE
+Cairo	GPE
+2019	QUANTITY
+July	DATE
+Cairo	GPE
+2022	QUANTITY
+March	DATE
+2023	CARDINAL
+March	DATE
+Nov  
+Cairo	ORG
+2019	DATE
+the University of Bristol	ORG
+a Bachelor of Arts in Film & TV	ORG
+Egypt	GPE
+the United Kingdom	GPE
+German	NORP
+three	CARDINAL
+25	CARDINAL
+Ravensmede Way	PERSON
+London	GPE
+1TD	TIME
+SUMMARY	ORG
+OnCampus London Foundation	ORG
+September 2018	DATE
+July 2019	DATE
+MODULES	ORG
+Short Fiction Film / Film History /	EVENT
+Industries / Experimental Film /	ORG
+University of Westminster	ORG
+September 2019	DATE
+July 2020	DATE
+German School London  
+	ORG
+September 2016	DATE
+July 2018	DATE
+Arabic  
+Native	LOC
+English	LANGUAGE
+Social Media Management	ORG
+Adobe Suite	ORG
+Microsoft Excel 
+	PERSON
+First	ORDINAL
+Bristol-	FAC
+Bristol	ORG
+Cables & Cameras	ORG
+2021	DATE
+Stein	ORG
+Richmond	GPE
+London	GPE
+2020	DATE
+UK	GPE
+London	GPE
+2022	DATE
+WEGZ	ORG
+London	GPE
+2022	DATE
+2017	DATE
+NOLA	ORG
+Egypt	GPE
+Cairo	GPE
+Coca-Cola	ORG
+Egypt	GPE
+Moshpit	GPE
+Egypt	GPE
+Egypt 2021	EVENT
+TWO	CARDINAL
+FREELANCE	ORG
+LINKEDIN PROFILE	ORG
+Linkedin.com/in/ismail-gohar-b9ab74236/ 
+	PRODUCT

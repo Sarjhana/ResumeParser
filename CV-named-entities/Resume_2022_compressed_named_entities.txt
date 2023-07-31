@@ -1,0 +1,17 @@
+English	LANGUAGE
+MIT-ADT University	ORG
+2014 - 2016	DATE
+Foryoungindia	GPE
+Jagana Design	PERSON
+FYI - Foryoungindia	PERSON
+Mumbai	GPE
+FYI	ORG
+past 6 months	DATE
+Ultratech Cement	ORG
+8th	ORDINAL
+Jan - 8th June 2021	DATE
+Jagana Design	PERSON
+UX Research	ORG
+Graphics	ORG
+Andheri W,	PERSON
+Mumbai	GPE

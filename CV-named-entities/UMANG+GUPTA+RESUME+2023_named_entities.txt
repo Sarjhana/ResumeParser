@@ -1,0 +1,101 @@
+Umang Gupta	PERSON
+| �	PRODUCT
+github.com/Usgupta	GPE
+Singapore University of Technology and Design	ORG
+Singapore	GPE
+Bachelor of Engineering in Computer Science and Design, Minor	WORK_OF_ART
+Artificial Intelligence	ORG
+Sept. 2020	DATE
+May 2024	DATE
+GPA	ORG
+Honors List	PERSON
+Data Structures	ORG
+Algorithms, Operating Systems	ORG
+Concurrency, Database, Networks	ORG
+Artificial Intelligence	ORG
+AI	GPE
+Dagger	PERSON
+Android Studio	PERSON
+Jan 2023	DATE
+May 2023	DATE
+Singapore	GPE
+Driver Android	PERSON
+app	CARDINAL
+45%	PERCENT
+25%	PERCENT
+app	CARDINAL
+PyTorch	GPE
+Signal Processing	ORG
+2023	DATE
+8	CARDINAL
+Singapore	GPE
+HTX
+	PRODUCT
+LectureGenie | Python	ORG
+Open AI	GPE
+Da-vinci	PERSON
+Git	PERSON
+2023	DATE
+15 hours	TIME
+10	CARDINAL
+30	CARDINAL
+Jan 2023	DATE
+Jan 2023	DATE
+AWS SageMaker	ORG
+LTR	ORG
+Optimized	ORG
+Dygnostic | Ruby on Rails	ORG
+JS	ORG
+HTML	ORG
+Python	ORG
+GCP	ORG
+Postgresql	GPE
+React	GPE
+Rspec	ORG
+May 2022	DATE
+6	CARDINAL
+TSH Group	ORG
+30%	PERCENT
+TDD	ORG
+15	CARDINAL
+VoiceBus | Swift	ORG
+IOS	ORG
+Machine Learning	ORG
+Git	PERSON
+May 2022	DATE
+4	CARDINAL
+Apple	ORG
+app	ORG
+App	ORG
+Winner of Swift Inclusive App Development Hackathon	ORG
+| Java, Android	ORG
+Google Firebase	GPE
+Git	PERSON
+Feb 2022	DATE
+6	CARDINAL
+Android	PERSON
+Singapore	GPE
+4th	ORDINAL
+200	CARDINAL
+app	ORG
+Lucid	ORG
+FPGA	ORG
+Feb 2022	DATE
+8	CARDINAL
+Bishi-Bashi	ORG
+5th	ORDINAL
+200	CARDINAL
+Awards & Accomplishments	ORG
+Jyoti	GPE
+Aditya Mathur	PERSON
+first	ORDINAL
+SUTD	PERSON
+200	CARDINAL
+2022	CARDINAL
+Design	ORG
+AI	GPE
+500	CARDINAL
+SGD	ORG
+AI	ORG
+Paylah App	GPE
+2021	DATE

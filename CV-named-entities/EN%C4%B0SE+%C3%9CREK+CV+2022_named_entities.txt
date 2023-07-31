@@ -1,0 +1,66 @@
+Enise Ürek	PERSON
+21/08/1999	DATE
+Turkish	NORP
+5342810699	CARDINAL
+Kalabah Mah	PERSON
+Sok	PERSON
+35430	DATE
+Izmir	ORG
+Turkey	GPE
+English	LANGUAGE
+Turkey	GPE
+the Anzac Day	DATE
+April 2019 and 2022	DATE
+Visitor Services Team	ORG
+Department of Veteran's	ORG
+Anzac Day Commemorations	ORG
+Turkey	GPE
+18	CARDINAL
+DAP Royal Center	ORG
+16/18	CARDINAL
+Istanbul	GPE
+Turkey	GPE
+Istanbul Management Institute	ORG
+German	NORP
+100	CARDINAL
+1
+ 28/07/2026	QUANTITY
+DAP Royal Center	ORG
+16/18	CARDINAL
+Istanbul	GPE
+Turkey	GPE
+Istanbul Management Institute	ORG
+20/12/2020	TIME
+DAP Royal Center	ORG
+16/18	CARDINAL
+Istanbul	GPE
+Turkey	GPE
+Istanbul Management Institute	ORG
+DAP Royal Center	ORG
+16/18	CARDINAL
+Istanbul	GPE
+Turkey	GPE
+SCRIPT WRITING	PERSON
+Istanbul Management Institute	ORG
+Çanakkale	PERSON
+Turkey	GPE
+BACHELOR DEGREE	PERSON
+PHILOLOGY	ORG
+Çanakkale Onsekiz Mart University	ORG
+15/07/2021	DATE
+DAP Royal Center	ORG
+16/18	CARDINAL
+Istanbul	GPE
+Turkey	GPE
+Istanbul Management Institute	ORG
+18/07/2022	DATE
+INSTAGRAM MARKETING 2022	PRODUCT
+COMPLETE	ORG
+ITALIAN	ORG
+A1	CARDINAL
+A2	CARDINAL
+B1	CARDINAL
+Microsoft	ORG
+Power Point	PRODUCT
+Instagram	PRODUCT
+Social Media	ORG

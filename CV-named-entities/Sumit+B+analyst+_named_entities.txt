@@ -1,0 +1,85 @@
+9779339872	CARDINAL
+2.6 Years	DATE
+Business Analyst	ORG
+Python 
+Modules	FAC
+Machine Learning	ORG
+Python	GPE
+Business Analyst	ORG
+SQL	ORG
+1.6 Year	DATE
+Business Analyst	ORG
+Python Machine Learning	ORG
+Data Analysis	ORG
+6 months	DATE
+JavaScript	GPE
+Java	ORG
+Python Machine Learning	WORK_OF_ART
+Data Analysis	ORG
+4 months	DATE
+correctness & performance	ORG
+Runtime Data	ORG
+SQL	ORG
+Python	ORG
+Machine Learning	ORG
+Data Analysis	ORG
+Jupyter Notebook	ORG
+Business Analyst	ORG
+Srs, Brd, Solution Elavation, Strategy Analysis	ORG
+Database	PERSON
+Citrix Support	ORG
+Html	ORG
+JavaScript	ORG
+Core Java	ORG
+Business Analyst	ORG
+NoBroker Technology Solution Pvt Ltd	ORG
+April 2022	DATE
+Python Machine Learning	ORG
+Easy Pvt Ltd	ORG
+January 2022 to April 2022	DATE
+Machine Learning	ORG
+Data Analysis	ORG
+Jupyter Notebook	ORG
+ITSpark	ORG
+June 2019 to December 2019	DATE
+Ellen Infotech	PERSON
+04	CARDINAL
+NoBroker Technology Solution Pvt Ltd	ORG
+Gurgaon	PERSON
+India	GPE
+April 2022	DATE
+Business Analyst 
+	ORG
+Skills & Keywords	ORG
+Maintaining Confidentiality,Sql	ORG
+Relationship Building	PERSON
+Important Objects	ORG
+Network	ORG
+Easy Pvt Ltd	ORG
+Noida	GPE
+India	GPE
+Jan 2022 to April 2022	DATE
+Models 
+ 
+Important	PERSON
+Enhancement & Smart	ORG
+ITspark Technology	ORG
+Noida	GPE
+India	GPE
+Jan 2019	DATE
+Pandas	LOC
+Scraping	GPE
+Ellen Infotech Jalandhar	PERSON
+5	CARDINAL
+JDK & SE 
+ 
+Important Objects Developed	ORG
+JavaScript	ORG
+HTML	ORG
+CSS	ORG
+Eclipse	PRODUCT
+CT group of institution	ORG
+Jalandhar	LOC
+Technical University	ORG
+2016-2020	CARDINAL
+10-01-2000	DATE

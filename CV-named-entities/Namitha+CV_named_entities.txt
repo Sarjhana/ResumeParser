@@ -1,0 +1,37 @@
+S O F T W A R E  	PRODUCT
+l l u s	PRODUCT
+Jan - June 2022	DATE
+Crimson Cobalt Digitals	ORG
+Thumbnails	PERSON
+Video	ORG
+Banners &	ORG
+Internship	ORG
+Product Design inc	ORG
+UX & UI	ORG
+Haus	ORG
+London	GPE
+United Kingdom	GPE
+a 12 week	DATE
+0 1 9 - 2	CARDINAL
+2	CARDINAL
+2	CARDINAL
+0 1 8 - 2 0 1 9	QUANTITY
+2	CARDINAL
+0 1 6 - 2 0 1	QUANTITY
+7	CARDINAL
+8.81	CARDINAL
+Multimedia & Animation	ORG
+7.0	CARDINAL
+Vidya Mandir Estancia	ORG
+English, Mathematics, Physics, Chemistry & Biology	ORG
+7.6	CARDINAL
+10th	ORDINAL
+Vidya Mandir Estancia	ORG
+Product Design inc	ORG
+UX & UI	ORG
+Vellore Institute of Technology	ORG
+Haus	PERSON
+London	GPE
+United Kingdom	GPE
+12 week	DATE
+Namitha NK	PERSON

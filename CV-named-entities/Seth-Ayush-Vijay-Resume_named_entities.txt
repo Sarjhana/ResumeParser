@@ -1,0 +1,59 @@
+Seth Ayush Vijay	PERSON
+9454056286	DATE
+Jhansi	PERSON
+India	GPE
+linkedin.com/in/seth-ayush-	ORG
+vijay-b89575236	PERSON
+behance.net/sethayush	PERSON
+Hindustan College Of Science	WORK_OF_ART
+B.N.N College	ORG
+Sun International School	ORG
+Science	ORG
+Tata Elxsi Limited	PERSON
+Trainee Software Engineer	PERSON
+Webkul Software PVT	ORG
+January, 2021	DATE
+January, 2023	DATE
+January, 2023	DATE
+April, 2021	DATE
+October, 2022
+	DATE
+January	DATE
+2020	DATE
+December	DATE
+2020	DATE
+UX	ORG
+two years	DATE
+2.1 years	DATE
+more than 18	CARDINAL
+SaaS	ORG
+Cs-Cart	ORG
+UX Concepts	ORG
+UX Concepts	ORG
+English	LANGUAGE
+SQL	ORG
+Science Fiction Series	EVENT
+Website Design	ORG
+Prans	NORP
+Mobile App Design	PERSON
+Yello Bag	PERSON
+Mobile App Design	PERSON
+MTD	GPE
+CorporateLoft |	PRODUCT
+Mobile App Re-Designer	PERSON
+January 2022 - January 2022	DATE
+Febuary 2022 - Febuary 2022	DATE
+March 2022 - April 2022	DATE
+April 2022 - April 2022	DATE
+May 2022 - June 2022	DATE
+September 2022 -  	DATE
+MTD	ORG
+My Travelling Date	ORG
+CorporateLoft	ORG
+Canada	GPE
+Olive Green	PERSON
+Building & Facilities	ORG
+Hi-Fidelity	ORG
+the Admin & User	ORG
+Design	ORG
+User Research	PERSON

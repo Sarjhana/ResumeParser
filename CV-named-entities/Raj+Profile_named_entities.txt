@@ -1,0 +1,36 @@
+India	GPE
+Stakeholder  
+	ORG
+AMK Solutions - Bangalore	ORG
+India	GPE
+Hypersonix Inc -  Coimbatore	PERSON
+India	GPE
+Hypersonix	ORG
+Proﬁt Optimization Platform for E-commerce	ORG
+Thoughtbees Technologies	ORG
+UX/UI Designer	ORG
+Adair Technologies	ORG
+UX/UI Designer	ORG
+Statex Electronics	ORG
+Web/Graphic Designer	ORG
+Heuristic Evaluations	ORG
+Information Architecture	ORG
+Figma	PRODUCT
+2010 - 2013	DATE
+India	GPE
+74024 11126	DATE
+Zeplin	NORP
+Miro	GPE
+Adobe Photoshop	ORG
+Adobe Illustrator	ORG
+User	PRODUCT
+User Interface (Visual	PERSON
+2022 - 2023	CARDINAL
+Coursera	PERSON
+Complete Proﬁle  
+	ORG
+Education	ORG
+Certiﬁcate Licence	PERSON
+Create Personas	ORG
+Empathy	PERSON
+Wireframe	ORG

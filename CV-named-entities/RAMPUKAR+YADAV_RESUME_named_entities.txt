@@ -1,0 +1,30 @@
+SKILLS & FRAMEWORKS
+	ORG
+Data Structure & Algorithm	ORG
+JavaScript	ORG
+Kyrion	PERSON
+IIT	ORG
+Delhi	GPE
+Computer Information &
+	ORG
+Web Net Infotech
+	ORG
+New Delhi	GPE
+India	GPE
+Masai School - Nolan Edtech Private Limited
+	ORG
+May 2022 - Feb 2023	DATE
+70	CARDINAL
+Facilitated office hours	TIME
+Amazon Prime Video - Clone	ORG
+OTT	ORG
+Signup	PERSON
+4	CARDINAL
+4 days	DATE
+Navbar	ORG
+Git	PERSON
+4	CARDINAL
+4 days	DATE
+International Institute of Technology & Management	ORG
+Jun 2014 - May 2018	PERSON
+Haryana	PERSON

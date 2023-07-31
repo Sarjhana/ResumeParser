@@ -1,0 +1,72 @@
+Oana Emilia	ORG
+UK	GPE
+Coventry University	ORG
+BA	GPE
+Advertising and Marketing	ORG
+SKILLS  
+	ORG
+TikTok	PRODUCT
+Languages - Romanian	PERSON
+English	LANGUAGE
+French	LANGUAGE
+Social Media Management -	ORG
+Covid	NORP
+Hons) Advertising and Marketing (Predicted	ORG
+2:1	CARDINAL
+202	CARDINAL
+Collaborative Online International Learning (COIL	ORG
+Bangkok University	ORG
+Social Sciences  
+Received	ORG
+Romanian Language and Literature	WORK_OF_ART
+9.23	CARDINAL
+9.45	CARDINAL
+Logic	ORG
+8.60	CARDINAL
+Social Sciences	ORG
+English	LANGUAGE
+French	LANGUAGE
+Geography	PERSON
+History	PERSON
+Information Technology	ORG
+RELEVANT	ORG
+India	GPE
+Instagram	NORP
+2.5%	PERCENT
+one month	DATE
+VOLUNTEER | Interact Ramnicu-Valcea | 2017-2020  
+	PRODUCT
+the Advertising Board	ORG
+2018-2019	DATE
+Futurelets |	PRODUCT
+University Open Days	EVENT
+10/2021-	CARDINAL
+weekly	DATE
+10/2021-	CARDINAL
+PROJECTS  
+Marketing Campaign Planning and	ORG
+SMART	NORP
+English Olympics	EVENT
+Highschool	GPE
+’The Pitch	WORK_OF_ART
+English	LANGUAGE
+2019	DATE
+Volleyball	PERSON
+Romania	GPE
+International Equity, Diversity and Inclusion in Higher Education Conference	WORK_OF_ART
+2022	DATE
+Europe	LOC
+USA	GPE
+FutureLearn	ORG
+Social Media Marketing 
+	ORG
+SEO	ORG
+Online Video Marketing	ORG
+Google Analytics	ORG
+INTERESTS  
+	ORG
+one	CARDINAL
+200	CARDINAL
+50	CARDINAL
+Portugal	GPE
+one month	DATE

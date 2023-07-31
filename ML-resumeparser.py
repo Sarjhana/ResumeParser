@@ -25,7 +25,7 @@ def pdf_to_text(pdf_path, output_directory):
     txt_file_path = os.path.join(output_directory, txt_file_name)
     with open(txt_file_path, 'w', encoding='utf-8') as f:
         f.write(full_text)
-        print(f"Writing txt file for {txt_file_name}")
+        #print(f"Writing txt file for {txt_file_name}")
 
     return txt_file_path
 
@@ -114,10 +114,23 @@ def save_details_to_csv(details, output_file, output_directory):
     output_file_path = os.path.join(output_directory, output_file)
     df.to_csv(output_file_path, index=False)
 
+def extract_named_entities(text):
+    nlp = spacy.load("en_core_web_sm")
+    doc = nlp(text)
+    named_entities = [(ent.text, ent.label_) for ent in doc.ents]
+    return named_entities
+
+def save_named_entities_to_file(named_entities, output_file, output_directory):
+    output_file_path = os.path.join(output_directory, output_file)
+    with open(output_file_path, 'w', encoding='utf-8') as f:
+        for entity, label in named_entities:
+            f.write(f"{entity}\t{label}\n")
+
 def main():
     input_directory = '/Users/sarjhana/Projects/Campuzzz/CV Archive'  # Specify the directory containing the PDF files
     output_directory_txt = '/Users/sarjhana/Projects/Campuzzz/CV-text-files'  # Specify the desired output directory for text files
     output_directory_csv = '/Users/sarjhana/Projects/Campuzzz/CV-processed-csv-files'  # Specify the desired output directory for CSV files
+    output_directory_entities = '/Users/sarjhana/Projects/Campuzzz/CV-named-entities'  # Specify the desired output directory for named entities
 
     # Get a list of all PDF files in the input directory
     pdf_files = [file for file in os.listdir(input_directory) if file.endswith('.pdf')]
@@ -139,12 +152,20 @@ def main():
         with open(txt_file_path, 'r', encoding='utf-8') as f:
             pdf_text = f.read()
 
+        # Extract named entities using spaCy
+        named_entities = extract_named_entities(pdf_text)
+
+        # Save the named entities to a separate text file
+        output_file_entities = os.path.splitext(pdf_file)[0] + '_named_entities.txt'
+        save_named_entities_to_file(named_entities, output_file_entities, output_directory_entities)
+
         # Extract details from the text using extract_details_from_text
         resume_details = extract_details_from_text(pdf_text)
 
         # Save the details to a CSV file
-        output_file = os.path.splitext(pdf_file)[0] + '_details.csv'
-        save_details_to_csv(resume_details, output_file, output_directory_csv)
+        output_file_csv = os.path.splitext(pdf_file)[0] + '_details.csv'
+        #print(resume_details['education'], "------------------------")
+        save_details_to_csv(resume_details, output_file_csv, output_directory_csv)
 
 if __name__ == "__main__":
     main()

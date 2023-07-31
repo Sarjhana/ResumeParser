@@ -1,0 +1,25 @@
+2019	CARDINAL
+about 4 years	DATE
+Delhi University	ORG
+Freelance	ORG
+Strategist	ORG
+Social	ORG
+2019	DATE
+Pepper Content	PERSON
+College Duniya	ORG
+College Pond	ORG
+Morris Marketing and Clients from Upwork	ORG
+Freelancer.com	ORG
+Social Media Handles  
+	ORG
+the Facebook Business Account	ORG
+Web Analytics Software	ORG
+Social Media	ORG
+Gurgaon	PERSON
+Haryana	PERSON
+Digital	ORG
+Google	ORG
+Social Media Marketing 
+	ORG
+HubSpot	ORG
+SEO	ORG

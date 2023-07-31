@@ -1,0 +1,41 @@
+Bath & Body Clone	ORG
+| CSS | JavaScript	PRODUCT
+5	CARDINAL
+4 days	DATE
+Wishlist	GPE
+Watches	PERSON
+CSS | JavaScript	PRODUCT
+5	CARDINAL
+4 days	DATE
+Shubham Dambale	PERSON
+Java Backend Developer 
+	ORG
+India	GPE
+8999949450	CARDINAL
+hours	TIME
+Java	ORG
+JavaScript	ORG
+Java | JavaScript | HTML | CSS	PRODUCT
+Boot	PERSON
+Hibernate	PERSON
+Algorithms	PERSON
+Java Backend Developer, Masai School	ORG
+india	GPE
+450	CARDINAL
+DSA	ORG
+100+ hours	TIME
+Chatrapati College	PERSON
+India	GPE
+Problem Solving	PERSON
+Communication | Team Work Team	ORG
+Collaboration | Remote Work Problem
+	PRODUCT
+Solving | Self Learning	WORK_OF_ART
+Offline	PERSON
+Online	PERSON
+Admin	PERSON
+an Online Cab Booking Application	LAW
+CRUD	GPE
+Swagger	PERSON
+5	CARDINAL
+4 days	DATE

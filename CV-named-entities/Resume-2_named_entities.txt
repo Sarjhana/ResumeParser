@@ -1,0 +1,50 @@
+7001321407	DATE
+21/10	CARDINAL
+Raypara Lane	FAC
+Konnagar	GPE
+712235	DATE
+subham.behera@mcn.christun	CARDINAL
+Subham Behera	PERSON
+Videography	PERSON
+English	LANGUAGE
+Headlines Tripura'	WORK_OF_ART
+Telegraph	PRODUCT
+St. Xavier's College	FAC
+Kolkata	PERSON
+Neardlapse Short Film	WORK_OF_ART
+' Short Film
+	WORK_OF_ART
+2020 - 2022	DATE
+2016 - 2020	DATE
+M.A Communication & Media Studies	ORG
+English	NORP
+Christ University	ORG
+Bangalore	GPE
+College Kolkata	PERSON
+Video Editing
+	PRODUCT
+Video Editing
+	PRODUCT
+Video Editing
+	PRODUCT
+Video Editing
+	PRODUCT
+Photo Editing
+	PRODUCT
+English	LANGUAGE
+Hindi	PERSON
+Bengali	NORP
+S.C.B High School	ORG
+Bhubaneswar	GPE
+Competencies	ORG
+2019 - 2020	DATE
+2020 - 2021	DATE
+2020 - 2021	DATE
+Arena Animations	ORG
+Park Street	FAC
+Michigan State University	ORG
+University of Michigan	ORG
+2010 - 2014	DATE
+2014 - 2016	DATE
+Secondary	ORDINAL
+Science College	ORG

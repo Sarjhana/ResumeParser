@@ -1,0 +1,91 @@
+776 051 6408	MONEY
+12 years	DATE
+NLP	ORG
+Computer Vision	ORG
+Machine Learning	ORG
+Lidar	GPE
+RGB	ORG
+IMU	ORG
+3D	ORG
+Agricultural	ORG
+Healthcare	ORG
+Deep Learning	WORK_OF_ART
+CNN	ORG
+Computer Vision like Classification	ORG
+Recognition	ORG
+OTS	ORG
+ADAS	ORG
+Technical	ORG
+Python	GPE
+C++	DATE
+Matlab	GPE
+StatsModels	ORG
+Keras	GPE
+PyTorch	GPE
+Learning | Auto Calibration | Image Enhancement | Object Recognition & Tracking | Face 
+	WORK_OF_ART
+Recognition | Detection/Classification | Project & Team Management  
+  
+	LAW
+Languages- Python	ORG
+C++	DATE
+Matlab | Machine	FAC
+StatsModels | Deep Learning-	ORG
+Keras	GPE
+OPEN AI	ORG
+LangChain GPT	ORG
+3.5	CARDINAL
+Skimage	PERSON
+Matlab	PERSON
+Bash	PERSON
+SVN | Operating System- Linux	ORG
+Fedora	PERSON
+Jan 2023	DATE
+SQL	ORG
+CPG	ORG
+CNN	ORG
+BHA	ORG
+June 2021	DATE
+Sensor Fusion	ORG
+RGB	ORG
+IMU	ORG
+ICP	ORG
+lidar	GPE
+2D	CARDINAL
+3D	CARDINAL
+Point	ORG
+May 2021	DATE
+India  
+	ORG
+Deep Learning	ORG
+X-ray &	ORG
+AI	GPE
+Jan 2017	DATE
+July 2019	DATE
+India  
+	ORG
+2D	CARDINAL
+Sona College of Engineering	ORG
+20	CARDINAL
+Research Associates	ORG
+Incubator center  
+	ORG
+Face Recognition & Verification	ORG
+HIREMEE	ORG
+Jan 2017	DATE
+LEECO India Pvt.	ORG
+Machine Learning	ORG
+Sep 2016  
+	ORG
+Developed &	ORG
+Feb 2011	DATE
+Oct 2012	DATE
+India	GPE
+2019	CARDINAL
+Artificial intelligence & Machine Learning |	ORG
+India	GPE
+2011	CARDINAL
+Leicester	GPE
+England	GPE
+2009	DATE
+India	GPE

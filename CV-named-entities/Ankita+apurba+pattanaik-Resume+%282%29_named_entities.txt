@@ -1,0 +1,21 @@
+Cozentus	ORG
+Cozentus	ORG
+07/2022	CARDINAL
+Javascript	PERSON
+Figma	WORK_OF_ART
+Asset Management	ORG
+pl/sql	ORG
+03/2022 – 05/2022	CARDINAL
+Tool	WORK_OF_ART
+10/2022	CARDINAL
+javascript	PERSON
+MCA	ORG
+Institute of technical education	ORG
+Utkal University	ORG
+Christ College	ORG
+Hindi	PERSON
+Odia	GPE
+English	LANGUAGE
+1	CARDINAL
+1	CARDINAL
+1	CARDINAL

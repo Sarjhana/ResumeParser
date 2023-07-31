@@ -1,0 +1,32 @@
+Digital Marketing	ORG
+Career	PERSON
+May 2020-	DATE
+1st	ORDINAL
+May 2021	DATE
+weekly	DATE
+monthly	DATE
+Digiter  
+	ORG
+PR	ORG
+three	CARDINAL
+the
+months	DATE
+the
+months	DATE
+SEO	ORG
+Lakme Salon	ORG
+26th	ORDINAL
+27th	ORDINAL
+Sept 2021	DATE
+Lakme	ORG
+Hindustan Unilever	PERSON
+SONIA DARYANI
+	ORG
+8655262791	DATE
+Mulund west	PERSON
+Mumbai	GPE
+31st Jan 2022	DATE
+Juicy Chemistry	ORG
+Social Media Intern	ORG
+20th	ORDINAL
+21st April 2022	DATE

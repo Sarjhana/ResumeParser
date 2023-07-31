@@ -1,0 +1,51 @@
+Saumya Gupta	PERSON
+9305244821	DATE
+Technical Skill: Java, Python	WORK_OF_ART
+JavaScript	ORG
+HTML	ORG
+ReactJS	ORG
+NodeJS	GPE
+DSA	ORG
+Cloud Deployment	PERSON
+Rails	PERSON
+aws-Face-Recognition	ORG
+aws-Speech-Recognition	ORG
+aws-ChatBot	ORG
+aws-Lambda	PERSON
+3	CARDINAL
+4	CARDINAL
+2022–May 2023	DATE
+Blitz-Scale	WORK_OF_ART
+Ruby on Rails	ORG
+Postman	GPE
+Git	PERSON
+May 2021–July 2021	DATE
+Social Media Web Application	ORG
+2020–Dec 2021	DATE
+Digital Marketing	ORG
+50	CARDINAL
+BML Munjal University	ORG
+BTech	ORG
+Computer Science	ORG
+2019-2023	DATE
+Digital Bank	ORG
+Ethereum Blockchain	ORG
+Deposit	GPE
+Withdraw	GPE
+Loan	ORG
+Truffle	WORK_OF_ART
+Reactjs	ORG
+Tailwind CSS	PERSON
+API Integration	ORG
+State Management	ORG
+Ant Design	PERSON
+Chart.js	PRODUCT
+Vercel	WORK_OF_ART
+Meme Generator	PERSON
+Reactjs	ORG
+Database and Management Systems	ORG
+Web Development, Understanding Business, Software Engineering	ORG
+Algorithms	PERSON
+Blitz-Scale - Lead	WORK_OF_ART
+zero	CARDINAL
+Google Appscript	PERSON

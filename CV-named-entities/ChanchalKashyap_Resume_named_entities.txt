@@ -1,0 +1,30 @@
+Hindi	PERSON
+English	LANGUAGE
+C++	LANGUAGE
+Java, Oracle, Database Management	ORG
+SQL	ORG
+PLSQL	ORG
+2023
+	DATE
+MCA	ORG
+80%	PERCENT
+BCA	ORG
+77.31%	PERCENT
+64%	PERCENT
+Bhilai Institute of Technology	ORG
+Durg	GPE
+Govt Bilasa Girls' PG College	PERSON
+C.G.	GPE
+Shishu Mandir Tilak	WORK_OF_ART
+Nagar Bilaspur	PERSON
+C.G.	GPE
+Android Studio	PERSON
+11g(SQL	NORP
+Nagar Ghuru Vard	PERSON
+2	CARDINAL
+Binomial Solution	ORG
+Dot Net	PRODUCT
+Android	PERSON
+2022 - 2023	DATE
+2020 - 2021	DATE
+Time Management	ORG

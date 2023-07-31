@@ -1,0 +1,53 @@
+Rita Cardoso Nina	PERSON
+King’s College London	ORG
+936501065	CARDINAL
+rita.cardoso.nina@gmail.com	ORG
+London	GPE
+London	GPE
+September 2021	DATE
+May 2024	DATE
+Financial and Managerial Accounting	ORG
+Consumer Behavior and Strategic Management	ORG
+The Oporto International School	ORG
+Porto	PERSON
+September 2019 - June 2021	DATE
+Portuguese, Economics & Mathematics	ORG
+OPOMUN 2021	LAW
+Germany	GPE
+Germany	GPE
+Sumando Corazones	ORG
+Porto	PERSON
+September 2020 - June 2021	DATE
+Excel	PRODUCT
+the San Rafael Children’s Hospital	FAC
+Venezuela	GPE
+10	CARDINAL
+Motion	GPE
+Porto	PERSON
+September 2019	DATE
+weekly	DATE
+Portugal	GPE
+Porto	PERSON
+Marketing Intern	PERSON
+October 2020	DATE
+Polska	GPE
+Warsaw	GPE
+June 2019 - July 2019	DATE
+weekly	DATE
+Excel	PRODUCT
+Powerpoint	PERSON
+Social Media	ORG
+EDX	ORG
+Harvard University	ORG
+October 2020 - December 2020	DATE
+Cambridge	GPE
+Cambridge	GPE
+July 2019	DATE
+ISSOS	ORG
+Yale
+	ORG
+July 2018	DATE
+English	LANGUAGE
+Portuguese	NORP
+Spanish - B2	GPE
+French	NORP

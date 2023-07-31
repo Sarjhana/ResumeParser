@@ -1,0 +1,20 @@
+8447966555	DATE
+New Delhi	GPE
+Google	ORG
+Hubspot	ORG
+2018-2021	DATE
+PR	ORG
+Account Management and Client Servicing	ORG
+liaisee	GPE
+Aug 2022-Mar 2023	DATE
+Social Media Marketing Executive	ORG
+Home Decor	PERSON
+Facebook	ORG
+2022	CARDINAL
+Email	ORG
+Hubspot	ORG
+more than 500	CARDINAL
+Netflix	ORG
+Roposo	ORG
+ROI	ORG
+DEC 2021	DATE

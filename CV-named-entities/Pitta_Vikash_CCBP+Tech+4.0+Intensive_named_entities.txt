@@ -1,0 +1,31 @@
+Pitta Vikash	PERSON
+Andhra Pradesh	PERSON
+NXT	ORG
+Disruptive Technologies	ORG
+Kakinada Institute of Engineering & Technologies	ORG
+2015 - 2019	DATE
+66.07%	PERCENT
+Krishna Sai Junior College	ORG
+Sompeta	NORP
+2012 - 2014	DATE
+91.7%	PERCENT
+CSS	ORG
+Bootstrap	ORG
+JavaScript	ORG
+HTML	ORG
+Bootstrap	PERSON
+first	ORDINAL
+CSS	ORG
+Bootstrap	ORG
+E-Commerce	ORG
+HTML	ORG
+first	ORDINAL
+CSS	ORG
+Bootstrap	ORG
+HTML	ORG
+Bootstrap	ORG
+CSS	ORG
+first	ORDINAL
+CSS	ORG
+Bootstrap	ORG
+the Air Wing	FAC

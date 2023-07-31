@@ -1,0 +1,73 @@
+2	CARDINAL
+Writing Blog/Website Content to Provide 
+	ORG
+Jawwad Hussain	PERSON
+Kamalia	NORP
+36350	DATE
+306-6882510	CARDINAL
+Jawwadh47@gmail.com  
+	ORG
+Content Writer	PERSON
+5 years	DATE
+First	ORDINAL
+2018	DATE
+2019	DATE
+Freelancer	GPE
+2020	DATE
+Creative Thinking, Creative Writing	WORK_OF_ART
+Composing	GPE
+English	LANGUAGE
+Master of Arts	WORK_OF_ART
+English	LANGUAGE
+Government College University	ORG
+Faisalabad	PERSON
+October	DATE
+September 2019	DATE
+Bachelor of Arts in Education, Virtual University of Pakistan	ORG
+Kamalia Campus	PERSON
+October 2019	DATE
+April 2020	DATE
+Bachelor of Arts and Humanities	ORG
+University of the Punjab	ORG
+Lahore  
+	ORG
+April 2013	DATE
+August 2015	DATE
+Certified	ORG
+English	LANGUAGE
+University of California	ORG
+Irvine	ORG
+March 2023	DATE
+BMDCFDQEK  
+	ORG
+English	LANGUAGE
+Georgia Institute of 
+Technology	ORG
+February 2023	DATE
+https://www.coursera.org/account/accomplishments/certificate/JMFZL5DKSQBB	CARDINAL
+English	LANGUAGE
+Duke University	ORG
+February 2023	DATE
+University of California	ORG
+DAVIS	ORG
+March 2023	DATE
+2	CARDINAL
+2	CARDINAL
+Michigan State University	ORG
+March 2023	DATE
+https://www.coursera.org/account/accomplishments/certificate/7WXF6EAXMKG8	GPE
+Soft Heart Foundation	ORG
+Content Writer	WORK_OF_ART
+3 years	DATE
+Freelance Content Writer	WORK_OF_ART
+(5 years	DATE
+eBooks	ORG
+Amazon Kindle	ORG
+2021	DATE
+2022	CARDINAL
+The Art of Writing Short Stories	WORK_OF_ART
+2022	DATE
+2023	CARDINAL
+eBooks	ORG
+Amazon Kindle	ORG
+my holidays	DATE

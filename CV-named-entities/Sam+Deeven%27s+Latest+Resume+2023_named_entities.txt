@@ -1,0 +1,43 @@
+Sam Deeven	PERSON
+8985762477	CARDINAL
+HTML	GPE
+CSS	ORG
+JavaScript	ORG
+React JS	PERSON
+Software Development	ORG
+CSS	ORG
+JavaScript	ORG
+React JS	PERSON
+10x	DATE
+Academy	ORG
+CSS	ORG
+JavaScript	ORG
+ReactJS	GPE
+NodeJS	ORG
+Post-Graduation	ORG
+JNTU Kakinada	PERSON
+Kakinada	PERSON
+7.26	CARDINAL
+10x	DATE
+Academy	GPE
+Hyderabad	GPE
+Mechanical Engineering	ORG
+Pragati Engineering College	ORG
+Surampalem	NORP
+70.78	CARDINAL
+XII	ORG
+Vijaya Gayatri Junior College	PERSON
+Kakinada	PERSON
+91.7	CARDINAL
+Bhashyam Public School	ORG
+Kakinada	PERSON
+8.8	CARDINAL
+JavaScript	PRODUCT
+Programming Language	WORK_OF_ART
+Programming Language	WORK_OF_ART
+First Prize in Paper Presentation	WORK_OF_ART
+Engineer’s Day 2016	DATE
+Pragati
+Engineering College	FAC
+Surampalem	GPE
+APSSDC	GPE

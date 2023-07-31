@@ -1,0 +1,319 @@
+Blog	PERSON
+Malayalam	ORG
+English	LANGUAGE
+Certified Data Scientist	WORK_OF_ART
+IBM	ORG
+IBM	ORG
+Data Science	WORK_OF_ART
+Aishwarya Srinivasan	PERSON
+Top Voice Data &
+	ORG
+San Francisco Bay Area	LOC
+Aishwarya	PERSON
+the Google Cloud AI	GPE
+Google	ORG
+TensorFlow	WORK_OF_ART
+AI Platform	ORG
+Aishwarya	PERSON
+AI & ML Innovation	ORG
+IBM Data & AI	ORG
+Illuminate AI	ORG
+AI	GPE
+Deepchecks	PERSON
+PyTorch Lightning	ORG
+Scikit Learn	PERSON
+Aishwarya	PERSON
+Trailblazer of the Year by Women	WORK_OF_ART
+2022	DATE
+2022	DATE
+Columbia	GPE
+London	GPE
+Dubai	GPE
+Istanbul	GPE
+India	GPE
+Patent Award	WORK_OF_ART
+2018	DATE
+the Women in Data Science	ORG
+Stanford University	ORG
+420,000	CARDINAL
+AI	GPE
+10	CARDINAL
+Data Scientists	ORG
+Instagram:	WORK_OF_ART
+arts(Krav Maga	PERSON
+January 2022	DATE
+1 year 7 months	DATE
+Large Language Models	ORG
+Generative	ORG
+Google Cloud-	PRODUCT
+Data Scientist	WORK_OF_ART
+Google Cloud AI	ORG
+Collaborating	GPE
+Responsible AI	GPE
+Data Quality Assessment Framework	ORG
+Google Cloud AI	GPE
+MLOps	ORG
+DocAI	ORG
+VisionAI	GPE
+2	CARDINAL
+20%	PERCENT
+Vertex	GPE
+| Mentor	PERSON
+March 2021	DATE
+2 years 5 months	DATE
+California	GPE
+United States	GPE
+First	ORDINAL
+Artificial Intelligence	ORG
+Artificial	ORG
+Intelligence Community	ORG
+Weekend Musings	GPE
+AI Guild	PERSON
+O'Reilly Media	ORG
+Technical Reviewer - Editorial Board	ORG
+April 2021	DATE
+2 years 4 months	DATE
+Stanford Deep Data Research Computing Center	ORG
+July 2022 	DATE
+December 2022	DATE
+6 months	DATE
+April 2022	DATE
+December 2022	DATE
+9 months	DATE
+AIM Leaders Council	ORG
+November 2021	DATE
+December 2022	DATE
+1 year 2 months	DATE
+Good Foundation	ORG
+Advisory Board	ORG
+July 2021 	DATE
+December 2022	DATE
+1 year 6 months	DATE
+3	CARDINAL
+11	CARDINAL
+July 2021 	DATE
+December 2022	DATE
+1 year 6 months	DATE
+The AI Education Project
+Advisory Board	ORG
+June 2021	DATE
+December 2022	DATE
+1 year 7 months	DATE
+San Francisco Bay University	ORG
+Advisory Board	ORG
+May 2022	DATE
+November 2022	DATE
+7 months	DATE
+IBM	ORG
+3 years	DATE
+AI & ML Innovation Leader - Business Development	ORG
+April 2021	DATE
+January 2022	DATE
+10 months	DATE
+San Francisco Bay Area	LOC
+Building Data	ORG
+AI	GPE
+Cloud Pak	PRODUCT
+IBM	ORG
+AI	ORG
+IBM	ORG
+IBM Cloud Data & AI	ORG
+CSM	ORG
+Scientist - Data Science & AI Elite	ORG
+February 2019	DATE
+April 2021	DATE
+2 years 3 months	DATE
+New York	GPE
+United States	GPE
+6-8 week	DATE
+SoA	ORG
+United Nations	ORG
+4	CARDINAL
+11	CARDINAL
+London	GPE
+Dubai	GPE
+Istanbul	GPE
+Mumbai	GPE
+the United States	GPE
+October 2020 	DATE
+July 2021	DATE
+10 months	DATE
+New York	GPE
+New York	GPE
+United States	GPE
+Goldman Sachs	ORG
+Capstone	ORG
+September 2018	DATE
+December 2018	DATE
+4 months	DATE
+Columbia University	ORG
+IBM Data Science	ORG
+Advanced Analytics	ORG
+June 2018	DATE
+December 2018	DATE
+7 months	DATE
+Columbia University Irving Medical Center	ORG
+Graduate Research Assistant	ORG
+June 2018	DATE
+December 2018	DATE
+7 months	DATE
+EHR	ORG
+5	CARDINAL
+11	CARDINAL
+Columbia University	ORG
+1 year	DATE
+April 2018	DATE
+December 2018	DATE
+9 months	DATE
+January 2018 	DATE
+May 2018	DATE
+5 months	DATE
+Andreas Mueller	PERSON
+Python	ORG
+Columbia Business School
+	ORG
+September 2017 	DATE
+January 2018	DATE
+(5 months	DATE
+New York City Area	GPE
+iTech Mission Pvt.	ORG
+May 2017 	DATE
+June 2017	DATE
+2 months	DATE
+New Delhi Area	GPE
+India	GPE
+World Bank	ORG
+UNDP	PERSON
+D3js	ORG
+Microsoft Power BI	ORG
+Tableau	ORG
+Adobe Photoshop	ORG
+Info	PRODUCT
+GST	ORG
+BRICS Meet	ORG
+Ocean	LOC
+50-50	CARDINAL
+13	CARDINAL
+14	CARDINAL
+6	CARDINAL
+The Ocean Conference	WORK_OF_ART
+UN	ORG
+Mereex Services Pvt Ltd	ORG
+December 2016	DATE
+May 2017	DATE
+6 months	DATE
+New Delhi	GPE
+Delhi	GPE
+India	GPE
+Microsoft	ORG
+May 2016 	DATE
+July 2016	DATE
+3 months	DATE
+Hyderabad	GPE
+India	GPE
+the Bing Team for Machine Learning	ORG
+NLP	ORG
+a Skype ChatBot for Redmond Campus	WORK_OF_ART
+6	CARDINAL
+Redmond	ORG
+BotFramework	ORG
+Microsoft	ORG
+Visual Studio	PERSON
+Bing Maps	PERSON
+NLP	ORG
+luis.ai	ORG
+International Management Institute - IMI	ORG
+January 2016 - 	DATE
+February 2016	DATE
+2 months	DATE
+New Delhi Area	GPE
+India	GPE
+IIP	ORG
+Time Series	ORG
+Wharton Index	PERSON
+Capacity Utilization of Goods in Indian Industry	WORK_OF_ART
+National Informatics Centre - India	ORG
+December 2015	DATE
+February 2016	DATE
+3 months	DATE
+Delhi	GPE
+11	CARDINAL
+Mutual Fund Performance	ORG
+8 years	DATE
+EY	GPE
+Social Media/Business Analyst	ORG
+January 2015	DATE
+August 2015	DATE
+8 months	DATE
+Twitter	ORG
+RStudio	PRODUCT
+twitteR	ORG
+UAM	ORG
+one	CARDINAL
+International Management Institute - IMI	ORG
+June 2015	DATE
+July 2015	DATE
+2 months	DATE
+New Delhi Area	GPE
+India	GPE
+Neena Sondhi	PERSON
+20+ years	DATE
+the Faculty of Arts	ORG
+University of Delhi	ORG
+Chhavi Mehta	PERSON
+IMI	ORG
+PhD	WORK_OF_ART
+IIT	ORG
+Delhi	GPE
+Empirical Financial	LOC
+Accounting Research Program	ORG
+IIM	ORG
+Calcutta	ORG
+IBM	ORG
+Tata Consultancy Services	ORG
+March 2015	DATE
+May 2015	DATE
+3 months	DATE
+NSE	ORG
+BSE	ORG
+Sensex	PERSON
+Nifty	PERSON
+Sensex	PERSON
+Nifty	PERSON
+9	CARDINAL
+11	CARDINAL
+IBM	ORG
+Tata Consultancy Services	ORG
+December 2014	DATE
+January 2015	DATE
+2 months	DATE
+New Delhi Area	GPE
+India	GPE
+Delhi University
+Research And Development	ORG
+June 2014	DATE
+July 2014	DATE
+2 months	DATE
+New Delhi Area	GPE
+India	GPE
+MATLAB	ORG
+OCR	ORG
+International Refereed Journal	ORG
+Science	ORG
+February 2014	DATE
+March 2014	DATE
+2 months	DATE
+Tamil Nadu	PERSON
+India	GPE
+#	CARDINAL
+#	CARDINAL
+Columbia University	ORG
+the City of New York	GPE
+Science - MS	ORG
+Data Science	PERSON
+2017 - 2018	DATE
+Vellore Institute of Technology
+Bachelor of Technology	ORG
+2013 - 2017	DATE
+11	CARDINAL
+11	CARDINAL

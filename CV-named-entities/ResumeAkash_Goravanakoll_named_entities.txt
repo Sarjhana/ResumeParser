@@ -1,0 +1,43 @@
+29/03/1998	CARDINAL
+Kenchalarkoppa	ORG
+Saundatti	GPE
+9380128840	CARDINAL
+Year	DATE
+BCA 
+ 
+	ORG
+KARNATAK UNIVERSITY	ORG
+KLE Technological University	ORG
+JSS SMI UG	ORG
+2022	CARDINAL
+2019	CARDINAL
+8.1	CARDINAL
+68.32	CARDINAL
+React js Bootstrap CSS	PERSON
+Bootstrap CSS	PERSON
+Html	ORG
+Suvarna Tech Solutions	ORG
+PHP	ORG
+Bootstrap	ORG
+Javascript	PERSON
+Wordpress Laravel	ORG
+SQL	ORG
+Hansoft Umans	PERSON
+India	GPE
+January– April 2022	DATE
+CSS	ORG
+Bootstrap	ORG
+PHP	ORG
+SQL	ORG
+Javascript	ORG
+Wordpress	PRODUCT
+OOPS	ORG
+Microsoft Visual Studio	PERSON
+React JS	WORK_OF_ART
+Youtuber	DATE
+Video	ORG
+Photography	WORK_OF_ART
+Videography	WORK_OF_ART
+Playing Cricket	ORG
+3	CARDINAL
+Inter college Cricket Championship	ORG

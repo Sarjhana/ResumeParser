@@ -1,0 +1,9 @@
+Social Media	ORG
+Content Creator	PERSON
+Kingston University	ORG
+UK	GPE
+monthly	DATE
+BOLD MAGAZINE	ORG
+monthly	DATE
+THEVASA	ORG
+Indian Institute of Art and Design	ORG

@@ -1,0 +1,106 @@
+Wales	ORG
+United Kingdom	GPE
+||	CARDINAL
+Daisy	PERSON
+UGC	ORG
+micro content creator & 
+	ORG
+surface Level &	ORG
+micro-content creators & small	ORG
+content creation & social 
+	ORG
+time & money	ORG
+Human Resource Management (CIPD	ORG
+University of South Wales	ORG
+2022	CARDINAL
+Managing Employee Relations	ORG
+Human Resources Management Strategy	ORG
+Training, Learning 
+& Talent Development	ORG
+Global Talent Management	ORG
+Developing Skills for Business Leadership	ORG
+Aesthetic Labour	WORK_OF_ART
+UK	GPE
+South Africa	GPE
+2016 - 2018	DATE
+Pass	PERSON
+2nd	DATE
+2	CARDINAL
+French & History	ORG
+Botswana | 2014 - 2015	PRODUCT
+English	LANGUAGE
+Botswana | 2014 - 2015	PRODUCT
+Art & Design	ORG
+Biology, Business Studies	ORG
+English	LANGUAGE
+French	LANGUAGE
+DIGITAL & SOCIAL MEDIA CO-ORDINATOR	ORG
+United Kingdom	GPE
+September 2022	DATE
+March 2023	DATE
+social media	ORG
+L&D	ORG
+Wales	ORG
+United Kingdom	GPE
+||	CARDINAL
+Executive Management Team	ORG
+EMT	ORG
+the GDPR Act 2018	LAW
+Carers Wales	ORG
+UK	GPE
+United Kingdom	GPE
+May 2022	DATE
+June 2022	DATE
+Carers Wales	ORG
+Twitter	ORG
+Facebook	ORG
+FREELANCE	ORG
+SOCIAL MEDIA	ORG
+2019 - 2021	DATE
+Boosting Engagement	WORK_OF_ART
+Instagram & TikTok	ORG
+South Africa	GPE
+2016 - 2021	DATE
+Wi-Fi 
+	PERSON
+Wi-Fi & Printer	ORG
+ICT	ORG
+minutes	TIME
+house	ORG
+House & house committee	ORG
+Planned &	ORG
+Wales	GPE
+United Kingdom	GPE
+||	CARDINAL
+Life, Meaning & Community	ORG
+my final year	DATE
+Grahamstown	GPE
+7th	ORDINAL
+English & Mathematics	ORG
+5 Rhodes University Fund	ORG
+2018	DATE
+January 2014	DATE
+December 2015	DATE
+English	LANGUAGE
+Mathematics	NORP
+7th	ORDINAL
+Botswana	GPE
+Art & Design	ORG
+January 2014	DATE
+December 2015	DATE
+Art & Design	ORG
+the Art Club	ORG
+The King Cathedral | January 2007	WORK_OF_ART
+December 2010	DATE
+Catholic	NORP
+Digital Marketing Certificate	ORG
+ZFU UAW 9UX	ORG
+French	NORP
+TikTok & Instagram	ORG
+Wales	ORG
+United Kingdom	GPE
+||	CARDINAL
+iMovie	ORG
+Final	ORG
+pro & Capcut	ORG
+Instagram	PRODUCT

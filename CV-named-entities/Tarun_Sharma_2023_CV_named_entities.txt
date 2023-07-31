@@ -1,0 +1,42 @@
+Tarun Sharma	PERSON
+8318919787	DATE
+Indian	NORP
+Full Stack Developer with	WORK_OF_ART
+2 years	DATE
+RESTful	GPE
+English	LANGUAGE
+India	GPE
+Programmer Analyst	PERSON
+Admin Panel	ORG
+Roles	PERSON
+Task Management	ORG
+CRUD	ORG
+React.js	PRODUCT
+HTML	ORG
+CSS	ORG
+JavaScript	ORG
+third	ORDINAL
+HTTP	ORG
+04/2020	CARDINAL
+India	GPE
+Coding Instructor	PERSON
+SkillSanta	ORG
+Java	ORG
+Javascript	PERSON
+HTML	ORG
+CSS	ORG
+Bootstrap	ORG
+India	GPE
+B. Tech	PERSON
+United College of Engineering & Management	ORG
+Allahabad	GPE
+India	GPE
+Secondary	ORDINAL
+XII	ORG
+ISC Board	ORG
+Mary Lucas School & College	ORG
+Allahabad	PERSON
+India	GPE
+ICSE Board	ORG
+Mary Lucas School & College	ORG
+Allahabad	GPE

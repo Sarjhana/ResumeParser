@@ -1,0 +1,77 @@
+Akanksha Rai  
+Computer	ORG
+Pursuing Bachelor of Technology in Computer Science and Information Technology	WORK_OF_ART
+ABES Engineering College	ORG
+AKTU University	ORG
+82.11%	PERCENT
+7th	ORDINAL
+CBSE Board	ORG
+86.6%	PERCENT
+year 2018	DATE
+Amazon Alexa	ORG
+6month	CARDINAL
+Lamda	PERSON
+Technical Skills  
+	ORG
+Python  
+	ORG
+Data Structure	ORG
+CSS	ORG
+JAVASCRIPT  
+	ORG
+Team-Working	ORG
+Team Player  
+	ORG
+Language Known  
+	ORG
+English  
+	ORG
+Unnat	ORG
+CBSE Board	ORG
+95%	PERCENT
+year 2016	DATE
+Detection  
+	ORG
+Technology:	WORK_OF_ART
+Python	ORG
+Computer Vision and Deep Learning	ORG
+CSS	ORG
+JAVASCRIPT  
+	ORG
+3.Power Consumption	PERCENT
+Python  
+	ORG
+4.Smart Healthcare System	PRODUCT
+HEALTHX	ORG
+CSS	ORG
+JavaScript	ORG
+Smart Health Care System	ORG
+The Health Prediction  application	ORG
+HTML	GPE
+CSS	ORG
+JAVASCRIPT	ORG
+Coursera  
+	ORG
+Basic Python	ORG
+Hackerrank  
+	ORG
+Basic Python	ORG
+Coursera  
+	ORG
+Data Structure	ORG
+Algorithm	ORG
+Udemy  
+	ORG
+Cyber Security	ORG
+CISCO  
+	ORG
+AI	ORG
+Codequotient  
+	ORG
+3	CARDINAL
+Codechef  
+	ORG
+C++	DATE
+Hackerank	GPE
+Akanksha Rai  
+	ORG

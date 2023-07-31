@@ -1,0 +1,37 @@
+Prajakta Patil	PERSON
+English	LANGUAGE
+Mumbai	PERSON
+Mumbai	GPE
+Uran	GPE
+app	ORG
+Direction & Weather	ORG
+Route | Share Location	WORK_OF_ART
+Lat	PERSON
+June 2016	DATE
+Mumbai University - Maharashtra State Board	ORG
+HSC	ORG
+June 2017	DATE
+2019	DATE
+Mumbai University - CBSC Board	ORG
+Diploma	ORG
+June 2019 - Aug 2021	DATE
+Maharashtra State Board Of Technical Education	ORG
+Mumbai	GPE
+MS - Office /	ORG
+Time Management	ORG
+Advance	PRODUCT
+Core	ORG
+C++	DATE
+Operating System                	FAC
+10),Mac	CARDINAL
+Technology              	PERSON
+Android	PERSON
+Android Studio	PERSON
+Different Layouts	PERSON
+JSE	ORG
+JDBC	ORG
+SQL	ORG
+Hibernate	PERSON
+Two month	DATE
+Java	ORG
+Second	ORDINAL

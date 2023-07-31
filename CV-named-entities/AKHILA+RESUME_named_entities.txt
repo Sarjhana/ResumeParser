@@ -1,0 +1,37 @@
+Kongara Akhila	PERSON
+Bazar	PERSON
+Adigoppula	PERSON
+522612	ORDINAL
+9989749562	DATE
+University/Board	ORG
+B. Tech	PERSON
+CSE	ORG
+Amrita Sai Institute Of	ORG
+2022	DATE
+7.86	CARDINAL
+Narayana Junior	PERSON
+Guntur 
+Board	ORG
+2018	DATE
+90.06%	PERCENT
+St John's	PERSON
+English Medium	EVENT
+Karempudi	PERSON
+2016	DATE
+9.0	CARDINAL
+Programming Languages: Python, Java	WORK_OF_ART
+Database Languages: Sql	WORK_OF_ART
+Technology:	WORK_OF_ART
+Hindu	NORP
+Nationality  
+ 
+ 
+     	PERSON
+Indian	NORP
+Python Programming Certificate	WORK_OF_ART
+Udemy	GPE
+Certificate	ORG
+Udemy	GPE
+Career Edge	PERSON
+Adigoppula                                                                                                    Signature	PERSON
+18-01-2023	DATE

@@ -1,0 +1,24 @@
+Sugandha Sahu	ORG
+Qtr No-2840,Om Vihar Colony	PERSON
+Bhatagao	GPE
+Raipur	GPE
+Chhattisgarh	PERSON
+04/2021 - 09/2022	CARDINAL
+Chhattisgarh	PERSON
+Chhattisgarh,72.91 %	PERCENT
+12th	DATE
+M.G.M Hr	PERSON
+Sec	PERSON
+Korba	GPE
+Chhattisgarh	ORG
+70.40 %	PERCENT
+Physics	ORG
+M.G.M Hr	PERSON
+Sec	PERSON
+Korba	GPE
+Chhattisgarh	ORG
+78.33 %	PERCENT
+C++	DATE
+Ms Excel	PERSON
+Hindi	PERSON
+English	LANGUAGE

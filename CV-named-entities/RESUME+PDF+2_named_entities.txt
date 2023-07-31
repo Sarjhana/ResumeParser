@@ -1,0 +1,42 @@
+Sarah-Myriam Bayebane	PERSON
+07938731477	DATE
+English	LANGUAGE
+the Jean Jaures 
+University (LLCE France	FAC
+University of Birmingham	ORG
+Erasmus	ORG
+UNIVERSITY OF BIRMINGHAM  
+	ORG
+English	LANGUAGE
+Erasmus	ORG
+Year 3	DATE
+JEAN JAURES	PERSON
+FRANCE	GPE
+English	LANGUAGE
+English	LANGUAGE
+American	NORP
+French	NORP
+English	LANGUAGE
+African	NORP
+Farnborough Air	ORG
+2022	CARDINAL
+French	LANGUAGE
+English	LANGUAGE
+JAVA ROASTERY  
+	ORG
+first	ORDINAL
+Microsoft	ORG
+Excel	PRODUCT
+PowerPoint	ORG
+Instagram	PRODUCT
+Tik Tok  
+	ORG
+French	NORP
+English	LANGUAGE
+Spanish	LANGUAGE
+Arabic	LANGUAGE
+Paul Valery	PERSON
+Solidarity	ORG
+Paul Valery Highschool	PERSON
+Avid	PERSON
+3	CARDINAL

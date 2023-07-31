@@ -1,0 +1,26 @@
+1/4/2022 - 1/3/2023	DATE
+2/4/2021 - 30/3/2022	DATE
+Tanisha Singh	PERSON
+150	CARDINAL
+Indralok Nagar	PERSON
+Ratlam(MP	GPE
+Vikram University	ORG
+Figma	GPE
+Adobe Photoshop	ORG
+Adobe XD(Basics	PERSON
+Prototype	PERSON
+HTML	ORG
+MS Ofﬁce	ORG
+Photoshop	PERSON
+Canva	ORG
+NEET	ORG
+IIT/NDA	ORG
+Figma	WORK_OF_ART
+Portfolio Link	PERSON
+Figma	WORK_OF_ART
+Portfolio-	PRODUCT
+https://www.behance.net/gallery/170198119/Mobile-UI-For-Grain-Collection	ORG
+English & Hindi	ORG
+Indian	NORP
+Christian	NORP
+Ratlam	PERSON

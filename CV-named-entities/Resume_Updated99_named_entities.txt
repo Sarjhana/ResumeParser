@@ -1,0 +1,98 @@
+1	CARDINAL
+Inheritance	GPE
+Abstraction	GPE
+ Good in Collection Frameworks	WORK_OF_ART
+Exception Handling	ORG
+ Learnt	PERSON
+Threads	PERSON
+ Good	PERSON
+Eclipse	PRODUCT
+Singleton	ORG
+2	CARDINAL
+SQL	ORG
+ Knowledge	PERSON
+SQL Programming	ORG
+Oracle 10g	EVENT
+ Written SQL	PERSON
+DML	ORG
+DDL	ORG
+TCL	ORG
+DCL	ORG
+SQL Sub	ORG
+3	CARDINAL
+JDBC	ORG
+JDBC	ORG
+ Knowledge	WORK_OF_ART
+ Knowledge	WORK_OF_ART
+Hibernate	PERSON
+ Knowledge	PRODUCT
+ Knowledge	WORK_OF_ART
+OMR	ORG
+Java Persistence	PRODUCT
+4	CARDINAL
+Block Level Elements	ORG
+Descriptive List	PERSON
+ Used Combinator	PERSON
+Pseudo Elements	ORG
+Pseudo Classes
+	PERSON
+ Used Transition Property	WORK_OF_ART
+Vitae	LOC
+Inheritance	GPE
+Abstraction	GPE
+Learnt	PERSON
+Threads	PERSON
+Eclipse	PRODUCT
+Singleton	ORG
+SQL Programming	ORG
+Oracle 10g	EVENT
+SQL	ORG
+DML	ORG
+DDL	ORG
+TCL	ORG
+DCL	ORG
+SQL	ORG
+JDBC	ORG
+JDBC	ORG
+Hibernate	ORG
+Java Persistence	PRODUCT
+Block Level Elements-Inline Level Elements	ORG
+Descriptive List	PERSON
+Semantic	PERSON
+Simple-Selectors	FAC
+Pseudo Elements	PRODUCT
+Pseudo Classes	PERSON
+Transition Property	ORG
+	PRODUCT
+JS	GPE
+ Knowledge on Object	WORK_OF_ART
+Promises	PRODUCT
+5	CARDINAL
+Servlet	PRODUCT
+Signup	NORP
+Servlet	LAW
+Sirasagi village	GPE
+Afzalpur	PERSON
+Activities	ORG
+Cricket	ORG
+Chess	ORG
+BE	GPE
+Appa College	PERSON
+VTU	ORG
+2018-2022	DATE
+9.04	CARDINAL
+Chandrakant Patil Memorial PU College	FAC
+Gulbarga	PERSON
+83.67%	PERCENT
+2018	DATE
+CPEMS	ORG
+Kalaburagi	PERSON
+CBSE Board	ORG
+Delhi	GPE
+2016	DATE
+Gender                           	PERSON
+Indian	NORP
+Kannada	GPE
+English	LANGUAGE
+Hindi	GPE
+Telugu	ORG

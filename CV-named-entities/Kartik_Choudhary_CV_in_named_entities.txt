@@ -1,0 +1,58 @@
+Mumbai	GPE
+India	GPE
+github.com/kartik416	ORG
+Msc Data Analytics	ORG
+Dundalk Institute of Technology	ORG
+Ireland	GPE
+September 2020	DATE
+September 2021	DATE
+Insitute of Engineering	ORG
+Mumbai	GPE
+2015	DATE
+2019	DATE
+SQL	ORG
+Docker	PERSON
+Analysis	WORK_OF_ART
+NLP	ORG
+Covid-19 Data Visualization	PRODUCT
+Serverless Architecture	ORG
+Beautiful Soup and Flask	ORG
+Smart Notice Board	ORG
+Raspberry pi	PERSON
+• Time Series Analysis of Sales Data	EVENT
+CERTIFICATIONS	ORG
+Docker	PERSON
+AWS Technical Essentials	ORG
+AWS	ORG
+Big Data Analytics	ORG
+Hadoop	ORG
+Apache Spark	PERSON
+Avinash Permude	PERSON
+Daljeet Singh Malhotra	PERSON
+Flairlabs	NORP
+Software Engineer	PERSON
+November 2021	DATE
+September 2022	DATE
+Dublin	GPE
+Ireland	GPE
+Analyzed	GPE
+Scrapy	ORG
+millions	CARDINAL
+December 2019	DATE
+July 2020	DATE
+Mumbai	GPE
+India	GPE
+Latex	GPE
+MathJax Library	PERSON
+Bridges	PERSON
+Text Editor	PERSON
+OCR Technology	ORG
+AWS Textract	ORG
+RPA	ORG
+UiPath	ORG
+Alexa	ORG
+August 2019	DATE
+October 2019	DATE
+Mumbai	GPE
+India	GPE
+Identiﬁed	GPE

@@ -1,0 +1,23 @@
+Nitin Sutrakar	PERSON
+nitins2332	CARDINAL
+Mongo DB	PERSON
+Java Script	PERSON
+Profile Link	PERSON
+MERN	PERSON
+MERN Stack	PERSON
+& Redux	WORK_OF_ART
+Node JS & Express	ORG
+Flipkart	ORG
+Date - Mar/2023	PERSON
+UI	NORP
+React JS	PERSON
+Computer Science
+   	PERSON
+University of Allahabad	ORG
+Google	ORG
+React jS	PRODUCT
+IMDB	ORG
+22	CARDINAL
+Date - Dec/2021	PERSON
+Robotics Workshop - 
+	PERSON

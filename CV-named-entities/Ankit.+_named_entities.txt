@@ -1,0 +1,22 @@
+Jind Haryana	PERSON
+21	CARDINAL
+March 22	DATE
+March 2022	DATE
+2017-2021	DATE
+2016	DATE
+SAS Tech Studio	ORG
+Guru Jambheshwar University of Science and Technology	ORG
+Btech Computer	ORG
+Jawahar Navodaya	PERSON
+Khunga Kothi Jind
+	PERSON
+app	ORG
+app	ORG
+Roles	PERSON
+app	ORG
+app	ORG
+kyc	ORG
+excel	GPE
+Kreditserve	GPE
+Financial Transaction	WORK_OF_ART
+Subal Kisan	LOC

@@ -1,0 +1,310 @@
+1	CARDINAL
+9347324583	CARDINAL
+Computer Science & Engineering	ORG
+International Institute of 
+Information Technology	ORG
+Hyderabad	GPE
+Telangana	GPE
+9.13	CARDINAL
+March 2021	DATE
+Research in Computer Science & Engineering	ORG
+International Institute	ORG
+Information Technology	ORG
+Hyderabad	GPE
+Telangana	GPE
+9.0	CARDINAL
+March 2009	DATE
+Computer Science & Engineering - Magadh University	ORG
+Bodhgaya	ORG
+Maulana Azad College of Engineering & Technology	ORG
+Patna	GPE
+Bihar	PERSON
+4 years	DATE
+79.08%	PERCENT
+above 70%	PERCENT
+each year	DATE
+December 2004	DATE
+C++	DATE
+Git	PERSON
+HTML	ORG
+Jenkins	ORG
+Jupyter Notebook, Kubernetes	GPE
+LabelImg	GPE
+Latex	GPE
+Linux	PERSON
+Matlab	PERSON
+NLTK	ORG
+NumPy	GPE
+Pandas	LOC
+Perl	ORG
+PHP	ORG
+PIL	ORG
+Pycharm, Pytest, Python	ORG
+Shell	ORG
+SQL	ORG
+Visual Studio Code	PERSON
+Blaize	GPE
+Hyderabad	GPE
+NLP	ORG
+Computer Vision	ORG
+Data Sciences	ORG
+Analytics Center	ORG
+Data Mining	ORG
+Jan’16 – Sep'18	PERSON
+Computational Core for Plant Metabolomics project	ORG
+IIIT-H	ORG
+Research Assistant	WORK_OF_ART
+Language Technologies Research Center	ORG
+IIIT-H	ORG
+ILMT Treebank	ORG
+Dec’10	CARDINAL
+Research Assistant	WORK_OF_ART
+Infosys SETLabs	ORG
+Center for Data Engineering	ORG
+IIIT-H	ORG
+Aug’09	CARDINAL
+Database Systems	ORG
+Center for Data Engineering	ORG
+IIIT-H	ORG
+Data Mining	ORG
+Numerical Analysis	ORG
+PyTorch	ORG
+LabelImg and Python Image	ORG
+2	CARDINAL
+Python Image	ORG
+PyTorch	NORP
+Deep Learning	WORK_OF_ART
+Python Image	ORG
+Pytorch	NORP
+GUI	PERSON
+BERT	ORG
+NLP	ORG
+ML	PERSON
+Blaize Studio	PERSON
+Python, Git	ORG
+Jenkins	ORG
+NLTK	ORG
+BERT	ORG
+Blaize Studio	PRODUCT
+Computational Core for Plant Metabolomics	ORG
+DBT	ORG
+Govt	ORG
+India	GPE
+Computational Core for Plant Metabolomics	ORG
+CCPM	ORG
+Infosys SETLabs	ORG
+the medical journal 
+	ORG
+Unstructured Information Management 
+Architecture (	ORG
+Eclipse	PRODUCT
+Perl	ORG
+Infosys SETLabs	ORG
+Pro Kabbadi League Hackathon	ORG
+UpGrad	ORG
+September 2019	DATE
+2019	DATE
+Github	GPE
+Hiring Challenge	ORG
+HackerEarth	ORG
+June 2019	DATE
+Built Naive Bayesian	PERSON
+NLP	ORG
+NLP	ORG
+ML	PERSON
+CNN	ORG
+ML	PERSON
+Hadoop	ORG
+Hadoop	NORP
+3	CARDINAL
+Perl	ORG
+Matlab	PERSON
+Perl	ORG
+Mining Chess	GPE
+Perl and Shell	ORG
+PHD THESIS	ORG
+Associative Context Classification	ORG
+Vikram Pudi	PERSON
+Dipti Misra Sharma	PERSON
+NLP	ORG
+Data Mining	ORG
+POS	ORG
+NLP	ORG
+Vikram Pudi	PERSON
+two	CARDINAL
+RBNBC	ORG
+REBMEC	NORP
+Data Warehousing & Data Mining	ORG
+Web Data & Knowledge Management	ORG
+Information Retrieval & Extraction	ORG
+Cloud Computing, Data Compression	ORG
+Recognition	ORG
+Machine Learning	PERSON
+Artificial Neural Networks	ORG
+Coursera Deep Learning Specialization	ORG
+Convolutional Neural Networks	WORK_OF_ART
+Coursera Deep Learning Specialization	ORG
+Sequence Models	WORK_OF_ART
+AI & Development	ORG
+Coursera	ORG
+LinkedIn Learning	ORG
+Advanced AI	ORG
+Transformers for Computer Vision	ORG
+LinkedIn Learning	ORG
+PyTorch	NORP
+LinkedIn Learning	ORG
+NLP	ORG
+LinkedIn Learning	ORG
+2017	DATE
+IIIT Hyderabad	ORG
+COMAD	ORG
+2008	DATE
+DSAA 2014	ORG
+2017	DATE
+2006	DATE
+2010	DATE
+2014	DATE
+Data Mining	ORG
+final year	DATE
+BTech (CSE	ORG
+SVIT College	ORG
+28 October 2016	DATE
+Delhi	GPE
+India	GPE
+September 2016	DATE
+90,000	CARDINAL
+September 2014	DATE
+Shanghai	GPE
+China	GPE
+2008-2010	DATE
+2015-2019	DATE
+IIIT Hyderabad	ORG
+10th	ORDINAL
+1	CARDINAL
+Pratibha Rani	PERSON
+Vikram Pudi	PERSON
+Bayes Classifier	PERSON
+8th	ORDINAL
+IEEE International Conference on Data Mining	EVENT
+989	CARDINAL
+December 2008	DATE
+2	CARDINAL
+Pratibha Rani	PERSON
+Vikram Pudi	PERSON
+REBMEC	PERSON
+14th	ORDINAL
+International Conference on Management of Data	EVENT
+COMAD	ORG
+71-82	DATE
+December 2008	DATE
+3	CARDINAL
+Pratibha Rani	PERSON
+Vikram Pudi	PERSON
+Biological Sequences	ORG
+Pattern Discovery Using	ORG
+Applications and Studies	ORG
+IGI Global	PERSON
+2012	DATE
+4	CARDINAL
+Pratibha Rani	PERSON
+Raghunath Reddy	PERSON
+Devika Mathur	PERSON
+Subhadip Bandyopadhyay	PERSON
+Arijit Laha	PERSON
+Compositional Information Extraction Methodology	ORG
+Medical Reports	ORG
+16th	ORDINAL
+International Conference on Database Systems for Advanced Applications	EVENT
+Part II	ORG
+400	CARDINAL
+April 2011	DATE
+5	CARDINAL
+Pratibha Rani	PERSON
+Vikram Pudi	PERSON
+Dipti Misra Sharma	PERSON
+POS Tagger	PERSON
+Workshop on Interactions	ORG
+@ ECML/PKDD 2014	PRODUCT
+113	CARDINAL
+September 2014	DATE
+6	CARDINAL
+Pratibha Rani	PERSON
+Vikram Pudi	PERSON
+Dipti Misra Sharma	PERSON
+Semisupervised Associative Classification	ORG
+POS Tagging	ORG
+2014	DATE
+International Conference on Data Science and Advanced 
+	EVENT
+DSAA	ORG
+2014	PRODUCT
+156-162	CARDINAL
+October 2014	DATE
+7	CARDINAL
+Pratibha Rani	PERSON
+Vikram Pudi	PERSON
+Dipti Misra Sharma	GPE
+POS	ORG
+International Journal of Data Science and Analytics	ORG
+1	CARDINAL
+123–136	CARDINAL
+Springer International Publishing	ORG
+July 2016	DATE
+8	CARDINAL
+Pratibha Rani	PERSON
+Vikram Pudi	PERSON
+Dipti Misra Sharma	GPE
+14th	ORDINAL
+International Conference	EVENT
+2017	DATE
+503	CARDINAL
+December 2017	DATE
+9	CARDINAL
+Vikram Pudi	PERSON
+Pratibha Rani	PERSON
+Abhijit Mitra	PERSON
+Indira Ghosh	PERSON
+Computational Core for Plant	ORG
+A Case for Interdisciplinary Research	WORK_OF_ART
+2017	DATE
+International Conference	EVENT
+Big Data Analytics	ORG
+BDA	ORG
+2017	DATE
+223	CARDINAL
+Springer	PERSON
+Cham	PERSON
+December 2017	DATE
+5	CARDINAL
+Sreya Mittal	PERSON
+Pratibha Rani	PERSON
+A Shared Task on Word Sense	WORK_OF_ART
+Russian	NORP
+June 2018	DATE
+11	CARDINAL
+Vamshi Krishna Reddy G	PERSON
+Pratibha Rani	PERSON
+Vikram Pudi	PERSON
+Dipti Misra Sharma	PERSON
+Decision Tree	PERSON
+Forum for 
+Information Retrieval Evaluation 2018	ORG
+2018	DATE
+December 2018	DATE
+Vikram Pudi	PERSON
+Data Sciences	ORG
+Analytics Center	ORG
+IIIT Hyderabad	ORG
+Dipti Misra Sharma	PERSON
+Language Technologies Research Center	ORG
+IIIT Hyderabad	ORG
+Kamlakar Karlapalem	PERSON
+Data Sciences	ORG
+Analytics Center	ORG
+IIIT Hyderabad	ORG
+Deepak Bijalwan	FAC
+Blaize	GPE
+Hyderabad	GPE
+Arun Kumar Nagisetty	ORG
+Blaize	GPE
+Hyderabad	GPE

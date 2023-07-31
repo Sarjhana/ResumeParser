@@ -1,0 +1,66 @@
+Dublin	GPE
+Ireland	GPE
+Dublin Business school	ORG
+Dublin	GPE
+Ireland	GPE
+Digitial Marketing	PERSON
+GPA	ORG
+2.1	CARDINAL
+September 2022	DATE
+SEO	ORG
+Dublin	GPE
+Ireland	GPE
+September 2021	DATE
+Qualtrics	ORG
+100	CARDINAL
+Utilize CRM	PRODUCT
+Customer Centric	ORG
+daily	DATE
+Delhi	GPE
+India	GPE
+January 2020 -January 2021	DATE
+16%	PERCENT
+60%	PERCENT
+previous month	DATE
+75%	PERCENT
+Delhi	GPE
+India	GPE
+April 2019	DATE
+HTML	GPE
+CSS	ORG
+10	CARDINAL
+daily	DATE
+daily	DATE
+97%	PERCENT
+Delhi	GPE
+India	GPE
+Inter/Junior	ORG
+April 2016	DATE
+September 2018	DATE
+HCI	ORG
+Association of Student	ORG
+India	GPE
+April 2011	DATE
+May 2015	DATE
+100	CARDINAL
+10	CARDINAL
+Deloitte	ORG
+KPMG	ORG
+Vanguard	ORG
+Kohl	PERSON
+150	CARDINAL
+weekly	DATE
+LinkedIn	ORG
+Second Harvest	PERSON
+Dublin	GPE
+Ireland	GPE
+Techonology & design	ORG
+March 2022	DATE
+May 2022	DATE
+3	CARDINAL
+50	CARDINAL
+SKILLS & INTERESTS	ORG
+Microsoft Office | Adobe	ORG
+| CRM | Problem Solving	PRODUCT
+| Prototyping |
+Wireframing | Data Visualization	PRODUCT

@@ -1,0 +1,197 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Naveen 
+Kandagatla 
+Hyderabad, Telangana, India. 
+ 
++91 9989262918 
+ 
+Naveen0905@gmail.com 
+ 
+https://www.linkedin.com/in/naveenkandagatla/ 
+ 
+ 
+As a seasoned Senior Software Engineering Manager, I bring a unique combination of discipline, 
+optimism, and passion to my leadership role. With over 16 years of experience, I am committed to 
+delivering exceptional software products and building trust within engineering teams. My goal is to 
+inspire and guide my team to success while continuously improving our systems and processes. 
+Technical Skills 
+• 
+Proficient in C#, Asp.net, R, Python, Java, JavaScript, and Node.js 
+• 
+Software Design: Experienced in scalable and distributed software product design 
+• 
+Databases: Knowledgeable in SQL, DocumentDB, KeyValue datastores, and Azure Data Explorer 
+• 
+Distributed Systems: Skilled in implementing Microservices, Service Fabric, Rest API, and API 
+design 
+• 
+Full-stack Development: Full-stack end-to-end development experience 
+• 
+Machine Learning: Familiar with machine learning implementations and worked with data 
+scientists to scale models 
+• 
+Live Site Management: Experience in live site management, Continuous Integration and 
+Continuous Deployment (CICD), Azure DevOps, and Left Shift Engineering process 
+• 
+Diagnostics: Proficient in monitoring, diagnostics, and troubleshooting 
+• 
+Experienced in using Redis, Elastic Search, and Bloom Filter 
+• 
+Architecture: Hands-on experience with architecture patterns and design patterns 
+Leadership Skills 
+• 
+Stakeholder Management: Adept at managing stakeholders and mentoring teams to achieve 
+shared goals. 
+• 
+Model, Coach & Care Philosophy: Strongly committed to the philosophy of leading by example, 
+coaching, and caring for team members. 
+• 
+Cross-functional & Cross-geo Teams: Experienced in leading and working effectively with 
+diverse, cross-functional, and cross-geographic teams. 
+• 
+Partner & Stakeholder Relationships: Skilled in building strong relationships with partners, 
+stakeholders, and customers to develop a clear product roadmap. 
+• 
+Customer-focused: Strong focus on putting the customer first, delivering value, and 
+continuously improving the customer experience. 
+• 
+Talent & Vendor Management: Experienced in recruiting top talent, managing vendors, and 
+building a high-performing team. 
+• 
+Team Building: Successful track record of building teams from scratch and setting a clear vision 
+and roadmap for their success. 
+ 
+ 
+ 
+ 
+ 
+2 
+Education 
+• 
+DEC 2015: Completed Certificate in Engineering Excellence, Big Data Analytics & Optimization 
+from Internal School of Engineering in Hyderabad. 
+• 
+JUNE 2002 to MAY 2006: Earned B.E in Electronics & Communication from Osmania University in 
+Hyderabad. 
+Experience 
+APRIL 2022 - PRESENT 
+Senior Engineering Manager/ Fabric, Remote 
+ 
+Platform components for B2C scenario 
+Role: Senior Engineer Manager & leading a team of 9 (in Growth Stage). 
+• 
+Platform Development: Led the development of a horizontal platform team to address key 
+product requirements such as authentication and authorization, data publishing platform 
+(syndication), and workflow automation (BPMN). 
+• 
+Partner & Customer Engagement: Drove discussions with partners, delivery teams, system 
+implementers, and customers to gather requirements and deliver solutions. 
+• 
+Product Roadmap: Created a roadmap with phased approaches, including MLP, P0, and P1 
+items, and defined clear KPIs to measure success. 
+• 
+Architectural Changes: Driven design and architectural changes to meet clearly defined goals 
+and improve the overall platform. 
+• 
+Live Site Management: Managed the live site of applications and ensured continuous 
+improvement through engineering and performance optimizations. 
+• 
+Team Leadership: Coached teams, fostered transparency, and was responsible for team growth 
+and development. 
+• 
+Resource Management: Managed resources and capacity planning to ensure the delivery of 
+high-quality products and services. 
+• 
+Vendor Negotiations: Participated in negotiations with 3rd-party software vendors and pricing 
+to align with the company's long-term vision. 
+ 
+MAY 2012 – APRIL 2022 
+Senior Software Engineering Manager/ Microsoft, Hyderabad 
+ 
+Office 365 Security Product (Microsoft Defender for Office) 
+Role: Senior Software Engineer Manager & leading a team of 10. 
+• 
+Defender for Office: Contributed to the Office 365 Security Product (Microsoft Defender for 
+Office) by processing logs, improving user experiences, generating alerts, and building data 
+pipelines for researchers. 
+• 
+Data Processing: Handled terabytes of data daily, ensuring the scalability, reliability, and 
+observability of the system. 
+• 
+Microservices & API Design: Designed and implemented microservices, APIs, and defined SLOs 
+and KPIs to improve system performance. 
+ 
+ 
+ 
+ 
+3 
+• 
+Global Collaboration: Worked with teams across multiple geographies (U.S., Israel, China, India) 
+to achieve common goals. 
+• 
+Product Roadmap: Collaborated with stakeholders and product owners to create a roadmap for 
+the future of the application. 
+• 
+Live Site Management: Managed the live site of the application and ensured continuous 
+improvement through engineering and performance optimizations. 
+• 
+Team Leadership: Coached teams, fostered transparency, and was responsible for team growth 
+and development. 
+• 
+Architectural Changes: Led the design and execution of architectural changes in the system to 
+improve performance and scalability. 
+Unified Telemetry Platform CSEO DevOps, Learning & Readiness 
+As a Senior Software Engineer,  
+• 
+was part of a common telemetry platform used by hundreds of applications generating 250TB of 
+data monthly.  
+• 
+Participated in architectural discussions and worked with multiple teams to standardize schema 
+and measure the health of all applications uniformly. Implemented autocorrelation of telemetry 
+events with SDKs in various languages. 
+As a Software Engineering II,  
+• 
+defined and executed consistency measures for the team's engineering hygiene across the 
+organization.  
+• 
+Extended the SonarQube AAD plugin for enterprise needs and created data pipelines for builds, 
+releases, and pull request details.  
+• 
+Explored and implemented machine learning opportunities in the learning domain such as 
+recommendations and clustering and enhanced the application architecture to integrate with 
+machine learning models.  
+• 
+Participated in integration with SuccessFactors, Pluralsight, LinkedIn Learning, and Orielly. 
+JULY 2010 – APRIL 2012 
+Senior Software Engineer/Thomson Reuters, Hyderabad 
+• 
+Played Major Role in Design, Development & Testing phase of implementing Point-in-time 
+import functionality. 
+• 
+Played Major Role in Architecture of the import functionality in Point-in-time. 
+• 
+Worked on enhancing performance of some of the existing features. 
+• 
+Interacting with the Business team to gather the new requirements for every release. 
+ 
+NOVEMBER 2006 – JUNE 2010 
+Associates - Projects/Cognizant Technology Solutions, Hyderabad 
+• 
+Experienced complete SDLC  
+• 
+Worked with client on business requirements.  
+• 
+Involved in implementing the Replication for a specific project requirement. 
+• 
+Played vital role in Architecture design and implementation of Video Analytics module. 
+• 
+Was part of Deployment of the application. 
+• 
+Participated in internal & CMM Level audits. 

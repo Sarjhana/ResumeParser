@@ -1,0 +1,70 @@
+Islamabad	GPE
+Pakistan	GPE
+3171141678	CARDINAL
+September 2025	DATE
+Bachelor of Science:	WORK_OF_ART
+Air University	ORG
+Islamabad	GPE
+September 2021	DATE
+Nova College	ORG
+Islamabad	GPE
+A Levels Physics	ORG
+Math, Chemistry	ORG
+September 2019	DATE
+Levels	ORG
+Nova School	ORG
+Islamabad	GPE
+9	CARDINAL
+Duolingo English	PERSON
+140	CARDINAL
+SUMMARY	ORG
+4 years	DATE
+February 2023	DATE
+Tommy Sugo Perth Australia	PERSON
+January 2023	DATE
+Graphic Designer	PERSON
+January 2020	DATE
+The Capital High Academy	ORG
+User Interface	PERSON
+Coursera	PERSON
+Udemy	GPE
+Digital Graphics	ORG
+VOLUNTEER WORK	PERSON
+Designer Responsible	WORK_OF_ART
+US	GPE
+UK	GPE
+Canadian	NORP
+Cornell University USA  
+Delegate	ORG
+MUN	ORG
+USA 
+Fundraiser 2021	ORG
+Pakistan	GPE
+Volunteer	PRODUCT
+Campus	NORP
+summer	DATE
+Cornell	PERSON
+Modern United Nation |
+USA,	ORG
+2020	DATE
+MUN	ORG
+2020	DATE
+Pakistan	GPE
+WWF Eco	PERSON
+2019	DATE
+January 2019	DATE
+Social Media	ORG
+October 2021 - January 2022	DATE
+Paramount Students Internship	ORG
+over 20	CARDINAL
+US	GPE
+Canadian	NORP
+UK	GPE
+Cornell Modern United Nations	ORG
+2020	DATE
+140	CARDINAL
+British	NORP
+Webinars	ORG
+Zulm Mitao	ORG
+English	LANGUAGE
+Air University Startup Club	ORG

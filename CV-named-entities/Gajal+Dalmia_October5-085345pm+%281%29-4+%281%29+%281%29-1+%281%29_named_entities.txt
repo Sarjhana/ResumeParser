@@ -1,0 +1,21 @@
+Gajal Dalmia	ORG
+Sambalpur	GPE
+Odisha	GPE
+768005	DATE
+Indian	NORP
+Hindu	NORP
+04/2020 - 04/2022	CARDINAL
+Customer Support-Operations	ORG
+Maintains	ORG
+first	ORDINAL
+Mentorbox	FAC
+VSSUT	ORG
+BURLA	ORG
+CBSE Board	ORG
+Vikash Bargarh	PERSON
+71%	PERCENT
+10/2000 - 05/2012	CARDINAL
+9.6	CARDINAL
+Time	ORG
+Ms Ofﬁce-Ms Excel	PERSON
+Ms Word	PERSON

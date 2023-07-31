@@ -1,0 +1,33 @@
+SHAMANTH K S  
+	ORG
+8951816294	CARDINAL
+16/01/1997	ORDINAL
+Filmmaker	ORG
+India	GPE
+Film and television institute	ORG
+India	GPE
+three-year	DATE
+the year 2019	DATE
+Davinci Resolve	PERSON
+More than three years	DATE
+Blender	PERSON
+VFX	GPE
+More than three years	DATE
+2D	CARDINAL
+Digital	ORG
+D.I	PERSON
+Davinci	NORP
+Davinci	NORP
+Aarohana	GPE
+Mysore	GPE
+DI	ORG
+VFX	ORG
+VFX	ORG
+Blender	ORG
+VFX	ORG
+Video	ORG
+Goodworker	GPE
+TVS	ORG
+3d	CARDINAL
+2d	CARDINAL
+2D	CARDINAL

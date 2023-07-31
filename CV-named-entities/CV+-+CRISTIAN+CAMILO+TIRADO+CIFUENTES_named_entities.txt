@@ -1,0 +1,54 @@
+MBA	ORG
+3204062329	DATE
+University of Research and Development | Feb	ORG
+Dec 2020	DATE
+Quality Management	ORG
+Operations Research II	ORG
+the Direction, Control and Execution	ORG
+SQL	ORG
+Amazon Web Services	ORG
+Microsoft Azure - Power BI	ORG
+Kubernetes-Docker	ORG
+English	LANGUAGE
+80%	PERCENT
+ANALYTICS	ORG
+Pontifical Xavierian	PERSON
+CRISP-DM	ORG
+ANALYTICS	ORG
+La Salle	PERSON
+Aug	PERSON
+Aicad Business	PERSON
+May 2023-	DATE
+Master's Degree in Artificial Intelligence	WORK_OF_ART
+A W A R D S
+	WORK_OF_ART
+Industrial Engineering	ORG
+Pontificia Bolivarian University	ORG
+the Department of Santander	ORG
+771	CARDINAL
+Business Administration	ORG
+Ergonomics Pontificia Universidad	LOC
+University of California-	ORG
+Berkeley	ORG
+Pontificia Bolivarian	PERSON
+2011 - 2016	DATE
+Pontificia Javeriana	PERSON
+BUSINESS ADMINISTRATION	ORG
+Barcelona European Business School	ORG
+Isabel	GPE
+2016	DATE
+AWS Cloud Practicioner - Platzi	ORG
+AWS Services - Platzi	ORG
+SQL - Datacamp
+Data Analyst	ORG
+Python - Datacamp	FAC
+Cloud Digital Leader	PERSON
+Python - Datacamp	ORG
+HSEQ	ORG
+Logistics-Distribution and Human Talent	ORG
+Florida Automobile School	ORG
+Florida School of Motoring| Sep	ORG
+2016 - Dec 2017	DATE
+2016 - Dec 2017	DATE
+HSEQ	ORG
+Logistics-Distribution and Human	ORG

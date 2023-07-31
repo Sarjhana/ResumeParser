@@ -1,0 +1,19 @@
+MOHAMED SULTHAN M	PERSON
+India	GPE
+8124838657	DATE
+Buff Creative College	ORG
+B.Tech(Information	CARDINAL
+75%	PERCENT
+89%	PERCENT
+10 Weeks	DATE
+Figma	GPE
+Balsamiq	PERSON
+1 Week	DATE
+1 Week	DATE
+Bike Showroom-Dashboard-Desktop	ORG
+Tech	NORP
+English	LANGUAGE
+Adobe Photoshop	PERSON
+Adobe Illustrator	ORG
+Balsamiq	PERSON
+Designing-Buff Creative College-	ORG

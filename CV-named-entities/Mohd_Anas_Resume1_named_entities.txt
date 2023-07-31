@@ -1,0 +1,21 @@
+Mohd Anas	ORG
+India	GPE
+Inter College	ORG
+May 2017	DATE
+India	GPE
+Jul 2018	DATE
+India	GPE
+Springdale College Of Management Studies	ORG
+2019	DATE
+India	GPE
+2022	DATE
+Delhi	GPE
+India	GPE
+Python	ORG
+Python,Flask	ORG
+MySql	ORG
+English	LANGUAGE
+Breast Cancer	ORG
+Python	WORK_OF_ART
+Mohd Anas	PERSON
+Delhi	GPE

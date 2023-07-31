@@ -1,0 +1,57 @@
+Yaldarkar Colany	GPE
+Basmat Road	FAC
+431401	CARDINAL
+3+ years	DATE
+ML	PERSON
+NLP	ORG
+Anaconda	GPE
+NumPy, Pandas	GPE
+Seaborn	GPE
+NLTK	ORG
+AWS	ORG
+English	LANGUAGE
+Hindi	PERSON
+Machine Learning	ORG
+KNN	ORG
+Decision Tree	PERSON
+Random Forest	ORG
+Adaboost	ORG
+K-Means Clustering	ORG
+PCA	ORG
+Scikit-Learn	PERSON
+Pandas	LOC
+NumPY	DATE
+Text Pre-Processing	PERSON
+NLP	ORG
+NLTK	ORG
+Gensim	PERSON
+Tf-IDf	PERSON
+Word2Vec	PRODUCT
+Programming Languages : Python	WORK_OF_ART
+Database Languages	PERSON
+SQL	ORG
+Postman	GPE
+Excel	PRODUCT
+Windows	PRODUCT
+Linux	PERSON
+& Co-ordination	ORG
+Machine Learning	ORG
+Roles	PERSON
+3	CARDINAL
+3+ Years	DATE
+Bitwise	ORG
+Machine Learning Engineer	ORG
+April	DATE
+Jalgaon |
+	PERSON
+Niwasi Jr. College	ORG
+63.85%	PERCENT
+Gandhi Vidhlaya	PERSON
+82.55%	PERCENT
+20 / 10 / 1996	DATE
+Marital Status	WORK_OF_ART
+2	CARDINAL
+ML	PERSON
+ML	PERSON
+Bag	NORP
+TF-IDF Word2Vec	ORG

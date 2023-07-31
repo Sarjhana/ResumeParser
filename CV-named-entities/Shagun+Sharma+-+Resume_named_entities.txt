@@ -1,0 +1,36 @@
+Shagun Sharma	PERSON
+UI/UX Designer	ORG
+nurture.farm	ORG
+April 2022	DATE
+Bengaluru	PERSON
+digital ag	ORG
+app	ORG
+app	ORG
+SellerFirst	ORG
+December 2021 - April 2022	DATE
+Bengaluru	ORG
+Spring	DATE
+June 2018	DATE
+Mumbai	GPE
+Thane Streetscapes	FAC
+Smart City Initiative	GPE
+13km	QUANTITY
+Thane 
+district	FAC
+Google UX Design Course	WORK_OF_ART
+Balwant Sheth School of Architecture	ORG
+Mumbai	GPE
+Rapid	PERSON
+Agile & lean UX	ORG
+Usability	ORG
+Journey	PERSON
+Personas	PERSON
+Figma	PERSON
+Adobe XD	GPE
+Adobe CC	ORG
+Miro	GPE
+Rhinoceros
+ACHIVEMENTS	PERSON
+Beyond	PERSON
+October	DATE
+August	DATE

@@ -1,0 +1,42 @@
+Aditya Sharma	PERSON
+Technical	WORK_OF_ART
+Jaipur	GPE
+India	GPE
+7.12/10	CARDINAL
+ThirdEye Data	ORG
+12/2022 - Present	PERCENT
+DB	ORG
+Android	PERSON
+IOS	ORG
+Cordova	GPE
+JS	GPE
+HTML	ORG
+CSS	ORG
+Mahindra Logistics	PERSON
+3rd party payroll of	ORG
+Appture Technology	ORG
+React	GPE
+3	CARDINAL
+Mahindra Logistics	PERSON
+1	CARDINAL
+BA Portal (Backend	ORG
+2	CARDINAL
+Complaints Management	ORG
+3	CARDINAL
+Management Portal	ORG
+Angular	ORG
+Software Developer Internship 
+	PERSON
+MAQ Software	PERSON
+2	CARDINAL
+1	CARDINAL
+2	CARDINAL
+2	CARDINAL
+OOPS	ORG
+Javascript	PERSON
+Cordova	PERSON
+Driving Car	WORK_OF_ART
+Driving Car	WORK_OF_ART
+INTERNATIONAL JOURNAL OF CURRENT	ORG
+IJCESR	ORG
+English	LANGUAGE

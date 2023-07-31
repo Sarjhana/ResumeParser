@@ -1,0 +1,22 @@
+this century	DATE
+April 2022	DATE
+25%	PERCENT
+30%	PERCENT
+ORM	ORG
+Big Bang Social	PERSON
+October 2022- January 2023	DATE
+February 2023 - March 2023	DATE
+Social Media	ORG
+Mass Media	GPE
+2019	DATE
+English	LANGUAGE
+9096300986	CARDINAL
+April 2022	DATE
+Instagram	PRODUCT
+daily	DATE
+CERTIFICATIONS	ORG
+Digital Marketing	ORG
+Social Media Marketing	ORG
+Customer Care Advisor	ORG
+Teleperformance Global pvt ltd	EVENT
+February 2022	DATE

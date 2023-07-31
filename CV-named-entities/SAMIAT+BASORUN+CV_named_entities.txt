@@ -1,0 +1,32 @@
+MA Corporate Communications	ORG
+PR	ORG
+Nike	ORG
+Social Media	ORG
+Digital	ORG
+Social Media Project	ORG
+Marketing Arts Events	ORG
+Birmingham	GPE
+Children's Hospital	ORG
+@SamiatBasorun	NORP
+Microsoft Office Efficiency	ORG
+Market Research	ORG
+Time Management	ORG
+Customer Service	ORG
+Social Media	ORG
+Skills	PERSON
+State	ORG
+AUGUST 2019 -
+SEPTEMBER 2019	DATE
+Social Media Marketing	ORG
+Marketing	GPE
+University of Leeds |	ORG
+2:1	CARDINAL
+Student Media Club	ORG
+Social Media	ORG
+Digital	ORG
+Social Media Project	ORG
+Bachelor of Arts in Media and Communications	WORK_OF_ART
+2022	DATE
+Coventry University	ORG
+SEPTEMBER	ORG
+2019-JULY 2022	DATE

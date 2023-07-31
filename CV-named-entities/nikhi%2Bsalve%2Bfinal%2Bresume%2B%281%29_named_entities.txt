@@ -1,0 +1,38 @@
+1	CARDINAL
+HTML	ORG
+CSS	ORG
+Bootstrap	ORG
+JavaScript	ORG
+MVT	ORG
+Postman	GPE
+My-SQL	PERSON
+SQL	ORG
+Hospital Management System	ORG
+Hospital Management System	WORK_OF_ART
+Front	ORG
+Hospital Management	ORG
+Login	PERSON
+Our project Hospital Management	ORG
+Login	PERSON
+User	PRODUCT
+One	CARDINAL
+Administration Level	ORG
+one	CARDINAL
+Nikhil Dattatray Salve	PERSON
+Sonewadi	GPE
+Post	GPE
+Tal	PERSON
+Nagar	PERSON
+Ahmednagar	PERSON
+Maharashtra	ORG
+2	CARDINAL
+DETAILS	ORG
+Problem Solving	PERSON
+Perfect IT Solution	EVENT
+Diploma	GPE
+Computer	GPE
+2022	DATE
+8th December 2002	DATE
+English	LANGUAGE
+Effective Presentation, Management	ORG
+Nikhil Dattatray	PERSON

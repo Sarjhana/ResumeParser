@@ -1,0 +1,171 @@
+Quarterly	DATE
+Vodafone Group	ORG
+London	GPE
+London	GPE
+England	GPE
+United Kingdom	GPE
+19 years	DATE
+UK	GPE
+India	GPE
+USA	GPE
+Germany	GPE
+Singapore	GPE
+Malaysia	GPE
+Kuwait	GPE
+Board	ORG
+Audit Review Committee	ORG
+Vodafone Ghana	PERSON
+Partnerships, Business Optimisation	ORG
+Spectrum auctions	ORG
+£200 mn	MONEY
+11	CARDINAL
+8bn	ORDINAL
+Capex	ORG
+India	GPE
+VF Group Exco	ORG
+Indian School of Business	ORG
+Mechanical Engineering	ORG
+IIT	ORG
+Delhi	GPE
+London Business
+School	ORG
+Digital Transformation	ORG
+MIT	ORG
+Sloan	PERSON
+12 years	DATE
+Inspire	ORG
+13 years 3 months	DATE
+Corporate Development & Strategic Initiatives	ORG
+February 2023	DATE
+6 months	DATE
+London	GPE
+England	GPE
+United Kingdom	GPE
+VF UK	ORG
+Three	CARDINAL
+UK	GPE
+Vodafone Group	ORG
+August 2020 - 	DATE
+February 2023	DATE
+2 years 7 months	DATE
+September 2018 	DATE
+August 2020	DATE
+2 years	DATE
+London	GPE
+United Kingdom	GPE
+SA	ORG
+Internationals	GPE
+Egypt	GPE
+Ghana	GPE
+Aus	GPE
+Ken	PERSON
+Valuations	ORG
+Spectrum auctions	ORG
+Capex	ORG
+Balance Sheet	GPE
+quarterly	DATE
+half yearly and	DATE
+yearly	DATE
+four	CARDINAL
+CFO/RLT	ORG
+Group CFO	PERSON
+Group Finance	ORG
+Group M&A	ORG
+Opcos	PERSON
+CFO	ORG
+FP&A	ORG
+Budgeting, Planning	ORG
+Opcos	ORG
+Exco Ops Review	ORG
+Region Governance including Board	ORG
+Audit committee	ORG
+VP- Financial Planning & Analysis	ORG
+September 2014	DATE
+September 2018	DATE
+4 years 1 month	DATE
+Mumbai Area	GPE
+India	GPE
+7,000-10,000	CARDINAL
+CR	NORP
+May 2010	DATE
+September 2014	DATE
+4 years 5 months	DATE
+Spectrum	ORG
+Spring	GPE
+M&A	ORG
+three	CARDINAL
+2.7	MONEY
+£700m	MONEY
+M&A	ORG
+VIL India	ORG
+first	ORDINAL
+VIL	ORG
+JV	ORG
+2	CARDINAL
+23	CARDINAL
+Indian Exco	ORG
+VIL	ORG
+Indian	NORP
+VIL	ORG
+VIL	ORG
+Sistema Shyam Teleservices Ltd	ORG
+July 2009 	DATE
+May 2010	DATE
+11 months	DATE
+six	CARDINAL
+Delhi	GPE
+Mumbai	GPE
+Karnataka	GPE
+AP	ORG
+Haryana	PERSON
+Maharashtra	ORG
+SCM	ORG
+Circle	ORG
+Diamond Management and Technology Consultants	ORG
+May 2006 - 	DATE
+June 2009	DATE
+3 years 2 months	DATE
+six	CARDINAL
+India	GPE
+Middle East	LOC
+US	GPE
+Business Strategy	ORG
+Program Management	ORG
+Performance Improvement	ORG
+3	CARDINAL
+BWA	ORG
+India	GPE
+2	CARDINAL
+India	GPE
+India	GPE
+India	GPE
+INR	ORG
+June 2002	DATE
+April 2005	DATE
+2 years 11 months	DATE
+four	CARDINAL
+Consumer Electronics	ORG
+five	CARDINAL
+Singapore	GPE
+Malaysia	GPE
+Germany	GPE
+USA	GPE
+India	GPE
+Malaysia	GPE
+daily	DATE
+London Business School
+MBA	ORG
+2006 - 2007	DATE
+Indian School of Business
+MBA	ORG
+2005 - 2006	DATE
+Indian School of Business
+MBA	ORG
+2005 - 2006	DATE
+Indian Institute of Technology	ORG
+Delhi	GPE
+Mechanical Engineering	ORG
+1998	DATE
+2002	DATE
+4	CARDINAL
+4	CARDINAL

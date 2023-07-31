@@ -1,0 +1,38 @@
+Bihar	PERSON
+DOB	PERSON
+08	CARDINAL
+1999	DATE
+https://www.linkedin.com/in/gaurang-	PERSON
+2019	DATE
+the last 3 years	DATE
+Amrit Varsha News	ORG
+Anchor	NORP
+Field Reporter	ORG
+2021	DATE
+1130	DATE
+Honda	ORG
+Cbr 250	PRODUCT
+Buxar ~	WORK_OF_ART
+Valmikinagar ~	PERSON
+Buxar	PERSON
+4 days	DATE
+Buxar To Parasnath	LOC
+600 kms	QUANTITY
+GP FILMS	ORG
+2019-2022	DATE
+Journalism	NORP
+7.5	CARDINAL
+PATNA UNIVERSITY	ORG
+Vehicle Speci	ORG
+Video Editing
+	PRODUCT
+Videos	PERSON
+Bike Traveller	PERSON
+Bajaj Motors	ORG
+Kia Motors	ORG
+KIA	NORP
+Outdoor Gaming	PERSON
+Hindi	PERSON
+English	LANGUAGE
+Bihar	PERSON
+2017	DATE

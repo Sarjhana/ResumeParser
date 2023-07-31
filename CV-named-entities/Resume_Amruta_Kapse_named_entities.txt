@@ -1,0 +1,15 @@
+Couchbase	PERSON
+Mockito	PERSON
+9021445198	CARDINAL
+Maharashtra	ORG
+1+ years	DATE
+Java	ORG
+Spring	DATE
+MBMP-CRM applications(Microservice	PRODUCT
+CRM	PRODUCT
+Product Catalogs [Cart, Items	ORG
+Acceptance Testing	PERSON
+JWT	GPE
+Pick N SaveMart	ORG
+Digital MarketingSolution Provider	ORG
+PUNE UNIVERSITY	ORG

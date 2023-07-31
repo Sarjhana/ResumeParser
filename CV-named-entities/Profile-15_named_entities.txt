@@ -1,0 +1,122 @@
+abhinavan1639	PERSON
+Microsoft Excel	PERSON
+Hindi	PERSON
+(Professional Working	ORG
+English	LANGUAGE
+Telugu	PERSON
+Google Data Analytics Capstone	ORG
+Power BI Data	PRODUCT
+RP0101EN	CARDINAL
+Honors-Awards	EVENT
+101	CARDINAL
+Python Badge	ORG
+Abhinavan Sarikonda	PERSON
+Data Analyst	ORG
+| Excel	PERSON
+Tableau | Statistics	ORG
+Hyderabad	PERSON
+Telangana	GPE
+India	GPE
+Data Science	ORG
+Malla Reddy Engineering
+College	ORG
+Hyderabad	GPE
+87%	PERCENT
+Microsoft Power BI	ORG
+Excel	PRODUCT
+Power BI	PRODUCT
+Tableau	ORG
+TensorFlow	ORG
+NumPy, Pandas, Matplotlib	GPE
+1	CARDINAL
+5	CARDINAL
+15	CARDINAL
+IBM	ORG
+75	CARDINAL
+June 2023	DATE
+2 months	DATE
+India	GPE
+1 year	DATE
+October 2022	DATE
+10 months	DATE
+Hyderabad	GPE
+Telangana	GPE
+India	GPE
+September 2022	DATE
+11 months	DATE
+Newsletter	ORG
+Newsletter	PERSON
+August 2022	DATE
+1 year	DATE
+2	CARDINAL
+5
+ 
+ 
+	QUANTITY
+LinkedIn Group	ORG
+AI	GPE
+the ivory tower	FAC
+Microsoft	ORG
+Microsoft	ORG
+MLSA	ORG
+November 2022	DATE
+December 2022	DATE
+2 months	DATE
+India	GPE
+3000	CARDINAL
+20	CARDINAL
+Performed Exploratory Data Analysis	ORG
+Performance Metric	PERSON
+83.24%	PERCENT
+79.28%	PERCENT
+September 2022	DATE
+October 2022	DATE
+2 months	DATE
+Hyderabad	GPE
+Telangana	GPE
+India	GPE
+May 2022	DATE
+October 2022	DATE
+6 months	DATE
+India	GPE
+0	CARDINAL
+1	CARDINAL
+3	CARDINAL
+5	CARDINAL
+15 years	DATE
+4000	CARDINAL
+76.2% to 86.61%	PERCENT
+85%	PERCENT
+The Sparks Foundation	ORG
+April 2022	DATE
+May 2022	DATE
+2 months	DATE
+India	GPE
+25	CARDINAL
+CSS	ORG
+Performed Transactions	ORG
+History Section	FAC
+Malla Reddy Engineering College	ORG
+ECE	ORG
+June 2019	DATE
+July 2023	DATE
+Coursera	PERSON
+Google Data Analytics Professional Certificate	ORG
+Data Processing	ORG
+Technician	NORP
+April 2022	DATE
+October 2022	DATE
+Computer and Information Sciences	ORG
+July 2022 	DATE
+August 2022	DATE
+Sri Chaitanya College of Education	ORG
+MPC	ORG
+June 2017	DATE
+April 2019	DATE
+4	CARDINAL
+5	CARDINAL
+Bangalore	GPE
+February 2016	DATE
+March 2017	DATE
+5	CARDINAL
+5	CARDINAL

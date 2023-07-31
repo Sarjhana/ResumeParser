@@ -1,0 +1,77 @@
+Dhritiman Nandi	ORG
+Analytics	WORK_OF_ART
+Astute	ORDINAL
+Mumbai	GPE
+India	GPE
+SQL	ORG
+GCP	ORG
+2023/02 - 
+ 
+Senior	PERSON
+Dun & Bradstreet	ORG
+Mumbai	GPE
+MDA	ORG
+weekly	DATE
+monthly	DATE
+Analytics	ORG
+RPG Enterprises	ORG
+Mumbai	GPE
+HML	ORG
+GIS	ORG
+130%	PERCENT
+one	CARDINAL
+century	DATE
+2019/09	CARDINAL
+General Mills	ORG
+Mumbai	GPE
+Research New Algorithm	ORG
+70% to 92%	PERCENT
+monthly	DATE
+around 84%	PERCENT
+Generate	ORG
+monthly	DATE
+95%	PERCENT
+2019/01	CARDINAL
+2019/09	CARDINAL
+New Delhi	GPE
+ZEVAC	PERSON
+PoC	ORG
+2016/08	CARDINAL
+Shell	PERSON
+Horizon H3	PRODUCT
+Royal Dutch Shell	ORG
+Examine	ORG
+the Defect Management Team	ORG
+2008/12	CARDINAL
+2013/04	CARDINAL
+JPMC	ORG
+80%	PERCENT
+2018-07	DATE
+Indian Statistical Institute - Kolkata	ORG
+Quality, Reliability & Operations Research	ORG
+a two year	DATE
+first	ORDINAL
+Indian Statistical Institute	ORG
+1989	DATE
+Statistical	ORG
+Operations Research, Optimization, Business analytics	ORG
+Database	PERSON
+Statistical Quality Control & Reliability	ORG
+Statistics	ORG
+2004-07	DATE
+2008-07	DATE
+IIEST - Shibpur	ORG
+Oracle Certified Professional	ORG
+11	CARDINAL
+Curriculum Group	ORG
+Specimens Only 
+Research	ORG
+Internships  
+Organization	ORG
+BLP	ORG
+Beer Market 
+	PRODUCT
+Limited	PRODUCT
+first	ORDINAL
+MLR	ORG
+2017	DATE

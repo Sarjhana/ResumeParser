@@ -1,0 +1,38 @@
+two years	DATE
+Social Media Marketer	ORG
+Konsole Indya	PERSON
+SEO	ORG
+Crea�	PERSON
+Social Media	ORG
+Customer	GPE
+CII Chha	PERSON
+Writer	PERSON
+2022 - Feb 2023	DATE
+Alco Foods	ORG
+Amazon	ORG
+Marke�ng Campaigns	WORK_OF_ART
+Keyword Research	ORG
+Amazon	ORG
+2020 - Aug 2020	DATE
+Covid	PERSON
+The ISO Consult	ORG
+30	CARDINAL
+the Lead genera	FAC
+Master of Business Administra�	WORK_OF_ART
+Bachelor of Business Administra�	WORK_OF_ART
+Maharaja Agrasen	PERSON
+Interna	GPE
+College / Raipur / 2018	ORG
+Mahima Agrawal	PERSON
+Raipur	GPE
+India	GPE
+Social Media Management	ORG
+SEO	ORG
+Writer	ORG
+Keyword Reasearch	ORG
+Adobe Photoshop	PERSON
+Freelance Wri	PERSON
+Digital Marke	PERSON
+Adobe Photoshop	PERSON
+SRIIT Computers	ORG
+N.H. Goel	ORG

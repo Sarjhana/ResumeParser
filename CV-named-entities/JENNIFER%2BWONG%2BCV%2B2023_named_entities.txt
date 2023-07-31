@@ -1,0 +1,72 @@
+Jennifer Wong	PERSON
+8-10	DATE
+Customer	GPE
+First	ORDINAL
+2019 - 2023	DATE
+Norwich	PERSON
+BA Business Management	ORG
+Digital Marketing	ORG
+The Service              
+                                        Economy	ORG
+Shopper Marketing	PERSON
+International Business 
+                             
+	ORG
+2021-2022	DATE
+South Korea	GPE
+4.0	CARDINAL
+GPA	ORG
+Korean Media Industry	ORG
+Understanding Korean Chaebol Enterprises 
+                                       - Presentations:	ORG
+New Product & Innovation Strategy	ORG
+2017 - 2019	DATE
+Copleston Sixth Form	ORG
+Ipswich	ORG
+English	LANGUAGE
+2013 - 2017	CARDINAL
+Copleston High School	ORG
+Ipswich	ORG
+two	CARDINAL
+English	LANGUAGE
+four	CARDINAL
+two	CARDINAL
+Bs	GPE
+three	CARDINAL
+English	LANGUAGE
+Cantonese	NORP
+Chinese	NORP
+Korean	NORP
+September - January 2023	DATE
+CRM	ORG
+Instagram	PRODUCT
+Twitter	ORG
+LinkedIn	ORG
+Salesforce	ORG
+September 2021- June 2022	DATE
+Korean	NORP
+Korean	NORP
+Korean	NORP
+my year	DATE
+an Introductory Korean Course	PRODUCT
+December 2017	DATE
+Chinese	NORP
+Ipswich	GPE
+Front House Customer Service	ORG
+Cantonese	LANGUAGE
+English	LANGUAGE
+8	CARDINAL
+2017	DATE
+2019	CARDINAL
+Ipswich	GPE
+annually	DATE
+Chinese	NORP
+New Year	EVENT
+100	CARDINAL
+November 2021	DATE
+South Korea	GPE
+Q&A	ORG
+UGC	ORG
+700	CARDINAL
+Hip Hop Competition Team	ORG
+UEA Dance Society	ORG

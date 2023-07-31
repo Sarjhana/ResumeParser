@@ -1,0 +1,29 @@
+GOPINATH	ORG
+01/12/1999	DATE
+Indian	NORP
+KOTTAYAM	ORG
+DIST	ORG
+686653	DATE
+India	GPE
+	CARDINAL
+India	GPE
+Java	ORG
+Troubleshot	ORG
+Veriﬁed	PERSON
+Programming Languages: Java, Python	WORK_OF_ART
+JavaScript	ORG
+Linux	PERSON
+SQL Server	ORG
+Git	PERSON
+Eclipse	PRODUCT
+Visual Studio	PERSON
+India	GPE
+India	GPE
+Malayalam	ORG
+English	CARDINAL
+B1	CARDINAL
+DIGITAL	ORG
+Microsoft	ORG
+Microsoft	ORG
+Microsoft	ORG
+Excel	PRODUCT

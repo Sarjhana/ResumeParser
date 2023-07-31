@@ -1,0 +1,155 @@
+Malware Analysis	PERSON
+English	LANGUAGE
+Hindi	PERSON
+Bangla	PERSON
+Learning Data Lifecycle	ORG
+Prompt Engineering	ORG
+chatGPT	ORG
+Honors-Awards	EVENT
+Sketch Drawing	PERSON
+Pepper	ORG
+Depth	PRODUCT
+Criminal	ORG
+Nao Humanoid	ORG
+Avinash Kumar Singh	PERSON
+University of Montpellier | AI Trainer	ORG
+Montpellier	PERSON
+Occitanie	GPE
+France	GPE
+Avinash	PERSON
+Montpellier University	ORG
+France	GPE
+H2020	GPE
+SOPHIA	ORG
+more than 8 years	DATE
+Artificial Intelligence	ORG
+more than two	CARDINAL
+Intain Technologies	ORG
+Lead AI	GPE
+Artificial Intelligence	ORG
+AI	GPE
+Indian Institute of Information Technology Allahabad	ORG
+India	GPE
+Nao	ORG
+two years	DATE
+Umea	GPE
+Sweden	GPE
+three	CARDINAL
+Pepper	PRODUCT
+February 2017 to January 2018	DATE
+HCL	ORG
+16	CARDINAL
+1	CARDINAL
+5	CARDINAL
+November 2015 to February 2017	DATE
+eClerx Services Limited	ORG
+Brane Enterprises	ORG
+May 2020 - 	DATE
+3 years 3 months	DATE
+Hyderabad	GPE
+Telangana	GPE
+India	GPE
+Brane	ORG
+May 2020	DATE
+5000	CARDINAL
+University of Montpellier	ORG
+November 2020 - 	DATE
+November 2021	DATE
+1 year 1 month	DATE
+Montpellier	PERSON
+Occitanie	GPE
+France	GPE
+LIRMM (University of
+Montpellier	ORG
+the European  Project (H2020) SOPHIA	ORG
+January 2018	DATE
+May 2020	DATE
+2 years 5 months	DATE
+2	CARDINAL
+5
+ 
+ 
+Sweden	TIME
+Intain	GPE
+Umeå University	ORG
+February 2018	DATE
+January 2020	DATE
+2 years	DATE
+Umea	GPE
+Sweden	GPE
+Human Robot Interaction	ORG
+Pepper Robot	ORG
+HCL Technologies	ORG
+February 2017	DATE
+January 2018	DATE
+1 year	DATE
+Noida Area	GPE
+India	GPE
+HCL Innovation Lab	ORG
+Noida	ORG
+almost one year	DATE
+Artificial Intelligence	ORG
+Detection, Face & Signature	ORG
+November 2015	DATE
+February 2017	DATE
+1 year 4 months	DATE
+Mumbai Area	GPE
+India	GPE
+eClerx	ORG
+two	CARDINAL
+Bayes, ANN	ORG
+SVM	ORG
+KNN	ORG
+3	CARDINAL
+5	CARDINAL
+Indian Institute Of Information Technology
+	ORG
+November 2011	DATE
+November 2015	DATE
+4 years 1 month	DATE
+Allahabad	PERSON
+Uttar	GPE
+Human Robot Interaction	ORG
+G C Nandi	ORG
+Indian Institute of Information Technology	ORG
+Allahabad	GPE
+India	GPE
+four	CARDINAL
+second	ORDINAL
+NAO	ORG
+NAO	ORG
+NAO	ORG
+4	CARDINAL
+5
+ 
+ 
+	QUANTITY
+NAO	ORG
+Indian Institute Of Information Technology	ORG
+Philosophy (Ph.D.	ORG
+Information Technology	ORG
+2011	CARDINAL
+2015	DATE
+Indian Institute of Technology	ORG
+Kanpur	PERSON
+July 1 to 3, 2013	DATE
+2013	CARDINAL
+2013	DATE
+Indian Institute of Technology	ORG
+PDE Modeling	ORG
+2013 - 2013	DATE
+National institute of technology	ORG
+Delhi	GPE
+Faculty Development Programme on Image Processing, Computer Vision	ORG
+Pattern Recognition	ORG
+Image Processing	ORG
+Computer Vision	ORG
+Recognition	ORG
+2013	CARDINAL
+2013	DATE
+Banaras Hindu University	ORG
+Computing Techniques	PERSON
+Computing Techniques	PERSON
+2012 - 2012	DATE
+5	CARDINAL
+5	CARDINAL

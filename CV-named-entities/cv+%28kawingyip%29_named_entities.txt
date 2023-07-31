@@ -1,0 +1,70 @@
+BA Environment and Business	ORG
+2:1	CARDINAL
+second	ORDINAL
+Oct 2019	DATE
+University of Leeds 
+Leeds	ORG
+United Kingdom	GPE
+Environmental Research Project	ORG
+67%	PERCENT
+Skills for Environmental Social Science	ORG
+65%	PERCENT
+Consultancy	ORG
+66%	PERCENT
+the Environmental Social Sciences	ORG
+71%	PERCENT
+Digital Marketing Project	ORG
+2021	DATE
+2021	CARDINAL
+United Kingdom	GPE
+Bradford	GPE
+Facebook	ORG
+Instagram	PRODUCT
+CRM	PRODUCT
+Google Trend	ORG
+20%	PERCENT
+HubSpot - CRM	PRODUCT
+CRM	PRODUCT
+Conduct AB	PRODUCT
+20%	PERCENT
+20%	PERCENT
+EIA	ORG
+EIA	ORG
+15%	PERCENT
+Feb 2020	DATE
+Opera North	PERSON
+United Kingdom	GPE
+National Opera	ORG
+UK	GPE
+Leeds	GPE
+Opera North	PERSON
+2030	CARDINAL
+EIA	ORG
+20%	PERCENT
+3R	CARDINAL
+20%	PERCENT
+2019	DATE
+2019	CARDINAL
+United Kingdom	GPE
+Todmorden	GPE
+10%	PERCENT
+EIA	ORG
+clone	ORG
+Student Union	ORG
+Memorial College	ORG
+2016	DATE
+Hong Kong	GPE
+Microsoft Office	ORG
+Excel	PRODUCT
+NVivo	ORG
+Canva	PERSON
+Hubspot	PERSON
+English	LANGUAGE
+Cantonese	LANGUAGE
+Native	ORG
+Mandarin	GPE
+Ka Wing Yip	PERSON
+201	CARDINAL
+Switch House East	ORG
+Circus Road East	FAC
+London	GPE

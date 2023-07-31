@@ -1,0 +1,97 @@
+1	CARDINAL
+711 339 315	CARDINAL
+DETAILS	ORG
+20th August 1993	DATE
+University of Nairobi	ORG
+2018	DATE
+Kenya Certificate	PERSON
+Buruburu Girls Secondary School	ORG
+2011	DATE
+Institute of Advanced Technology	ORG
+2017	DATE
+Certified Public Accountant	ORG
+COMPETENCIES  
+	ORG
+Customer Service  
+	ORG
+Market Research and Analysis	ORG
+Flexibility	ORG
+Marketing  
+	ORG
+Information Technology	ORG
+Adobe Premiere	ORG
+Canva	ORG
+Microsoft Word	PERSON
+Excel	PRODUCT
+Power Point	PRODUCT
+Public Sector Accounting Standards Board	ORG
+April 2022	DATE
+Semi-Autonomous Government Agencies	ORG
+Commissions	GPE
+Public Universities	ORG
+Tertiary	ORDINAL
+National Museum of Kenya	ORG
+Internal Audit Manuals	ORG
+2	CARDINAL
+the PR department	ORG
+the Procurement department	ORG
+PSASB	WORK_OF_ART
+Finance Department	ORG
+Kenya Airways	ORG
+April 2019 to January 2021	DATE
+KQ Commercial	ORG
+GRN	ORG
+the previous month	DATE
+Kenya Airways	ORG
+November 2018 to March 2019	DATE
+Kenya Airways	ORG
+KQ	ORG
+ERP	ORG
+KQ	ORG
+YouTube	PERSON
+Instagram	PRODUCT
+Facebook	PRODUCT
+January 2021 to December 2021	DATE
+Adobe Premiere Pro	ORG
+YouTube	PRODUCT
+Instagram	NORP
+Second	ORDINAL
+Clothes Dealership	ORG
+2017-2018	DATE
+Facebook	ORG
+Instagram	PRODUCT
+Kenya	PERSON
+Team Building Training	FAC
+2022	DATE
+65%	PERCENT
+3	CARDINAL
+79%	PERCENT
+Vendor Statement	FAC
+60%	PERCENT
+ERP	ORG
+a YouTube Channel	ORG
+Instagram	PRODUCT
+207	CARDINAL
+YouTube	ORG
+13,151	CARDINAL
+Instagram	NORP
+3000	CARDINAL
+2500 to 5587	DATE
+1200	CARDINAL
+Facebook	PRODUCT
+a span of 6 months	DATE
+60%	PERCENT
+Stakeholder	PERSON
+PSASB	ORG
+75%	PERCENT
+100%	PERCENT
+the Chartered Institute of Marketing	ORG
+Bonny L’souza 
+	PERSON
+Simon Page College of Marketing	ORG
+723	CARDINAL
+626	CARDINAL
+471	CARDINAL
+Kenya Airways	ORG
+741	CARDINAL
+722	CARDINAL

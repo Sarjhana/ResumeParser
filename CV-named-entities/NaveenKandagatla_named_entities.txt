@@ -1,0 +1,76 @@
+Kandagatla	PERSON
+Hyderabad	PERSON
+Telangana	GPE
+India	GPE
+9989262918	CARDINAL
+16 years	DATE
+Python, Java	ORG
+JavaScript	ORG
+SQL	ORG
+DocumentDB	ORG
+KeyValue	ORG
+Azure Data Explorer	ORG
+Distributed Systems	ORG
+Service Fabric	ORG
+Continuous Integration	ORG
+CICD	ORG
+Left Shift Engineering	ORG
+Diagnostics:	WORK_OF_ART
+Redis	PERSON
+Bloom Filter	PERSON
+Stakeholder Management:	WORK_OF_ART
+Cross-functional & Cross	ORG
+roadmap	GPE
+first	ORDINAL
+Team Building: Successful track	WORK_OF_ART
+roadmap	GPE
+2	CARDINAL
+Big Data Analytics & Optimization	ORG
+Internal School of Engineering	ORG
+Hyderabad	GPE
+JUNE 2002	DATE
+MAY 2006	DATE
+Osmania University	ORG
+Hyderabad	GPE
+APRIL 2022	DATE
+Engineer Manager & leading	ORG
+9	CARDINAL
+Roadmap	GPE
+MLP	ORG
+3rd-party	ORG
+MAY 2012	DATE
+APRIL 2022	DATE
+Microsoft	ORG
+Hyderabad 
+ 
+Office 365 Security Product	ORG
+Microsoft Defender for Office	ORG
+10	CARDINAL
+Microsoft	ORG
+daily	DATE
+3	CARDINAL
+U.S.	GPE
+Israel	GPE
+China	GPE
+India	GPE
+Unified Telemetry Platform	ORG
+Learning & Readiness	ORG
+hundreds	CARDINAL
+250	CARDINAL
+monthly	DATE
+SonarQube	ORG
+AAD	ORG
+SuccessFactors	ORG
+Pluralsight	ORG
+LinkedIn Learning	ORG
+Orielly	PERSON
+JULY 2010	DATE
+APRIL 2012	DATE
+Thomson Reuters	PERSON
+Hyderabad	GPE
+Business	NORP
+NOVEMBER 2006	DATE
+JUNE 2010	DATE
+Hyderabad	GPE
+Architecture	GPE
+Video Analytics	ORG

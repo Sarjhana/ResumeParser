@@ -1,0 +1,19 @@
+2019	DATE
+Social Media Management	ORG
+Digital	ORG
+2014-2017	DATE
+Saurashtra University	ORG
+2017-2019	DATE
+Master's in Business Administration	WORK_OF_ART
+Marketing & Finance	ORG
+May	DATE
+Ahmedabad International School	ORG
+Social Media	ORG
+Social Media Marketing	ORG
+Branding	GPE
+Drumbeats	NORP
+Social Media Marketing
+	ORG
+Strategy & Branding	ORG
+8347294595	DATE
+Badiyani	PERSON

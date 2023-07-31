@@ -1,0 +1,40 @@
+Sadichchha Naiknavare	PERSON
+Java Backend	ORG
+Maharatra	GPE
+Sadichchha1998	DATE
+Masai School Bengaluru	PERSON
+Karnataka	PERSON
+Solapur University	ORG
+Solapur	GPE
+07/2019	CARDINAL
+Maharashtra	ORG
+Maharashtra	ORG
+HTML | CSS | Data Structure	WORK_OF_ART
+Mindarika Pvt Ltd	ORG
+07/2021	CARDINAL
+India	GPE
+08/2020	CARDINAL
+Java	ORG
+JavaScript	ORG
+HTML	ORG
+SQL	ORG
+12000+ hours	TIME
+AWARDS	ORG
+Kirloskar Vasundhara	PERSON
+2020	DATE
+Speech	FAC
+2021	DATE
+Zoom Marathon Certificate	PERSON
+SQL Basic	ORG
+SQL	ORG
+Clone	ORG
+Signup | Login	PERSON
+| CSS | JavaScript	PRODUCT
+5 days	DATE
+5	CARDINAL
+Kapsi - Online	PERSON
+Kapsi	PERSON
+Advance	PRODUCT
+Application |	PRODUCT
+5 days	DATE
+5	CARDINAL

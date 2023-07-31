@@ -1,0 +1,58 @@
+2	CARDINAL
+Pathankot	GPE
+Pin	PERSON
+145001	DATE
+9877045009	DATE
+Linkedin	PERSON
+Data Science	PERSON
+PinPencil LLP	ORG
+NLP	ORG
+Ambedkar National Institute	ORG
+B. Tech - Information Technology	ORG
+8.10	CARDINAL
+Kendriya Vidyalaya	PERSON
+Halwara	GPE
+PB	GPE
+2019-2020	DATE
+95.6%	PERCENT
+Kendriya Vidyalaya	PERSON
+2017-2018	DATE
+92.4%	PERCENT
+Intercept AI	PERSON
+INTERCEPT AI	ORG
+Toxic Contents	PERSON
+Adult Image Detection	ORG
+CNN	ORG
+Toxic	PERSON
+english	ORDINAL
+Hate Speech Detection	ORG
+NLP	ORG
+Goal	PERSON
+Input	NORP
+Google	NORP
+MYSQL	ORG
+MYSQL	ORG
+Python	ORG
+CRUD	GPE
+Create Read Update Delete	WORK_OF_ART
+C++	DATE
+PYTHON	ORG
+MYSQL	ORG
+CSS	ORG
+JAVASCRIPT	ORG
+4.0	CARDINAL
+NoteBook Expert	PERSON
+Kaggle	PRODUCT
+Hackathon Top Teams	PERSON
+Vidhyarti	PERSON
+NCERT	ORG
+IBM	ORG
+IBM	ORG
+Simplilearn	NORP
+CSS	ORG
+Javascript	PERSON
+HINDI	ORG
+Event Management	ORG
+Hackathons	ORG
+GITHUB	ORG
+LEETCODE	PERSON

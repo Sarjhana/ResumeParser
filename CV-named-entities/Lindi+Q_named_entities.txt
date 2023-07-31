@@ -1,0 +1,49 @@
+Lindi Qi 
+	PERSON
+Goldsmiths University of London	ORG
+Hefei University	ORG
+10/2020	CARDINAL
+UK Media	ORG
+Social-Touch｜Media	ORG
+Global Media & Transnational Communications	ORG
+Journalism & Communications	ORG
+minutes	TIME
+London	GPE
+7419298984	DATE
+Media Executive	ORG
+annual	DATE
+4A	CARDINAL
+L'Oreal Group	ORG
+annual	DATE
+Taobao	GPE
+Douyin	GPE
+Bilibili	GPE
+Media Resources:	ORG
+Kan Qingzi	PERSON
+Li Jiaqi	PERSON
+Xinshixiang	PERSON
+2000	DATE
+channel reserve	ORG
+annual	DATE
+more than 10	CARDINAL
+Yang Yang	PERSON
+the Dazhong Dianping	FAC
+ten-year	DATE
+Fosun Group	ORG
+Volvo	ORG
+Mamonde Cushion Project｜Project	ORG
+over 2 million	CARDINAL
+ROI	ORG
+Weibo	GPE
+four	CARDINAL
+app platforms	ORG
+over 190 million	MONEY
+Microsoft Office/ Photoshop/SQL	ORG
+Language：English	GPE
+Mandarin	LANGUAGE
+Volvo	ORG
+Sohu	ORG
+Sina	GPE
+Polestar	PERSON
+Chengdu	GPE
+Polestar	ORG

@@ -1,0 +1,47 @@
+New Delhi	GPE
+INTERNSHIP	ORG
+Networks India Private Limited 
+ 
+Company	ORG
+Networks India Private Limited	ORG
+Manayata Tech Park	ORG
+Bengaluru	GPE
+Karnataka	GPE
+560045	DATE
+11 months	DATE
+C++	LANGUAGE
+Qt Creator	PERSON
+GDB	ORG
+Google Test	ORG
+GitLab 
+ 
+ 
+Responsibilities	PERSON
+Nokia	ORG
+Landran	GPE
+Punjab             
+	PERSON
+8.63	CARDINAL
+New Delhi	GPE
+76%	PERCENT
+2019	DATE
+Sikar	PERSON
+Rajasthan	PERSON
+91.33%	PERCENT
+2017	DATE
+Linux	PERSON
+Languages/Skills	ORG
+C++	LANGUAGE
+Java	ORG
+GMock	ORG
+GNU DeBugger	ORG
+Algorithms	PERSON
+OOP	ORG
+Operating System	ORG
+Game Development	ORG
+Colour Detector	ORG
+Pandas	GPE
+Solitaire Infosys Pvt.	ORG
+3 weeks	DATE
+Collaborating	GPE
+03-01-2002	DATE

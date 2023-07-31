@@ -1,0 +1,45 @@
+Constellation4	GPE
+June	DATE
+the JAANO Citizen Participation Platform	ORG
+Tech	PERSON
+Swaniti	GPE
+21 - May	DATE
+22	CARDINAL
+20	CARDINAL
+21	CARDINAL
+Roy	PERSON
+4	CARDINAL
+Delivery Managers	ORG
+US	GPE
+the C4 Intelligent Network	ORG
+C4 Referral Management	ORG
+PCP	ORG
+PO	ORG
+Tech	NORP
+Aloy 
+Studio	PERSON
+Frinza	GPE
+UI/UX	ORG
+KonnectzIT	PERSON
+Client Demos	ORG
+C4	CARDINAL
+C4 
+	PRODUCT
+C4	CARDINAL
+Provider Data Management	ORG
+C4 Referral Management  
+	ORG
+Specialist	LOC
+C4	CARDINAL
+Adobe XD	ORG
+Sketch	GPE
+Miro	GPE
+Webflow	PERSON
+Personas, Competitive Analysis	ORG
+Design Workshop	PERSON
+Journey Mapping	PERSON
+Usability Testing	PERSON
+Client	ORG
+May ’21	DATE
+Heritage Institute of Technology
+Electronics & Instrumentation	ORG

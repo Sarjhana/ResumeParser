@@ -1,0 +1,22 @@
+Nirmal Jobanputra	PERSON
+Marketer	PERSON
+India	GPE
+19 October, 1993	DATE
+ATC	ORG
+Writer/CS	ORG
+93.5	CARDINAL
+Digital Content	ORG
+Social Media	ORG
+11/2017	CARDINAL
+Speciale	PERSON
+Vir Das's	PERSON
+India Tour	ORG
+TG	NORP
+Digital Marketing	ORG
+MasterMind	ORG
+Intern - Public Relations	ORG
+10/2016 - 12/2016	DATE
+Netﬂix, Nvidia	WORK_OF_ART
+MBA - Marketing	PERSON
+12/2015	CARDINAL
+English	LANGUAGE

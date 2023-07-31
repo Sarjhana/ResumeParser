@@ -1,0 +1,79 @@
+Manjot Singh	PERSON
+| manjotsingh.netlify.app	PRODUCT
+Year	DATE
+Computer Science and Engineering	WORK_OF_ART
+2019-2023	DATE
+Netaji Subhas University of Technology	ORG
+Delhi	GPE
+7.89/10	CARDINAL
+AISSCE	ORG
+Delhi	GPE
+85%	PERCENT
+2016	DATE
+Dayanand Adarsh Vidyalaya	PERSON
+Delhi	GPE
+AI	GPE
+Plugin	ORG
+LUA	ORG
+Lightroom Platform	FAC
+Technology - Angular	ORG
+Electron	ORG
+LUA	ORG
+Chegg Inc.	ORG
+350	CARDINAL
+Computer Science	ORG
+Data Structures	ORG
+Orientation Programming	ORG
+Operating Systems	ORG
+Database Management Systems	ORG
+Jan’21 - Feb’21	CARDINAL
+FrontEnd	ORG
+truffle	GPE
+ganache
+	FAC
+Vaccinometer	PERSON
+React Hooks	ORG
+Firebase	PERSON
+DB	PERSON
+Medicines/Vaccines	ORG
+QR Code	LAW
+SQL	ORG
+Firebase	PERSON
+Solidity	GPE
+truffle	GPE
+EazyPay	GPE
+Gateway	PERSON
+Firebase	PERSON
+Scratch	GPE
+Firebase	WORK_OF_ART
+Firebase	PERSON
+Solidity	GPE
+truffle	GPE
+C++	LOC
+SQL	ORG
+JAVA	ORG
+Solidity	ORG
+HTML/CSS	ORG
+JavaScript	ORG
+LUA	ORG
+NodeJS	GPE
+ReactJS	GPE
+ExpressJS	GPE
+SQL	ORG
+Numpy, Pandas, Matplotlib
+	ORG
+Ensemble Image Explainable AI	ORG
+XAI) Algorithm for Face Morphing Attack Detection (Deep Learning	ORG
+Pattern Recognition Journal	ORG
+April 2021	DATE
+Top 10	GPE
+MLH Season of 2021	DATE
+2800	CARDINAL
+NIT Surathkal	ORG
+April 2019	DATE
+JEE Mains - Secured	ORG
+india	GPE
+98.62	CARDINAL
+650	CARDINAL
+Data Structures	ORG
+Leetcode	GPE

@@ -1,0 +1,25 @@
+Video	ORG
+2
+years	DATE
+92654 74983	DATE
+Da Vinci Resolve	PERSON
+Adobe Illustrator	ORG
+CorelDraw	ORG
+Da Vinci Resolve	PERSON
+Adobe Illustrator	ORG
+2 years	DATE
+3	CARDINAL
+3	CARDINAL
+Video	ORG
+2
+years	DATE
+92654 74983	DATE
+All Kinds Of Graphics Design	PERSON
+Social Media	ORG
+Youtube Videos	PERSON
+All Kinds Of Graphics Design	PERSON
+Social Media	ORG
+Youtube Videos	PERSON
+2 years	DATE
+3	CARDINAL
+3	CARDINAL

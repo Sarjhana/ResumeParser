@@ -1,0 +1,62 @@
+FRONT END  
+	ORG
+WORKING  
+	ORG
+Andhra Pradesh	PERSON
+more than 1+	CARDINAL
+Cainz	GPE
+FIC/MPOS	ORG
+Core Systems	ORG
+Front end Development	ORG
+Requirement Gathering	ORG
+Agile DevOps	GPE
+JavaScript	PRODUCT
+Angular	ORG
+2	CARDINAL
+CSS	ORG
+3	CARDINAL
+5	CARDINAL
+#1	CARDINAL
+FIC/MPOS	ORG
+GitHub	GPE
+Agile	GPE
+JavaScript Framework- Angular	ORG
+HTML	ORG
+CSS	ORG
+Ionic	GPE
+6	CARDINAL
+7	CARDINAL
+AWS, Python - Basics	ORG
+1.10 Years	DATE
+March 2021	DATE
+Zero	CARDINAL
+Business Requirement Document, Solution Design Document, Process Flow	ORG
+Daily Scrum	ORG
+	ORG
+#2	CARDINAL
+JavaScript Framework	PERSON
+VUE-JS	ORG
+Python	ORG
+AWS	ORG
+Agile	GPE
+User	PRODUCT
+Front	GPE
+• Responsible for Handling	WORK_OF_ART
+Time Management	ORG
+one	CARDINAL
+Sought	PERSON
+WORKING  
+	ORG
+Daily Scrum	ORG
+Backlog	PERSON
+Blockers	ORG
+Secured Best Team Award	WORK_OF_ART
+Team	WORK_OF_ART
+Front-End Technologies	ORG
+KT sessions	ORG
+Team	ORG
+DETAILS	ORG
+Green Towers Apartments	ORG
+1	CARDINAL
+VR Siddhartha Engineering College	ORG
+2016-2020	DATE

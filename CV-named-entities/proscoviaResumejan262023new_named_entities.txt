@@ -1,0 +1,84 @@
+6475239933	DATE
+10 years	DATE
+Biostatistician	NORP
+Excel	PRODUCT
+SPSS	ORG
+SAS	ORG
+MATLAB, Python, Java	ORG
+C++	LOC
+SQL	ORG
+Java, Android,	ORG
+Swift	ORG
+HTML	ORG
+XML	ORG
+CSS	ORG
+Pro log Python	PERSON
+SPSS	ORG
+STATA	ORG
+EXCEL	ORG
+SAS	ORG
+SQL	ORG
+2021-2021	DATE
+2019-2019	DATE
+Health Systems Monitor/	ORG
+UTAMU	ORG
+2015-2016	DATE
+Information Technology	ORG
+2010-2014	DATE
+Management Science Of Health	WORK_OF_ART
+SQL	ORG
+Microsoft	ORG
+Access	PRODUCT
+STATA	ORG
+WordPress 
+   
+   
+Monitoring and Evaluation	PRODUCT
+2009-2010	DATE
+MS	ORG
+Access	ORG
+SQL	ORG
+Excel	PRODUCT
+quarterly	DATE
+Research Interests: Bayesian Statistics	WORK_OF_ART
+Machine Learning	ORG
+Data Mining	ORG
+Statistical Computing	PERSON
+MonteCarlo Methods	PERSON
+Mathematical Research	ORG
+Algorithm Design	ORG
+Front End-Developer	PERSON
+Help Desk, Data Management, Biostatistics & 
+Lecturing	ORG
+School of Public Health	ORG
+CDC	ORG
+Monitoring and Evaluation	WORK_OF_ART
+South Africa	GPE
+Emeritus Institute- Columbia University Department of Engineering   
+   
+                 
+Masters	ORG
+Statistics	ORG
+2004-2006	DATE
+2000-2001	DATE
+Mathematics, Computer Science and Statistics	ORG
+1996-1999	DATE
+Customer Service	ORG
+Dollarama  
+   
+   
+   
+   
+Toronto	ORG
+2018	DATE
+Cashier	WORK_OF_ART
+Daily Breeze Restaurant  
+   
+   
+Toronto	WORK_OF_ART
+Cashier	PERSON
+Canada	GPE
+Dixon Hall Neighborhood  
+                          Toronto	FAC
+French	LANGUAGE
+English	LANGUAGE

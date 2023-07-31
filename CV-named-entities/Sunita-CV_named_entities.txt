@@ -1,0 +1,102 @@
+SUNITA GHALE	PERSON
+8B	CARDINAL
+Wembley	GPE
+Middlesex	PERSON
+3HY	FAC
+SEO	ORG
+SEM	ORG
+Social	ORG
+Email	ORG
+ROI	ORG
+Google Analytics	ORG
+AdWords	ORG
+Trainee - Broadway Infosys	PRODUCT
+Nepal  
+ 
+ 
+ 
+            	PERSON
+17th Jan 2023	DATE
+WordPress	ORG
+SEO	ORG
+visibility & traffics	ORG
+Facebook	PRODUCT
+Google analytics	ORG
+Crowne Plaza & Holiday Inn Express	FAC
+London 
+ 
+ 
+ 
+    	ORG
+Jan 2019	DATE
+Nov 2020	DATE
+London	GPE
+Heathrow T4	PERSON
+304	CARDINAL
+457	CARDINAL
+Inn Express	PERSON
+Dec 2019	DATE
+Sas	PERSON
+FOH	ORG
+IHG	ORG
+IHG Heartbeat score	PERSON
+CSM Metrics	ORG
+TripAdvisor	ORG
+Bookings.com	ORG
+Hotels.com	ORG
+IHG	ORG
+July 2019	DATE
+Multitasking	GPE
+Receptionist 
+ 
+ 
+ 
+ 
+ 
+   	LOC
+Jan 2019	DATE
+June 2019	DATE
+IHG	ORG
+IHG	ORG
+Wasabi Sushi & Bento	ORG
+April 2017	DATE
+Dec 2018	DATE
+Mr Chan’s	ORG
+Chinese	NORP
+July 2011	DATE
+Feb 2017	DATE
+Digital Marketing (Distinction	ORG
+University of West London	ORG
+UK	GPE
+2021 – 2022	DATE
+Hons)	ORG
+University of West London	ORG
+UK	GPE
+2014 – 2018	DATE
+Harrow College	ORG
+UK	GPE
+2011	DATE
+2014	DATE
+Higher Education- Himalayan Whitehouse	PERSON
+Nepal	GPE
+2009 – 2010	DATE
+English Medium School	ORG
+Nepal	GPE
+2001	DATE
+2009	DATE
+Other Tools:  
+	WORK_OF_ART
+SEMRUSH	ORG
+SE Ranking	ORG
+Google	ORG
+Yoast SEO	PERSON
+Ahrefs, Serpstat	ORG
+Ubersuggest	ORG
+Keyword Hero 
+	ORG
+Social Media Management	ORG
+HubSpot	ORG
+Mailchimp	ORG
+Microsoft Word	ORG
+Microsoft Excel	PERSON
+Microsoft PowerPoint	ORG

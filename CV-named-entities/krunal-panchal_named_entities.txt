@@ -1,0 +1,34 @@
+Kathwada	PERSON
+Ahmedabad	GPE
+7383085019	DATE
+Adit Microsys Pvt Ltd	ORG
+Ahmedabad	GPE
+November 2019	DATE
+ECIT Training Center	ORG
+Ahmedabad	GPE
+Diploma	GPE
+April 2019	DATE
+Shah Jarodwala College	PERSON
+Maninagar	PERSON
+2017 - 2018	DATE
+2nd	DATE
+VIP International School	ORG
+2015 - 2017	DATE
+Sci Institute	ORG
+Mavenvista Webinar	PERSON
+Gujarat Liver Foundation	ORG
+Luzon University	ORG
+Swaminarayan Dham School	ORG
+​HTML5	CARDINAL
+CSS3, JQuery	ORG
+JS	ORG
+Bootstrap	ORG
+Wordpress	ORG
+Adobe XD	ORG
+Adobe 
+Photoshop	ORG
+Adobe Illustrator	ORG
+CorelDraw	ORG
+Gujarati	GPE
+Hindi	GPE
+English	LANGUAGE

@@ -1,0 +1,51 @@
+n s	PRODUCT
+0 8 0 8	DATE
+2 5	CARDINAL
+Social Media	ORG
+App	NORP
+SEO	ORG
+Google Analytics	ORG
+Power Point
+	PRODUCT
+SUMMARY	ORG
+Pivot Table & Adv Excel Tools	ORG
+Canvas 
+	PRODUCT
+https://www.woocoupons.in/	CARDINAL
+BioticMan Organics	ORG
+Auvarana	PERSON
+Blogging	PERSON
+Writer	PERSON
+Seo	PERSON
+Social Media Content	ORG
+Blogger	PERSON
+App	ORG
+Social Media Content	ORG
+English	LANGUAGE
+Gurgaon	PERSON
+2021-2023	DATE
+Delhi University	ORG
+2018-2021	DATE
+KL International School	ORG
+Meerut	GPE
+2017-2018	DATE
+94.25%	PERCENT
+KL International School	ORG
+Meerut	GPE
+2015-2016	DATE
+Social Media	ORG
+Literature Club	ORG
+Collage (Awaz Club	ORG
+IILM	ORG
+College Project	ORG
+Drama Society	ORG
+DU	ORG
+Script Writer	PERSON
+NSS	ORG
+DU	ORG
+English	LANGUAGE
+Aradhya
+Foundation	ORG
+12th	DATE
+KLI School	ORG
+GST & Bank	ORG

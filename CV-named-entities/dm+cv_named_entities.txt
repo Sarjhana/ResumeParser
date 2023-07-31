@@ -1,0 +1,28 @@
+Social Media	ORG
+July 2022	DATE
+The Content Consultancy's	WORK_OF_ART
+Twitter	PERSON
+March 2021	DATE
+Honey Mae	ORG
+the first 2 months	DATE
+London	GPE
+MSC Digital Marketing 
+	ORG
+2019-2022	DATE
+BA	ORG
+HONS	ORG
+Second	ORDINAL
+2:1	CARDINAL
+Peter	PERSON
+2017-2019	DATE
+3	CARDINAL
+Law	PERSON
+2012-2017	DATE
+9	CARDINAL
+9	CARDINAL
+Hennah Hussain	PERSON
+30 Longster Road	TIME
+Second	ORDINAL
+Mae	PERSON
+07861 282100	DATE
+Honey Mae	ORG

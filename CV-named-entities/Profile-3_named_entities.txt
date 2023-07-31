@@ -1,0 +1,89 @@
+www.linkedin.com/in/shiva-	PERSON
+Telugu	PERSON
+Hindi	PERSON
+English	LANGUAGE
+London	GPE
+England	GPE
+United Kingdom	GPE
+a Master's degree in finance	WORK_OF_ART
+Campuzzz	PRODUCT
+February 2023	DATE
+6 months	DATE
+London	GPE
+England	GPE
+United Kingdom	GPE
+NTT DATA Europe & Latam	ORG
+1 year 2 months	DATE
+July 2023 	DATE
+1 month	DATE
+London	GPE
+England	GPE
+United Kingdom	GPE
+June 2022	DATE
+July 2023 	DATE
+1 year 2 months	DATE
+London	GPE
+England	GPE
+United Kingdom
+ 
+	GPE
+3	DATE
+2 years 9 months	DATE
+Intelligence Analyst	ORG
+October 2021	DATE
+June 2022	DATE
+9 months	DATE
+London	GPE
+England	GPE
+United Kingdom	GPE
+more than 42	CARDINAL
+Trained	PRODUCT
+5	CARDINAL
+4	CARDINAL
+MS PowerPoint	ORG
+60%	PERCENT
+90%	PERCENT
+October 2019	DATE
+October 2021	DATE
+2 years 1 month	DATE
+London	GPE
+England	GPE
+United Kingdom	GPE
+University of Hertfordshire	ORG
+June 2019	DATE
+August 2019	DATE
+3 months	DATE
+1	CARDINAL
+17	CARDINAL
+London	GPE
+65%	PERCENT
+Excel	PRODUCT
+ADP	ORG
+July 2017 - 	DATE
+September 2018	DATE
+1 year 3 months	DATE
+Hyderabad	GPE
+Telangana	GPE
+India	GPE
+1 million year	DATE
+500,000	CARDINAL
+Value	GPE
+Goods	PERSON
+Achieved 70%	PERCENT
+2	CARDINAL
+3
+ 
+ 
+	QUANTITY
+8	CARDINAL
+ADP	ORG
+4	CARDINAL
+University of Hertfordshire	ORG
+2018 - 2020	DATE
+Osmania University
+Bachelor of Commerce	ORG
+B.Com	ORG
+Business/Commerce	ORG
+2014 - 2017	DATE
+3	CARDINAL
+3	CARDINAL

@@ -1,0 +1,30 @@
+ARTIST &
+	ORG
+2D	CARDINAL
+2020	DATE
+Maharashtra State Board	ORG
+2022	CARDINAL
+Nashik, Sinnar
+	ORG
+HSC	ORG
+Maharashtra State Board	ORG
+2018	DATE
+Nashik, Sinnar	ORG
+LLP| Motion Graphics Artist	GPE
+Dash Technologies Event Videos & Internal	ORG
+Maharashtra State Board	ORG
+2016	DATE
+Good Knowledge	PERSON
+2D	CARDINAL
+Paint	ORG
+Blue star A/c & Purifier	ORG
+Sony Sub	PERSON
+Khulke App	PERSON
+Thermax	GPE
+Udchalo	PERSON
+Bajaj Insurance	ORG
+Sony	ORG
+Graphics Artist	PERSON
+July/2020 – Jan/2022	WORK_OF_ART
+Byju	PERSON
+2D	CARDINAL

@@ -1,0 +1,42 @@
+Mithun Jayanidhi
+	PERSON
+Silicon College Of Advanced Studies	ORG
+2019  2022	DATE
+Science	ORG
+Vivekananda Pu College	PERSON
+Puttur	GPE
+KARNATAKA board	ORG
+Year	DATE
+2019	DATE
+69.66%	PERCENT
+English Medium School	ORG
+KSEEB	PRODUCT
+2017	DATE
+81.00%	PERCENT
+TRAININGS	ORG
+JAYANAGAR	GPE
+Bangalore	GPE
+Feb 2022	DATE
+Perceiveng VFX Course	ORG
+Arena Animation	ORG
+Jayanagar	PERSON
+Jan 2023	DATE
+GnT6WPFQ7G3Y7_pAh8CZCRz	PERSON
+Jul 2022	PRODUCT
+Cinematic	NORP
+Cinematic	NORP
+1.Cinematic	CARDINAL
+Cinematic	NORP
+2021	CARDINAL
+Cinematic	NORP
+May 2021	DATE
+May 2021	DATE
+Neriya Cinematic	ORG
+Feb 2021	DATE
+Feb 2021	DATE
+https://youtu.be/YnRY_u5ubSg	CARDINAL
+Neriya Cinematic Video Shoot And Editing	ORG
+Adobe Photoshop	PERSON
+Adobe Illustrator	ORG
+Video Editing	PRODUCT
+GnT6WPFQ7G3Y7_pAh8CZCRz	PERSON

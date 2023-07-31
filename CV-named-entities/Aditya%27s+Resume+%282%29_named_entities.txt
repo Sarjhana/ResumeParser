@@ -1,0 +1,29 @@
+Video Editing	ORG
+8007961590	CARDINAL
+India	GPE
+v_PpnAH5qaenQZZi-6RNH0OU6d	CARDINAL
+MASS	ORG
+N.B.A Group of Institutions & Guru	ORG
+Jambheshwar University of Science &
+	ORG
+07/2016 - 07/2019	CARDINAL
+DYPDC School of Design	ORG
+Media Pvt Ltd	ORG
+Content Creator	PERSON
+Finance	WORK_OF_ART
+Zcyphher Films Pvt. Ltd.	ORG
+05/2022 - 11/2022	CARDINAL
+Freelance Projects	PRODUCT
+TruCar	GPE
+India	GPE
+Channel	ORG
+Creator	PERSON
+Youtube Channel	PERSON
+Video Editing	PRODUCT
+ADMEC Multimedia Institute	ORG
+ADMEC Multimedia Institute	ORG
+ADMEC Multimedia Institute	ORG
+Europe	LOC
+Digital Garage	ORG
+The Open University	ORG
+Internshala	DATE

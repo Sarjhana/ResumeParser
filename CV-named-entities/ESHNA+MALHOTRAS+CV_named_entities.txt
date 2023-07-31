@@ -1,0 +1,41 @@
+522832802	CARDINAL
+EMDI Institute	ORG
+Dubai	GPE
+almost 500	CARDINAL
+EMDI	ORG
+one week	DATE
+dragon mart 2	ORG
+Dubai	GPE
+their end of the year	DATE
+Dubai & Banglore	ORG
+2019-2020	DATE
+3 years ago	DATE
+Dubai	GPE
+India	GPE
+one	CARDINAL
+months	DATE
+Numaish	ORG
+English	LANGUAGE
+Dubai	GPE
+UAL	ORG
+University of the Arts London	ORG
+LCC	ORG
+London	GPE
+2021-2024	DATE
+568177	CARDINAL
+522832802	CARDINAL
+2021	DATE
+Interned	PERSON
+UAE	GPE
+UAE	GPE
+Al ain	PERSON
+Galaxy	PERSON
+Ramadan	PERSON
+2021	DATE
+Studio	PERSON
+London	GPE
+app	ORG
+Singapore	GPE
+London	GPE
+Instagram	PRODUCT
+45%	PERCENT

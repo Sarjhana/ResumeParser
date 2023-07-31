@@ -1,0 +1,23 @@
+5 years	DATE
+Milton Keynes College	PERSON
+4	CARDINAL
+Pass	ORG
+3	CARDINAL
+3	CARDINAL
+3	CARDINAL
+June 2021	DATE
+Springboard	PERSON
+May 2020 - June 2021	DATE
+43%	PERCENT
+Digital Marketing Assistant	ORG
+November 2018	DATE
+LAYLA GOTT  
+CREATIVE DIGITAL MEDIA	ORG
+Social Media	ORG
+Instagram, Facebook	WORK_OF_ART
+TikTok	PRODUCT
+BTS	ORG
+monthly	DATE
+May 2022 - Jan 2023	DATE
+SPRINGBOARD	ORG
+Social Media Marketing	ORG

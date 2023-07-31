@@ -1,0 +1,144 @@
+lanyuealisonmeng	PERSON
+English	LANGUAGE
+German	NORP
+Japanese	NORP
+(Professional Working	ORG
+Italian	NORP
+Chinese	NORP
+Analysis	LOC
+2	CARDINAL
+BerkeleyX	CARDINAL
+CS110x Big Data	ORG
+Apache Spark	PERSON
+Analysis	LOC
+1	CARDINAL
+BerkeleyX	CARDINAL
+Apache	PRODUCT
+Lanyue Alison Meng	PERSON
+Google	ORG
+San Francisco	GPE
+California	GPE
+United States	GPE
+Analytics	ORG
+Model Selection/ Assessment	PERSON
+ETL& Data Mining	ORG
+Python Data Analysis	ORG
+Numpy	PERSON
+Scipy	GPE
+Pandas	LOC
+NLTK	ORG
+Caret	PERSON
+Tidyr	PERSON
+Big Data	ORG
+Spark	GPE
+Hadoop	PERSON
+Oozie, Sqoop, Hive	ORG
+Impala	PERSON
+Programming Languages: Scala,Python	WORK_OF_ART
+Scala	GPE
+SQL	ORG
+JavaScript	PERSON
+Matlab	PERSON
+SQL Server	ORG
+TeraData	ORG
+Vertica	LOC
+5 years 6 months	DATE
+November 2022	DATE
+9 months	DATE
+San Francisco	GPE
+California	GPE
+United States	GPE
+November 2021	DATE
+November 2022	DATE
+1 year 1 month	DATE
+1	CARDINAL
+4	CARDINAL
+San Francisco	GPE
+California	GPE
+United States	GPE
+February 2018	DATE
+November 2021	DATE
+3 years 10 months	DATE
+Zurich	GPE
+Switzerland	GPE
+Google Trust & Safety	ORG
+MedeAnalytics	PRODUCT
+April 2016	DATE
+August 2017	DATE
+1 year 5 months	DATE
+San Francisco Bay Area	LOC
+1	CARDINAL
+Spark	GPE
+Scala	GPE
+79	CARDINAL
+2	CARDINAL
+ETL	ORG
+Spark	GPE
+Scala	GPE
+Hadoop	PERSON
+2.1	CARDINAL
+2.2	CARDINAL
+weekly	DATE
+over 150	CARDINAL
+2.3	CARDINAL
+70	CARDINAL
+2.4	CARDINAL
+3	CARDINAL
+1TB	QUANTITY
+Apache Oozie	PERSON
+Spark	GPE
+Sqoop and Hive	ORG
+3.1	CARDINAL
+4.Performed	CARDINAL
+Impala	GPE
+SQL	ORG
+MD
+ 
+	PERSON
+February 2015	DATE
+January 2016	DATE
+1 year	DATE
+Houston	GPE
+Texas	GPE
+1	CARDINAL
+ICD10& CPT Codes	ORG
+1.2	CARDINAL
+PCA	ORG
+Support Vector	PRODUCT
+Random Forest	ORG
+Gradient Boosting	PERSON
+2	CARDINAL
+3	CARDINAL
+2nd	DATE
+MD	ORG
+4	CARDINAL
+5	CARDINAL
+6	CARDINAL
+2nd	DATE
+MD	ORG
+7	CARDINAL
+8	CARDINAL
+9	CARDINAL
+MolecularMatch	ORG
+Software Engineer Internship	PERSON
+July 2014 	DATE
+December 2014	DATE
+6 months	DATE
+1	CARDINAL
+FDA	ORG
+3	CARDINAL
+2	CARDINAL
+pharmaceutical & clinicaltrials.gov	ORG
+FDA	ORG
+3	CARDINAL
+JavaScript	ORG
+4	CARDINAL
+Rice University	ORG
+Master of Engineering	WORK_OF_ART
+2013 - 2014	DATE
+University of Electronic Science and Technology	ORG
+BEng	ORG
+Optoelectronic Science	PERSON
+2009 - 2013	DATE
+4	CARDINAL
+4	CARDINAL

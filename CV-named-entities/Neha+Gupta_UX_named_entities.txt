@@ -1,0 +1,30 @@
+UI/UX	ORG
+mobile app	PERSON
+UI/UX	ORG
+SUMMARY	ORG
+8 years	DATE
+Adobe XD	ORG
+Adobe	GPE
+Adobe Illustrator	ORG
+Grid & Layout	ORG
+Adobe XD	ORG
+Adobe	GPE
+Adobe Illustrator	ORG
+2017 - JUNE 2021	DATE
+Adobe Photoshop	ORG
+Arihant Webtech Pvt Ltd	ORG
+JUNE 2016 - NOV 2017	DATE
+Graphics & Web Designer	ORG
+Cropping, Generate & Edit	ORG
+iZeneth Innovative Technologies	ORG
+JUNE 2014 - MAY 2016	DATE
+Adobe Illustrator	ORG
+Adobe Photoshop	PERSON
+HTML/CSS	ORG
+M.Sc Computer Science	ORG
+2013	DATE
+B.Sc Animation & Multimedia	ORG
+UI/UX Designer
+	ORG
+Classic Informatics	ORG
+Classic Informatics	ORG

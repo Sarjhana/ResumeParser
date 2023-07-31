@@ -1,0 +1,39 @@
+EX	PERSON
+ENC	PRODUCT
+Gurugram	PERSON
+Dec 2021-Jan 2023	DATE
+Gurugram	PERSON
+Mercer | Mettl	WORK_OF_ART
+weekly	DATE
+Promo	PERSON
+Platform Demo	PRODUCT
+Graphics	GPE
+Multimedia	GPE
+2022	CARDINAL
+Arena Animation	PERSON
+Varanasi 
+ 
+Masters of Commerce	PERSON
+2019-21	DATE
+Khwaja Moinuddin Chishti	PERSON
+Language University	ORG
+Lucknow 
+ 
+Bachelor of Commerce	ORG
+2016-19	DATE
+Lucknow University	ORG
+Lucknow	PERSON
+8182843659	DATE
+7379588695	DATE
+2020-2021	DATE
+Focus Media	ORG
+Varanasi	PERSON
+City Focus Media - Varanasi	FAC
+Focus Media	ORG
+NaMo	ORG
+Gurugram	PERSON
+Feb 2023-Present	PERSON
+Working	PERSON
+Design Pond Agency	ORG
+IBS Hospital	ORG
+3	CARDINAL

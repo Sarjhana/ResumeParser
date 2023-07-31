@@ -1,0 +1,27 @@
+DETAILS	ORG
+Ahmedabad	GPE
+Gujarat	GPE
+27	QUANTITY
+English	LANGUAGE
+Gujarati	PERSON
+third-year	DATE
+8.08D10	CARDINAL
+2022	CARDINAL
+2022	DATE
+Blockchain	GPE
+Unizue	GPE
+Gujarat	GPE
+Gujarat	GPE
+202V	CARDINAL
+q Certixcates	PERSON
+organi3ation	ORG
+Blockchain Academy	ORG
+2	CARDINAL
+Cisco Networking Academy	ORG
+8	CARDINAL
+Blockchain Essentials	ORG
+2V Nov 2022	DATE
+20 Yct 2022	CARDINAL
+HAC	ORG
+A3adi	GPE
+2022	DATE

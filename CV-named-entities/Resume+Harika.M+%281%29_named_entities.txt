@@ -1,0 +1,41 @@
+Challenge	ORG
+Narayana Junior	PERSON
+Board / Institution / 
+	ORG
+Physics 
+&Chemistry	ORG
+73.50 %	PERCENT
+68.09 %	PERCENT
+2020	DATE
+MS-Excel	WORK_OF_ART
+2018 – 2019	DATE
+C, C++	WORK_OF_ART
+2018 – 2019	DATE
+2019 - 2020	DATE
+Creating	PERSON
+Social Media Executing	ORG
+Volunteer	WORK_OF_ART
+October 2020 to March 2020	DATE
+May 2020 to July 2021	DATE
+EBook	ORG
+Amazon	ORG
+Real Life Incidents	WORK_OF_ART
+Freelance	ORG
+Writer- Cruisemax	PRODUCT
+Content Writer	WORK_OF_ART
+Neophytech (P) Ltd. Bangalore	ORG
+January 2022 to June 2022	DATE
+Social Media Executive	ORG
+Maa Homes Bangalore	FAC
+July 2022 to March 2023	DATE
+9505063503	DATE
+English	LANGUAGE
+Hindi	PERSON
+Molli Srinivasa	PERSON
+Telugu	PERSON
+Karnataka
+ 
+	PERSON
+9505063503	DATE
+Molli Harika	PERSON
+DETAILS	ORG

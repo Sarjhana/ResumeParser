@@ -1,0 +1,61 @@
+Hamid Ahmed  
+  
+ 
+ 
+ 
+ 
+ 
+  
+   
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+  
+Employment History	PERSON
+July 2022	DATE
+July 2022	DATE
+Creative Assembly	ORG
+June 2021	DATE
+July 2021	DATE
+Scalable 
+Vector Graphics (SVG	PRODUCT
+November 2020	DATE
+January 2021	DATE
+Loving Social Media	ORG
+Digital Marketing Assistant & SEO Junior	ORG
+Canva	ORG
+YouTube	PRODUCT
+Instagram	PRODUCT
+Facebook	PRODUCT
+YouTube	PRODUCT
+February 2020	DATE
+February 2020	DATE
+July 2019	DATE
+August 2019	DATE
+Berkeley Group	ORG
+2021	DATE
+New City	GPE
+3	CARDINAL
+2020	DATE
+Oct 2020	DATE
+Vesta College	PERSON
+2014	DATE
+John	PERSON
+Cass	PERSON
+Photoshop	PERSON
+Canva	ORG
+Premiere Pro	ORG
+Adobe XD	ORG
+SEO	ORG
+YouTube 
+channel	PRODUCT
+1,000	CARDINAL
+5,000	CARDINAL
+140	CARDINAL

@@ -1,0 +1,21 @@
+Shubham Bhatt	PERSON
+Alwar	PERSON
+Rajasthan	PERSON
+shubhambhatt.jan18@gmail.com	FAC
+Graphic Designing	PERSON
+Figma	WORK_OF_ART
+Adobe Illustrator	ORG
+Adobe Photoshop	PERSON
+User Experience Designer with 2+ years of experience	WORK_OF_ART
+Brains Valley	LOC
+User Interface	PERSON
+User journeys	PERSON
+Wireframes	ORG
+IA	ORG
+AB	ORG
+The Design Trip	GPE
+IA	ORG
+User Interface	PERSON
+Commerce	ORG
+Rajasthan	PERSON
+Rajasthan	PERSON

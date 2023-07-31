@@ -1,0 +1,22 @@
+1	CARDINAL
+2	CARDINAL
+3	CARDINAL
+4	CARDINAL
+1	CARDINAL
+English	LANGUAGE
+2	CARDINAL
+Hindi	PERSON
+Pursuing 3rd year	DATE
+RPL Maheswari	ORG
+1 year	DATE
+POST - Video Editor	ORG
+POST - Video Editor	ORG
+2 Year	DATE
+Freelancer Video	ORG
+2 year	DATE
+6 month	DATE
+Post	ORG
+2020	DATE
+10th - 57%	PERCENT
+1	CARDINAL
+2	CARDINAL

@@ -1,0 +1,94 @@
+91) 8506800086	DATE
+Faridabad	GPE
+India	GPE
+Austin	GPE
+Texas	GPE
+USA	GPE
+AI	ORG
+Oct 2019 - June 2020	DATE
+Product UI-UX Design	ORG
+Mobile App	PERSON
+Persona Creation	PERSON
+DESIGNER @	PRODUCT
+Contact Center Industry	ORG
+Feb 2018 - Jul 2019	DATE
+Chandigarh	PERSON
+India	GPE
+Adobe Photoshop	ORG
+Adobe Illustrator	ORG
+Adobe Sketch	ORG
+Agile Environment	ORG
+Adobe Dreamweaver	ORG
+Bootstrap / Wordpress
+	ORG
+Balsamiq	PERSON
+HCI - HUMAN COMPUTER	ORG
+Singapore	GPE
+SaaS & PaaS	ORG
+Portal Kampus	PERSON
+Portal Dinas	ORG
+Portal	ORG
+June 2020	DATE
+6	CARDINAL
+Indian & Indonesian	ORG
+UI-UX	ORG
+Project Owners	ORG
+CTO & CEO	ORG
+User Personas	PERSON
+iOS	PRODUCT
+app	ORG
+Customer Journey	PERSON
+the Lo-Fi & Hi	FAC
+the year 2009 & 2010	DATE
+3PB	CARDINAL
+SNIC	ORG
+Lakshadweep	GPE
+Ernakulum Ireland	GPE
+India	GPE
+2010	DATE
+3	CARDINAL
+1	CARDINAL
+TSC	ORG
+State Level	ORG
+the Special Award	WORK_OF_ART
+NCC Directorate	ORG
+Achieved Silver Medal	PERSON
+North Zone	GPE
+Chandigarh	ORG
+State Level & National Level	ORG
+year 2005	DATE
+State Level & District Level	ORG
+Achieved Gold Medal in Creative Writing Competition	PERSON
+2010	DATE
+District Level	GPE
+2012 - Oct 2013	DATE
+Banking & Finance	ORG
+Telecom	ORG
+Healthcare	ORG
+SaaS	ORG
+SOCIAL	ORG
+WEB DESIGNER @	ORG
+SEO	ORG
+Human Computer Interaction	ORG
+Interaction Design Foundation	ORG
+IBM	ORG
+IBM	ORG
+a Low Fidelity Prototype	LAW
+Figma	GPE
+Coursera	PERSON
+Scratch	GPE
+Interaction Design Foundation	ORG
+Computer Application (PGDCA	ORG
+Kurukshetra
+University	ORG
+2022	DATE
+Post-Graduation	ORG
+Visual Media Academy	ORG
+Chd	PERSON
+2011	DATE
+Punjab University	ORG
+Chandigarh	ORG
+2009	DATE
+69.16%	PERCENT
+India	GPE
+Nov 2013 - Feb 2018	DATE

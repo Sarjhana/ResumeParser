@@ -1,0 +1,47 @@
+Abdullah Mukhtar	PERSON
+Editor/ Camera	ORG
+07538 049821	DATE
+BA Filmmaking	ORG
+Nottingham Trent University	ORG
+2022	DATE
+2022	CARDINAL
+Social Sciences	ORG
+Buckinghamshire College Group	ORG
+2019-2020	DATE
+39	CARDINAL
+6	CARDINAL
+The Average Employee	WORK_OF_ART
+Danger!	WORK_OF_ART
+Trip Hazard	PERSON
+3- minute	TIME
+Swan Song	WORK_OF_ART
+Ringing Out	WORK_OF_ART
+Video Editing 
+	PRODUCT
+Avid Media Composer	FAC
+March 2022	DATE
+Stadium Concessions	ORG
+Delaware North	PERSON
+Wembley Stadium	FAC
+October 2022	DATE
+November 2022	DATE
+The Montana Organisation	ORG
+Cut Pro X	PERSON
+Davinci Resolve 
+ 
+	PERSON
+Microsoft	ORG
+October 2021	DATE
+December 2021	DATE
+August 2018	DATE
+December 2020	DATE
+McDonald	ORG
+April 2019	DATE
+University of Nottingham	ORG
+Malaysia	GPE
+East Asia	LOC
+July 2022 
+ 
+ 
+Hobbies	DATE
+Interests	NORP

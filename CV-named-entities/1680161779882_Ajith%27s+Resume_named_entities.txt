@@ -1,0 +1,27 @@
+India	GPE
+SQL	ORG
+Scripting (Basics	WORK_OF_ART
+English	LANGUAGE
+Kannada	GPE
+Bachelor	PERSON
+MVJ College of Engineering	ORG
+Composite PU College	ORG
+87.83 Percentage	PERCENT
+India	GPE
+Subex	ORG
+Steward Bank	ORG
+Assurance Project	ORG
+80%	PERCENT
+UAT	ORG
+OSE	ORG
+Software Engineer	PERSON
+Subex Limited	PERSON
+India	GPE
+UAT	ORG
+MSC	ORG
+Python	ORG
+Python BeautifulSoup Framework	ORG
+Third	DATE
+10th	ORDINAL
+Standard Examination	WORK_OF_ART
+87.84	CARDINAL

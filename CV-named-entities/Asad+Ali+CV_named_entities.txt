@@ -1,0 +1,30 @@
+2020 to 2021	DATE
+Video Editor	ORG
+Motion Graphics	ORG
+Edu Tech	ORG
+Entri	PERSON
+daily	DATE
+47	CARDINAL
+Video Editor	ORG
+Motion Graphics	ORG
+Jan Gan Man Ki	PERSON
+Karan Thapar Show	PERSON
+2018	DATE
+Video Editor	ORG
+Motion Graphics	ORG
+India	GPE
+Symbiosis Center for Media 
+& Communication	ORG
+New Delhi	GPE
+Video Editor	ORG
+4 years	DATE
+Adobe Creative Suite	ORG
+ALI	ORG
+Tanvi Gandhi - Worked	PERSON
+India	GPE
+4th Graders	FAC
+6 
+weeks	DATE
+annual	DATE
+English	LANGUAGE
+Hindi	PERSON

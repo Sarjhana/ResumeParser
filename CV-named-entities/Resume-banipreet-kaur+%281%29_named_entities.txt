@@ -1,0 +1,50 @@
+banipreet kaur	PERSON
+Delhi	GPE
+India	GPE
+English	LANGUAGE
+Commerce	ORG
+Commerce	ORG
+Adarsh Vidyalaya High School - India	ORG
+9 months	DATE
+1 year 7 months	DATE
+2021	DATE
+1 year 8 months	DATE
+2022 - Mar 2023	DATE
+7 months	DATE
+1 year 10 months	DATE
+Mela	PERSON
+2022 - Oct 2022	DATE
+2 months	DATE
+2021 - Mar 2022	DATE
+4 months	DATE
+2 months	DATE
+Oct 2021	DATE
+2 months	DATE
+2021 - Oct 2021	DATE
+2 months	DATE
+2021 - Oct 2021	DATE
+2 months	DATE
+1	CARDINAL
+2	CARDINAL
+3	CARDINAL
+4	CARDINAL
+app	ORG
+5	CARDINAL
+2021 - Oct 2021	DATE
+2 months	DATE
+2021 - Oct 2021	DATE
+3 months	DATE
+May 2021	DATE
+3 months	DATE
+2	CARDINAL
+Sri Guru Tegh	PERSON
+Bahadur Khalsa College	ORG
+Bachelor	PERSON
+Oct 2021	DATE
+Adarsh Vidyalaya High School - India	ORG
+Commerce	ORG
+Jun 2019 - Jun 2021	PERSON
+2009 - 2019	DATE
+English	LANGUAGE
+Baking	LANGUAGE
+3	CARDINAL

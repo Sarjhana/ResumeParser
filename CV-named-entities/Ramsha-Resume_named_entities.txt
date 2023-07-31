@@ -1,0 +1,47 @@
+2016-2018	DATE
+English	LANGUAGE
+2010-2013	DATE
+XII	ORG
+2010	DATE
+Jamia Millia University	ORG
+Ambedkar University	ORG
+Delhi University
+     Presentation Convent Sr	ORG
+Sec	PERSON
+School
+     Presentation Convent Sr	EVENT
+Sec	PERSON
+Brand Management
+	ORG
+Microsoft Office	ORG
+CMS	ORG
+Social Media	ORG
+Time Management	ORG
+Microsoft Office	ORG
+Ikokas	ORG
+June 2022 - September 22	DATE
+Marketing & Brand	ORG
+Social	ORG
+LinkedIn	ORG
+SEO	ORG
+Ikokas	ORG
+Vector3	GPE
+January 2022- April 2022	DATE
+3	CARDINAL
+LinkedIn	CARDINAL
+1	CARDINAL
+monthly	DATE
+Spire Research and Consulting	ORG
+October 2020	DATE
+January 2022	DATE
+Marketing Communications	ORG
+Spire Research and Consulting	ORG
+November 2018	DATE
+September 2020	DATE
+Google Ads	PERSON
+Google Analytics	ORG
+Canva	ORG
+English	LANGUAGE
+Hindi	PERSON
+Bahasa	GPE
+Indonesia	GPE

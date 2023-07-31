@@ -1,0 +1,19 @@
+Anupama Singh	PERSON
+BBA	ORG
+Marketing	GPE
+Pune University	ORG
+2014 - 2017	DATE
+Mahalakshmi Hall	PERSON
+May 2022	DATE
+Facebook	FAC
+Pinterest	ORG
+YouTube	ORG
+Quora	PERSON
+28-01-1997	DATE
+Busi	PERSON
+Development	PERSON
+December 2021	DATE
+2017	DATE
+HTML	ORG
+Facebook Meta
+Business & Wix	ORG

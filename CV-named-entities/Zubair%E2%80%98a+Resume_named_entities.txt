@@ -1,0 +1,38 @@
+Zubair Shareef	PERSON
+9700219069	DATE
+Groundhog	PERSON
+2	CARDINAL
+Nodejs	NORP
+Dashboard	PERSON
+Reactjs	ORG
+Iniesta Webtech Solutions	ORG
+Android Development Intern 
+	PERSON
+05/2020 - 06/2020	CARDINAL
+Science	ORG
+AAR Mahaveer Engineering College	ORG
+2018 - 2022	DATE
+nodejs 
+	PERSON
+javascript 
+	PERSON
+Android	PERSON
+nodejs,express	ORG
+sql	ORG
+AWS	ORG
+Jwt login	PERSON
+Premium User	PRODUCT
+nodejs,sql,express	ORG
+AWS	ORG
+delete group	ORG
+app 
+	ORG
+nodejs,express	ORG
+JWT login	PERSON
+Post	ORG
+nodejs,sql,Aws	ORG
+Jwt login	PERSON
+admin login	PERSON
+Notes Web App 
+	WORK_OF_ART
+VOLUNTEER	PERSON

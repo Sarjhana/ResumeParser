@@ -1,0 +1,50 @@
+Mohammed Movein Beig	PERSON
+Certified Data Scientist	ORG
+Spark	GPE
+Python	GPE
+MATLAB	ORG
+SAS	ORG
+SQL	ORG
+April ’23	DATE
+Rubixe AI Consulting	ORG
+20%	PERCENT
+2017-2021	DATE
+Vemana Institute of Technology	ORG
+MECH	ORG
+2015 - 2017	DATE
+Narayana Junior College	ORG
+PUC	GPE
+XII	ORG
+88%	PERCENT
+Keshava Reddy School	ORG
+SSC	ORG
+83%	PERCENT
+IABAC	ORG
+Google Data Analytics	ORG
+Datamites	PERSON
+Bangalore	PERSON
+Python Udemy	ORG
+Customer Credit Score	ORG
+Rubixe	ORG
+India	GPE
+AutoPricePred	CARDINAL
+GameWinnerPred	CARDINAL
+Pubg	ORG
+Mohammed Movein Beig  
+	PERSON
+MS Office	ORG
+Numpy, Pandas	ORG
+Sklearn                            	PRODUCT
+Data Cleaning	PERSON
+Tableau	ORG
+SQL	ORG
+Cloud	ORG
+English	NORP
+Telugu	PERSON
+Hindi                                                  	PERSON
+Kananda	PERSON
+Divya Panchami	ORG
+App	ORG
+4th	ORDINAL
+Thayappa	GPE
+Bilekahalli	PERSON

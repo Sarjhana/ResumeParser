@@ -1,0 +1,65 @@
+GAURAV	ORG
+Github	PRODUCT
+Linkedin	PERSON
+CodeChef	PRODUCT
+HackerRank	ORG
+Bachelor of Technology in Computer Science & Information Technology	ORG
+2020-2024	DATE
+Mahatma Jyotiba Phule	PERSON
+Uttar Pradesh	GPE
+India	GPE
+GPA	ORG
+7.8	CARDINAL
+2019	DATE
+77.3%	PERCENT
+Kendriya Vidyalaya Sriganganagar	ORG
+2017	DATE
+9.5	CARDINAL
+Skills & Technologies	ORG
+C++	LANGUAGE
+HTML	ORG
+CSS	ORG
+Javascript	NORP
+MySql	PRODUCT
+Java	ORG
+Frameworks	PERSON
+Bootstrap	ORG
+ReactJS	ORG
+Git	PERSON
+Linux	PERSON
+DSA	ORG
+GCP	ORG
+Computer Network	ORG
+ADA	ORG
+Musify	PERSON
+app	ORG
+HTML	ORG
+CSS	ORG
+JavaScript	ORG
+CSS	ORG
+MbaChaiWala	GPE
+ReactJS	ORG
+JavaScript	PRODUCT
+MbaChaiWala	DATE
+app	ORG
+ReactJS	ORG
+Chakra UI	ORG
+Firebase	PERSON
+Developed Skiecues	PERSON
+HTML	ORG
+CSS	ORG
+JavaScript	ORG
+OpenWeather	PRODUCT
+Skiecues	GPE
+2231	DATE
+9000	CARDINAL
+CodeChef	FAC
+Div	PERSON
+3	CARDINAL
+26	CARDINAL
+Codechef	GPE
+april	DATE
+Google Cloud Ready	PERSON
+Program Fellow	PERSON
+2022	CARDINAL
+Google	ORG

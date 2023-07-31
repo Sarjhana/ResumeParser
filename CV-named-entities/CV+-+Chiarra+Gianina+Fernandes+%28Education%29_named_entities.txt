@@ -1,0 +1,95 @@
+Chiarra Gianina	PERSON
+Ferna	GPE
+Indian	NORP
+00185	CARDINAL
+Roma	GPE
+Italy	GPE
+	CARDINAL
+3517563131	CARDINAL
+CURRENT Rome	GPE
+Italy	GPE
+1	CARDINAL
+Italian	NORP
+19/11/2019	DATE
+Mumbai	GPE
+India	GPE
+1	CARDINAL
+2	CARDINAL
+3	CARDINAL
+4	CARDINAL
+5	CARDINAL
+Client Services Representatives	ORG
+Mumbai	GPE
+India	GPE
+1	CARDINAL
+2	CARDINAL
+3	CARDINAL
+4	CARDINAL
+5	CARDINAL
+01/06/2016	DATE
+30/06/2016	DATE
+Mumbai	GPE
+India	GPE
+Mumbai	GPE
+India	GPE
+30/03/2016 Mumbai	FAC
+India	GPE
+Uni-Italia	PERSON
+Italian Ministry	ORG
+Foreign Aﬀairs	ORG
+Uni-Italia Centre	ORG
+Italian	NORP
+Mumbai	GPE
+Consultancy /	ORG
+Times of India	ORG
+Intern MTV India Pvt.	ORG
+09/2022	CARDINAL
+Roma	ORG
+Mumbai	GPE
+India	GPE
+Mumbai	GPE
+India	GPE
+08/2015	CARDINAL
+Mumbai	GPE
+India	GPE
+Mumbai	GPE
+India	GPE
+Laurea Magistrale	PERSON
+Art History Tor Vergata	FAC
+University of
+	ORG
+English University of Mumbai (Institute of
+Distance and	ORG
+Journalism St Pauls Institute of
+Communication Education	ORG
+English	LANGUAGE
+B1	CARDINAL
+B1	CARDINAL
+Italian	NORP
+B1	CARDINAL
+B1	CARDINAL
+B1	CARDINAL
+B1	CARDINAL
+B1	CARDINAL
+Mumbai	GPE
+India	GPE
+Mumbai	GPE
+India	GPE
+Mumbai	GPE
+India	GPE
+Mumbai	GPE
+India	GPE
+23/07/2017	CARDINAL
+Florence	GPE
+Italy	GPE
+Florence	GPE
+Italy	GPE
+Bachelor of Arts	WORK_OF_ART
+English	LANGUAGE
+Maharashtra State Boards 
+	ORG
+Scuole	PRODUCT
+International Centre of the Focolare Movement	ORG
+St Michaels Church Mumbai	ORG
+Organiser / Volunteer (College	ORG
+Parish	NORP

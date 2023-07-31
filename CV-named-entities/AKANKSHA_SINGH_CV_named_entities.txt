@@ -1,0 +1,65 @@
+SUMMARY	ORG
+Anju Tata Motors	ORG
+Haridwar	GPE
+Urban Company	ORG
+New Delhi	GPE
+National Capital Territory	ORG
+Delhi	GPE
+7042902920	DATE
++44	DATE
+Indian	NORP
+Heavy Vehicles	ORG
+5	CARDINAL
+the Public Relations Department	ORG
+Organized Competitions	WORK_OF_ART
+“Employee of the Month”	WORK_OF_ART
+Trade India	ORG
+India Mart &
+	ORG
+Getdistributors.com	ORG
+Urban Company	ORG
+Product Adoption &
+Analysis	ORG
+Customer Footfall Analysis & Differential Pricing	ORG
+MA	ORG
+International	ORG
+2022	DATE
+University of Leeds - United Kingdom	ORG
+Facebook	ORG
+Instagram, Snapchat & Twitter	ORG
+90 %	PERCENT
+media &
+communication	ORG
+Bachelor of Arts	WORK_OF_ART
+Mass	GPE
+Amity School of Communication	ORG
+Uttar	GPE
+6.91/10.0	DATE
+2018	DATE
+2015	DATE
+Cambridge School	ORG
+Inter School	ORG
+Competition	WORK_OF_ART
+English	LANGUAGE
+Journalism	LANGUAGE
+Media	GPE
+Organizer	ORG
+SA RE	ORG
+MA PA	ORG
+National	ORG
+April 2017	DATE
+30	CARDINAL
+30,000	CARDINAL
+Logistics, Creativity and Security	ORG
+EXTRACURRICULAR ACTIVITIES & COMMUNITY SERVICES	ORG
+1st	ORDINAL
+Literary Week-Dramatization of Situation
+	EVENT
+Relay Race	ORG
+2nd	ORDINAL
+Literary Week - Shloka Recitation & Sr
+	EVENT
+4x100	QUANTITY
+Noida	GPE
+3rd	ORDINAL
+Angel Talent Spectrum	FAC

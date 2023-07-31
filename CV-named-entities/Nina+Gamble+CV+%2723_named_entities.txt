@@ -1,0 +1,27 @@
+Nina Gamble	PERSON
+BA	ORG
+the age of 16	DATE
+GOE Wellness	ORG
+London	GPE
+Video Editor /	ORG
+Social Media	ORG
+July 2022 - February 2023	DATE
+London	GPE
+August 2021 - January 2022	DATE
+Polyesterzine	ORG
+London	GPE
+Social Media	ORG
+October 2020 - November 2020	DATE
+PolyesterZine	ORG
+TikTok	PRODUCT
+TikTok	PRODUCT
+Kingston School of Art	ORG
+Kingston	LOC
+September 2019 - May 2022	DATE
+Kingston School of art	ORG
+three years	DATE
+foley	PERSON
+Microsoft Office	ORG
+Apple MAC	ORG
+Adobe Premiere	ORG
+Audition	PRODUCT

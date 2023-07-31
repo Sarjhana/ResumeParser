@@ -1,0 +1,59 @@
+korukonda road	FAC
+rjy	PERSON
+east godavari	GPE
+6309609226	DATE
+D.O.B	PERSON
+Institute of 
+Technology	ORG
+2021-2022	DATE
+82.3 
+	CARDINAL
+2020-2021	DATE
+81.4	CARDINAL
+79.6	CARDINAL
+2018-2019	DATE
+78.9	CARDINAL
+Board of Intermediate Education	ORG
+2016-2018	DATE
+96.3	CARDINAL
+Board of Secondary Education A.P.	ORG
+BHASHYAM	ORG
+2015-2016	DATE
+95.0	CARDINAL
+Programming Language: - 
+	WORK_OF_ART
+Java and Python	ORG
+Linux	PERSON
+CSS	ORG
+Django	GPE
+DSA	ORG
+OOPS	PERSON
+2 months	DATE
+Cloud Computing	WORK_OF_ART
+12th jun 2021 to 15th aug 2021	DATE
+“WORKSHOP ON HADOOP AND	WORK_OF_ART
+A Responsive Movie Website  
+ 
+	ORG
+MySql	PERSON
+HTML/CSS	ORG
+HTML	ORG
+CSS	ORG
+Captivating Youtube Recommendation System	WORK_OF_ART
+Python,Flask	ORG
+VS	ORG
+MySql	PERSON
+10	CARDINAL
+ANN	ORG
+Santhiram Engineering 
+college	ORG
+Successfully	ORG
+HACKERRANK	WORK_OF_ART
+PYTHON 
+PROGRAMMING	WORK_OF_ART
+UDEMY	WORK_OF_ART
+Dancing and Fitness	ORG
+Creativity and Adaptibility	ORG
+Critical Thinking	WORK_OF_ART
+Problem Solving	PERSON
+G.Sai Kiran	PERSON

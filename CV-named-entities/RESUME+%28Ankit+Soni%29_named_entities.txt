@@ -1,0 +1,30 @@
+Jul. 2019	DATE
+Oct. 2022	DATE
+Techinfra Solutions (India)	WORK_OF_ART
+Mumbai	GPE
+Maharashtra	ORG
+Control Room	ORG
+first	ORDINAL
+Managed	NORP
+Trained	ORG
+Oct. 2018	DATE
+BPO	ORG
+Mumbai	GPE
+Maharashtra	ORG
+May 2015	DATE
+Jun. 2018	DATE
+Encroachment Department - 
+Mumbai	ORG
+2020	DATE
+B.Com	PERSON
+Mumbai University	ORG
+2012	DATE
+H.S.C. 
+	ORG
+Mumbai University	ORG
+S.S.C. 
+	ORG
+Mumbai	GPE
+Excel
+	PRODUCT
+English	LANGUAGE

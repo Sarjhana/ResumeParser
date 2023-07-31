@@ -1,0 +1,38 @@
+New York	GPE
+Create Wireframes	ORG
+UX	ORG
+Philippine	NORP
+Machine Ventures	ORG
+philippines	GPE
+Machine Ventures	ORG
+5 years	DATE
+UI/UX	ORG
+UX & project	ORG
+Linkedin (Proﬁle	ORG
+609 208	CARDINAL
+Task Management
+	PRODUCT
+Team Building	FAC
+Basecamp	WORK_OF_ART
+Collect	ORG
+Android	PERSON
+Adobe Creative Suite	ORG
+Balsamiq	PERSON
+Microsoft Office	ORG
+D UC	WORK_OF_ART
+English	LANGUAGE
+Gender - Male	PERSON
+Bangladesh University	ORG
+Completed - 2021	DATE
+Bachelor of Science	WORK_OF_ART
+Govt.	ORG
+Graphic Arts Institute   
+Graphic Design Technology	ORG
+Bdjobs.com	ORG
+Apps UI & UX	ORG
+App	ORG
+almost 2 million	CARDINAL
+Bdjobs.com	ORG
+Crypto	GPE
+California Institute Of The Arts
+	ORG

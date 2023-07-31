@@ -1,0 +1,136 @@
+mohit.khanna2008@gmail.com	ORG
+khanna-8079a885	FAC
+topmate.io/mkhanna	PERSON
+Hindi	PERSON
+English	LANGUAGE
+Graph Analytics	ORG
+Language Processing	ORG
+GCP	ORG
+@
+	PRODUCT
+Karnataka	GPE
+India	GPE
+one	CARDINAL
+one	CARDINAL
+FAANG	ORG
+Google	ORG
+Machine Learning	ORG
+1	CARDINAL
+AI	GPE
+2	CARDINAL
+3	CARDINAL
+SkillSet
+ 
+Page	PERSON
+AWS Certified Solution Architect	ORG
+GCP Certified Data Engineer	ORG
+Exploratory Data Analysis	ORG
+ETL	ORG
+Multi Armed Bandit	ORG
+Epsilon Greedy	PERSON
+SQL	ORG
+SQL	ORG
+Programming Language:
+	WORK_OF_ART
+SQL	ORG
+Statistical Modelling Testing
+ 
+Page 2	WORK_OF_ART
+Deep Learning	WORK_OF_ART
+Map Reduce	PERSON
+Numpy	PERSON
+Keras	PERSON
+NLTK	ORG
+Docker	PERSON
+June 2021	DATE
+2 years 2 months	DATE
+Bangalore Urban	PERSON
+Karnataka	GPE
+India	GPE
+5
+ 
+ 
+	QUANTITY
+Google	ORG
+Machine Learning	ORG
+mentors.to/mohitkhanna	ORG
+December 2021	DATE
+1 year 8 months	DATE
+Bangalore Urban	PERSON
+Karnataka	GPE
+India	GPE
+ETL	ORG
+ML	PERSON
+monthly	DATE
+one	CARDINAL
+1:1	CARDINAL
+LatentView Analytics	ORG
+2 years 5 months	DATE
+Science	ORG
+September 2020 - 	DATE
+June 2021	DATE
+10 months	DATE
+Bangalore Urban	PERSON
+Karnataka	GPE
+India	GPE
+February 2019	DATE
+September 2020	DATE
+1 year 8 months	DATE
+India	GPE
+Springboard	PERSON
+AI &ML	ORG
+July 2019 	DATE
+May 2020	DATE
+11 months	DATE
+India	GPE
+2	CARDINAL
+AI/ML	ORG
+Independent Consultant for Machine Learning	ORG
+NLP	ORG
+Data Analyst	ORG
+March 2019	DATE
+May 2020 	DATE
+1 year 3 months	DATE
+India	GPE
+5
+ 
+ 
+	QUANTITY
+Udacity	ORG
+Machine Learning	FAC
+3 years 2 months	DATE
+the Center Of Exellence	FAC
+October 2018	DATE
+January 2019	DATE
+4 months	DATE
+India	GPE
+the Center of Excellence	ORG
+May 2017	DATE
+October 2018	DATE
+1 year 6 months	DATE
+Karnataka	GPE
+India	GPE
+December 2015	DATE
+May 2017	DATE
+1 year 6 months	DATE
+DevOps	ORG
+Apple	ORG
+Location-Based-Services	ORG
+University of Illinois at	ORG
+Urbana-Champaign	ORG
+Computer Science in Data Science	ORG
+2017 - 	DATE
+2019	DATE
+Deep Learning	PERSON
+2018 - 2018	DATE
+Abdul Kalam Technical University
+	ORG
+BTech	ORG
+Computer Engineering	ORG
+2011	CARDINAL
+2015	DATE
+Science	ORG
+1999	DATE
+2011	DATE
+5	CARDINAL
+5	CARDINAL

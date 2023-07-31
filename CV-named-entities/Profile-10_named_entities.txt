@@ -1,0 +1,73 @@
+German	NORP
+English	LANGUAGE
+Hindi	PERSON
+Coursera	PERSON
+Predictive Analytics	ORG
+Big Data Engineering	ORG
+Honors-Awards	EVENT
+Performer	PERSON
+Green Field	FAC
+Challenge'09	CARDINAL
+Online Transactions	ORG
+GTP	ORG
+International Gold Price Analytics	ORG
+Nitin	GPE
+Bangalore Urban	PERSON
+Karnataka	GPE
+India	GPE
+12 years	DATE
+Microsoft	ORG
+February 2022	DATE
+1 year 6 months	DATE
+Hyderabad	GPE
+Telangana	GPE
+India	GPE
+A.P. Moller - Maersk	PERSON
+December 2019	DATE
+February 2022	DATE
+2 years 3 months	DATE
+India	GPE
+Accelopt	LOC
+November 2018	DATE
+December 2019	DATE
+1 year 2 months	DATE
+India	GPE
+2	CARDINAL
+November 2018	DATE
+6 months	DATE
+India	GPE
+September 2017	DATE
+June 2018	DATE
+10 months	DATE
+India	GPE
+KPMG	ORG
+Associate - Advanced Analytics	WORK_OF_ART
+May 2015	DATE
+September 2017	DATE
+2 years 5 months	DATE
+India	GPE
+India	GPE
+Business Intelligence Analyst	ORG
+July 2011 - 	DATE
+November 2014	DATE
+3 years 5 months	DATE
+India	GPE
+Birla Institute of Technology and Science	ORG
+Pilani	PERSON
+May 2020 	DATE
+May 2022	DATE
+Harvard Business School	ORG
+Business Analytics	ORG
+Economics for Managers	ORG
+2016 - 2016	DATE
+Post Graduate Certificate	ORG
+Business Analytics	ORG
+2015	DATE
+2015	DATE
+Jaypee University of Information Technology	ORG
+B. Tech	PERSON
+Electrical, Electronics and Communications	ORG
+2007	DATE
+2011	DATE
+2	CARDINAL
+2	CARDINAL

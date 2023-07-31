@@ -1,0 +1,65 @@
+2022
+	DATE
+27/05/2022 - 18/04/2023	DATE
+Ankita Sanjay Nikam	PERSON
+no 2002	DATE
+Aadi Allure	ORG
+Parivar Society	ORG
+East	GPE
+TBS Institute	ORG
+Digital Marketing
+	ORG
+Mumbai University	ORG
+B.Com
+	ORG
+Mumbai University	ORG
+HSC
+	ORG
+Mumbai University	ORG
+Instagram	GPE
+Twitter	ORG
+Spoc	ORG
+Vistara	GPE
+Powerpoint MS Word	PRODUCT
+Revert	PERSON
+FLTOPS	ORG
+Cabin	PRODUCT
+GS	ORG
+SEC	ORG
+ENGG	ORG
+HDFC Bank Limited	ORG
+Naukri	GPE
+HCM portal	ORG
+23/01/2020 - 01/02/2022	DATE
+daily	DATE
+Karza	PERSON
+All Cargo	PERSON
+Tata Sia Airlines	ORG
+Vistara Airlines	ORG
+Vistara	GPE
+India	GPE
+Mumbai	GPE
+Airway	GPE
+SAP	ORG
+SAP	ORG
+Vistara	GPE
+MTM	ORG
+monthly	DATE
+Bin	PERSON
+Vistara	GPE
+MIS	ORG
+daily	DATE
+Vistara	GPE
+GS	ORG
+Inflight	ORG
+Security	ORG
+Engg	GPE
+Tata Sia Airlines	ORG
+English	LANGUAGE
+Birth	WORK_OF_ART
+11/06/1995	DATE
+Marital Status	WORK_OF_ART
+Indian	NORP
+Certiﬁcation - April 2022	DATE
+Digital Marketing in Certiﬁcation Program	ORG
+May 2022	DATE

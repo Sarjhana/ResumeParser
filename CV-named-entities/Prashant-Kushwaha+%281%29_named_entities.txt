@@ -1,0 +1,47 @@
+Five	CARDINAL
+1st year	DATE
+₹5,00,000	PERSON
+SEO	ORG
+Managed	ORG
+Google Ads	ORG
+Facebook Ads	PRODUCT
+➢	CARDINAL
+Ramanand Institute of Technology | Hardwar	ORG
+6 Months	DATE
+2016	DATE
+Power Electronics	ORG
+DIT University	ORG
+Dehradun 
+ 
+2014	PERSON
+Electrical and Electronics	ORG
+Uttaranchal University	ORG
+Dehradun 
+ 
+	PERSON
+CSS 
+ 
+ 
+JAVASCRIPT	PERSON
+2018 - 2023	DATE
+2016 - 2018	DATE
+Digital Marketing Executive	ORG
+Conducted	GPE
+SEO	ORG
+➢	CARDINAL
+Measured	WORK_OF_ART
+WordPress	ORG
+Conducted	GPE
+WordPress	ORG
+WordPress SEO	PRODUCT
+third	ORDINAL
+WordPress	ORG
+Google Analytics	ORG
+WP Bakery	ORG
+DIVI	ORG
+2014	CARDINAL
+2017 
+ 
+2014	DATE
+2017	DATE
+2012 - 2016	DATE

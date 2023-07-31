@@ -1,0 +1,21 @@
+Programming Language : Python	WORK_OF_ART
+HTML	ORG
+CSS	ORG
+Javascript	PERSON
+Bootstrap	PERSON
+Numpy	PERSON
+VsCode , Pycharm Community	ORG
+Machine Learning	ORG
+2023	DATE
+2021	DATE
+GVPIC Garakhara Varanasi	PERSON
+2018	DATE
+Nallasopara	GPE
+Mumbai Maharashtra	PERSON
+7307134589	DATE
+Seminar Hall Booking System	EVENT
+HTML	ORG
+CSS	ORG
+Boostrap	ORG
+English	LANGUAGE
+Problem Solving	PERSON

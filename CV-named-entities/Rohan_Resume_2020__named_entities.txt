@@ -1,0 +1,36 @@
+12 years	DATE
+2009-2014	DATE
+Activemind Inc.	ORG
+Canada	GPE
+2013-2017	DATE
+MediaEdge Inc.	ORG
+Canada	GPE
+2017-2018	DATE
+2014-2017	DATE
+eHelium Advisory Services	ORG
+India	GPE
+TPF Software Inc.	ORG
+India	GPE
+Canada	GPE
+2008	DATE
+Sun Network	PERSON
+India	GPE
+Exodus Ad Agency	ORG
+India	GPE
+85
+	DATE
+2005-2008	DATE
+2008-2009	DATE
+Advanced Television & Film	ORG
+CSC	ORG
+2004-2005	DATE
+RAI UNIVERSITY	ORG
+SOCIAL MEDIA MARKETING	PRODUCT
+Learning
+	FAC
+Learning	GPE
+06	CARDINAL
+17	CARDINAL
+50	CARDINAL
+eHelium Advisory	ORG
+SKYPE	ORG

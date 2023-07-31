@@ -1,0 +1,26 @@
+Lucy Haywood	PERSON
+Leeds Beckett University	ORG
+Media Technologies	ORG
+July 2024	DATE
+First	ORDINAL
+Leeds City College	ORG
+A Level Qualifications	WORK_OF_ART
+September	DATE
+June 2020	DATE
+Media Studies	ORG
+English	LANGUAGE
+Matalan	GPE
+December 2022	DATE
+daily	DATE
+Nando	ORG
+Cashier	PERSON
+July 2018	DATE
+November 2022	DATE
+Premiere Pro	WORK_OF_ART
+Birkenshaw CE © Primary School	ORG
+Activity Support Worker	PRODUCT
+October 2017 - July 2018	DATE
+Microsoft Office	ORG
+Adobe Creative Cloud	ORG
+Social Media	ORG
+Digital	ORG

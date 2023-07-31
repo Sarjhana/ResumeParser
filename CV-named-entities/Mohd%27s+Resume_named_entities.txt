@@ -1,0 +1,23 @@
+Mohd Sakib	PERSON
+Software Developer	PERSON
+New Delhi	GPE
+Badarpur	GPE
+India	GPE
+GITHUB	ORG
+JAVASCRIPT	ORG
+B-Tech(JNTUH	PERSON
+Jawaharlal Nehru	ORG
+University Hyderabad	ORG
+6.5	CARDINAL
+Vidya Mandir public School	ORG
+-16 Faridabad	PERSON
+2015 - 2017	DATE
+37	CARDINAL
+Faridabad	GPE
+2014 - 2015	DATE
+ARTIFICIAL NEURAL NETWORK	LAW
+1	CARDINAL
+IDE	ORG
+Heroku	GPE
+Heroku	GPE
+IDE	ORG

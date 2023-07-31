@@ -1,0 +1,39 @@
+Video Editing	PRODUCT
+2021-2022	DATE
+2013 - 2015	DATE
+Video Editing	PRODUCT
+2016 - 2017	DATE
+Graphic Designer	PERSON
+Motion Graphic	ORG
+Video Editing	PRODUCT
+2017 - 2019	DATE
+Graphic Designer	PERSON
+Motion Graphic	ORG
+Video Editing	PRODUCT
+2019 - 2021	DATE
+2D	QUANTITY
+VFX Instructor	ORG
+2015 - 2016	DATE
+Graphic Designer	PERSON
+VFX	ORG
+Video Editing 
+KHATIB & ALAMI	ORG
+2022-Present	CARDINAL
+Graphic Designer	PERSON
+VFX	ORG
+Video Editing	PRODUCT
+8217731735	DATE
+Bangalore	GPE
+Karnataka-560066	GPE
+FCP	ORG
+Eﬀects	ORG
+Video Camera	PERSON
+English	LANGUAGE
+Hindi	PERSON
+Pro	PERSON
+65.8%	PERCENT
+2010-2013	DATE
+& Hard working Graphic Designer & VFX	WORK_OF_ART
+10 Years Experince	DATE
+Widen My Skills	ORG
+For And Myself	WORK_OF_ART

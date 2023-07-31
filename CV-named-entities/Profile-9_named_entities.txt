@@ -1,0 +1,68 @@
+github.com/roopa164	PERSON
+medium.com/@roopa164gupta	PERSON
+Roopa	PERSON
+English	LANGUAGE
+Operations Research Problems
+SQL(basics	ORG
+Deep Learning Specialization	ORG
+Roopa Gupta	PERSON
+@Nagarro | Mentor@upgrad|Masters(Data	PERSON
+Hyderabad	PERSON
+Telangana	GPE
+India	GPE
+6	CARDINAL
+the Predictive Model	FAC
+Won First	ORG
+India	GPE
+Geek Goddess 2018-Data	FAC
+AI 2019	FAC
+Facebook	ORG
+Analytics Vidhya Profile	PERSON
+Github Profile	PERSON
+Medium Profile:	WORK_OF_ART
+Microsoft	ORG
+Applied Scientist II	WORK_OF_ART
+February 2022	DATE
+1 year 6 months	DATE
+India	GPE
+May 2020 - 	DATE
+3 years 3 months	DATE
+India	GPE
+Upgrad Xpert Mentor	ORG
+Science Career	PERSON
+Data Science	PERSON
+Nagarro	PERSON
+February 2021	DATE
+February 2022	DATE
+1 year 1 month	DATE
+Haryana	GPE
+India	GPE
+May 2018 	DATE
+January 2021	DATE
+2 years 9 months	DATE
+Gurgaon	PERSON
+India	GPE
+1	CARDINAL
+Analytics	ORG
+Resume parsing	PERSON
+2	CARDINAL
+July 2016 	DATE
+May 2018	DATE
+1 year 11 months	DATE
+India	GPE
+1)increased	CARDINAL
+2	CARDINAL
+Won Geek Goddess 2018-Data	PERSON
+February 2018	DATE
+February 2018	DATE
+1 month	DATE
+Won First Prize	WORK_OF_ART
+India	GPE
+Geek Goddess 2018-Data	FAC
+January 2016 - 	DATE
+June 2016	DATE
+6 months	DATE
+2	CARDINAL
+International Institute of Information Technology Bangalore	ORG
+3	CARDINAL
+3	CARDINAL

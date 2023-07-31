@@ -1,0 +1,65 @@
+854	CARDINAL
+999	CARDINAL
+560100	CARDINAL
+June 2014	DATE
+Amity University - B. Tech	ORG
+Mechanical & Automation	ORG
+React/Redux/Next	ORG
+TypeScript/JavaScript	ORG
+Express/Nest	ORG
+Sports & Games	ORG
+Distinguished Software Engineer	GPE
+Problem
+Solving & Psychology	ORG
+Leadership and Management	ORG
+May	DATE
+22 - Present	PERCENT
+Clipboard Health	ORG
+22 - May	DATE
+22	CARDINAL
+third	ORDINAL
+Nest Js	GPE
+Cerebry	GPE
+22	CARDINAL
+22	CARDINAL
+one	CARDINAL
+20	CARDINAL
+21	CARDINAL
+Data & Asset Management	ORG
+Brands	GPE
+Adobe Photoshop	ORG
+Photoshop	PERSON
+Adobe After Effects (Image	ORG
+Video	ORG
+SVG Layers	ORG
+Bezier Curves	PERSON
+Ease	PERSON
+Video	PERSON
+Mentor Entire Team	ORG
+Absentia Virtual Reality Pvt Ltd	ORG
+Jun	PERSON
+20 - Sep	WORK_OF_ART
+20	CARDINAL
+App Solution	ORG
+Asset Management	ORG
+one	CARDINAL
+Performance Marketing	PERSON
+Web App	PERSON
+Software Engineer	PERSON
+Homelane	ORG
+May	DATE
+19	CARDINAL
+20	CARDINAL
+Architect and Executed Solution	ORG
+Migrate Internal Web App	PERSON
+Rigid PHP Frontend	FAC
+PHP Frontend	ORG
+Architect POC Solution to Export Automated	ORG
+MountBlue Technologies	ORG
+19 - May	DATE
+19	CARDINAL
+15	CARDINAL
+15	CARDINAL
+5	CARDINAL
+5	CARDINAL
+Training	GPE
