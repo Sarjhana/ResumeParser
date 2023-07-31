@@ -1,3 +1,1 @@
 # ResumeParser
-# ResumeParser
-# ML-ResumeParser
