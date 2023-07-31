@@ -1,0 +1,61 @@
+EDUCATION
+no:3 Ari mel karai
+ Vedaraniam, 
+nagapattinam  district
+flexibility
+Adaptability
+My SQL
+Intelij Idea
+Java
+Java Swing
+THIRUKUMARADOSS
+MY PROFILE
+I'm a fresher Engineering graduate looking for my first job
+opportunity to demonstrate my skills and knowledge. I'm
+committed to contributing to the success of my employer and
+leveraging my creativity 
+LIVE WIRE  CADD  CENTRE
+PONNAIYAH RAMAJAYAM INSTITUTE OF
+SCIENCE AND TECHNOLOGY,THANJAVUR
+Diploma in  IT
+CONTACT
+9003447256
+thirukumara55@gmail.com
+PHONE
+EMAIL
+ADDRESS
+TECHNICAL
+SKILLS
+SOFT SKILLS
+python
+creativity
+B.E mechanical engineering
+2018 -2022   - 7.46-CGPA
+ST. ANTONY'S MATRICULATION HIGER
+SECONDARY SCHOOL,VEDARANIAM
+HSC
+2018 - 52%
+ST. ANTONY'S MATRICULATION HIGER
+SECONDARY SCHOOL,VEDARANIAM
+SSLC
+2016-60%
+Pycharm
+PROJECT  IN COLLEGE
+SUMMARY
+DESIGN AND FABRICATION OF VERTICAL
+POSITIONED HELIXBLADE WINDMILL
+The main idea of the project is to increase the power output of
+the turbine. Vertical axis wind turbine was chosen because of
+its various advantages  It is easy to manufacture and
+installation and operation cost is low The power produced is
+less when purpose compared to horizontal axis wind turbine
+but it is comparatively cheap and is effective for household
+purposes.
+PROJECT  IN  JAVA
+SIMPLE LOGIN & SIGNUP
+SUMMARY
+USING JAVA SWING TO CREATE SIMPLE
+LOGIN & SIGNUP BY CREATING MULTIPLE
+JFRAME BY JCOMPONENTS LIKE JLABEL,
+JBUTTON, JTEXTFIELD, JPASSWORDFIELD
+ETC. 

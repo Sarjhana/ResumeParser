@@ -1,0 +1,107 @@
+AAKANKSHA BAISHWADE
++91-7471176966
+akanshabaishwade@gmail.com
+SKILLS
+Python
+Django & Django Rest
+Framwork
+NLP/ML
+Security /
+Authentication
+Routing
+Debugging
+Caching
+Scraping
+Test-cases / Testing
+Aws
+WORK EXPERIENCE
+Jr. Django Developer | RankItRight Media 
+Oct 2021 - OCT 2022
+Developed and maintained web applications using Python,
+Django, DRF and MySQL.
+Data scraping with BeautifulSoup and Scrapy.
+Developed data caching systems using Redis.
+API testing using Postman, verifying functionality and data
+integrity through various HTTP methods (GET, POST, PUT,
+etc.).
+Developed automated tests for web applications using
+Python.
+Django Query Optimization  for Seamless User Experience.
+Performance Optimization
+Problem Solving
+HTML, Css, JavaScript
+Server Management
+SQL, PostgreSQL
+Git&Github
+Linux &Windows
+Postman
+Visual Studio Code/PYcharm 
+Jira/ Excel
+Pandas/ NumPy
+Project name 
+Role and Responsibility
+Django Developer | Intemize 
+Oct 2022 - Present
+COLLEGE PROJECT
+Role and Responsibility
+Designing and Implementing data storage solutions.
+Creation and Integration of Restful APIs.
+Create model relationships by using Django. 
+Create  functions for calculation of BMI and BMR using
+property decorators.
+Email Otp verification.
+Create custom signals for custom Notifications  with
+email. 
+Implemented authentication systems using OAuth2 and
+JWT.
+Code Refactoring and Optimization.
+Used third party API including Google API's.
+Project name  
+Ful.io (Data Analysis Tool)
+Obesity(Hospital Management System)
+SCM (Supply Chain Management System)
+MediConnectAI (Advancing Medical Research
+with Artificial Intelligence)
+1.
+2.
+3.
+Django Developer
+total experience- 1.7 year's
+EDUCATION
+Government Girls' Polytechnic College, Bilaspur:-
+Diploma in Computer Science (Jan 2018 - Jun 2020)
+Grade: 70/100
+C.M. Dubey Postgraduate College, Bilaspur:-
+B.Com/ Bachelor of Commerce (Jan 2020 - Jun 2022)
+Grade: 76/100
+Sarswati Shishu Mandir, Ratanpur:-
+12th | 75% (Jan 2017)
+10th | 83% (Feb 2015)
+CERTIFICATE & ACHIEVEMENT 
+Python Basic Certification by HackerRank.
+Gold Badge for Python on HackerRank.
+Python Data Structures and Algorithms Certification on
+LinkedIn
+Natural Language Processing (NLP) LinkedIn
+Certification. 
+SQL Essential Training Certification. 
+Learning Git and GitHub Certification.
+Problem-Solving Techniques Certification.
+CSS &  HTML Certification
+My Portfolio, Website
+jan 2021 - march 2021
+Dukan, E-shop
+March 2021 - April 2021
+It was made with the help of the Django web
+framework, HTML, CSS, Bootstrap, and SQLite.
+It is an internet store with sections for clothes, veggies,
+technology, and food.
+In this the user can Register, login & logout.
+The user can also view the list of products and add them
+to their cart.
+The user can also view their order history and manage
+their profile.
+It has a built in  HTML CSS and BootStrap.
+Here I've included  list of projects I have completed
+using Django including links to the code and live
+demos.

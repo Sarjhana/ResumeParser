@@ -1,0 +1,64 @@
+Umang Gupta
+� +65 93790540 | � umanggupta1103@gmail.com | � linkedin.com/in/umangguptacs | � github.com/Usgupta
+Education
+Singapore University of Technology and Design
+Singapore
+Bachelor of Engineering in Computer Science and Design, Minor in Artificial Intelligence
+Sept. 2020 – May 2024
+GPA 4.46/5.0, SUTD Honors List
+Relevant courses: Data Structures and Algorithms, Operating Systems, Concurrency, Database, Networks,
+Machine Learning, Artificial Intelligence, AISG Foundations in AI
+Certfication: (Pursuing) Google Machine Learning Engineer
+Work Experience
+Software Engineer Intern | Kotlin, Java, Git, RxJava, Dagger, Android Studio
+Jan 2023 – May 2023
+Grab
+Singapore
+• Reduced Grab Driver Android app debugging time by 45% with a custom TCP socket message logger.
+• Boosted Grab Driver activity by 25% through complete Android app development of a targeted incentivization
+feature.
+Projects
+Deepfake Audio Detection | Python, PyTorch, SciPy, Signal Processing
+Apr 2023 – Present
+• Leading a team of 8 to research and implement multiple audio deepfake detectors
+• Working with Professors from SUTD and mentor from Singapore HTX
+� LectureGenie | Python, Open AI, Da-vinci, Git
+Apr 2023 – Apr 2023
+• Created an AI Telegram bot to convert youtube links and lecture videos to question and answers
+• Uploaded the question answers to notion and shared custom link
+• Created the telegram bot in 15 hours for AISG Penta Hack, secured top 10 position among over 30 teams
+� Rewards4U | Python, AWS SageMaker, LambdaMART, Git
+Jan 2023 – Jan 2023
+• Created a data-driven payment service recommendation engine with AWS SageMaker and LTR algorithm
+• Optimized payment service ranking with LambdaMART to prevent errors and improve relevance
+• Developed an ML-powered API for seamless payment service comparison and maximum rewards.
+� Dygnostic | Ruby on Rails, JS, HTML, Python, GCP, Postgresql, React, Cucumber, Rspec May 2022 – Aug 2022
+• Led a team of 6 to develop a web app to automate TSH Group’s machine inspection to attain 30% time reduction
+• Utilised Cloud Vision to automatically analyze quality of label on the machine components
+• Recognized as the best architecture for implementing REST APIs and microservices
+• Followed BDD and TDD, succeeded as the best tested software in 15 projects by conducting unit and e2e testing
+� VoiceBus | Swift, IOS, Machine Learning, Git
+Dec 2021 – May 2022
+• Led a team of 4 under direct mentorship of Apple’s Systems Engineer to develop a full-stack iOS voice enabled bus
+information app for the visually impaired
+• Applied machine learning to create text-to-speech and speech recognition engines for the app
+• Succeeded as the only app to receive positive user feedback, and to publish the app on App store
+• Winner of Swift Inclusive App Development Hackathon 2022
+� HawkerGO! | Java, Android, Google Firebase, Junit, Git
+Feb 2022 – Apr 2022
+• Led a team of 6 to develop a full stack Android application, to view and review hawker stalls and hawker centres in
+Singapore supporting local stores not available on Google Maps
+• Ranked 4th among over 200 students for innovation and architecture of the app
+� FDM5K | Alchitry, Lucid, FPGA, Git
+Feb 2022 – Apr 2022
+• Led a team of 8 to develop a hardware game inspired by Bishi-Bashi arcade game
+• Won 5th place among over 200 students for hardware quality, effectiveness of datapath, complexity of game
+Awards & Accomplishments
+The Jyoti and Aditya Mathur Environmental Award
+SUTD
+Received for organising first sustainability themed design thinking hackathon of SUTD with 200 applicants
+Mar 2022
+The Design and AI in the Data Driven World Challenge
+SUTD X DBS
+Won 500 SGD in pitching an AI powered credit card recommendation engine in Paylah App
+Sept 2021

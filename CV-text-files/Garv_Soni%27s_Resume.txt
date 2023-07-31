@@ -1,0 +1,111 @@
+Full Stack Data Scientist - iNeuron
+(09/2022 - Present) 
+Completed comprehensive training on Python
+programming, 
+statistical 
+analysis, 
+Machine
+Learning, databases, and APIs.
+End-To-End ML and DL - Udemy
+(10/2021 - 01/2022) 
+Acquired 
+expertise 
+in 
+data 
+creation, 
+data
+preprocessing, EDA, and a wide range of machine
+learning algorithms and deep learning models.
+DSA - AlgoExpert.io (11/2021 - 01/2022) 
+Successfully completed over 100 algorithmic
+problems and developed strong problem-solving
+skills in data structures and algorithms. 
+C E R T I F I C A T E S
+GARV SONI
+D A T A  S C I E N T I S T
+I N T R O D U C T I O N
+W O R K  E X P E R I E N C E
+Recent graduate in Computer Science and Engineering with a
+strong background in Data Science. I am skilled in data creation,
+programming languages, and analysis. I am experienced in end-
+to- end project management, database optimization, and team
+collaboration. Possess strong time management, leadership, and
+problem-solving skills. Eager to contribute to a company's growth
+and success. 
+Created a comprehensive image dataset for an instance
+segmentation model, focusing on ensuring 100% accuracy and
+optimal performance across all scenarios. 
+Successfully completed multiple end-to-end layout detection
+with text extraction projects, achieving an accuracy rate of
+92+%. 
+Set up pre-trained models, exposing them as endpoints via
+Docker on cloud platforms such as AWS, GCP, and Azure.
+Developed pipelines for multiple projects using multiple
+models simultaneously to obtain final results and improve
+project efficiency. 
+Optimized a SQL database by 70%, including designing and
+implementing APIs for data access and manipulation.
+Worked on pre-existing projects, identifying and resolving
+errors to make them usable. 
+Organized daily Scrum meetings and provided onboarding and
+training support to new team members, including guidance on
+organizational goals, processes, and responsibilities. 
+HertzAI
+Full-Stack Data Scientist
+Feb 2022-Present
+S K I L L S
+Python
+Machine Learning  
+DSA
+Computer Vision
+NLP 
+APIs
+Power BI 
+MySQL
+MongoDB
+Docker 
+Cloud
+(AWS,
+Azure, GCP)
+Git
+CI/CD
+pipelines
+HTML/CSS
+E D U C A T I O N
+P E R S O N A L  P R O J E C T S
+B-Tech (CSE),  Maharishi Dayanand
+University (2019-2022)
+Dean's List (top 5% of the class) for academic
+excellence in all semesters. 
+Final year project: Developed a Full end-to-end
+Message Spam classifier. 
+Polytechnic (CSE), Sh. Chhotu Ram
+Polytechnic (2016-2019)
+Dean's List (top 5% of the class) for academic
+excellence in all semesters. 
+Course work included: Database Management,
+Programming 
+Languages 
+(C, 
+C++, 
+Java),
+Entrepreneurship Development, etc. 
+L A N G U A G E S
+Hindi 
+English
+7982760955
+soni.garv719@gmail.com
+Rohtak, Haryana
+linkedin.com/in/garv-soni-
+23012001/
+github.com/GarvSoni
+Diamond Price Prediction (03/2023 - 04/2023)
+Movie Recommendation System (04/2023 - Present) 
+Real-Time Emotion Detection (02/2023 - 03/2023)
+created a End-to-end Project with to predict diamond prices with linear
+regression. Included EDA, data split, model training, and prediction. Project
+was dockerized and deployed to the cloud with GitHub CI/CD. 
+Creating a Movie Recommendation System using the MovieLens 20M dataset. 
+Developed a real-time Deep Learning model for Real-Time Emotion Detection,
+with seven classes: Happy, Fear, Disgust, Angry, Neutral, Sad, and Surprise, and
+achieved an accuracy of 85%. 

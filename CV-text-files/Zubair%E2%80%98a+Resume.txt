@@ -1,0 +1,98 @@
+Zubair Shareef 
+Full Stack Developer 
+zubairshareef@outlook.com 
+9700219069 
+Hyderabad 
+github.com/zubair1shareef 
+WORK EXPERIENCE 
+Member Of Technical Staﬀ-4(Full Stack) 
+Groundhog 
+08/2022 - Present,  
+Hyderabad 
+Worked with other 2 senior developers to implement redis
+to the core project 
+made multiple production KPI's api's and dashboards 
+Addressed and ﬁxed complex bugs 
+Worked with angular,nodejs with couchbase db to
+implement new feature as part of major sprint update 
+Did data validation to identify and ﬁx root cause of bugs 
+Full Stack developer intern 
+YAV Technology 
+03/2021 - 06/2021,  
+Bangalore(remote) 
+worked on Building rest API'S using Nodejs,expressjs,mysq 
+Made user Dashboard, ranking leader board using Reactjs 
+worked on client side rendering 
+Deployed on AWS 
+Android Development Intern 
+Iniesta Webtech Solutions 
+07/2020 - 08/2020,  
+remote 
+responsible for e-commerce ui using xml&java 
+was responsible for making responsible ui 
+made backend using java 
+Android Development Intern 
+Sankalpsoft soultions 
+05/2020 - 06/2020,  
+remote 
+worked on frontend using xml 
+made backend for online exam platform 
+troubleshoot and debugged code to ensure compatibility
+with diﬀernt mobile devices 
+EDUCATION 
+Computer Science Engineering(B.TECH) 
+AAR Mahaveer Engineering College 
+2018 - 2022,  
+Hyderabad 
+SKILLS 
+reactjs 
+nodejs 
+angular 
+javascript 
+sql 
+mongodb 
+couchbasedb 
+AWS 
+java 
+Android 
+GIt 
+Github 
+c/c++ 
+microservices 
+ﬁrebase 
+cloudnary 
+sendgrid 
+redis 
+ec2 
+PERSONAL PROJECTS 
+Expense Tracker 
+Tech used: nodejs,express,sql,AWS,razorpay 
+Features:Jwt login,modern ui,create expense,etc 
+Premium User features : Dark mode,search user ,ranking of users
+according to expence 
+group chat web app 
+developed front end using html,css,javascript 
+developed backend using nodejs,sql,express 
+used AWS for depolyment 
+Features:multiple group creation,invite user to group,create
+group,delete group 
+Social media web app 
+made frontend reactjs,cloudnary is used 
+At backend nodejs,express,mongodb, is used 
+features:JWT login,create/delete/update Post,Feed,Stories etc 
+Shopify like e-commerce platform 
+Tech used:nodejs,sql,Aws,html,css 
+Features:Jwt login,Add-to-cart,admin login 
+Notes Web App 
+Tech used: react ,node,mongodb,express,ﬁgma 
+Modern user interface 
+Features:create note,delete note,update note 
+VOLUNTEER EXPERIENCE 
+younify radio 
+Team lead 
+AIESEC (08/2020 - 01/2021) 
+associate intern 
+Achievements/Tasks 
+Achievements/Tasks 
+Achievements/Tasks 
+Achievements/Tasks 

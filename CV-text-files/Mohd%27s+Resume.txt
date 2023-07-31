@@ -1,0 +1,67 @@
+Mohd Sakib 
+Software Developer 
+To Work in a challenging and dynamic environment and to keep adding value to the organisation and I
+represent and serve while also concurrently upgrading my skills and knowledge 
+mohdsakib9398@gmail.com 
+9398980477 
+New Delhi, Badarpur border,
+India 
+linkedin.com/in/mohd-sakib-
+5295bb221 
+github.com/MohdSakib535 
+SKILLS 
+PYTHON 
+DJANGO 
+MYSQL 
+HTML/CSS 
+BOOTSTRAP 
+C 
+POWERPOINT 
+GITHUB 
+JAVASCRIPT 
+DJANGO REST API 
+LANGUAGES 
+ENGLISH 
+Full Professional Proﬁciency 
+HINDI 
+Full Professional Proﬁciency 
+INTERESTS 
+DATA SCIENCE 
+BACKEND
+ARCHITECTURE 
+TRAVELING 
+EDUCATION 
+B-Tech(JNTUH) 
+Jawaharlal Nehru technical University Hyderabad 
+09/2018 - 09/2021,  
+6.5 CGPA 
+INTERMEDIATE 
+Vidya Mandir public School (sector -16 Faridabad) 
+2015 - 2017,  
+SSC 
+Modern public School (sector 37 Faridabad) 
+2014 - 2015,  
+WORK EXPERIENCE 
+Software Developer 
+https://www.olaport.com/ 
+PERSONAL PROJECTS 
+MAJOR PROJECT-USING ARTIFICIAL NEURAL NETWORK TO IDENTIFY FAKE PROFILE) 
+from that we can verify that proﬁle is fake or not 
+Personal 1 -CRUD(create read update and delete operation) - using This project we can
+insert data in database using form and update data and delete data from database. 
+Deploy on heroku-https://arif0202.herokuapp.com 
+Using Django to make a form 
+Visual studio as an IDE 
+CSS TEMPLATES 
+template for basic 
+personal 2-Blog Project(In this we have some authorization and authentication to
+particular user that is signing and user make his blog project and several operation also
+done for more go to Heroku link 
+Deploy on Heroku -http://sakib9398.herokuapp.com 
+Using python and Django, Bootstrap 
+Visual studio as an IDE 
+ACHIEVEMENTS 
+Completed training on basic life support and ﬁrst aid skill 
+won cricket match in school 
+Winning chess game in school 
+Selling HTML/CSS templates in 100rupees 

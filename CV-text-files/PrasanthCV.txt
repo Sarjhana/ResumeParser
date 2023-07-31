@@ -1,0 +1,152 @@
+PRASANTH.P
+LinkedIn: https://www.linkedin.com/in/prasanth-pkp-2391b4145/
+Summary
+Working as a Senior Software Developer for Product Development with 4+
+Years’ Experience in the areas of Application Development & Bot Development.
+❖ Responsible for brainstorming activities, upgrading the features of existing live
+products and assisting the Development team in all aspects.
+Educational Qualifications
+Degree
+Name of the Institution
+Year
+Board/University
+Percentage
+/CGPA
+BE CSE
+MUTHAYAMMAL ENGINEERING
+COLLEGE
+2018
+Anna University,
+Chennai
+6.5/10
+Class
+XII
+GOVERNMENT BOYS HIGHER
+SECONDARY SCHOOL
+2014
+State Board
+65%
+Class X
+GOVERNMENT BOYS HIGHER
+SECONDARY SCHOOL
+2012
+State Board
+88.4%
+Professional Abridgment
+SDE II , InterviewDesk Technologies – Chennai
+March 2022 – Till Now
+I have worked on our own digital product from scratch.The ultimate platform for
+conducting virtual interviews, with advanced AI-powered tools to help you make better
+hiring decisions.
+❖ Front-End(Frameworks) : ReactJs
+❖ Design (Framework) : Antd Design
+❖ Back-End(Frameworks) : Kotlin
+❖ Database: DynamoDB
+❖ AWS Services: AWS CDK,AWS SDK,EC2,S3,Lambda,CodeCommit,CodePipeline,
+CloudWatch,API Gateway, DynamoDB,AWS Amplify,Cognito,CloudFormation,App
+Runner,Elastic Container Service,CloudFront, AWS Chime Video, AWS Chime Chat
+Senior Software Developer , FalconOrange Technologies – Coimbatore
+April 2021 – February 2022
+Web Application
+I have worked on 3+ digital products. It is used to communicate between owner and user.
+❖ Front-End(Frameworks) : ReactJs
+❖ Design (Framework) : Antd Design
+❖ Back-End(Frameworks) : Nestjs , Python(FastApi)
+❖ Database: PostgreSQL
+Bot
+I have worked on 4+ bot products .It is used to chat between owner to
+user.
+❖ Front-End(Frameworks) : Bot Framework , Vuejs(Nuxtjs)
+❖ Back-End(Frameworks) : Nestjs
+❖ Database: PostgreSQL
+❖ Design (Framework) : Vuetify , Bootstrap
+Mobile Application
+As a Senior Developer, I have worked on one digital product. It is used to communicate
+between owner and user.
+❖ Front-End(Frameworks) : Flutter
+❖ Design (Framework) : Material, Bootstrap
+❖ Database: PostgreSQL
+Full Stack Developer & Lead Technology Mentor, FACE – Coimbatore
+April 2020 – February 2021
+●
+As a Lead Technology Mentor, I have trained 6 batches in Java Full Stack and 5 batches
+in MERN Stack, with an industry approved curriculum
+●
+Developed a dedicated WebRTC application for Organizational meeting, webinars and
+online classes (like Zoom meet) using open source systems.
+●
+Developed MERN Stack web application for Food order chat bot.
+●
+Developed MERN Stack application for Students Report Management.
+●
+Personal hobby project using Digital Learning MERN Stack
+Technology Mentor, FACE - Kollam, Kerala
+September 2019 - April 2020
+●
+As a Technology Mentor, I have trained 4 batches in DDUGKY (Central Government
+Project) on Java Full Stack in Kerala.
+●
+Responsible for managing the Technical division in Kollam DDUGKY Center, designing
+the curriculum, upskilling the team and job placements.
+●
+Developed a python bot for generating certificates, post the assessments and test results
+of respective candidates.
+Associate, FACE - Coimbatore
+February 2019 - September 2019
+●
+As an Associate Trainer guided thousands of students to attain their dream career.
+●
+Technical trainer and a part of Full stack Development.
+●
+Developed a python bot to send automated WhatsApp messages and Web applications
+as a part of digital marketing.
+●
+Create a customized Moodle e-learning platform
+Software Developer, Consensus Technology - Coimbatore
+March 2018 - February 2019.
+●
+As a Developer, managed the Entire E-learning and online coding platform (Dodo) and
+added new features to the live environment.
+●
+Part of Application development and Content development for the courses conducted in
+Consensus Technologies
+Junior Technology Specialist (Intern), Consensus Technology - Coimbatore
+June 2017 - March 2018
+●
+Responsible for upskilling final year students in industry oriented technical courses
+●
+Part of Content development team
+Technical Exposure
+✔ Front-end languages: HTML5, CSS3, Bootstrap, JS, Query and JSP.
+✔ Frameworks & Library: React Js, Angular Js,Node Js, Vue JS, NestJS
+✔ Back-end Languages: MySQL, MongoDB, Oracle, PostgreSQL
+✔ Operating system: Ubuntu, Linux, Windows.
+✔ Cloud and Hosting: AWS and Digital Ocean.
+✔ Web Server: Apache, Tomcat, Nginx
+✔ Software: Eclipse, VS Code.
+✔ Programming skills: C, C++, Java, Kotlin,Python, Data structures
+✔ AWS Services: AWS CDK,AWS SDK,EC2,S3,Lambda,CodeCommit,CodePipeline,
+CloudWatch,API Gateway, DynamoDB,AWS Amplify,Cognito,CloudFormation,App
+Runner,Elastic Container Service,CloudFront, AWS Chime Video, AWS Chime Chat
+Organizational Scan
+❖ InterviewDesk Technologies Pvt Ltd,Chennai, India
+❖ FalconOrange Technologies, Coimbatore, India
+❖ Focus Academy for Career Enhancement(FACE),
+Coimbatore, India
+❖ Consensus Technologies Private Limited, Coimbatore, India
+Personal Profile
+Father’s Name
+:
+Mr.Pachayapillai.S
+Nationality
+:
+Indian
+Marital Status
+:
+Single
+Email
+:
+prasanthpkp191196@gmail.com
+Contact
+:
++91 8122490546, 8248133001

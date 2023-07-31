@@ -1,0 +1,129 @@
+Name: PRAVEEN P PATTANSHETTY 
+Contact No: 7022360396 
+Email ID: ppprawin999@gmail.com 
+CAREER OBJECTIVE  
+To utilize my technical skills for achieving
+I would like to implement my innovative ideas, skills and creativity for accomplishing the projects. 
+TECHNICAL SKILLS 
+1. CORE JAVA  
+ Create classes and objects and add methods to a class.
+ Good knowledge on Inheritance and Polymorphism.
+  Knowledge on Type Casting and Encapsulation.
+ Sound knowledge in Abstraction.
+ Good in Collection Frameworks.
+ Implement error handling techniques using Exception Handling.
+ Learnt and implemented java Threads.
+ Good in programming/coding in edit plus and Eclipse.
+ Knowledge of java Bean and Singleton class.
+2. SQL 
+ Knowledge on SQL Programming in Oracle 10g.
+ Written SQL queries for DML, DDL and TCL operations.
+ Knowledge on DQL, DCL operations.
+ Knowledge of SQL Sub
+ Good in Normalization.
+3.    JDBC & HIBERNATE 
+ Knowledge on JDBC driver and its types
+ Knowledge on JDBC connection steps
+ Knowledge on API and its types
+ Knowledge on Hibernate and its inbuilt methods
+ Knowledge on hibernate connection steps
+ Knowledge on OMR concept
+ Good knowledge on Mapping
+ Good knowledge on Java Persistence API
+4. WEB-TECH 
+ HTML 
+ Used Tags 
+ Good knowledge on Block Level Elements
+ Good knowledge on List(Ordered list, Unordered list, Descriptive List)
+ Used Forms
+ Knowledge o
+ CSS 
+ Good knowledge on Simple
+ Used Combinator
+ Knowledge on Pseudo Elements
+ Knowledge on Pseudo Classes
+ Used Transform
+ Used Transition Property
+ Knowledge on Animations
+Curriculum Vitae 
+achieving the target and developing the best performance in the organization. 
+I would like to implement my innovative ideas, skills and creativity for accomplishing the projects. 
+Create classes and objects and add methods to a class. 
+knowledge on Inheritance and Polymorphism. 
+Knowledge on Type Casting and Encapsulation. 
+Sound knowledge in Abstraction. 
+Good in Collection Frameworks. 
+Implement error handling techniques using Exception Handling. 
+Learnt and implemented java Threads. 
+in programming/coding in edit plus and Eclipse. 
+Knowledge of java Bean and Singleton class. 
+Knowledge on SQL Programming in Oracle 10g. 
+Written SQL queries for DML, DDL and TCL operations. 
+Knowledge on DQL, DCL operations. 
+Knowledge of SQL Sub-queries Joins. 
+Good in Normalization. 
+Knowledge on JDBC driver and its types 
+Knowledge on JDBC connection steps 
+Knowledge on API and its types 
+Knowledge on Hibernate and its inbuilt methods 
+Knowledge on hibernate connection steps 
+OMR concept  
+Good knowledge on Mapping 
+Good knowledge on Java Persistence API 
+Good knowledge on Block Level Elements-Inline Level Elements 
+Good knowledge on List(Ordered list, Unordered list, Descriptive List)
+Used Forms 
+Knowledge on Semantic and Non-Semantic tags 
+Good knowledge on Simple-Selectors 
+Used Combinator-selectors 
+Knowledge on Pseudo Elements 
+Knowledge on Pseudo Classes 
+Used Transform 
+Used Transition Property 
+Knowledge on Animations 
+the target and developing the best performance in the organization.       
+I would like to implement my innovative ideas, skills and creativity for accomplishing the projects.  
+Good knowledge on List(Ordered list, Unordered list, Descriptive List) 
+ JAVASCRIPT 
+ Sound on Hoisting 
+ Knowledge on Output methods in JS 
+ Knowledge on Type-Casting 
+ Good Knowledge on Global Execution Context 
+ Knowledge on Data-Types 
+ Knowledge on Functions 
+ Used Arrays 
+ Knowledge on Object 
+ Knowledge on Promises 
+ Sound on Storage(Local Storage and Session Storage) 
+ Knowledge on JSON and its methods 
+ 
+5. SERVLET 
+ Created  a dynamic responsive calculator using Servlet 
+ Created a login and Signup page using Servlet 
+PROJECTS  
+        ACADEMIC PROJECT:  
+Title: Rural water supply scheme for Sirasagi village, Afzalpur taluk.  
+Description: Design of rural water supply scheme (Sirasagi)  
+Achievements & Hobbies  
+ During schooling, participated in various sports and Co-curricular Activities and won many medals.  
+ Athletics, playing sports (Cricket, Chess,). 
+ Cooking 
+EDUCATION 
+ Completed Degree in BE in Civil from Poojya  Doddappa  Appa College of 
+Engineering(Kalaburagi) under VTU; (2018-2022)  
+9.04 CGPA. 
+ Completed PU from Chandrakant Patil Memorial PU College, Gulbarga.  
+83.67% (2018). 
+ Completed Schooling from CPEMS (Kalaburagi) affiliated CBSE Board , Delhi. 
+                8.8-CGPA (2016). 
+PERSONAL PROFILE  
+Name                               : PRAVEEN P PATTANSHETTY 
+Father’s Name               : PRAKASH PATTANSHETTY 
+Date of birth                  : 24.10.2000 
+Gender                           : Male 
+Nationality                     : Indian 
+Languages Known        : Kannada, English, Hindi, and Telugu 
+DECLARATION   
+I hereby declare that the above information furnished is true to the best of my knowledge.  
+Place        : Bangalore                                                                                               Signature: PRAVEEN P PATTANSHETTY 
+ 

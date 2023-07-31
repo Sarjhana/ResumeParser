@@ -4,11 +4,30 @@ import spacy
 import nltk
 import phonenumbers
 import pandas as pd
+import os
 
 from nltk.corpus import wordnet
 
 # Download the NLTK wordnet data (if not already downloaded)
 nltk.download('wordnet')
+
+def pdf_to_text(pdf_path, output_directory):
+    pdf_document = fitz.open(pdf_path)
+    full_text = ""
+    for page in pdf_document:
+        full_text += page.get_text()
+    pdf_document.close()
+
+    # Generate the output .txt file name based on the PDF file name
+    txt_file_name = os.path.splitext(os.path.basename(pdf_path))[0] + ".txt"
+
+    # Save the extracted text to a new .txt file in the specified output directory
+    txt_file_path = os.path.join(output_directory, txt_file_name)
+    with open(txt_file_path, 'w', encoding='utf-8') as f:
+        f.write(full_text)
+        print(f"Writing txt file for {txt_file_name}")
+
+    return txt_file_path
 
 def extract_name(doc):
     for ent in doc.ents:
@@ -40,22 +59,25 @@ def extract_section_items(text, section_name):
     section_match = re.split(section_header, text, flags=re.IGNORECASE)[-1]
     return [item.strip().lstrip('•') for item in re.split(r'\n|•', section_match) if item.strip()]
 
-def extract_details_from_resume(pdf_path):
-    nlp = spacy.load("en_core_web_sm")
-    pdf_document = fitz.open(pdf_path)
+def search_for_section(page_text, section_name, section_synonyms):
+    for synonym in section_synonyms:
+        if re.search(rf'\b{synonym}\b', page_text, re.IGNORECASE):
+            return extract_section_items(page_text, section_name)
+    return []
 
-    name = ""
-    email = ""
-    phone = ""
-    skills = []
-    education = []
-    work_experience = []
-    linkedin = ""
-    github = ""
+def extract_details_from_text(text):
+    nlp = spacy.load("en_core_web_sm")
+
+    name = extract_name(nlp(text))
+    email = extract_email(text)
 
     linkedin_regex = r'https?://(www\.)?linkedin\.com/\S+'
     github_regex = r'https?://(www\.)?github\.com/\S+'
-    
+    linkedin = extract_url(text, linkedin_regex)
+    github = extract_url(text, github_regex)
+
+    phone = extract_phone_number(text)
+
     section_headers = {
         'Skills': {'Skills'},
         'Education': {'Education'},
@@ -63,44 +85,17 @@ def extract_details_from_resume(pdf_path):
         # Add other possible synonyms for section headers here
     }
 
-    for page_num in range(pdf_document.page_count):
-        page = pdf_document.load_page(page_num)
-        text = page.get_text()
-        doc = nlp(text)
+    skills = []
+    education = []
+    work_experience = []
 
-        if not name:
-            name = extract_name(doc)
-        if not email:
-            email = extract_email(text)
-        if not linkedin:
-            linkedin = extract_url(text, linkedin_regex)
-        if not github:
-            github = extract_url(text, github_regex)
-        if not phone:
-            phone = extract_phone_number(text)
-
-        # Check for section headers and update the current section accordingly
-        current_section = None
-        for section_name, section_synonyms in section_headers.items():
-            for synonym in section_synonyms:
-                if re.search(rf'\b{synonym}\b', text, re.IGNORECASE):
-                    current_section = section_name
-                    break
-            if current_section is not None:
-                break
-
-        if current_section == "Education":
-            # Extract education details from the current page
-            education.extend(extract_section_items(text, 'Education'))
-            print("Education on page", page_num, ":", extract_section_items(text, 'Education'))
-
-        elif current_section == "Work Experience":
-            work_experience.extend(extract_section_items(text, 'Work Experience'))
-            print("Work Experience on page", page_num, ":", extract_section_items(text, 'Work Experience'))
-
-        # Add handling for other sections (e.g., "Skills") here
-
-    pdf_document.close()
+    for section_name, section_synonyms in section_headers.items():
+        if section_name == 'Skills':
+            skills = search_for_section(text, section_name, section_synonyms)
+        elif section_name == 'Education':
+            education = search_for_section(text, section_name, section_synonyms)
+        elif section_name == 'Work Experience':
+            work_experience = search_for_section(text, section_name, section_synonyms)
 
     details = {
         'name': name,
@@ -114,10 +109,42 @@ def extract_details_from_resume(pdf_path):
     }
     return details
 
-# Example usage:
-resume_path = '/Users/sarjhana/Desktop/CV:Resume/NaveenKandagatla.pdf'
-resume_details = extract_details_from_resume(resume_path)
+def save_details_to_csv(details, output_file, output_directory):
+    df = pd.DataFrame([details])
+    output_file_path = os.path.join(output_directory, output_file)
+    df.to_csv(output_file_path, index=False)
 
-df = pd.DataFrame([resume_details])
-df.to_csv('resume_details.csv', index=False)
-print(df['education'].values)
+def main():
+    input_directory = '/Users/sarjhana/Projects/Campuzzz/CV Archive'  # Specify the directory containing the PDF files
+    output_directory_txt = '/Users/sarjhana/Projects/Campuzzz/CV-text-files'  # Specify the desired output directory for text files
+    output_directory_csv = '/Users/sarjhana/Projects/Campuzzz/CV-processed-csv-files'  # Specify the desired output directory for CSV files
+
+    # Get a list of all PDF files in the input directory
+    pdf_files = [file for file in os.listdir(input_directory) if file.endswith('.pdf')]
+
+    # Initialize a counter variable to keep track of the file number
+    file_count = 0
+
+    for pdf_file in pdf_files:
+        file_count += 1
+        print(f"Processing File {file_count}/{len(pdf_files)} - {pdf_file}")
+
+        # Construct the full path of the PDF file
+        pdf_path = os.path.join(input_directory, pdf_file)
+
+        # Convert the PDF to text and save it as a .txt file
+        txt_file_path = pdf_to_text(pdf_path, output_directory_txt)
+
+        # Read the content of the text file
+        with open(txt_file_path, 'r', encoding='utf-8') as f:
+            pdf_text = f.read()
+
+        # Extract details from the text using extract_details_from_text
+        resume_details = extract_details_from_text(pdf_text)
+
+        # Save the details to a CSV file
+        output_file = os.path.splitext(pdf_file)[0] + '_details.csv'
+        save_details_to_csv(resume_details, output_file, output_directory_csv)
+
+if __name__ == "__main__":
+    main()

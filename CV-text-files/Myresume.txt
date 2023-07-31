@@ -1,0 +1,71 @@
+SHUBHAM
+UPADHYAY
+About Me
+PROJECTS
+INTRESTS
+Hard Skill
+Programming Language : Python
+Web technologies : HTML,CSS,Javascript
+Frameworks : Django,Bootstrap
+Databases : MySQL,SQlite
+Python libraries : Numpy,Pandas,Matplotlib
+IDEs : VsCode , Pycharm Community
+Version Control : git , Github
+AI and Machine Learning 
+Soft Skill
+Education Background
+Patkar Varde  College Goregaon West
+Masters of science in information technology 
+Completed in 2023
+Viva college of arts commerce and science virar west
+Bachelors of science in information technology 
+Completed in 2021
+GVPIC Garakhara Varanasi 
+HSC
+Completed in 2018
+My Contact
+shubhamvupadhyay@gmail.com
+Nallasopara ,Mumbai Maharashtra 
++91 7307134589
+shubhamupadhyay.netlify.app
+E-Vehicle Parking
+Seminar Hall Booking System
+Portfolio 
+web Application 
+web application 
+website
+A Django based web application  that can be used to manage parking lot
+activities and provides user a enhanced system to get info about parking 
+ lot and make a prior booking of space .
+built a attractive  dashboard  for both user and parking owner to track
+their data easily also provided a feature where total earning and vehicle
+details can be seen easily  by parking lot manager.
+Elimination  of traditional  approach for maintain parking  record on paper
+and providing a physical tickets.
+Build a seminar hall booking system  web application  by using python
+Django framework  and frontend technologies.
+A platform  where user  can view details of halls and facilities provided by
+them and can make a  booking accordingly 
+Designed and Developed a personal portfolio  website .
+Worked on front end technologies  like HTML ,CSS and Boostrap
+LANGUAGES
+English
+Hindi
+Highly motivated and proactive IT professional seeking a challenging role in a
+dynamic environment where I can contribute to the organization's success
+while continuously enhancing my knowledge and skills.
+Teamwork
+Flexibility
+Communication Skills
+Hard Working
+Leadership
+Problem Solving
+Coding
+Web Development 
+Artificial Intelligence and Machine learning 
+HOBBIES
+Playing Cricket 
+Music
+Travelling 
+Reading
+Gardening 

@@ -1,0 +1,81 @@
+Shubham Singh 
+Software Engineer 
+Patience and Perseverance have enabled my
+endeavours to solve complex problems and
+contribute meaningfully to organisations I work
+with 
+sureshshubham43@gmail.com 
+8563974491 
+Bangalore, India 
+linkedin.com/in/shubham-singh-
+59a32412a 
+github.com/attainu-nightingale 
+EDUCATION 
+Bachelor of Technology 
+Madan Mohan Malaviya Institute of
+Technology 
+07/2015 - 05/2019,  
+WORK EXPERIENCE 
+Software Engineer 
+High Peak Software 
+05/2021 - Present,  
+High Peak Software builds world-class products for small, medium
+and enterprise businesses. 
+Created Micro Services to handle and process large chunk
+of data based on continuous requests. 
+Designed to oﬄoad the existing service by Caching. 
+Maintained Micro Services using Messaging Protocol. 
+Created APIs, designed Database schema required for
+the services. 
+Member of Technical Staﬀ 
+Epikindiﬁ Software & Solutions 
+07/2020 - 05/2021,  
+Integrated APIs with the local ﬂow. 
+Created a NPM module with more than 20 methods to be
+used internally in the projects. 
+Documented the projects based on the features. 
+Used technologies like Run-Deck for API scheduling for
+diﬀerent features in the projects. 
+SKILLS 
+Node.js 
+Javascript 
+Java 
+React 
+SQL 
+PostGres 
+MySQL 
+MongoDB 
+HTML 
+CSS 
+RabbitMQ 
+LoopBack 
+Express 
+Git 
+Redux 
+PERSONAL PROJECTS 
+bCard (02/2020 - 04/2020) 
+bCard is a Web Application where a user can create digital cards
+and share it with clients. 
+Designed the model/schema to store all the data in the PostgreSQL
+database & fetch them using APIs. 
+Used Sequelize ORM to update/add all the data in the database. 
+Blog-App (12/2019 - 02/2020) 
+Built the server side of the App using various feature-prone
+modules based on top of Express.js & Node.js. 
+Designed and Integrated MongoDB schema to store & manipulate
+the collected data of each respective user. 
+Built a user-interactive Login/Signup ﬂow for two kinds of users,
+using the Express-session module. 
+Used jQuery and AJAX to update the webpage and make it
+dynamic. 
+POSITIONS OF RESPONSIBILITIES 
+Training and Placement Cell, MMMUT
+ (07/2017 - 05/2019) 
+Executive Member of Placement Cell 
+INTERESTS 
+Reading Tech Blogs 
+Cricket 
+Puzzles 
+Badminton 
+Achievements/Tasks 
+Achievements/Tasks 

@@ -1,0 +1,56 @@
+S O F T W A R E  E N G I N E E R
+Hyderabad 
+7995421405 
+pedapudiseshasaina111@gmail.com 
+SESHASAINA
+PEDAPUDI
+S K I L L S
+P R O F E S S I O N A L  E X P E R I E N C E
+SAS analytical language used in this project along with conversion of sas code to Python       
+code using sas studio and flask.
+Automatic number plate recognition is the project wheather the rider having helmet or
+not in the traffic,according to that the penalities are made using flask,Socketio,and
+pandas in pycharm(IDE)
+SAS to PYTHON
+Automatic Number Plate Recognition
+P R O J E C T S
+Automatic Tablet Providing Machine 
+Worked on this as part of B.Tech major Project.It is a helpful device for person with disability
+or old persons.This device helps us to take medicines time to time and the quantity of the
+medicine that a person really want, It gives a notification sound for alerting the patient. 
+C E R T I F I C A T I O N S
+Online Training Certificates For Python
+B.Tech - MECHANICAL
+Rajiv Gandhi university of knowledge and Technologies, RK Valley
+Percentage - 84.0 
+PYTHON
+pandas 
+Numpy 
+SocketIO 
+Pyspark 
+Rabbitmq 
+DATABASES
+DBeaver
+Cassandra
+SQL
+SQLAlchemy
+AUTOMATION TESTING
+Selenium
+REDIS
+KAFKA
+SAS
+Hive
+ORM
+MQTT
+INNOMINDS Software pvt.ltd - Big Data Analyst
+ 05/2022 – 05/2023 
+SAS certificate from SAS studio 
+MYSQL training certificate from GreatLearning
+Course completion certificate on cassandra 
+E D U C A T I O N
+Pre University Course
+Rajiv Gandhi University of Knowledge and Technologies, RK Valley 
+Percentage - 84.0 
+10th standard
+Government boys high school 
+Percentage - 95.0

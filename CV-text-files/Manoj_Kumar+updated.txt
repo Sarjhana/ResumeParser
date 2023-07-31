@@ -1,0 +1,50 @@
+Manoj Kumar Seela 
+Visakhapatnam, Andhra Pradesh, 530002 | manojkumar853281@gmail.com | 
+Mobile: 7981863668 
+EDUCATION 
+Nxtwave Disruptive Technologies 
+Industry Ready Certification in Full-stack Development 
+Raghu engineering college, Visakhapatnam 
+B Tech (Bachelor of Technology)_Mechanical Engineering (ME) (7.1 CGPA) 
+Sri presidency junior college, Visakhapatnam 
+Intermediate_MPC (88.3%) 
+Dolphin school, Visakhapatnam 
+Secondary School Of Certificate (8.3 CGPA) 
+May ’22 - Ongoing 
+ 
+2016 - 2020 
+ 
+2014 - 2016 
+ 
+2013 - 2014 
+ 
+ 
+SKILLS 
+Frontend: HTML, CSS, Bootstrap, JavaScript*, React.js* 
+Backend: Python, Express*, Node.js* 
+Databases: SQLite* 
+Others: Microsoft Office 
+*courses yet to be completed 
+ 
+PROJECTS 
+Food Munch (foodmunchmanu.ccbp.tech) 
+Developed a responsive website for Food Store where users can see a list of food items, detailed information 
+about a food item, offers 
+● Designed page using following HTML structure elements like li, header, article, footer elements and 
+different bootstrap components to show different sections in the website and different bootstrap classes 
+for responsiveness through mobile-first approach. 
+● Implemented product youtube videos by using bootstrap embed and model components 
+Technologies used: HTML, CSS, Bootstrap 
+Popular Podcasts (Podcasts Page)(musicpodcasts.ccbp.tech) 
+Developed a website where users can see different podcasts by different people and each podcast with speaker 
+name and number of episodes 
+● Designed a banner section and the project cards using different HTML block, inline elements. 
+● Styled the website using CSS3 properties such as background, flex, and CSS box model properties and 
+relative units such as vh, vw, and used absolute units such as px. 
+Technologies used: HTML, CSS, Bootstrap 
+My Projects (My Projects Page) (manojmyproject.ccbp.tech) 
+Developed a website where people like interviewers can see list of projects that a person implemented 
+● Designed a banner section and the project cards using different HTML block, inline elements. 
+● Styled the website using CSS3 properties such as background, flex, and CSS box model properties and 
+relative units such as vh, vw, and used absolute units such as px. 
+Technologies used: HTML, CSS, Bootstrap 

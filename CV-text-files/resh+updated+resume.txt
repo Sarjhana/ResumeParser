@@ -1,0 +1,62 @@
+RESHMA R
+CONTACT
+reshma.roffl@gmail.com
+8110990201
+NO. 516/5/2, THENDRAL NAG
+AR, AMMOOR ROAD, WALAJA
+PET. PINCODE -632513
+SKILLS
+Java, python(Basics)
+DATA STRUCTURE AND
+ALGORITHMS
+Database- SQL
+Tableau(Basics)
+Web development- html, css
+MICROSOFT EXCEL
+LANGUAGES
+ENGLISH
+TAMIL
+2015-
+2016
+2017-
+2018
+2018-
+2021
+2021-
+2023
+OBJECTIVE
+Seeking a challenging position where I can grow both personally and
+professionally
+EDUCATION
+X STANDARD
+LITTLE FLOWER CONVENT MATRIC HR. SEC
+SCHOOL, AMMOOR, RANIPET
+88.4%
+XII STANDARD
+SUNBEAM MATRIC HR. SEC. SCHOOL, KATPADI,
+VELLORE
+67.7%
+BSC COMPUTER SCIENCE
+VELLORE INSTITUTE OF TECHNOLOGY,
+KATPADI, VELLORE
+8.25 CGPA
+MASTER OF COMPUTER APPLICATION
+VELLORE INSTITUTE OF TECHNOLOGY,
+KATPADI, VELLORE
+7.56 CGPA
+PROJECTS
+DIAGNOSIS OF CERVICAL CANCER USING CNN MODEL
+The project involved collecting and preprocessing medical images,
+and designing and training a CNN model to accurately
+classify cervical cancer in patients. I conducted extensive research to
+determine the optimal CNN architecture, hyperparameters, and
+data augmentation techniques to improve model performance and
+generalization. For the CNN model, VGG19 has been used in this
+project. 
+FARMERS TRADING PORTAL
+This project is about the trading of goods collected from the farmers
+and deliver it to the consumers directly without any involvement of
+mediators in between. 
+STUDENT EXAMINATION MANAGEMENT SYSTEM
+This project is where the exams for students are conducted through
+online. 
