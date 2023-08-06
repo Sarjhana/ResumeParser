@@ -1,0 +1,6 @@
+Different terms for 'education':
+eduction: Similarity = 0.80
+eduation: Similarity = 0.72
+LISA_MICHALS_covers: Similarity = 0.68
+Matt_Krupnick_covers: Similarity = 0.68
+educational: Similarity = 0.68
