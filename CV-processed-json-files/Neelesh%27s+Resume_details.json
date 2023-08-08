@@ -1,0 +1,80 @@
+{
+    "name": "Neelesh Tiwari",
+    "email": "neeleshishu021@gmail.com",
+    "phone": "+19516095476",
+    "skills": [
+        "Courses",
+        "Courses",
+        "Achievements/Tasks",
+        "Achievements/Tasks",
+        "Achievements/Tasks"
+    ],
+    "education": [
+        {
+            "university_name": "",
+            "course_name": "B",
+            "dates_attended": "Tech",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Jabalpur Engineering College, (Govt.",
+            "course_name": "Autonomous) Jabalpur M.P.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "06/2019",
+            "course_name": "Present,",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "JABALPUR",
+            "course_name": "Industrial and Production",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Engineering",
+            "course_name": "8.05 CGPA",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "12th",
+            "course_name": "Marthoma Gram Jyoti School Sihora",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "04/2018",
+            "course_name": "04/2019,",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Sihora DISTT Jabalput",
+            "course_name": "Maths/Science",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "68%",
+            "course_name": "",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        }
+    ],
+    "work_experience": [],
+    "linkedin": "",
+    "github": ""
+}

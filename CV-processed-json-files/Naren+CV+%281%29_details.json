@@ -1,0 +1,32 @@
+{
+    "name": "B-Tech",
+    "email": "spyro.naren@gmail.com",
+    "phone": "+919492463468",
+    "skills": [],
+    "education": [
+        {
+            "university_name": "Solutions, Hyd",
+            "course_name": "2014",
+            "dates_attended": "7* years",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "FREELANCE MOTION GRAPHIC DESIGNER in",
+            "course_name": "ideal Designs, Hyd",
+            "dates_attended": "2014",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "With 7* years of",
+            "course_name": "",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        }
+    ],
+    "work_experience": [],
+    "linkedin": "",
+    "github": ""
+}

@@ -1,0 +1,120 @@
+{
+    "name": "Nitin Sutrakar",
+    "email": "nitins2332@gmail.com",
+    "phone": "+917390094458",
+    "skills": [
+        ".",
+        "Date - Dec/2019",
+        "Extra Activity"
+    ],
+    "education": [
+        {
+            "university_name": "Skills",
+            "course_name": "React JS",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Rest APIs",
+            "course_name": "Redux",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Router",
+            "course_name": "Material UI",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Node JS",
+            "course_name": "Express JS",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Mongo DB",
+            "course_name": "GitHub",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Python",
+            "course_name": "Java Script",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "My Projects",
+            "course_name": "nitins2332",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Profile Link",
+            "course_name": "MERN stack E",
+            "dates_attended": "commerce application",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "I have created an Ecommerce website using MERN Stack, which is scalable and future",
+            "course_name": "proof.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "I utilized React for the frontend & Redux for state management, while Node JS & Express",
+            "course_name": "were used for the backend with MongoDB as the database. Users are able to add items to",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "their cart, and the cart system works similarly to that of the Flipkart website.",
+            "course_name": "Project files link",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Date",
+            "course_name": "Mar/2023",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Internship",
+            "course_name": "Internship with codesdope",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "As a React Developer, I contributed to the development of a responsive web user interface",
+            "course_name": "with Material UI. I also created reusable UI components with React to speed up",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "development and reduce code duplication. Furthermore, I designed a dynamic navigation",
+            "course_name": "system using routing to improve user",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        }
+    ],
+    "work_experience": [],
+    "linkedin": "",
+    "github": ""
+}

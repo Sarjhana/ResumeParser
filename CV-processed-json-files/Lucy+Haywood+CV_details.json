@@ -1,0 +1,67 @@
+{
+    "name": "Lucy Haywood",
+    "email": "lucyhaywood2001@gmail.com",
+    "phone": "",
+    "skills": [
+        ":",
+        "\u25cf",
+        "With my degree, I have produced numerous short films, TV shows, live streams, podcasts",
+        "and music videos, in which I have directed, filmed and edited together.",
+        "\u25cf",
+        "Competent at Microsoft Office and Adobe Creative Cloud.",
+        "\u25cf",
+        "Extensive knowledge on various Social Media applications.",
+        "\u25cf",
+        "Digital communication such as composing e-mails, content creation, copywriting and copy",
+        "editing.",
+        "\u25cf",
+        "Research, reporting and presentations."
+    ],
+    "education": [
+        {
+            "university_name": "Leeds Beckett University",
+            "course_name": "Huddersfield",
+            "dates_attended": "July 2024",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Broadcast Media Technologies (BSc)",
+            "course_name": "Graduating July 2024",
+            "dates_attended": "September",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u25cf",
+            "course_name": "Predicted First Class Honours.",
+            "dates_attended": "June 2020",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Leeds City College",
+            "course_name": "Leeds",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "A Level Qualifications",
+            "course_name": "September 2017",
+            "dates_attended": "June 2020",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u25cf",
+            "course_name": "Awarded A, A, C, in Media Studies, Sociology and English Literature, respectively.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        }
+    ],
+    "work_experience": [],
+    "linkedin": "https://www.linkedin.com/in/lucy-haywood-5a8185201/|",
+    "github": ""
+}

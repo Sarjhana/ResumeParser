@@ -1,0 +1,32 @@
+{
+    "name": "Faym-wall",
+    "email": "0822deepakverma@gmail.com",
+    "phone": "+917701834592",
+    "skills": [
+        "\u25cf",
+        "Languages: C++, C, JavaScript, Typescript, Data Structures & Algorithm",
+        "\u25cf",
+        "Frontend: React.js, Redux,BootStrap, EJS, HTML, CSS, JQuery, SCSS",
+        "\u25cf",
+        "Backend: Nodejs, Mongoose, Express.js, MongoDB, RESTful API, OAuth 2.0, MySQL, Nest.js"
+    ],
+    "education": [
+        {
+            "university_name": "NSUT West Campus (Formerly CBPGEC)\ud83d\udd17",
+            "course_name": "New Delhi, India",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Bachelor of Technology (Information Technology |CGPA: 8.90 till 6th sem)",
+            "course_name": "Aug/2019",
+            "dates_attended": "Present",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        }
+    ],
+    "work_experience": [],
+    "linkedin": "",
+    "github": ""
+}

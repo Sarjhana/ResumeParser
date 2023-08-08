@@ -1,0 +1,238 @@
+{
+    "name": "Zubair Shareef",
+    "email": "zubairshareef@outlook.com",
+    "phone": "",
+    "skills": [
+        "reactjs",
+        "nodejs",
+        "angular",
+        "javascript",
+        "sql",
+        "mongodb",
+        "couchbasedb",
+        "AWS",
+        "java",
+        "Android",
+        "GIt",
+        "Github",
+        "c/c++",
+        "microservices",
+        "\ufb01rebase",
+        "cloudnary",
+        "sendgrid",
+        "redis",
+        "ec2",
+        "PERSONAL PROJECTS",
+        "Expense Tracker",
+        "Tech used: nodejs,express,sql,AWS,razorpay",
+        "Features:Jwt login,modern ui,create expense,etc",
+        "Premium User features : Dark mode,search user ,ranking of users",
+        "according to expence",
+        "group chat web app",
+        "developed front end using html,css,javascript",
+        "developed backend using nodejs,sql,express",
+        "used AWS for depolyment",
+        "Features:multiple group creation,invite user to group,create",
+        "group,delete group",
+        "Social media web app",
+        "made frontend reactjs,cloudnary is used",
+        "At backend nodejs,express,mongodb, is used",
+        "features:JWT login,create/delete/update Post,Feed,Stories etc",
+        "Shopify like e-commerce platform",
+        "Tech used:nodejs,sql,Aws,html,css",
+        "Features:Jwt login,Add-to-cart,admin login",
+        "Notes Web App",
+        "Tech used: react ,node,mongodb,express,\ufb01gma",
+        "Modern user interface",
+        "Features:create note,delete note,update note",
+        "VOLUNTEER EXPERIENCE",
+        "younify radio",
+        "Team lead",
+        "AIESEC (08/2020 - 01/2021)",
+        "associate intern",
+        "Achievements/Tasks",
+        "Achievements/Tasks",
+        "Achievements/Tasks",
+        "Achievements/Tasks"
+    ],
+    "education": [
+        {
+            "university_name": "",
+            "course_name": "Computer Science Engineering(B.TECH)",
+            "dates_attended": "2018 - 2022",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "AAR Mahaveer Engineering College",
+            "course_name": "2018",
+            "dates_attended": "2022,",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Hyderabad",
+            "course_name": "SKILLS",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "reactjs",
+            "course_name": "nodejs",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "angular",
+            "course_name": "javascript",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "sql",
+            "course_name": "mongodb",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "couchbasedb",
+            "course_name": "AWS",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "java",
+            "course_name": "Android",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "GIt",
+            "course_name": "Github",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "c/c++",
+            "course_name": "microservices",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\ufb01rebase",
+            "course_name": "cloudnary",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "sendgrid",
+            "course_name": "redis",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "ec2",
+            "course_name": "PERSONAL PROJECTS",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Expense Tracker",
+            "course_name": "Tech used: nodejs,express,sql,AWS,razorpay",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Features:Jwt login,modern ui,create expense,etc",
+            "course_name": "Premium User features : Dark mode,search user ,ranking of users",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "according to expence",
+            "course_name": "group chat web app",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "developed front end using html,css,javascript",
+            "course_name": "developed backend using nodejs,sql,express",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "used AWS for depolyment",
+            "course_name": "Features:multiple group creation,invite user to group,create",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "group,delete group",
+            "course_name": "Social media web app",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "made frontend reactjs,cloudnary is used",
+            "course_name": "At backend nodejs,express,mongodb, is used",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "features:JWT login,create/delete/update Post,Feed,Stories etc",
+            "course_name": "Shopify like e",
+            "dates_attended": "commerce platform",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Tech used:nodejs,sql,Aws,html,css",
+            "course_name": "Features:Jwt login,Add",
+            "dates_attended": "to",
+            "marks_or_percentage": "cart,admin login",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Notes Web App",
+            "course_name": "Tech used: react ,node,mongodb,express,\ufb01gma",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Modern user interface",
+            "course_name": "Features:create note,delete note,update note",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "VOLUNTEER",
+            "course_name": "",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        }
+    ],
+    "work_experience": [],
+    "linkedin": "",
+    "github": ""
+}

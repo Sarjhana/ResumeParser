@@ -1,0 +1,128 @@
+{
+    "name": "M.A Economics",
+    "email": "rs4774442@gmail.com",
+    "phone": "",
+    "skills": [
+        "in identifying and resolving technical",
+        "challenges related to the chatbot's API and integration processes.",
+        "\uf0b7 Led the setup of the chatbot on Dialogflow, configuring intents, entities, and responses",
+        "to enhance conversational capabilities and ensure a seamless, user-friendly experience."
+    ],
+    "education": [
+        {
+            "university_name": "",
+            "course_name": "G.D Goenka University                                                                     2018",
+            "dates_attended": "2020",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "M.A Economics                                                                                  Gurgaon",
+            "course_name": "Skills",
+            "dates_attended": "May 2023",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 Python \u2022 Flask \u2022 Django \u2022 Django Rest Framework \u2022PostgreSql \u2022 Git \u2022 Dialogflow",
+            "course_name": "Employment History",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "",
+            "course_name": "EVC Ventures Pvt. Ltd.                                                                    Gurgaon",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Python Developer                                                                                Feb 2021",
+            "course_name": "May 2023",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Responsibilities: Development, Support and Management of the product.",
+            "course_name": "Technical Stack: Python, Flask, Django, Django Rest Framework, PostgreSQL.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Projects",
+            "course_name": "\uf0b7",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Created a Python CLI tool utilizing Dialogflow API to generate detailed CSV reports on intent",
+            "course_name": "matching accuracy, enabling users to optimize their models effectively.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\uf0b7",
+            "course_name": "Developed a BOT Dump Tool using Python and the Dialogflow API to efficiently retrieve and",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "store over 30,000 data records in CSV format, enabling seamless data management and",
+            "course_name": "analysis.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\uf0b7",
+            "course_name": "Implemented a login API for the chatbot using Python Flask framework, facilitating secure user",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "authentication and authorization processes, ensuring seamless integration of the chatbot with",
+            "course_name": "the backend system.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\uf0b7",
+            "course_name": "Responsible for writing webhook responses in Python Flask for the chatbot, enabling dynamic",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "actions and seamless integration with external services and APIs.",
+            "course_name": "\uf0b7 Demonstrated strong problem",
+            "dates_attended": "solving skills in identifying and resolving technical",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "challenges related to the chatbot's API and integration processes.",
+            "course_name": "\uf0b7 Led the setup of the chatbot on Dialogflow, configuring intents, entities, and responses",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "to enhance conversational capabilities and ensure a seamless, user",
+            "course_name": "friendly",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        }
+    ],
+    "work_experience": [],
+    "linkedin": "",
+    "github": ""
+}

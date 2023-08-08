@@ -1,0 +1,52 @@
+{
+    "name": "Visual Studio Code",
+    "email": "rgada28@gmail.com",
+    "phone": "+919930471797",
+    "skills": [
+        "Used:",
+        "Frontend: - Flutter (Dart Language)",
+        "Backend: - Hive (NoSQL Database)",
+        "Tools: Visual Studio Code, Postman, GIT",
+        "Projects"
+    ],
+    "education": [
+        {
+            "university_name": "Podcast Player",
+            "course_name": "It is a cross",
+            "dates_attended": "platform application used to listen to podcasts and download them to listen offline. iTunes API was used to",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "fetch the shows and episodes.",
+            "course_name": "Skills Used:",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Frontend:",
+            "course_name": "Flutter (Dart Language)",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Backend:",
+            "course_name": "Hive (NoSQL Database)",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Tools: Visual Studio Code, Postman, GIT",
+            "course_name": "Projects",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        }
+    ],
+    "work_experience": [],
+    "linkedin": "",
+    "github": ""
+}

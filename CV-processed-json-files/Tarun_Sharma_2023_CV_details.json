@@ -1,0 +1,72 @@
+{
+    "name": "Tarun Sharma",
+    "email": "tarunshrm768@gmail.com",
+    "phone": "+18318919787",
+    "skills": [
+        ".",
+        "Creating and updating curriculum materials and lesson plans based on",
+        "industry trends and feedback from students.",
+        "Collaborating with other instructors, staff members, and stakeholders to",
+        "ensure the program's success.",
+        "Courses are Java, Javascript, HTML, CSS, and Bootstrap, NodeJS.",
+        "Education",
+        "07/2016 \u2013 09/2020",
+        "Prayagraj, India",
+        "B. Tech. (Computer Science),",
+        "United College of Engineering & Management, Allahabad",
+        "05/2015 \u2013 03/2016",
+        "Prayagraj, India",
+        "Senior Secondary (XII) With ISC Board,",
+        "Mary Lucas School & College, Allahabad",
+        "04/2013 \u2013 03/2014",
+        "Prayagraj, India",
+        "Secondary (X) With ICSE Board, Mary Lucas School & College, Allahabad"
+    ],
+    "education": [
+        {
+            "university_name": "07/2016 \u2013 09/2020",
+            "course_name": "Prayagraj, India",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "B. Tech. (Computer Science),",
+            "course_name": "United College of Engineering & Management, Allahabad",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "05/2015 \u2013 03/2016",
+            "course_name": "Prayagraj, India",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Senior Secondary (XII) With ISC Board,",
+            "course_name": "Mary Lucas School & College, Allahabad",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "04/2013 \u2013 03/2014",
+            "course_name": "Prayagraj, India",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Secondary (X) With ICSE Board, Mary Lucas School & College, Allahabad",
+            "course_name": "",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        }
+    ],
+    "work_experience": [],
+    "linkedin": "",
+    "github": ""
+}

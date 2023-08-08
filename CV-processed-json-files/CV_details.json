@@ -1,0 +1,34 @@
+{
+    "name": "Bhaumik Tandan",
+    "email": "bhaumik.tandan@gmail.com",
+    "phone": "+918604616679",
+    "skills": [
+        "section"
+    ],
+    "education": [
+        {
+            "university_name": "Vellore Institute of Technology",
+            "course_name": "Vellore, India",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "BACHELORS OF TECHNOLOGY iN INFORMATiON TECHNOLOGY",
+            "course_name": "JULY 2019\u2011Present",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 Developed Interest in Web Development",
+            "course_name": "\u2022 Explored domains like machine learning,data science and database management system",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        }
+    ],
+    "work_experience": [],
+    "linkedin": "",
+    "github": ""
+}

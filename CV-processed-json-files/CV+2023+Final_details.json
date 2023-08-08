@@ -1,0 +1,50 @@
+{
+    "name": "Dana",
+    "email": "danaw0927@gmail.com",
+    "phone": "+12022052023",
+    "skills": [
+        "Languages:",
+        "Mandarin- Native",
+        "English \u2013 C1 Advanced"
+    ],
+    "education": [
+        {
+            "university_name": "",
+            "course_name": "University of York",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "BSc in Film and Television Production",
+            "course_name": "09/2021",
+            "dates_attended": "06/2024",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "During my study at the University of York, I took these modules: Writing for Film&Tv, Creative",
+            "course_name": "Sound&Image, Studio Production, Filmmaking, Cinema&Television History and Analysis, The Science",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "of Sound and Cinematography etc. I have a good command of industrial script writing, studio",
+            "course_name": "producing, camera operating, directing, colour grading and editing.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "",
+            "course_name": "",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        }
+    ],
+    "work_experience": [],
+    "linkedin": "",
+    "github": ""
+}

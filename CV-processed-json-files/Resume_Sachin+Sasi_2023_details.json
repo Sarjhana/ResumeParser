@@ -1,0 +1,43 @@
+{
+    "name": "Sachin Sasi",
+    "email": "sachnsas@gmail.com",
+    "phone": "+918140811899",
+    "skills": [
+        ": Adobe Premiere Pro; Da Vinci Resolve; Adobe Audition; Adobe After Effects;",
+        "\u25aa",
+        "Interests: Motorcycling; travelling; coffee; clubbing; exercise; film buff"
+    ],
+    "education": [
+        {
+            "university_name": "National Institute Of Design",
+            "course_name": "Jan. 2018",
+            "dates_attended": "Jan. 2018",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Bachelor of Design (B.Des), Film/Video Production and Communication",
+            "course_name": "Ahmedabad",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u25aa",
+            "course_name": "Completed 2 short films, 2 documentaries, and 2 advertisements from script to screen",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u25aa",
+            "course_name": "Acquired hands",
+            "dates_attended": "on",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        }
+    ],
+    "work_experience": [],
+    "linkedin": "",
+    "github": ""
+}

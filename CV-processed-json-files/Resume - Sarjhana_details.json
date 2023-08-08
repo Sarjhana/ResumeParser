@@ -1,0 +1,164 @@
+{
+    "name": "Sarjhana Ragunathan Brindha",
+    "email": "sarjhur@gmail.com",
+    "phone": "+447824061765",
+    "skills": [
+        "& CERTIFICATIONS",
+        "Technologies:",
+        "Artificial Intelligence, Machine Learning, Deep Learning, NLP, Computer Vision",
+        "Programming:",
+        "Python, C, C++, Dart, Matlab, R",
+        "Databases:",
+        "MySQL, FireBase",
+        "Libraries:",
+        "Tensorflow, Pytorch, Keras, Scikit Learn, NLTK, Numpy, Pandas, SHAP, LIME, DICE",
+        "Certifications:",
+        "Artificial Intelligence(Harvard University), Machine Learning(Stanford University),",
+        "Deep Learning Specialization (CNN, LSTM from Coursera),",
+        "Introduction to Programming using Python(Microsoft, Credential ID - wLps5-H9MW)",
+        "PROJECTS",
+        "People Detection, Tracking and Counting",
+        "June 2021",
+        "\u25cf",
+        "Developed an object detector, tracker, and counter in TensorFlow using state-of-the-art techniques - YOLOv4",
+        "and DeepSORT. GitHub",
+        "AI in Marketing",
+        "Jan. 2021",
+        "\u25cf",
+        "Trained a K-Means Clustering Model on customer dataset to identify similar groups which can be used for",
+        "targeted ads or customised marketing campaigns.",
+        "\u25cf",
+        "Performed Exploratory Data Analysis and PCA dimensionality reduction. GitHub",
+        "Credit Card Default Detection",
+        "May 2020",
+        "\u25cf",
+        "Trained an XGBoost model with hyperparameter tuning by a Grid search to predict if a customer would",
+        "default on credit card payments. GitHub",
+        "ACHIEVEMENTS",
+        "Winner, Smart India Hackathon",
+        "Aug. 2020",
+        "\u25cf",
+        "Developed \u2018MIDDAY MEALS\u2019, an automated auditing system to monitor the free lunch scheme employed in",
+        "over 1 million schools across India, for a 36-hour hackathon conducted by The Government of India.",
+        "\u25cf",
+        "Achieved 95% accuracy for Custom Food Detection model trained in SSD EfficientDet. Github",
+        "Winner, Think-a-thon",
+        "Feb. 2019",
+        "\u25cf",
+        "Created prototype of Optical Character Recognition (OCR) system for automating and validating bank cheques",
+        "using Tesseract and Android Studio for a 24-hour hackathon conducted by Anna University, India. Github",
+        "Best Innovation Award, SAACHACK",
+        "July 2018",
+        "\u25cf",
+        "Designed and implemented the project \u2018ParkSmart\u2019, an automated cloud-based parking system using Android",
+        "Studio for a 24-hour hackathon conducted by Anna University, India. Github",
+        "LEADERSHIP RESPONSIBILITIES & VOLUNTEERING EXPERIENCE",
+        "Python Instructor, Hatch School of Code",
+        "May 2020 - Aug 2020",
+        "\u25cf",
+        "Taught foundational basics to advanced-level hands-on Python coding for kids of age 5 to 15.",
+        "President, Association of Computer Engineers, Anna University",
+        "July 2018 - May 2021",
+        "\u25cf",
+        "Played a crucial role in organising various technical events, hackathons, and the National level Symposium",
+        "\u201cInterrupt\u201d for three consecutive years as a president, secretary, and an executive member.",
+        "\u25cf",
+        "Accomplished a 40% increase in student participation by enforcing new marketing strategies."
+    ],
+    "education": [
+        {
+            "university_name": "King\u2019s College London",
+            "course_name": "Sept. 2022",
+            "dates_attended": "Sept. 2022",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "MSc Artificial Intelligence",
+            "course_name": "Pass with Merit (68%)",
+            "dates_attended": "May 2021",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u25cf",
+            "course_name": "Relevant Modules: Data Mining, AI Planning, Computer Vision, AI Reasoning & Decision Making,",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Nature",
+            "course_name": "Inspired Learning Algorithms, Pattern Recognition, Neural Networks, and Deep Learning.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u25cf",
+            "course_name": "Dissertation: Explainable Predictive Frameworks from Medical Time Series supervised by Dr. Zina Ibrahim.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u25cb",
+            "course_name": "Aim: Develop an interpretable classifier using a next",
+            "dates_attended": "generation Neurosymbolic AI approach, \u201cLogic",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Explained Networks\u201d that produces first",
+            "course_name": "order logic explanations for time",
+            "dates_attended": "series data. Github",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Anna University",
+            "course_name": "May 2021",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "B.Engg. Computer Science & Engineering",
+            "course_name": "CGPA : 8.7/10",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u25cf",
+            "course_name": "Team Research Project: Early Detection of Alzheimer\u2019s Disease",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u25cb",
+            "course_name": "Proposed a novel approach of combining Residual Neural Networks(ResNet) and Ensemble Learning",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "(Majority Voting).",
+            "course_name": "\u25cb",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Led the team to preprocess MRI Brain Images from the ADNI dataset and implement the ResNet",
+            "course_name": "classifier using Transfer Learning. Github",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        }
+    ],
+    "work_experience": [],
+    "linkedin": "https://www.linkedin.com/in/sarjhana/,",
+    "github": "https://github.com/Sarjhana"
+}

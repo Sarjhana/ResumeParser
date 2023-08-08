@@ -1,0 +1,55 @@
+{
+    "name": "Belagum",
+    "email": "saneet09@gmail.com",
+    "phone": "",
+    "skills": [
+        "LANGUAGES",
+        ".",
+        ".",
+        ".",
+        ".",
+        "AWARDS",
+        "CERTIFICATIONS",
+        "PUBLICATIONS"
+    ],
+    "education": [
+        {
+            "university_name": "PROJECTS",
+            "course_name": "SKILLS",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "LANGUAGES",
+            "course_name": ".",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": ".",
+            "course_name": ".",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": ".",
+            "course_name": "AWARDS",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "CERTIFICATIONS",
+            "course_name": "PUBLICATIONS",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        }
+    ],
+    "work_experience": [],
+    "linkedin": "",
+    "github": "https://github.com/saneet09"
+}

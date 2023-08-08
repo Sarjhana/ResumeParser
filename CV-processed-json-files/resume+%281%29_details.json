@@ -1,0 +1,67 @@
+{
+    "name": "Madhuri Nanduri",
+    "email": "madhuri.nanduri309@gmail.com",
+    "phone": "",
+    "skills": [
+        "G Technical: Figma, Adobe XD, Sketch, MS Office",
+        "G Design: User Experience (UX), UX Research, Wireframe, Prototype,",
+        "User Experience Design(UXD), Usability Testing, Mock Up, Information",
+        "Architecture, Presentation, Design System, Responsive Web, Inclusive",
+        "Design.",
+        "G Operating System: Windows 2000/XP",
+        "Madhuri Nanduri",
+        "9390644154",
+        "madhuri.nanduri309@gmail.com",
+        "https://sites.google.com/view/uxmadhuridesign/home",
+        "Education",
+        "MNR PG College, M.Sc. Genetics // May 2011",
+        "Certifications",
+        "Languages",
+        "Hobbies",
+        "Google UX Design Course From Coursera",
+        "B2 German Language Certificate From",
+        "Goethe Institute",
+        "Telugu, English, German, Hindi",
+        "Yoga, Painting, Playing Flute and Violin"
+    ],
+    "education": [
+        {
+            "university_name": "MNR PG College, M.Sc. Genetics // May 2011",
+            "course_name": "Certifications",
+            "dates_attended": "May 2011",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Languages",
+            "course_name": "Hobbies",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Google UX Design Course From Coursera",
+            "course_name": "B2 German Language Certificate From",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Goethe Institute",
+            "course_name": "Telugu, English, German, Hindi",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Yoga, Painting, Playing Flute and Violin",
+            "course_name": "",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        }
+    ],
+    "work_experience": [],
+    "linkedin": "",
+    "github": ""
+}

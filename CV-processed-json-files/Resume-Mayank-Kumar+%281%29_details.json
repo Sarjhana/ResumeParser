@@ -1,0 +1,51 @@
+{
+    "name": "Mayank Kumar",
+    "email": "rdrmayank@gmail.com",
+    "phone": "+18005265216",
+    "skills": [
+        "AutoCAD",
+        "Advertising",
+        "Adobe InDesign",
+        "Adobe Creative Suite",
+        "Copy Editing",
+        "Brochures",
+        "Digital Marketing",
+        "Event Management",
+        "Marketing",
+        "Social Media Marketing",
+        "Mayank Kumar - page 1"
+    ],
+    "education": [
+        {
+            "university_name": "Kendriya Vidyalaya",
+            "course_name": "Class 10 And Class 12",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "MAAC",
+            "course_name": "DAFM, Animation, Interactive Technology, Video Graphics and Special Effects",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Skills",
+            "course_name": "AutoCAD \u00a0 \u2022 \u00a0 Advertising \u00a0 \u2022 \u00a0 Adobe InDesign \u00a0 \u2022 \u00a0 Adobe Creative Suite \u00a0 \u2022 \u00a0 Copy Editing \u00a0 \u2022 \u00a0 Brochures \u00a0 \u2022",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Digital Marketing \u00a0 \u2022 \u00a0 Event Management \u00a0 \u2022 \u00a0 Marketing \u00a0 \u2022 \u00a0 Social Media Marketing",
+            "course_name": "Mayank Kumar",
+            "dates_attended": "page 1",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        }
+    ],
+    "work_experience": [],
+    "linkedin": "",
+    "github": ""
+}

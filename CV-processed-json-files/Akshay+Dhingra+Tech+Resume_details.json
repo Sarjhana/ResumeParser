@@ -1,0 +1,70 @@
+{
+    "name": "Pilani",
+    "email": "akshay2dhingra@gmail.com",
+    "phone": "+917424882669",
+    "skills": [
+        ": Python | MongoDB | SQL | Node.js | C++ | DSA | Django",
+        "Interests: Analytics, Personal Finance, BasketBall, Gaming."
+    ],
+    "education": [
+        {
+            "university_name": "Birla Institute of Technology and Sciences, Pilani",
+            "course_name": "Pilani, RJ",
+            "dates_attended": "June 2022",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "BE in Mechanical Engineering :  (GPA: 7.30)",
+            "course_name": "Graduation Date: June 2022",
+            "dates_attended": "May 2018",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u25cf",
+            "course_name": "Organizations: Marudhara Cultural Assoc, BasketBall.",
+            "dates_attended": "May 2016",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Jayshree Periwal High School, Jaipur",
+            "course_name": "Jaipur, RJ",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Higher Secondary Certificate, CBSE: (Percentage: 90.4)",
+            "course_name": "Graduation Date: May 2018",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Delhi Public School, Jodhpur",
+            "course_name": "Jodhpur, RJ",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Secondary School Certificate, CBSE: (CGPA : 10)",
+            "course_name": "Graduation Date: May 2016",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u25cf",
+            "course_name": "Awards/Activities : Table Tennis, BasketBall.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        }
+    ],
+    "work_experience": [],
+    "linkedin": "",
+    "github": ""
+}

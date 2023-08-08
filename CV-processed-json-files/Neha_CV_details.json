@@ -1,0 +1,1781 @@
+{
+    "name": "Post-doc",
+    "email": "baranwal.neha24@gmail.com",
+    "phone": "+919721397457",
+    "skills": [
+        "Python",
+        "\u25cb \u25cb \u25cb \u25cb \u25cb",
+        "MATLAB",
+        "\u25cb \u25cb \u25cb \u25cb \u25cb",
+        "INVITED TALKS",
+        "An Empirical Review of Calibration",
+        "Techniques for the Pepper Humanoid",
+        "Robot\u2019s RGB and Depth Camera",
+        "Intelligent Systems and Applications.",
+        "\ufffd 5th Sept 2019",
+        "\ufffd London, England",
+        "Occasion: Presented conference paper in",
+        "IntelliSys 2019.",
+        "Fusion of Gesture and Speech for In-",
+        "creased Accuracy in Human Robot",
+        "Interaction",
+        "best of all evaluated machine learning algorithms, reached an accu-",
+        "racy of 98.2 percent on the test data. A complete framework is de-",
+        "ployed in real time humanoid robot (NAO) which proves the e\ufb03cacy",
+        "of the system.",
+        "Techniques: Multi-Layer Perceptron, CNN, DWT",
+        "Platform: Python, Choregraphe, TensorFlow.",
+        "Understandable Collaborating Robot Teams",
+        "Umea University, Sweden",
+        "We investigate understandability for teams of robots collaborating to",
+        "solve a common task. We present a novel and \ufb02exible solution based",
+        "on Cooperating Distributed Grammar Systems and a multi-agent al-",
+        "gorithm for coordination of actions. The solution is implemented and",
+        "evaluated on three Pepper robots collaborating to solve a task while",
+        "commenting on their own and other robots\u2019 current and planned ac-",
+        "tions.",
+        "Techniques: Cooperating Distributed Grammar System, Multi-",
+        "Agent System, Natural Language Generation.",
+        "Platform: Python, Choregraphe.",
+        "Development of a framework for human\u2013robot interac-",
+        "tions with Indian sign language using possibility theory",
+        "IIIT, Allahabad, India",
+        "This paper demonstrates the capability of NAO humanoid robot to",
+        "interact with hearing impaired persons using Indian Sign Language",
+        "(ISL). Principal contributions of the paper are: wavelet descriptor has",
+        "been applied to extracting moment invariant shape future of hand",
+        "gestures and possibility theory (PT) has been used for classi\ufb01cation of",
+        "gestures. Preprocessing and extraction of overlapping frames (start",
+        "and end point of each gesture) are the other major events which have",
+        "been solved using background modeling and novel gradient method.",
+        "We have shown that the overlapping frames are helpful for fragment-",
+        "ing a continuous ISL gesture into isolated gestures. These isolated",
+        "gestures are further processed and classi\ufb01ed. During the segmenta-",
+        "tion process some of the geometrical features like shape and orien-",
+        "tation of hand are deformed, which has been overcome by extracting",
+        "a new moment invariant feature through wavelet descriptor. These",
+        "features are then combined with the other two features (orienta-",
+        "tion and speed) and are classi\ufb01ed using PT. Here we use PT in place",
+        "of probability theory because possibility deals with the problem of",
+        "uncertainty and impression whereas probability handles only uncer-",
+        "tainty issues. Experiments have been performed on 20 sentences of",
+        "continuous ISL gestures having 4000 samples where each sentence",
+        "having 20 instances. In this dataset 50",
+        "Techniques: Possibility Theory, Nao Speech Engine, HMM.",
+        "Platform: Matlab, Choregraphe, NAOqi.",
+        "INDUSTRIAL PROJECTS",
+        "Out of body segment classi\ufb01cation",
+        "Kaliber Labs",
+        "We designed an algorithm that would classify out-of-body segments",
+        "from endoscopy videos. We applied ResNet-50 and CNN+LSTM to",
+        "classify images. Total 50000 images was used where 60 percent is",
+        "used for training and 30 percent was used for validation and 10 per-",
+        "cent was used for testing. Window based smoothing was used as",
+        "postprocessing to get a better result. To handle the datadrift prob-",
+        "lem we trained the model using semi supervised learning approach.",
+        "25th International Conference on Methods",
+        "and Models in Automation and Robotics",
+        "\ufffd 24th Aug 2019",
+        "\ufffd Mi\u0119dzyzdroje, Poland",
+        "Occasion: Presented conference paper in",
+        "MMAR 2019.",
+        "Deep Learning",
+        "3-Day workshop at LIRMM, Montpellier",
+        "University, France",
+        "\ufffd 22nd July\u201324 July 2021",
+        "\ufffd Montpellier, France",
+        "Occasion: Organized 3-day workshop on",
+        "deep learning.",
+        "Understandable human-robot inter-",
+        "action",
+        "Computing science department, Umea Uni-",
+        "versity",
+        "\ufffd 18th June 2019",
+        "\ufffd Umea, Sweden",
+        "Occasion: Poster presentation in 31st Swedish",
+        "AI Society Workshop.",
+        "Robotic Manipulator and sketch draw-",
+        "ing",
+        "WASP-Wallenberg Foundation",
+        "\ufffd 11th April 2018",
+        "\ufffd Stockholm, Sweden",
+        "Occasion: Presented live demo in AI4X- Col-",
+        "lecting Ideas and Identifying Challenges for",
+        "Future AI Research in Sweden.",
+        "Robotics",
+        "Department of Electronics and CSE SUIIT,",
+        "Sambalpur University, Burla, Odisha, India",
+        "\ufffd 30th April 2021",
+        "\ufffd Sambalpur, India",
+        "Occasion: Delivered talk in International",
+        "workshop on recent advancements in elec-",
+        "tronica and computer advancement.",
+        "Deep Learning",
+        "LIRMM, Montpellier University, France",
+        "\ufffd 28th June 2021",
+        "\ufffd Montpellier, France",
+        "Occasion: Delivered talk at MIC DAY orga-",
+        "nized by Microelectronics department.",
+        "Arti\ufb01cial Intelligence and the Future",
+        "of Robotics",
+        "Centre for Arti\ufb01cial Intelligence, Banasthali",
+        "University, Rajasthan, India",
+        "\ufffd 22nd March 2021",
+        "\ufffd Rajasthan, India",
+        "Occasion: Delivered talk at Faculty Develop-",
+        "ment Programme on Arti\ufb01cial Intelligence,",
+        "Robotics, and Automation.",
+        "Techniques: Vgg-16, ResNet-50, CNN+LSTM",
+        "Platform: Python, TensorFlow, Keras.",
+        "Scene change detection",
+        "Kaliber Labs",
+        "We are given an endoscopy videos, our task is to identify changes on",
+        "the basis of tool and anatomy. Here we used 4 models (Inside/outside,",
+        "good/bad, anatomy and tool) clubbed together and get the \ufb01nal out-",
+        "put which we saved in csv \ufb01le where each column represents the",
+        "results of one algorithm. Distance based method is used to identify",
+        "changes presents in csv \ufb01le. Smoothing is also used to remove out-",
+        "liers.",
+        "Techniques: Transfer Learning, MASKRCNN, U-Net",
+        "Platform: Python, TensorFlow, Keras.",
+        "Email Classi\ufb01cation",
+        "Credit Suisse International",
+        "A classi\ufb01cation system requires two things, features which can rep-",
+        "resent the sample in the feature space (vector form) and classi\ufb01er",
+        "who will classify these feature to their respective classes. We have",
+        "used bag of words, nGram, and TF-IDF to de\ufb01ne the features while",
+        "Linear, Na\u00efve Bayes, Support Vector Machines are used to classify",
+        "these emails to one of the de\ufb01ned classes. Since email signatures,",
+        "Images etc. are not required in email classi\ufb01cation. A separate pre-",
+        "processing module is written for email cleansing.",
+        "Techniques: TD-IDF, Bayes (Multinomial, Unigram), Linear Classi-",
+        "\ufb01er, SVM.",
+        "Platform: Python, Scikit, Numpy, Beautifulsoup, NLTK, SQL.",
+        "Negative News Scanning",
+        "eClerx Services",
+        "We need to \ufb01nd the relative information about the person/organization",
+        "from the given sources(websites) and then estimate that the extract",
+        "information is positive or negative. Here the term negative symbol-",
+        "izes that the entity is involved in money laundering or any illegal ac-",
+        "tivity in the past. We used web scrapping to download the informa-",
+        "tion and then applied anaphora resolution to identify the sentences",
+        "related to the entity. Later we used sentiment analysis over the col-",
+        "lected samples.",
+        "Techniques: TD-IDF, nGram (unigram, bigram, trigram), Logistic Re-",
+        "gression, SVM.",
+        "Platform: Python, Scikit, Numpy, Beautifulsoup, NLTK.",
+        "Intent Classi\ufb01cation",
+        "Brane enterprises LLP",
+        "Intent Detection and Slot Filling is the task of interpreting user com-",
+        "mands/queries by extracting the intent and the relevant slots. HR",
+        "dataset was considered. The slots are labeled in the BIO (Inside Out-",
+        "side Beginning) format (similar to NER). Encoding was extracted us-",
+        "ing Bert then these encodings was fed into LSTM model to get the",
+        "intent and slot.",
+        "Techniques: Bert, LSTM.",
+        "Platform: Python, Tensor\ufb02ow, Keras.",
+        "SELECTED PUBLICATIONS",
+        "\ufffd Journal Articles",
+        "Possibility Theory based Continuous",
+        "Indian Sign Language Gesture Recog-",
+        "nition",
+        "TENCON a premier international technical",
+        "conference of IEEE Region 10",
+        "\ufffd 1st Nov 2015",
+        "\ufffd Macau, China",
+        "Occasion: Presented conference paper in",
+        "TENCON 2015.",
+        "CERTIFICATIONS",
+        "Social network analysis (SNAW\u201912)",
+        "Indian Statistical Institute, Kolkata, India",
+        "\ufffd 27 June \u2013 28 June 2012",
+        "Occasion: National workshop organized by",
+        "Center for Soft Computing Research.",
+        "Computing Techniques and Applica-",
+        "tions",
+        "Banaras Hindu University, Varanasi, India",
+        "\ufffd 1 July \u2013 7 July 2012",
+        "Occasion: National workshop cum training",
+        "program organized by Mathematics Depart-",
+        "ment.",
+        "Machine Learning",
+        "Indian Institute of Technology, Kanpur, India",
+        "\ufffd 1 July \u2013 3 July 2013",
+        "Occasion: 1st Indian Workshop organized by",
+        "computer science department.",
+        "Image Processing, Computer Vision",
+        "and Pattern Recognition",
+        "National Institute of Technology Delhi, India",
+        "\ufffd 18th June \u2013 22 June 2013",
+        "Occasion: Faculty Development Program",
+        "organized by computer science department.",
+        "PDE Modeling and Computation",
+        "Indian Institute of Technology Madras, India",
+        "\ufffd 21 Oct \u2013 25 Oct 2013",
+        "Occasion: DAAD Supported International",
+        "Workshop organized by Department of Math-",
+        "ematics.",
+        "ACADEMIC SERVICES",
+        "Organizing committee member of \u201cSERB",
+        "sponsored 1st summer school on robotics\u201d,",
+        "organized by IIIT Allahabad.",
+        "Served as a Publicity Chair in Second In-",
+        "ternational Symposium on Women in",
+        "Computing and Informatics (WCI-2014).",
+        "Singh, Avinash Kumar, Neha Baranwal, Kai-Florian Richter, Thomas",
+        "Hellstr\u00f6m, et al. (2020b). \u201cVerbal explanations by collaborating",
+        "robot teams\u201d. In: Paladyn, Journal of Behavioral Robotics 12.1,",
+        "pp. 47\u201357.",
+        "Baranwal, Neha and Gora Chand Nandi (2017a). \u201cA mathematical",
+        "framework for possibility theory-based hidden Markov model\u201d.",
+        "In: International Journal of Bio-Inspired Computation 10.4, pp. 239\u2013",
+        "247.",
+        "\u2013 (2017b). \u201cAn e\ufb03cient gesture based humanoid learning using",
+        "wavelet descriptor and MFCC techniques\u201d. In: International Jour-",
+        "nal of Machine Learning and Cybernetics 8.4, pp. 1369\u20131388.",
+        "Baranwal, Neha, Gora Chand Nandi, and Avinash Kumar Singh",
+        "(2017). \u201cReal Time Gesture Based Communication Using Possi-",
+        "bility Theory Based Hidden Markov Model\u201d. In: Computational",
+        "Intelligence 33.4, pp. 843\u2013862.",
+        "Baranwal, Neha, Avinash Kumar Singh, and Gora Chand Nandi",
+        "(2017). \u201cDevelopment of a Framework for Human\u2013Robot inter-",
+        "actions with Indian Sign Language Using Possibility Theory\u201d. In:",
+        "International Journal of Social Robotics 9.4, pp. 563\u2013574.",
+        "Baranwal, Neha, Shweta Tripathi, and Gora Chand Nandi (2014).",
+        "\u201cA speaker invariant speech recognition technique using HFCC",
+        "features in isolated Hindi words\u201d. In: International Journal of Com-",
+        "putational Intelligence Studies 3.4, pp. 277\u2013291.",
+        "\ufffd Conference Proceedings",
+        "Singh, Avinash Kumar, Neha Baranwal, and Kai-Florian Richter",
+        "(2020). \u201cA Fuzzy Inference System for a Visually Grounded Robot",
+        "State of Mind\u201d. In: Proceedings of the Europian conference on ar-",
+        "ti\ufb01cal intelligence, (ECAI 2020), Santiago de Compostela, Spain, 29",
+        "Aug-2 Sept 2020. Spain: ECAI2020.",
+        "Singh, Avinash Kumar, Neha Baranwal, Kai-Florian Richter, Thomas",
+        "Hellstr\u00f6m, et al. (2020a). \u201cUnderstandable collaborating robot",
+        "teams\u201d. In: International Conference on Practical Applications of",
+        "Agents and Multi-Agent Systems. Springer, pp. 168\u2013178.",
+        "Baranwal, Neha, Avinash Kumar Singh, and Suna Bench (2019).",
+        "\u201cExtracting primary objects and spatial relations from sentences\u201d.",
+        "In: 11th International Conference on Agents and Arti\ufb01cial Intelli-",
+        "gence, Prague, Czech Republic, 19-21 February 2019.",
+        "Baranwal, Neha, Avinash Kumar Singh, and Thomas Hellstr\u00f6m",
+        "(2019). \u201cFusion of gesture and speech for increased accuracy in",
+        "human robot interaction\u201d. In: 2019 24th International Conference",
+        "on Methods and Models in Automation and Robotics (MMAR). IEEE,",
+        "pp. 139\u2013144.",
+        "Baranwal, Neha, Kumud Tripathi, and GC Nandi (2015). \u201cPossibil-",
+        "ity theory based continuous Indian Sign Language gesture recog-",
+        "nition\u201d. In: TENCON 2015-2015 IEEE Region 10 Conference. IEEE,",
+        "pp. 1\u20135.",
+        "Baranwal, Neha, Neha Singh, and GC Nandi (2014). \u201cIndian sign",
+        "language gesture recognition using discrete wavelet packet trans-",
+        "form\u201d. In: 2014 International Conference on Signal Propagation and",
+        "Computer Technology (ICSPCT 2014). IEEE, pp. 573\u2013577.",
+        "IEEE Professional Student Member.",
+        "LANGUAGES",
+        "Hindi",
+        "\u25cb \u25cb \u25cb \u25cb \u25cb",
+        "English",
+        "\u25cb \u25cb \u25cb \u25cb \u25cb",
+        "French",
+        "\u25cb \u25cb \u25cb \u25cb \u25cb",
+        "Swedish",
+        "\u25cb \u25cb \u25cb \u25cb \u25cb",
+        "REFERENCES",
+        "Prof. G C Nandi",
+        "\ufffd Indian Institute of Information Technol-",
+        "ogy, Allahabad, India",
+        "\ufffd gcnandi@iiita.ac.in",
+        "Prof. Thomas Hellstr\u00f6m",
+        "\ufffd Ume\u00e5 universitet",
+        "\ufffd thomas.hellstrom@umu.se",
+        "Declaration",
+        "I hereby declare that the above mentioned particulars are true to the best of my knowledge and belief.",
+        "Date:",
+        "Place:",
+        "Neha Baranwal"
+    ],
+    "education": [
+        {
+            "university_name": "learning platform. It provides various courses",
+            "course_name": "such as MBA, MS, Deploma etc. in ML/DS/AI.",
+            "dates_attended": "January 2022",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 Supervising students in their master thesis.",
+            "course_name": "Mentor",
+            "dates_attended": "Nov 2020",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Great Learning, India",
+            "course_name": "\ufffd January 2022 \u2013 Ongoing",
+            "dates_attended": "December 2021",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\ufffd Part",
+            "course_name": "Time",
+            "dates_attended": "April 2020",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Great Learning is an educational learning platform. It provides vari",
+            "course_name": "ous courses such as MBA, MS, diploma, etc. in ML/DS/AI.",
+            "dates_attended": "Oct 2020",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 Mentoring students in their projects.",
+            "course_name": "\u2022 Taking sessions related to projects.",
+            "dates_attended": "November, 2017",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Senior Researcher",
+            "course_name": "Montpellier University, France",
+            "dates_attended": "2020",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\ufffd Nov 2020 \u2013 December 2021",
+            "course_name": "\ufffd Montpellier, France",
+            "dates_attended": "April, 2016",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "I am associated with the electronics lab (LIRMM) and worked on",
+            "course_name": "seatizen project. As a part of the project, I worked on the classi\ufb01ca",
+            "dates_attended": "tion of marine species and checked the health of the sea.",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "EDUCATION",
+            "course_name": "Ph.D. in Human",
+            "dates_attended": "Robot Interaction",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Indian Institute of Information Technology,",
+            "course_name": "Allahabad, India",
+            "dates_attended": "August",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\ufffd Nov2011 \u2013 Feb2017 \ufffd CGPI: 9.0",
+            "course_name": "Thesis title: On e\ufb00ective human",
+            "dates_attended": "robot inter",
+            "marks_or_percentage": "action using multimodel techniques.",
+            "additional_info": ""
+        },
+        {
+            "university_name": "M.Tech. in Computer Science",
+            "course_name": "KIIT University, Bhubaneswar, India",
+            "dates_attended": "2017",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\ufffd Jul2009 \u2013 Jun2011",
+            "course_name": "\ufffd CGPI: 8.89",
+            "dates_attended": "2020-2025",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Thesis title: Spread spectrum based audio",
+            "course_name": "watermarking techniques.",
+            "dates_attended": "2.5 years",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "M.Sc. in Computer Science",
+            "course_name": "Allahabad University, Allahabad, India",
+            "dates_attended": "2015",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\ufffd Jul2007 \u2013 Jun2009",
+            "course_name": "\ufffd Per: 68%",
+            "dates_attended": "1-4 Nov.\n2015",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "COURSE WORK",
+            "course_name": "Soft Computing",
+            "dates_attended": "2014",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Image Processing",
+            "course_name": "Robotics & Industrial Automation",
+            "dates_attended": "Sept 2019",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Computer Vision",
+            "course_name": "Pattern Recognition",
+            "dates_attended": "24th Aug 2019",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Research Methodology",
+            "course_name": "SKILLS",
+            "dates_attended": "Mi\u0119dzyzdroje",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Machine Learning",
+            "course_name": "\u25cb \u25cb \u25cb \u25cb \u25cb",
+            "dates_attended": "3-Day",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Computer Vision",
+            "course_name": "\u25cb \u25cb \u25cb \u25cb \u25cb",
+            "dates_attended": "July 2021",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Deep Leaning",
+            "course_name": "\u25cb \u25cb \u25cb \u25cb \u25cb",
+            "dates_attended": "3-day",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Natural Language Processing",
+            "course_name": "\u25cb \u25cb \u25cb \u25cb \u25cb",
+            "dates_attended": "18th June 2019",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Git",
+            "course_name": "\u25cb \u25cb \u25cb \u25cb \u25cb",
+            "dates_attended": "April 2018",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Jira",
+            "course_name": "\u25cb \u25cb \u25cb \u25cb \u25cb",
+            "dates_attended": "30th April 2021",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Slack",
+            "course_name": "\u25cb \u25cb \u25cb \u25cb \u25cb",
+            "dates_attended": "28th June 2021",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Docker",
+            "course_name": "\u25cb \u25cb \u25cb \u25cb \u25cb",
+            "dates_attended": "March 2021",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 Marine species classi\ufb01cation: Given the RGB images and their",
+            "course_name": "meta data we classi\ufb01ed marine species such as sea grass, sea cu",
+            "dates_attended": "cumber, \ufb01sh, turtle etc. using ResNet",
+            "marks_or_percentage": "50, DensNet.",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 Deep learning optimization: Given the deep learning algorithm",
+            "course_name": "we optimized inferencing upto the level where it can be used in",
+            "dates_attended": "27 June",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "microelectronic devices.",
+            "course_name": "Associate Solution Leader",
+            "dates_attended": "28 June 2012",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Brane Enterprises LLP",
+            "course_name": "\ufffd April 2020 \u2013 Oct 2020",
+            "dates_attended": "7 July 2012",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\ufffd Hyderabad",
+            "course_name": "Brane is a private Indian startup that deals in AI and Robotics prod",
+            "dates_attended": "ucts, As a leader my responsibilities were:",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 To hire more people into the team. Work allocation, monitoring",
+            "course_name": "client deliveries, and identifying the gaps in the current process",
+            "dates_attended": "3 July 2013",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\ufb02ow to propose machine learning solutions.",
+            "course_name": "\u2022 To design the architecture of machine learning solutions.",
+            "dates_attended": "18th June",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 We had developed a no",
+            "course_name": "code platform that helps user to load",
+            "dates_attended": "22 June 2013",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "the training population, con\ufb01gure the hyper parameters and then",
+            "course_name": "allow training and deploy the model without writing a single line",
+            "dates_attended": "2017",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "of code. Here we used LSTM, graph neural network to make the",
+            "course_name": "complete eco system.",
+            "dates_attended": "2017",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Postdoctoral Researcher",
+            "course_name": "Umea University, Sweden",
+            "dates_attended": "2014",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\ufffd November, 2017 \u2013 Jan, 2020",
+            "course_name": "\ufffd Umea, Sweden",
+            "dates_attended": "2020",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "During the postdoc, I worked on humanoid robots. We train them",
+            "course_name": "to assist humans in the household scenarios.",
+            "dates_attended": "Sept 2020",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 We designed a dialogue based human robot interaction system",
+            "course_name": "that allows humans, to talk to the robot.",
+            "dates_attended": "2020a",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 A dialogue generation system is added to translate robot\u2019s action",
+            "course_name": "into the natural language so that they would be understandable.",
+            "dates_attended": "2019",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Associate Process Manager",
+            "course_name": "eClerx Services Limited",
+            "dates_attended": "19-21 February 2019",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\ufffd April, 2016 \u2013 August, 2017",
+            "course_name": "\ufffd Navi",
+            "dates_attended": "Mumbai, India",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "eClerx is an Indian IT consulting and outsourcing multinational",
+            "course_name": "company. I worked there as a full stack developer and my job was",
+            "dates_attended": "2019",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "to design and develop NLP, ML solutions. Here i used word2vec,",
+            "course_name": "globe, Spacy parcer, Baye\u2019s network, SVM. We used image prepro",
+            "dates_attended": "cessing to improve OCR (tresseract, google) accuracy, further to",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "integrate these solutions with RPA system. I have supervised junior",
+            "course_name": "members of the team.",
+            "dates_attended": "2015",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "RESEARCH PROJECTS",
+            "course_name": "Fusion of gesture and speech for increased accuracy in",
+            "dates_attended": "2015-2015",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "human robot interaction",
+            "course_name": "Umea University, Sweden",
+            "dates_attended": "2014",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "An approach for decision",
+            "course_name": "level fusion for gesture and speech based",
+            "dates_attended": "2014",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "human",
+            "course_name": "robot interaction (HRI) is proposed. A rule",
+            "dates_attended": "based method is",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "compared with several machine learning approaches. Gestures and",
+            "course_name": "speech signals are initially classi\ufb01ed using hidden Markov models,",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "reaching accuracies of 89.6 percent and 84 percent respectively. The",
+            "course_name": "rule",
+            "dates_attended": "based approach reached 91.6 percent while SVM, which was the",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Headless servers",
+            "course_name": "\u25cb \u25cb \u25cb \u25cb \u25cb",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "MOST PROUD OF",
+            "course_name": "\ufffd",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Seatizen Project (2020",
+            "course_name": "2025)",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Selected for the Post",
+            "course_name": "Doc position on",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "health monitoring of underwater sea",
+            "course_name": "species at LIRMM Montpellier, France.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\ufffd",
+            "course_name": "Postdoc funding from Kemphe Foun",
+            "dates_attended": "dations, Sweden",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Received 2.5 years of research fund",
+            "course_name": "ing to pursue my postdoctoral work",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "in Human",
+            "course_name": "Robot Interaction at Umea",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "University, Sweden.",
+            "course_name": "\ufffd",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Spot Award for project negative news",
+            "course_name": "analysis",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Selected for spot award at eClerx, In",
+            "course_name": "dia.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\ufffd",
+            "course_name": "DST travel grant, India",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Selected for DST travel grant for at",
+            "course_name": "tending 35th IEEE TENCON 2015 con",
+            "dates_attended": "ference held in Macao, china, 1",
+            "marks_or_percentage": "4 Nov.",
+            "additional_info": ""
+        },
+        {
+            "university_name": "2015 at IIITA, India.",
+            "course_name": "\ufffd",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Best paper award",
+            "course_name": "My publication got selected for best",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "paper award in 3rd IEEE International",
+            "course_name": "Conference on Advances in Comput",
+            "dates_attended": "ing, Communications, and Informatics",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "(ICACCI 2014) at IIITA, India.",
+            "course_name": "\ufffd MHRD, India PH.D Fellowship",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Selected for the Ph.D under the",
+            "course_name": "robotics and AI lab, IIITA",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "PROGRAMMING SKILLS",
+            "course_name": "Python",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u25cb \u25cb \u25cb \u25cb \u25cb",
+            "course_name": "MATLAB",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u25cb \u25cb \u25cb \u25cb \u25cb",
+            "course_name": "INVITED TALKS",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "An Empirical Review of Calibration",
+            "course_name": "Techniques for the Pepper Humanoid",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Robot\u2019s RGB and Depth Camera",
+            "course_name": "Intelligent Systems and Applications.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\ufffd 5th Sept 2019",
+            "course_name": "\ufffd London, England",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Occasion: Presented conference paper in",
+            "course_name": "IntelliSys 2019.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Fusion of Gesture and Speech for In",
+            "course_name": "creased Accuracy in Human Robot",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Interaction",
+            "course_name": "best of all evaluated machine learning algorithms, reached an accu",
+            "dates_attended": "racy of 98.2 percent on the test data. A complete framework is de",
+            "marks_or_percentage": "ployed in real time humanoid robot (NAO) which proves the e\ufb03cacy",
+            "additional_info": ""
+        },
+        {
+            "university_name": "of the system.",
+            "course_name": "Techniques: Multi",
+            "dates_attended": "Layer Perceptron, CNN, DWT",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Platform: Python, Choregraphe, TensorFlow.",
+            "course_name": "Understandable Collaborating Robot Teams",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Umea University, Sweden",
+            "course_name": "We investigate understandability for teams of robots collaborating to",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "solve a common task. We present a novel and \ufb02exible solution based",
+            "course_name": "on Cooperating Distributed Grammar Systems and a multi",
+            "dates_attended": "agent al",
+            "marks_or_percentage": "gorithm for coordination of actions. The solution is implemented and",
+            "additional_info": ""
+        },
+        {
+            "university_name": "evaluated on three Pepper robots collaborating to solve a task while",
+            "course_name": "commenting on their own and other robots\u2019 current and planned ac",
+            "dates_attended": "tions.",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Techniques: Cooperating Distributed Grammar System, Multi",
+            "course_name": "Agent System, Natural Language Generation.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Platform: Python, Choregraphe.",
+            "course_name": "Development of a framework for human\u2013robot interac",
+            "dates_attended": "tions with Indian sign language using possibility theory",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "IIIT, Allahabad, India",
+            "course_name": "This paper demonstrates the capability of NAO humanoid robot to",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "interact with hearing impaired persons using Indian Sign Language",
+            "course_name": "(ISL). Principal contributions of the paper are: wavelet descriptor has",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "been applied to extracting moment invariant shape future of hand",
+            "course_name": "gestures and possibility theory (PT) has been used for classi\ufb01cation of",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "gestures. Preprocessing and extraction of overlapping frames (start",
+            "course_name": "and end point of each gesture) are the other major events which have",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "been solved using background modeling and novel gradient method.",
+            "course_name": "We have shown that the overlapping frames are helpful for fragment",
+            "dates_attended": "ing a continuous ISL gesture into isolated gestures. These isolated",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "gestures are further processed and classi\ufb01ed. During the segmenta",
+            "course_name": "tion process some of the geometrical features like shape and orien",
+            "dates_attended": "tation of hand are deformed, which has been overcome by extracting",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "a new moment invariant feature through wavelet descriptor. These",
+            "course_name": "features are then combined with the other two features (orienta",
+            "dates_attended": "tion and speed) and are classi\ufb01ed using PT. Here we use PT in place",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "of probability theory because possibility deals with the problem of",
+            "course_name": "uncertainty and impression whereas probability handles only uncer",
+            "dates_attended": "tainty issues. Experiments have been performed on 20 sentences of",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "continuous ISL gestures having 4000 samples where each sentence",
+            "course_name": "having 20 instances. In this dataset 50",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Techniques: Possibility Theory, Nao Speech Engine, HMM.",
+            "course_name": "Platform: Matlab, Choregraphe, NAOqi.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "INDUSTRIAL PROJECTS",
+            "course_name": "Out of body segment classi\ufb01cation",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Kaliber Labs",
+            "course_name": "We designed an algorithm that would classify out",
+            "dates_attended": "of",
+            "marks_or_percentage": "body segments",
+            "additional_info": ""
+        },
+        {
+            "university_name": "from endoscopy videos. We applied ResNet",
+            "course_name": "50 and CNN+LSTM to",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "classify images. Total 50000 images was used where 60 percent is",
+            "course_name": "used for training and 30 percent was used for validation and 10 per",
+            "dates_attended": "cent was used for testing. Window based smoothing was used as",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "postprocessing to get a better result. To handle the datadrift prob",
+            "course_name": "lem we trained the model using semi supervised learning approach.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "25th International Conference on Methods",
+            "course_name": "and Models in Automation and Robotics",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\ufffd 24th Aug 2019",
+            "course_name": "\ufffd Mi\u0119dzyzdroje, Poland",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Occasion: Presented conference paper in",
+            "course_name": "MMAR 2019.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Deep Learning",
+            "course_name": "3",
+            "dates_attended": "Day workshop at LIRMM, Montpellier",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "University, France",
+            "course_name": "\ufffd 22nd July\u201324 July 2021",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\ufffd Montpellier, France",
+            "course_name": "Occasion: Organized 3",
+            "dates_attended": "day workshop on",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "deep learning.",
+            "course_name": "Understandable human",
+            "dates_attended": "robot inter",
+            "marks_or_percentage": "action",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Computing science department, Umea Uni",
+            "course_name": "versity",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\ufffd 18th June 2019",
+            "course_name": "\ufffd Umea, Sweden",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Occasion: Poster presentation in 31st Swedish",
+            "course_name": "AI Society Workshop.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Robotic Manipulator and sketch draw",
+            "course_name": "ing",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "WASP",
+            "course_name": "Wallenberg Foundation",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\ufffd 11th April 2018",
+            "course_name": "\ufffd Stockholm, Sweden",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Occasion: Presented live demo in AI4X",
+            "course_name": "Col",
+            "dates_attended": "lecting Ideas and Identifying Challenges for",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Future AI Research in Sweden.",
+            "course_name": "Robotics",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Department of Electronics and CSE SUIIT,",
+            "course_name": "Sambalpur University, Burla, Odisha, India",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\ufffd 30th April 2021",
+            "course_name": "\ufffd Sambalpur, India",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Occasion: Delivered talk in International",
+            "course_name": "workshop on recent advancements in elec",
+            "dates_attended": "tronica and computer advancement.",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Deep Learning",
+            "course_name": "LIRMM, Montpellier University, France",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\ufffd 28th June 2021",
+            "course_name": "\ufffd Montpellier, France",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Occasion: Delivered talk at MIC DAY orga",
+            "course_name": "nized by Microelectronics department.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Arti\ufb01cial Intelligence and the Future",
+            "course_name": "of Robotics",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Centre for Arti\ufb01cial Intelligence, Banasthali",
+            "course_name": "University, Rajasthan, India",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\ufffd 22nd March 2021",
+            "course_name": "\ufffd Rajasthan, India",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Occasion: Delivered talk at Faculty Develop",
+            "course_name": "ment Programme on Arti\ufb01cial Intelligence,",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Robotics, and Automation.",
+            "course_name": "Techniques: Vgg",
+            "dates_attended": "16, ResNet",
+            "marks_or_percentage": "50, CNN+LSTM",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Platform: Python, TensorFlow, Keras.",
+            "course_name": "Scene change detection",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Kaliber Labs",
+            "course_name": "We are given an endoscopy videos, our task is to identify changes on",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "the basis of tool and anatomy. Here we used 4 models (Inside/outside,",
+            "course_name": "good/bad, anatomy and tool) clubbed together and get the \ufb01nal out",
+            "dates_attended": "put which we saved in csv \ufb01le where each column represents the",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "results of one algorithm. Distance based method is used to identify",
+            "course_name": "changes presents in csv \ufb01le. Smoothing is also used to remove out",
+            "dates_attended": "liers.",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Techniques: Transfer Learning, MASKRCNN, U",
+            "course_name": "Net",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Platform: Python, TensorFlow, Keras.",
+            "course_name": "Email Classi\ufb01cation",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Credit Suisse International",
+            "course_name": "A classi\ufb01cation system requires two things, features which can rep",
+            "dates_attended": "resent the sample in the feature space (vector form) and classi\ufb01er",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "who will classify these feature to their respective classes. We have",
+            "course_name": "used bag of words, nGram, and TF",
+            "dates_attended": "IDF to de\ufb01ne the features while",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Linear, Na\u00efve Bayes, Support Vector Machines are used to classify",
+            "course_name": "these emails to one of the de\ufb01ned classes. Since email signatures,",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Images etc. are not required in email classi\ufb01cation. A separate pre",
+            "course_name": "processing module is written for email cleansing.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Techniques: TD",
+            "course_name": "IDF, Bayes (Multinomial, Unigram), Linear Classi",
+            "dates_attended": "\ufb01er, SVM.",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Platform: Python, Scikit, Numpy, Beautifulsoup, NLTK, SQL.",
+            "course_name": "Negative News Scanning",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "eClerx Services",
+            "course_name": "We need to \ufb01nd the relative information about the person/organization",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "from the given sources(websites) and then estimate that the extract",
+            "course_name": "information is positive or negative. Here the term negative symbol",
+            "dates_attended": "izes that the entity is involved in money laundering or any illegal ac",
+            "marks_or_percentage": "tivity in the past. We used web scrapping to download the informa",
+            "additional_info": "tion and then applied anaphora resolution to identify the sentences"
+        },
+        {
+            "university_name": "related to the entity. Later we used sentiment analysis over the col",
+            "course_name": "lected samples.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Techniques: TD",
+            "course_name": "IDF, nGram (unigram, bigram, trigram), Logistic Re",
+            "dates_attended": "gression, SVM.",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Platform: Python, Scikit, Numpy, Beautifulsoup, NLTK.",
+            "course_name": "Intent Classi\ufb01cation",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Brane enterprises LLP",
+            "course_name": "Intent Detection and Slot Filling is the task of interpreting user com",
+            "dates_attended": "mands/queries by extracting the intent and the relevant slots. HR",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "dataset was considered. The slots are labeled in the BIO (Inside Out",
+            "course_name": "side Beginning) format (similar to NER). Encoding was extracted us",
+            "dates_attended": "ing Bert then these encodings was fed into LSTM model to get the",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "intent and slot.",
+            "course_name": "Techniques: Bert, LSTM.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Platform: Python, Tensor\ufb02ow, Keras.",
+            "course_name": "SELECTED PUBLICATIONS",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\ufffd Journal Articles",
+            "course_name": "Possibility Theory based Continuous",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Indian Sign Language Gesture Recog",
+            "course_name": "nition",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "TENCON a premier international technical",
+            "course_name": "conference of IEEE Region 10",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\ufffd 1st Nov 2015",
+            "course_name": "\ufffd Macau, China",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Occasion: Presented conference paper in",
+            "course_name": "TENCON 2015.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "CERTIFICATIONS",
+            "course_name": "Social network analysis (SNAW\u201912)",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Indian Statistical Institute, Kolkata, India",
+            "course_name": "\ufffd 27 June \u2013 28 June 2012",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Occasion: National workshop organized by",
+            "course_name": "Center for Soft Computing Research.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Computing Techniques and Applica",
+            "course_name": "tions",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Banaras Hindu University, Varanasi, India",
+            "course_name": "\ufffd 1 July \u2013 7 July 2012",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Occasion: National workshop cum training",
+            "course_name": "program organized by Mathematics Depart",
+            "dates_attended": "ment.",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Machine Learning",
+            "course_name": "Indian Institute of Technology, Kanpur, India",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\ufffd 1 July \u2013 3 July 2013",
+            "course_name": "Occasion: 1st Indian Workshop organized by",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "computer science department.",
+            "course_name": "Image Processing, Computer Vision",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "and Pattern Recognition",
+            "course_name": "National Institute of Technology Delhi, India",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\ufffd 18th June \u2013 22 June 2013",
+            "course_name": "Occasion: Faculty Development Program",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "organized by computer science department.",
+            "course_name": "PDE Modeling and Computation",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Indian Institute of Technology Madras, India",
+            "course_name": "\ufffd 21 Oct \u2013 25 Oct 2013",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Occasion: DAAD Supported International",
+            "course_name": "Workshop organized by Department of Math",
+            "dates_attended": "ematics.",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "ACADEMIC SERVICES",
+            "course_name": "\u2022 Organizing committee member of \u201cSERB",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "sponsored 1st summer school on robotics\u201d,",
+            "course_name": "organized by IIIT Allahabad.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 Served as a Publicity Chair in Second In",
+            "course_name": "ternational Symposium on Women in",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Computing and Informatics (WCI",
+            "course_name": "2014).",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 Singh, Avinash Kumar, Neha Baranwal, Kai",
+            "course_name": "Florian Richter, Thomas",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Hellstr\u00f6m, et al. (2020b). \u201cVerbal explanations by collaborating",
+            "course_name": "robot teams\u201d. In: Paladyn, Journal of Behavioral Robotics 12.1,",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "pp. 47\u201357.",
+            "course_name": "\u2022 Baranwal, Neha and Gora Chand Nandi (2017a). \u201cA mathematical",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "framework for possibility theory",
+            "course_name": "based hidden Markov model\u201d.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "In: International Journal of Bio",
+            "course_name": "Inspired Computation 10.4, pp. 239\u2013",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "247.",
+            "course_name": "\u2022 \u2013 (2017b). \u201cAn e\ufb03cient gesture based humanoid learning using",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "wavelet descriptor and MFCC techniques\u201d. In: International Jour",
+            "course_name": "nal of Machine Learning and Cybernetics 8.4, pp. 1369\u20131388.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 Baranwal, Neha, Gora Chand Nandi, and Avinash Kumar Singh",
+            "course_name": "(2017). \u201cReal Time Gesture Based Communication Using Possi",
+            "dates_attended": "bility Theory Based Hidden Markov Model\u201d. In: Computational",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Intelligence 33.4, pp. 843\u2013862.",
+            "course_name": "\u2022 Baranwal, Neha, Avinash Kumar Singh, and Gora Chand Nandi",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "(2017). \u201cDevelopment of a Framework for Human\u2013Robot inter",
+            "course_name": "actions with Indian Sign Language Using Possibility Theory\u201d. In:",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "International Journal of Social Robotics 9.4, pp. 563\u2013574.",
+            "course_name": "\u2022 Baranwal, Neha, Shweta Tripathi, and Gora Chand Nandi (2014).",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u201cA speaker invariant speech recognition technique using HFCC",
+            "course_name": "features in isolated Hindi words\u201d. In: International Journal of Com",
+            "dates_attended": "putational Intelligence Studies 3.4, pp. 277\u2013291.",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\ufffd Conference Proceedings",
+            "course_name": "\u2022 Singh, Avinash Kumar, Neha Baranwal, and Kai",
+            "dates_attended": "Florian Richter",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "(2020). \u201cA Fuzzy Inference System for a Visually Grounded Robot",
+            "course_name": "State of Mind\u201d. In: Proceedings of the Europian conference on ar",
+            "dates_attended": "ti\ufb01cal intelligence, (ECAI 2020), Santiago de Compostela, Spain, 29",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Aug",
+            "course_name": "2 Sept 2020. Spain: ECAI2020.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 Singh, Avinash Kumar, Neha Baranwal, Kai",
+            "course_name": "Florian Richter, Thomas",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Hellstr\u00f6m, et al. (2020a). \u201cUnderstandable collaborating robot",
+            "course_name": "teams\u201d. In: International Conference on Practical Applications of",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Agents and Multi",
+            "course_name": "Agent Systems. Springer, pp. 168\u2013178.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 Baranwal, Neha, Avinash Kumar Singh, and Suna Bench (2019).",
+            "course_name": "\u201cExtracting primary objects and spatial relations from sentences\u201d.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "In: 11th International Conference on Agents and Arti\ufb01cial Intelli",
+            "course_name": "gence, Prague, Czech Republic, 19",
+            "dates_attended": "21 February 2019.",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 Baranwal, Neha, Avinash Kumar Singh, and Thomas Hellstr\u00f6m",
+            "course_name": "(2019). \u201cFusion of gesture and speech for increased accuracy in",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "human robot interaction\u201d. In: 2019 24th International Conference",
+            "course_name": "on Methods and Models in Automation and Robotics (MMAR). IEEE,",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "pp. 139\u2013144.",
+            "course_name": "\u2022 Baranwal, Neha, Kumud Tripathi, and GC Nandi (2015). \u201cPossibil",
+            "dates_attended": "ity theory based continuous Indian Sign Language gesture recog",
+            "marks_or_percentage": "nition\u201d. In: TENCON 2015",
+            "additional_info": "2015 IEEE Region 10 Conference. IEEE,"
+        },
+        {
+            "university_name": "pp. 1\u20135.",
+            "course_name": "\u2022 Baranwal, Neha, Neha Singh, and GC Nandi (2014). \u201cIndian sign",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "language gesture recognition using discrete wavelet packet trans",
+            "course_name": "form\u201d. In: 2014 International Conference on Signal Propagation and",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Computer Technology (ICSPCT 2014). IEEE, pp. 573\u2013577.",
+            "course_name": "\u2022 IEEE Professional Student Member.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "LANGUAGES",
+            "course_name": "Hindi",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u25cb \u25cb \u25cb \u25cb \u25cb",
+            "course_name": "English",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u25cb \u25cb \u25cb \u25cb \u25cb",
+            "course_name": "French",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u25cb \u25cb \u25cb \u25cb \u25cb",
+            "course_name": "Swedish",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u25cb \u25cb \u25cb \u25cb \u25cb",
+            "course_name": "REFERENCES",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Prof. G C Nandi",
+            "course_name": "\ufffd Indian Institute of Information Technol",
+            "dates_attended": "ogy, Allahabad, India",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\ufffd gcnandi@iiita.ac.in",
+            "course_name": "Prof. Thomas Hellstr\u00f6m",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\ufffd Ume\u00e5 universitet",
+            "course_name": "\ufffd thomas.hellstrom@umu.se",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Declaration",
+            "course_name": "I hereby declare that the above mentioned particulars are true to the best of my knowledge and belief.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Date:",
+            "course_name": "Place:",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Neha Baranwal",
+            "course_name": "",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        }
+    ],
+    "work_experience": [],
+    "linkedin": "",
+    "github": "https://github.com/Neha-Baranwal"
+}

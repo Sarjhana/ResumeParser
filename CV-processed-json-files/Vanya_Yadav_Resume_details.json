@@ -1,0 +1,147 @@
+{
+    "name": "Kendriya Vidyalaya",
+    "email": "yadav.vanya2001@gmail.com",
+    "phone": "+919399046268",
+    "skills": [
+        ".",
+        "EDUCATION",
+        "AWARDS AND CERTIFICATIONS",
+        "SAP S/4 HANA FICO Certification (Pursuing)",
+        "Winner:",
+        "National",
+        "Code",
+        "or",
+        "No",
+        "Code-Hackathon",
+        "YoungInnovIndia-Mysuru, CII-Pune | October 2021",
+        "Kendriya Vidyalaya Sangathan National level Singing in",
+        "Social Science Exhibition | 2016",
+        "2023: PGDM - Finance from IIEBM Indus Business School",
+        "Pune (63%)",
+        "2021: Bachelor of Science - Computer Science from St.",
+        "Aloysius College Jabalpur (57.5%)",
+        "2018: HSC from Kendriya Vidyalaya Khamaria, Jabalpur",
+        "(62.4%)",
+        "2016: SSC from Kendriya Vidyalaya Khamaria, Jabalpur",
+        "(81.7%)",
+        "SOCIAL",
+        "Financial Modeling",
+        "Business Valuation",
+        "Cash Flow Management",
+        "Ratio Analysis",
+        "Financial Analysis",
+        "Business Analytics",
+        "Content Writing",
+        "Project Management"
+    ],
+    "education": [
+        {
+            "university_name": "AWARDS AND CERTIFICATIONS",
+            "course_name": "SAP S/4 HANA FICO Certification (Pursuing)",
+            "dates_attended": "October 2021",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Winner:",
+            "course_name": "National",
+            "dates_attended": "2016",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Code",
+            "course_name": "or",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "No",
+            "course_name": "Code",
+            "dates_attended": "Hackathon",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "YoungInnovIndia",
+            "course_name": "Mysuru, CII",
+            "dates_attended": "Pune | October 2021",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Kendriya Vidyalaya Sangathan National level Singing in",
+            "course_name": "Social Science Exhibition | 2016",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "2023: PGDM",
+            "course_name": "Finance from IIEBM Indus Business School",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Pune (63%)",
+            "course_name": "2021: Bachelor of Science",
+            "dates_attended": "Computer Science from St.",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Aloysius College Jabalpur (57.5%)",
+            "course_name": "2018: HSC from Kendriya Vidyalaya Khamaria, Jabalpur",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "(62.4%)",
+            "course_name": "2016: SSC from Kendriya Vidyalaya Khamaria, Jabalpur",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "(81.7%)",
+            "course_name": "SOCIAL",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Financial Modeling",
+            "course_name": "Business Valuation",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Cash Flow Management",
+            "course_name": "Ratio Analysis",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Financial Analysis",
+            "course_name": "Business Analytics",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Content Writing",
+            "course_name": "Project Management",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        }
+    ],
+    "work_experience": [],
+    "linkedin": "",
+    "github": ""
+}

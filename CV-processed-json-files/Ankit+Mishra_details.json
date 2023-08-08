@@ -1,0 +1,135 @@
+{
+    "name": "Instructor",
+    "email": "ankitxtowod@gmail.com",
+    "phone": "+918779693725",
+    "skills": [
+        "Languages: Python, Java, C/C++, SQL, JavaScript, HTML/CSS, PHP.",
+        "Frameworks & Libraries: Scikitlearn, Flask, Django, Streamlit, Numpy, Pandas Matplotlib, Seaborn,",
+        "Selenium, Beautiful Soup, React, TailwindCSS, Chakra UI ,Bootstrap.",
+        "Tools: Git & Github, VSCode, PyCharm,  Jupyter Notebook ,  Postman, Amazon Ec2, Weka."
+    ],
+    "education": [
+        {
+            "university_name": "",
+            "course_name": "Thakur College of Engineering & Technology                                                                               Mumbai, India",
+            "dates_attended": "2019",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Bachelor of Technology in Artificial Intelligence & Machine Learning.",
+            "course_name": "2022 \u2013 Present",
+            "dates_attended": "March 2023-Present",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "S.H Jondhale Polytechnic",
+            "course_name": "Dombivli,  India",
+            "dates_attended": "Oct 2022",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Diploma in Computer Science Engineering. (87%)",
+            "course_name": "2019 \u2013 2022",
+            "dates_attended": "Oct 2022",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "PROJECTS & RESEARCH",
+            "course_name": "AnalyaticsHUB | Flask,Pandas, Tailwindcss, Javascript                                                                March 2023",
+            "dates_attended": "Present",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 Developing a smart website for providing API Services.",
+            "course_name": "\u2022 Currently it provides many data for Indian Premier League & as it is under development will be looking forward to add",
+            "dates_attended": "May 2022",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "more API\u2019s services",
+            "course_name": "\u2022 Used Pandas for performing all the IPL analysis part, & Flask for Creating RestAPI\u2019s & backend, Frontend part was",
+            "dates_attended": "Days & months",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "engineered using HTML, TailwindCSS, Javascript.",
+            "course_name": "TechWave | Flask, Beautiful Soup4, Javascript ,Tailwind CSS.",
+            "dates_attended": "July 2022",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Oct 2022 \u2013 Oct 2022",
+            "course_name": "\u2022 Developed a Tech Post Downloader Web App that will keep you updated with latest technology news that is",
+            "dates_attended": "July 2022",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "basically done with WebScrapping & viewer can download the news just like a post.",
+            "course_name": "Chat Visualizer | Numpy, Pandas, Matplotlib, Seaborn, Streamlit                                     Dec 2021 \u2013 May 2022",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 The Chat Visualizer is a is a statistical analysis tool for Working on the chat files that can be exported & this tool is based on",
+            "course_name": "data analysis and processing.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 Helps users by giving insights like Most Used Words, Most Talkative Person in the chat, Days & months when the talk",
+            "course_name": "was the most & much more.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "JSON Formatter | React, Chakra UI.",
+            "course_name": "July 2022 \u2013 July 2022",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 JSON formatter is a free online tool designed to assist users in formatting and beautifying their JSON codes.",
+            "course_name": "\u2022 Helps to restructure JSON. A few clicks on your device will be enough to format your JSON code with this online tool.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "TECHNICAL SKILLS",
+            "course_name": "Languages: Python, Java, C/C++, SQL, JavaScript, HTML/CSS, PHP.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Frameworks & Libraries: Scikitlearn, Flask, Django, Streamlit, Numpy, Pandas Matplotlib, Seaborn,",
+            "course_name": "Selenium, Beautiful Soup, React, TailwindCSS, Chakra UI ,Bootstrap.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Tools: Git & Github, VSCode, PyCharm,  Jupyter Notebook ,  Postman, Amazon Ec2, Weka.",
+            "course_name": "",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        }
+    ],
+    "work_experience": [],
+    "linkedin": "https://www.linkedin.com/in/ankkkyyyy/",
+    "github": "https://github.com/Ankkkyyyy"
+}

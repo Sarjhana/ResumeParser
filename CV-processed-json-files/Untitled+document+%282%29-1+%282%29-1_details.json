@@ -1,0 +1,29 @@
+{
+    "name": "Digitial Marketing",
+    "email": "shivikaprakash2008@gmail.com",
+    "phone": "",
+    "skills": [
+        "| Prototyping |",
+        "Wireframing | Data Visualization",
+        "Interests: Marketing & Operations, Public Speaking, Reading books,, Speaking at Universities, yoga"
+    ],
+    "education": [
+        {
+            "university_name": "Dublin Business school",
+            "course_name": "Dublin, Ireland",
+            "dates_attended": "September 2022",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Msc in Digitial Marketing (GPA: 2.1)",
+            "course_name": "Graduation Date: September 2022",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        }
+    ],
+    "work_experience": [],
+    "linkedin": "",
+    "github": ""
+}

@@ -1,0 +1,209 @@
+{
+    "name": "Polytechnic Sambalpur",
+    "email": "svdjmix26@gmail.com",
+    "phone": "+17606879748",
+    "skills": [
+        "JAVA , SQL, HTML CSS , JAVA",
+        "SCRIPT",
+        "LANGUAGES",
+        "Hindi , English",
+        "INTERESTS",
+        "Cooking",
+        "Gardening",
+        "Playing Badminton"
+    ],
+    "education": [
+        {
+            "university_name": "Padmanava College of Engineering",
+            "course_name": "2019",
+            "dates_attended": "2022",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Bachelor of Technology (ELECTRICAL AND ELECTRONICS",
+            "course_name": "ENGINEERING)",
+            "dates_attended": "2019-2022",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "76%",
+            "course_name": "Govt Polytechnic Sambalpur (Rengali) , Odisha",
+            "dates_attended": "2016-2019",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "2016",
+            "course_name": "2019",
+            "dates_attended": "2014 - 2016",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Diploma in Engineering (ELECTRICAL ENGINEERING)",
+            "course_name": "63%",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Municipal College of Rourkela,Odisha",
+            "course_name": "2014",
+            "dates_attended": "2016",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "12th ( Commerce)",
+            "course_name": "45%",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "St Gregorios Higher Secondary School",
+            "course_name": "2014",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "10th(ICSE)",
+            "course_name": "60.2%",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "PROJECTS",
+            "course_name": "ADVANCE BLIND STICK",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "This stick is made for the blind person or low vision person.. This stick",
+            "course_name": "contains ULTRASONIC SENSOR which sense the nearby objects in front",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "of the user and starts vibrating and beeping..We can vary the detection",
+            "course_name": "distance by programming..It also contains switch for on/off , vibrator,",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "beep.It is a user friendly device.It makes life easier for blind people..It",
+            "course_name": "is also very helpful for the old age persons.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Created A Spotify Clone Using HTML CSS & JavaScript",
+            "course_name": "In this , we \ufb01rst add the header with the section tag after that the image",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "is inserted with the help of img tag then we started adding the",
+            "course_name": "navigation links with anchor tags and further div tags have been",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "implemented for every element in the html code..",
+            "course_name": "Why Spotify:",
+            "dates_attended": "Spotify Apps are written in JavaScript, HTML, and CSS; just like a web",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "app. We believe in the future of web standards. These APIs give you",
+            "course_name": "access to all of the powerful features in the Spotify desktop client with",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "simple Javascript functions. In a sense, it\u2019s like Chromium shipped with",
+            "course_name": "15 million songs.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "@",
+            "course_name": "O",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": ",",
+            "course_name": "SUBHAM VISHWAKARMA",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "CONTACT",
+            "course_name": "svdjmix26@gmail.com",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "7606879748",
+            "course_name": "Sector",
+            "dates_attended": "21 Rourkela,Odisha",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "IT SKILLS",
+            "course_name": "JAVA , SQL, HTML CSS , JAVA",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "SCRIPT",
+            "course_name": "LANGUAGES",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Hindi , English",
+            "course_name": "INTERESTS",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Cooking",
+            "course_name": "Gardening",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Playing Badminton",
+            "course_name": "",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        }
+    ],
+    "work_experience": [],
+    "linkedin": "",
+    "github": ""
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Umang Gupta",
+    "email": "umanggupta1103@gmail.com",
+    "phone": "+6593790540",
+    "skills": [],
+    "education": [
+        {
+            "university_name": "Singapore University of Technology and Design",
+            "course_name": "Singapore",
+            "dates_attended": "Sept. 2020",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Bachelor of Engineering in Computer Science and Design, Minor in Artificial Intelligence",
+            "course_name": "Sept. 2020 \u2013 May 2024",
+            "dates_attended": "May 2024",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "GPA 4.46/5.0, SUTD Honors List",
+            "course_name": "Relevant courses: Data Structures and Algorithms, Operating Systems, Concurrency, Database, Networks,",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Machine Learning, Artificial Intelligence, AISG Foundations in AI",
+            "course_name": "Certfication: (Pursuing) Google Machine Learning Engineer",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        }
+    ],
+    "work_experience": [],
+    "linkedin": "",
+    "github": ""
+}

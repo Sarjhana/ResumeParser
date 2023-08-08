@@ -1,0 +1,253 @@
+{
+    "name": "Suraj Prakash",
+    "email": "surajprakash.goodwill@gmail.com",
+    "phone": "+917488181685",
+    "skills": [
+        "Languages: Java, HTML/CSS, SQL, Matlab.",
+        "Developer Tools: Apache Netbeans, Atom, BootStrap, Eclipse, Azure.",
+        "Technologies/Frameworks: Linux, GitHub, Bitbucket, WordPress."
+    ],
+    "education": [
+        {
+            "university_name": "Guru Gobind Singh Educational Society\u2019s Technical Campus",
+            "course_name": "Sep. 2017 \u2013 Oct 2021",
+            "dates_attended": "Sep. 2017",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "B.Tech in Electrical And Electronics Engineering",
+            "course_name": "Chas, Jharkhand",
+            "dates_attended": "Oct 2021",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "D.A.V Public School",
+            "course_name": "Sep. 2015 \u2013 May 2017",
+            "dates_attended": "Sep. 2015",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "10th , 12th",
+            "course_name": "Bokaro Steel City, Jharkhand",
+            "dates_attended": "May 2017",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Relevant Coursework",
+            "course_name": "\u2022 Data Structures",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 SQL",
+            "course_name": "\u2022 Algorithms Analysis",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 Database Management",
+            "course_name": "\u2022 OS And Networking",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 Unix And Git",
+            "course_name": "\u2022 Analog And Digital",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 Auto CAD Electrical",
+            "course_name": "Projects",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2217 \u2212 \u2212 > Employee Management System | Core Java (Swing and AWT), MySQL, JDBC",
+            "course_name": "Major \ufffd Link",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 Employee Management System Java Project allows us to manage all employee information in a database where you can",
+            "course_name": "check and update and view employee details and can delete them in case an employee leaves the company.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 For a further and deeper understanding, I even referred to some articles, creators, websites and blogs.",
+            "course_name": "\u2022 Technologies Used: Core Java, net beans, concepts of swings and applets",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 Database Used: MySQL",
+            "course_name": "\u2217 \u2212 \u2212 > Quiz",
+            "dates_attended": "Application | Java, Desktop Based Application",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Minor",
+            "course_name": "1 \ufffd Link",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 It is a Desktop Based Application with the help of Java Swing, core Java and Abstract Window Tool",
+            "course_name": "kit.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 UI and frame is built with the help of swing and awt, Core Java concept used like OOPs, method overloading,",
+            "course_name": "overriding, Inheritance, Abstract Class, Graphics Class etc.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 Here 4 class I made respective to its frame i.e login, Rules, Quiz Interface with ongoing graphics class timer with lifeline",
+            "course_name": "and Scoreboard frame at last to show the result.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2217 \u2212 \u2212 > Private",
+            "course_name": "Messenger | Java, Apache Netbeans, Socket Programming, Multicasting",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Minor",
+            "course_name": "2 \ufffd Link",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 It is a simple chat application between a server and a client. The application is a desktop",
+            "course_name": "based application and is",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "implemented using Swing and AWT. The project is developed in Java SE language and executed on a single stand",
+            "course_name": "alone",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "java across a network using the Loopback address concept.",
+            "course_name": "\u2022 It is a Desktop Based chatting application with the help of Java Swing to make the frame, Socket programming to",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "transfer messages from server and Client.",
+            "course_name": "\u2022 I tried to make frame, looks, working similar to whatsApp chatting window.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Workshops/Projects(Electrical)",
+            "course_name": "UAV(Hexacopter DRONE) | Multi",
+            "dates_attended": "Rotor,APM 2.8 flight Controller, autopilot Software",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "GD : Link",
+            "course_name": "\u2022 Weight",
+            "dates_attended": "3.5kg, Rotor",
+            "marks_or_percentage": "8, Endurance",
+            "additional_info": "25min, Payload"
+        },
+        {
+            "university_name": "2kg.",
+            "course_name": "\u2022 Sensors: Gyroscopes, Magnetometers, Accelerometer, GPS, Barometer Pressure Sensor, Compass, Lidar",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 Tasks with limited budgets, time and large area coverage with hard",
+            "course_name": "to",
+            "dates_attended": "reach places having difficult terrains can be",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "counter easily with UN",
+            "course_name": "Manned Aerial Vehicles remote access control and safety of a pilot onboard.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "AUTO CAD ELECTRICAL | Indo Danish Tool Room(MSME), Jamshedpur",
+            "course_name": "Certificate : Link",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 Electrical computer",
+            "course_name": "aided design (ECAD) software systems are used to design and develop electronic systems such as",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "printed circuit boards (PCBs) and integrated circuits (ICs).",
+            "course_name": "\u2022 ECAD software enables electrical engineers to create as well as modify diagrams and layouts including 2D and 3D",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "models.",
+            "course_name": "Technical Skills",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Languages: Java, HTML/CSS, SQL, Matlab.",
+            "course_name": "Developer Tools: Apache Netbeans, Atom, BootStrap, Eclipse, Azure.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Technologies/Frameworks: Linux, GitHub, Bitbucket, WordPress.",
+            "course_name": "",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        }
+    ],
+    "work_experience": [],
+    "linkedin": "",
+    "github": ""
+}

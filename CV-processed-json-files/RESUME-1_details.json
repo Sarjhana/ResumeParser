@@ -1,0 +1,224 @@
+{
+    "name": "Karan Dasari",
+    "email": "krn.sd7276@gmail.com",
+    "phone": "+19518346947",
+    "skills": [
+        "PROGRAMMING",
+        "C++",
+        "Python",
+        "JAVA",
+        "FRONT-END",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "DATABASES",
+        "MySQL",
+        "NoSQL",
+        "TOOLS",
+        "Jenkins",
+        "Postman",
+        "ACHIEVEMENTS",
+        "Winner in C Booster",
+        "Competition at District Level.",
+        "Was a Team Member of Smart",
+        "City, Solapur.",
+        "Got triggered to Google Foobar",
+        "while searching problems on",
+        "google and successfully completed",
+        "Level 3.",
+        "Global Rank 1790 in August Long",
+        "Challenge Codechef. 2020",
+        "PROFILE",
+        "A computer science enthusiast having programming experiences in",
+        "languages like C,C++,Python.In-depth knowledge of designing and",
+        "development tools and coding languages.Almost 1 year of work experience",
+        "in innovating software designs, testing and coding as well as debugging",
+        "programs",
+        "EXPERIENCE",
+        "TIBCO SOFTWARE",
+        "Software Developer",
+        "March 2020 - April 2022 | Pune, India",
+        "Part of a team on the product named Jaspersoft(Jaspersoft software",
+        "lets you easily create a self-service reporting environment where users",
+        "can create their own.)",
+        "MARKETPLUG UK",
+        "BackEnd Java Developer",
+        "April 2022 - Present | London, United Kingdom",
+        "Part of a backend team where we are developing the Marketplug",
+        "product from scratch",
+        "PROJECTS",
+        "DETECTION OF DIABETIC EYE DISEASE USING THERMAL",
+        "IMAGES USING CNN ALGORITHM",
+        "To analysis and investigation of retinal diseases in the primary stage",
+        "through data mining techniques that make the decision making process",
+        "useful.",
+        "SELENIUM ON PAYTM",
+        "Link-Selenium On Paytm",
+        "An Automation Testing on Paytm Website which automatically",
+        "allows you to add money in your Paytm wallet from Paytm bank",
+        "account using Selenium Framework..",
+        "Developed using Python and Selenium framework.",
+        "QUESTION PAPER GENERATION",
+        "Generating Question Papers on The Go",
+        "A Website that accepts the questions from user with respect to",
+        "bloom\u2019s taxonomy level.Lets user to select questions, which should be",
+        "in question paper and generates question paper in PDF format.",
+        "INTERESTS",
+        "Crypto Marketing.",
+        "Volunteer Work.",
+        "Listening to Music.",
+        "Travelling."
+    ],
+    "education": [
+        {
+            "university_name": "P.E.S.MCOE, PUNE",
+            "course_name": "B.E in Computer Engg.",
+            "dates_attended": "1790",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "2017",
+            "course_name": "20 | Pune,India",
+            "dates_attended": "August Long",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "CGPA: 7.23",
+            "course_name": "GOVT.POLYTECHNIC,SOLAPUR",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Diploma in Computer Engg.",
+            "course_name": "2014",
+            "dates_attended": "17 | Solapur, India",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Percentage: 79.8",
+            "course_name": "SUYASH CENTRAL SCHOOL, SO",
+            "dates_attended": "LAPUR",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "10th Standard",
+            "course_name": "2013",
+            "dates_attended": "14 | Solapur, India",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "CGPA: 8.4",
+            "course_name": "LINKS",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "LinkedIn: karandasari",
+            "course_name": "Github: karan7276",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "HackerRank:karan7276",
+            "course_name": "Codechef: karankd123",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "SKILLS",
+            "course_name": "PROGRAMMING",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 C++",
+            "course_name": "\u2022 Python",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022JAVA",
+            "course_name": "FRONT",
+            "dates_attended": "END",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 HTML \u2022 CSS \u2022 JavaScript",
+            "course_name": "DATABASES",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 MySQL \u2022 NoSQL",
+            "course_name": "TOOLS",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 Jenkins \u2022 Postman",
+            "course_name": "ACHIEVEMENTS",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 Winner in C Booster",
+            "course_name": "Competition at District Level.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 Was a Team Member of Smart",
+            "course_name": "City, Solapur.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 Got triggered to Google Foobar",
+            "course_name": "while searching problems on",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "google and successfully completed",
+            "course_name": "Level 3.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 Global Rank 1790 in August Long",
+            "course_name": "Challenge Codechef. 2020",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "PROFILE",
+            "course_name": "A computer science enthusiast having programming",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        }
+    ],
+    "work_experience": [],
+    "linkedin": "",
+    "github": ""
+}

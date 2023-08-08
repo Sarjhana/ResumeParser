@@ -1,0 +1,187 @@
+{
+    "name": "My-SQL",
+    "email": "nikam2000niraj@gmail.com",
+    "phone": "+919850713988",
+    "skills": [
+        "EDUCATION",
+        "PERSONAL DETAILS",
+        "\uf0b7 Maintenance of HTML/CSS/JavaScript for existing web sites.",
+        "\uf0b7  Troubleshoot coding issues and bugs.",
+        "\uf0b7 Developing SEO/PPC Strategy/Marketing Plans",
+        "\uf0b7 Developing Schedules and Timescales",
+        "2. Project Name: Hospital Management System.",
+        "\uf0d8 Description: Hospital Management System is a system enabling hospitals to",
+        "manage information and data related to all aspects of healthcare \u2013 processes,",
+        "providers, patients, and more, which in turn ensures that processes are",
+        "completed swiftly and effectively.",
+        "\uf0d8 Roles and Responsibilities:",
+        "\uf0b7 Assisting the development team with all facets of software design and coding is the",
+        "role of entry-level Software Developers",
+        "\uf0b7 Some of their main responsibilities include learning the code base",
+        "\uf0b7 participating in design meetings",
+        "\uf0b7 Helping the Development Manager with all design-related software developer job",
+        "duties.",
+        "\uf0a7 Project Management",
+        "\uf0a7 Critical Thinking",
+        "\uf0a7 Good Communication",
+        "\uf0a7 Emotional Intelligence",
+        "\uf0a7 Problem Solving",
+        "\uf0a7 Software and application knowledge",
+        "\uf0a7 Team Work",
+        "\uf0a7 Administrative",
+        "\uf0b7 Certification Course: Python full stack development in Perfect IT Solution.",
+        "\uf0b7 BE: Completed from SPPU University in year 2022 with aggregate of 8.72.",
+        "Date of Birth: 17th July 2000",
+        "Marital Status: Un-married.",
+        "Languages: Marathi, English, Hindi",
+        "Strengths: Positive attitude, Effective Presentation, Management",
+        "Date:",
+        "Place:",
+        "(Niraj Somnath Nikam)"
+    ],
+    "education": [
+        {
+            "university_name": "",
+            "course_name": "PERSONAL DETAILS",
+            "dates_attended": "year 2022",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\uf0b7 Maintenance of HTML/CSS/JavaScript for existing web sites.",
+            "course_name": "\uf0b7  Troubleshoot coding issues and bugs.",
+            "dates_attended": "17th July 2000",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\uf0b7 Developing SEO/PPC Strategy/Marketing Plans",
+            "course_name": "\uf0b7 Developing Schedules and Timescales",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "",
+            "course_name": "2. Project Name: Hospital Management System.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\uf0d8 Description: Hospital Management System is a system enabling hospitals to",
+            "course_name": "manage information and data related to all aspects of healthcare \u2013 processes,",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "providers, patients, and more, which in turn ensures that processes are",
+            "course_name": "completed swiftly and effectively.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\uf0d8 Roles and Responsibilities:",
+            "course_name": "\uf0b7 Assisting the development team with all facets of software design and coding is the",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "role of entry",
+            "course_name": "level Software Developers",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\uf0b7 Some of their main responsibilities include learning the code base",
+            "course_name": "\uf0b7 participating in design meetings",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\uf0b7 Helping the Development Manager with all design",
+            "course_name": "related software developer job",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "duties.",
+            "course_name": "\uf0a7 Project Management",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\uf0a7 Critical Thinking",
+            "course_name": "\uf0a7 Good Communication",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\uf0a7 Emotional Intelligence",
+            "course_name": "\uf0a7 Problem Solving",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\uf0a7 Software and application knowledge",
+            "course_name": "\uf0a7 Team Work",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\uf0a7 Administrative",
+            "course_name": "\uf0b7 Certification Course: Python full stack development in Perfect IT Solution.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\uf0b7 BE: Completed from SPPU University in year 2022 with aggregate of 8.72.",
+            "course_name": "Date of Birth: 17th July 2000",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Marital Status: Un",
+            "course_name": "married.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Languages: Marathi, English, Hindi",
+            "course_name": "Strengths: Positive attitude, Effective Presentation, Management",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "",
+            "course_name": "Date:",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Place:",
+            "course_name": "(Niraj Somnath Nikam)",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        }
+    ],
+    "work_experience": [],
+    "linkedin": "",
+    "github": ""
+}

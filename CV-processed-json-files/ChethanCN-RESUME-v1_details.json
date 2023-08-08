@@ -1,0 +1,165 @@
+{
+    "name": "Chethan CN",
+    "email": "chethancn82@gmail.com",
+    "phone": "",
+    "skills": [
+        ", and I\u2019m able to",
+        "clearly",
+        "convey",
+        "points",
+        "to",
+        "different",
+        "audience. I\u2019m also a good listener which",
+        "aids in my ability to understand a situation",
+        "and prepare an appropriate response.",
+        "Internship - Java Intern",
+        "Cognizant Technology Solutions",
+        "03/2021 - 06/2021",
+        "Time management",
+        "Able to prioritize tasks and manage my",
+        "time so that I can focus on my work and",
+        "well-being in a single day",
+        "o",
+        "Developed Spring Boot Applications such as forms, Registration",
+        "With Login/Logout feature using Thymeleaf, Bootstrap, Lombok",
+        "H2/MySQL. Used SQL to generate Web Reports and customizations."
+    ],
+    "education": [
+        {
+            "university_name": "",
+            "course_name": "Frameworks",
+            "dates_attended": "2017 - 2021",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "",
+            "course_name": "Spring Boot",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "React JS",
+            "course_name": "Struts",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Bachelor of Engineering",
+            "course_name": "New Horizon College of Engineering",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "C 2017",
+            "course_name": "2021  Bangalore, Karnataka",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "",
+            "course_name": "12th Grade",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "",
+            "course_name": "GPA",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "7.9 / 10",
+            "course_name": "Score",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "",
+            "course_name": "Database",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "MySQL",
+            "course_name": "Oracle",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "JPA",
+            "course_name": "Hibernate",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "JDBC",
+            "course_name": "Jain University",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "e Bangalore, Karnataka",
+            "course_name": "10th Grade",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "83 / 100",
+            "course_name": "Other",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Score",
+            "course_name": "VET High School",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "e Bangalore, Karnataka",
+            "course_name": "94 / 100",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "AWS",
+            "course_name": "Microservices",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "",
+            "course_name": "Linux Scripting",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Git",
+            "course_name": "Docker",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        }
+    ],
+    "work_experience": [],
+    "linkedin": "",
+    "github": ""
+}

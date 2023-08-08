@@ -1,0 +1,461 @@
+{
+    "name": "Kishore",
+    "email": "Kishore1ga19ee034@gmail.com",
+    "phone": "",
+    "skills": [
+        ":",
+        "\uf0b7 Programming Languages: C, C++ and basics of Python",
+        "\uf0b7 Electrical design such as embedded c, VLSI design, embedded hardware desings.",
+        "\uf0b7 Analog circuits such as switching circuits, dc-dc converters, invertors etc.",
+        "\uf0b7 Digital electronics, power electronics circuits.",
+        "\uf0b7 Electric machine design such as transformers, alternators etc.",
+        "\uf0b7 Basic knowledge about SCADA.",
+        "EDUCATION:",
+        "Degree/Course Institute/College",
+        "Institute/College Percentage/",
+        "CGPA",
+        "Year of",
+        "Passing",
+        "B E in",
+        "electrical and",
+        "electronics",
+        "engineering",
+        "Global",
+        "Academy",
+        "Of Technology",
+        "Bengaluru",
+        "Visvesvaraya",
+        "Technological",
+        "University",
+        "(VTU),",
+        "Belgaum",
+        "7.45 CGPA",
+        "2023",
+        "PUC/12th in",
+        "PCMB",
+        "Shee Sahyadri",
+        "collage Tekal",
+        "road, Kolar",
+        "Karnataka",
+        "State Board",
+        "\uf037\uf034\uf02e\uf035\uf025\uf020",
+        "2019",
+        "SSLC/ 10th",
+        "Gnana Jyothi school",
+        "Mulbagal, Kolar",
+        "ICSE, New Delhi \uf036\uf037\uf025\uf020",
+        "2017",
+        "MINI PROJECTS:",
+        "1. PANIC ALARM",
+        "In this project, I will show how to design and build a simple panic alarm circuit using 555",
+        "Timer IC and a few other easily available components. This can used to activate an alarm in case of",
+        "any emergencies.",
+        "There can be any sudden situation of panic. It could be because of an intruder entering our house or",
+        "bad health status. Situations can be many for panicking and may vary from person to person.",
+        "During such emergencies, we might be unable to intimate to the people around us. At that time we",
+        "use Panic alarm.",
+        "2. CONVERSION OF SOUND ENERGY TO ELECTICAL VOLATGE.",
+        "This can be done by using a transducer by converting vibrations caused by noise into",
+        "electrical energy. The vibrations created by the noise can be converted into electrical",
+        "energy through the principle of electromagnetic induction. The demonstrated ideas probe",
+        "into a clean and readily available source of energy.",
+        "3. RC SUBMARINE.",
+        "Nowadays, RC (radio control) submarine canbe used to do underwater monitoring. In this",
+        "project, the costwill be optimum and using an easy to obtain parts. The mainthings in the RC",
+        "submarine are controller system andwatertight. The important components in the controllercircuit are",
+        "ESC and radio control module and propellermotor. For direction control servo motor is used to",
+        "controlsurface unit. The ballast tank is made from PVC (poly vinylchloride) pipes, sockets and round",
+        "shape. To make a controlsystem for the ballast system is the tough challenge in thisproject. The circuit",
+        "is sensitive and easy to malfunctions. Thesubmarine can be controlled by using remote control",
+        "deviceand can broadcast underwater scene using on board wirelesscamera.",
+        "STRENGTHS:",
+        "\uf0b7",
+        "Self-Motivated\uf020",
+        "\uf0b7",
+        "Punctual\uf020",
+        "\uf0b7",
+        "Working smart\uf020",
+        "\uf0b7",
+        "Respect\uf020",
+        "\uf0b7",
+        "Punctual \uf020",
+        "\uf0b7",
+        "Disciplined\uf020",
+        "\uf020",
+        "HOBBIES:",
+        "\uf0b7",
+        "Singing\uf020",
+        "\uf0b7",
+        "Dancing\uf020",
+        "\uf0b7",
+        "Sports\uf020",
+        "\uf0b7",
+        "Travelling\uf020",
+        "\uf0b7",
+        "Swimming,\uf020",
+        "\uf0b7",
+        "Reading magazines\uf020",
+        "CERTIFICATION:",
+        "\uf0b7 Certified by SkillUP Simplilearn for completing course on programming with python 3.X.\uf020",
+        "\uf020",
+        "INTERNSHIP:",
+        "I have perused my intern at ARDC, HAL Bangalore. It was good experience at HAL by learning lot of",
+        "things on aircrafts, testing of aircrafts. I had experience by learning software such as AutoCAD,",
+        "CATIA etc. I visited lab of LCA aircraft and learned some of testing such as NTT testing of LCA",
+        "aircraft. I had good experience and had intern upto 1 month at HAL.",
+        "PERSONAL DETAILS:",
+        "Address:",
+        "Subash Chandra Bose street, Muthyalpet, Mulbagal, Kolar dist",
+        "Date of Birth:",
+        "16-04-2001",
+        "Gender:",
+        "Male",
+        "Nationality:",
+        "Indian",
+        "Languages Known:",
+        "Tamil, Kannada, Telugu, English.",
+        "DECLARATION:",
+        "I hereby declared that the above-mentioned details are true to the best of my knowledge. If given",
+        "an opportunity to work under your organization, I shall discharge my duties to the best ability and",
+        "to the satisfaction of my superior.",
+        "P.KISHORE",
+        "\uf020",
+        "\uf020",
+        "\uf020",
+        "\uf020\uf020"
+    ],
+    "education": [
+        {
+            "university_name": ":",
+            "course_name": "Degree/Course Institute/College",
+            "dates_attended": "SSLC/ 10th",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Institute/College Percentage/",
+            "course_name": "CGPA",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Year of",
+            "course_name": "Passing",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "B E in",
+            "course_name": "electrical and",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "electronics",
+            "course_name": "engineering",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Global",
+            "course_name": "Academy",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Of Technology",
+            "course_name": "Bengaluru",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Visvesvaraya",
+            "course_name": "Technological",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "University",
+            "course_name": "(VTU),",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Belgaum",
+            "course_name": "7.45 CGPA",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "",
+            "course_name": "2023",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "PUC/12th in",
+            "course_name": "PCMB",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Shee Sahyadri",
+            "course_name": "collage Tekal",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "road, Kolar",
+            "course_name": "Karnataka",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "State Board",
+            "course_name": "\uf037\uf034\uf02e\uf035\uf025\uf020",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "2019",
+            "course_name": "SSLC/ 10th",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Gnana Jyothi school",
+            "course_name": "Mulbagal, Kolar",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "ICSE, New Delhi \uf036\uf037\uf025\uf020",
+            "course_name": "2017",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "",
+            "course_name": "MINI PROJECTS:",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "1. PANIC ALARM",
+            "course_name": "In this project, I will show how to design and build a simple panic alarm circuit using 555",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Timer IC and a few other easily available components. This can used to activate an alarm in case of",
+            "course_name": "any emergencies.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "There can be any sudden situation of panic. It could be because of an intruder entering our house or",
+            "course_name": "bad health status. Situations can be many for panicking and may vary from person to person.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "During such emergencies, we might be unable to intimate to the people around us. At that time we",
+            "course_name": "use Panic alarm.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "",
+            "course_name": "2. CONVERSION OF SOUND ENERGY TO ELECTICAL VOLATGE.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "This can be done by using a transducer by converting vibrations caused by noise into",
+            "course_name": "electrical energy. The vibrations created by the noise can be converted into electrical",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "energy through the principle of electromagnetic induction. The demonstrated ideas probe",
+            "course_name": "into a clean and readily available source of energy.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "3. RC SUBMARINE.",
+            "course_name": "Nowadays, RC (radio control) submarine canbe used to do underwater monitoring. In this",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "project, the costwill be optimum and using an easy to obtain parts. The mainthings in the RC",
+            "course_name": "submarine are controller system andwatertight. The important components in the controllercircuit are",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "ESC and radio control module and propellermotor. For direction control servo motor is used to",
+            "course_name": "controlsurface unit. The ballast tank is made from PVC (poly vinylchloride) pipes, sockets and round",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "shape. To make a controlsystem for the ballast system is the tough challenge in thisproject. The circuit",
+            "course_name": "is sensitive and easy to malfunctions. Thesubmarine can be controlled by using remote control",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "deviceand can broadcast underwater scene using on board wirelesscamera.",
+            "course_name": "STRENGTHS:",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\uf0b7",
+            "course_name": "Self",
+            "dates_attended": "Motivated\uf020",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\uf0b7",
+            "course_name": "Punctual\uf020",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\uf0b7",
+            "course_name": "Working smart\uf020",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\uf0b7",
+            "course_name": "Respect\uf020",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\uf0b7",
+            "course_name": "Punctual \uf020",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\uf0b7",
+            "course_name": "Disciplined\uf020",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\uf020",
+            "course_name": "HOBBIES:",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\uf0b7",
+            "course_name": "Singing\uf020",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\uf0b7",
+            "course_name": "Dancing\uf020",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\uf0b7",
+            "course_name": "Sports\uf020",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\uf0b7",
+            "course_name": "Travelling\uf020",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\uf0b7",
+            "course_name": "Swimming,\uf020",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\uf0b7",
+            "course_name": "Reading magazines\uf020",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "",
+            "course_name": "CERTIFICATION:",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\uf0b7 Certified by SkillUP Simplilearn for completing course on programming with python 3.X.\uf020",
+            "course_name": "\uf020",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "INTERNSHIP:",
+            "course_name": "I have perused my intern at ARDC, HAL Bangalore. It was good",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        }
+    ],
+    "work_experience": [],
+    "linkedin": "https://www.linkedin.com/in/kishore-p-ore-6bb610243",
+    "github": ""
+}

@@ -1,0 +1,53 @@
+{
+    "name": "NEERAJ KAUSHIK",
+    "email": "",
+    "phone": "+919518225203",
+    "skills": [],
+    "education": [
+        {
+            "university_name": ":",
+            "course_name": "Mohali, IN",
+            "dates_attended": "2019",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "CHANDIGARH ENGINEERING COLLEGE",
+            "course_name": "Fall 2019 \u2013 July 2023",
+            "dates_attended": "July 2023",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 Pursuing B. Tech. in Computer Science Engineering, CGPA: 7.8(till 7thsem).",
+            "course_name": "LANGUAGES and TECHNOLOGIES:",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "",
+            "course_name": "Languages: Python, HTML, CSS,",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Technologies: MySQL, Bootstrap",
+            "course_name": "Tools: Git, GitHub",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "",
+            "course_name": "",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        }
+    ],
+    "work_experience": [],
+    "linkedin": "https://www.linkedin.com/in/neeraj-kaushik-7a3226194/",
+    "github": "https://github.com/Neeraj-kaushik/Python_Project_Accident_Informer"
+}

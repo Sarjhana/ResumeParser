@@ -1,0 +1,91 @@
+{
+    "name": "DevOps",
+    "email": "sgorav330@gmail.com",
+    "phone": "+919682107690",
+    "skills": [
+        "Programming Languages:- Python, C/C++, MATLAB, HTML.",
+        "Tools/Platform:- Docker, Kubernetes, Ansible, Terraform.",
+        "Cloud Services:- Microsoft Azure, GCP, Amazon Web Services(AWS).",
+        "Development:- CI/CD, Linux, GIT, Jenkins, Code Pipelines.",
+        "CERTIFICATIONS",
+        "Microsoft Azure Certified Fundamentals - AZ 900.\u00a0|\u00a02022",
+        "Microsoft Certified Azure AI Fundamentals - AI 900.\u00a0|\u00a02022",
+        "Microsoft Certified Security , Compliance and Identity Fundamentals - SC 900.\u00a0|\u00a02022",
+        "Data Science & Data Analytics Nasscom Assessment Clearance\u00a0|\u00a0Nasscom"
+    ],
+    "education": [
+        {
+            "university_name": "B.Tech in Electronics and Communication Engineering\u00a0|\u00a0Shri Mata Vaishno Devi University (SMVDU) Katra\u00a0|\u00a0Katra,Jammu and",
+            "course_name": "Kashmir\u00a0|\u00a02023\u00a0|\u00a08.07",
+            "dates_attended": "12th",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Higher Secondary (12th)\u00a0|\u00a0DS Heritage Scholars School \u00a0|\u00a0Kathua,Jammu and Kashmir\u00a0|\u00a02019\u00a0|\u00a084.4",
+            "course_name": "SKILLS",
+            "dates_attended": "2019",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Programming Languages:",
+            "course_name": "Python, C/C++, MATLAB, HTML.",
+            "dates_attended": "2022",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Tools/Platform:",
+            "course_name": "Docker, Kubernetes, Ansible, Terraform.",
+            "dates_attended": "2022",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Cloud Services:",
+            "course_name": "Microsoft Azure, GCP, Amazon Web Services(AWS).",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Development:",
+            "course_name": "CI/CD, Linux, GIT, Jenkins, Code Pipelines.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "CERTIFICATIONS",
+            "course_name": "Microsoft Azure Certified Fundamentals",
+            "dates_attended": "AZ 900.\u00a0|\u00a02022",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Microsoft Certified Azure AI Fundamentals",
+            "course_name": "AI 900.\u00a0|\u00a02022",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Microsoft Certified Security , Compliance and Identity Fundamentals",
+            "course_name": "SC 900.\u00a0|\u00a02022",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Data Science & Data Analytics Nasscom Assessment Clearance\u00a0|\u00a0Nasscom",
+            "course_name": "",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        }
+    ],
+    "work_experience": [],
+    "linkedin": "",
+    "github": ""
+}

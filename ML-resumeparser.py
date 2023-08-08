@@ -5,6 +5,7 @@ import nltk
 import phonenumbers
 import pandas as pd
 import os
+import json
 
 from nltk.corpus import wordnet
 
@@ -193,11 +194,17 @@ def save_details_to_csv(details, output_file, output_directory):
     output_file_path = os.path.join(output_directory, output_file)
     df.to_csv(output_file_path, index=False)
 
+def save_details_to_json(details, output_file, output_directory):
+    output_file_path = os.path.join(output_directory, output_file)
+    with open(output_file_path, 'w', encoding='utf-8') as f:
+        json.dump(details, f, indent=4)
+
 def main():
     input_directory = '/Users/sarjhana/Projects/Campuzzz/CV Archive'  # Specify the directory containing the PDF files
     output_directory_txt = '/Users/sarjhana/Projects/Campuzzz/CV-text-files'  # Specify the desired output directory for text files
     output_directory_csv = '/Users/sarjhana/Projects/Campuzzz/CV-processed-csv-files'  # Specify the desired output directory for CSV files
-
+    output_directory_json = '/Users/sarjhana/Projects/Campuzzz/CV-processed-json-files' # Specify the desired output directory for JSON files
+    
     # Create a single text file to store all the converted text
     all_text_file = '/Users/sarjhana/Projects/Campuzzz/all_resumes_text.txt'
     with open(all_text_file, 'w', encoding='utf-8') as f:
@@ -234,6 +241,10 @@ def main():
         # Save the details to a CSV file
         output_file = os.path.splitext(pdf_file)[0] + '_details.csv'
         save_details_to_csv(resume_details, output_file, output_directory_csv)
+
+        # Save the details to a JSON file
+        output_file = os.path.splitext(pdf_file)[0] + '_details.json'
+        save_details_to_json(resume_details, output_file, output_directory_json)
 
 if __name__ == "__main__":
     main()

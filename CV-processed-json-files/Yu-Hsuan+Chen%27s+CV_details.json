@@ -1,0 +1,60 @@
+{
+    "name": "Durham University",
+    "email": "chenyouxuan87@gmail.com",
+    "phone": "+12019122019",
+    "skills": [
+        "\uf0b7",
+        "Programming Languages: Python (Basic), SQL",
+        "\uf0b7",
+        "IT: Microsoft words, Microsoft power point, Microsoft excel, Teams, Outlook, Zoom, SEO, SEM",
+        "REFERENCES",
+        "Department Head of O-Bank"
+    ],
+    "education": [
+        {
+            "university_name": "",
+            "course_name": "2019",
+            "dates_attended": "2021",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Bachelor in Art: Chinese Literature",
+            "course_name": "National Central University, Taiwan",
+            "dates_attended": "2019-2021",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "",
+            "course_name": "03/2020",
+            "dates_attended": "09/2020(Cancelled due to Covid",
+            "marks_or_percentage": "19)",
+            "additional_info": ""
+        },
+        {
+            "university_name": "University of Stuttgart",
+            "course_name": "Exchange Student (with scholarship)",
+            "dates_attended": "2022-2023",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Stuttgart, Germany",
+            "course_name": "2022",
+            "dates_attended": "2023",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Postgraduate of MSc Marketing",
+            "course_name": "Durham University, United Kingdom",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        }
+    ],
+    "work_experience": [],
+    "linkedin": "https://www.linkedin.com/in/yu-",
+    "github": ""
+}

@@ -1,0 +1,53 @@
+{
+    "name": "https://www.linkedin.com/in/rishabh-kumar-35690533/",
+    "email": "rishabh.hit@gmail.com",
+    "phone": "+918892430039",
+    "skills": [],
+    "education": [
+        {
+            "university_name": "2014",
+            "course_name": "2016",
+            "dates_attended": "2014-2016",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "2007",
+            "course_name": "2011",
+            "dates_attended": "2007-2011",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u25cf",
+            "course_name": "Master of Technology in Data Science from International Institute of Information Technology,",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "India",
+            "course_name": "\u25cf",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Bachelor of Engineering in Computer Science Engineering from Maulana Abul Kalam Azad",
+            "course_name": "University of Technology, India",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "INTERNSHIP",
+            "course_name": "Cisco System, India | Intern | Jan 2016 \u2013 Jun 2016 |",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        }
+    ],
+    "work_experience": [],
+    "linkedin": "https://www.linkedin.com/in/rishabh-kumar-35690533/",
+    "github": ""
+}

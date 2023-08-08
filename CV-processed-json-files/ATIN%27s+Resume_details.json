@@ -1,0 +1,85 @@
+{
+    "name": "Git",
+    "email": "guptaatin1997@gmail.com",
+    "phone": "+12015102020",
+    "skills": [
+        "Design and development",
+        "Javascript experience",
+        "Application development",
+        "Testing and deployment",
+        "Requirements analysis and design phases",
+        "Worked on technologies: ReactJs, React Native, Redux,",
+        "Nodejs, Express, MongoDb, Mysql, Sequelize, Laravel,",
+        "Javascript, Typescript, Shopify, Git, AWS, Heroku, Netlify",
+        "PERSONAL PROJECTS",
+        "Maryltd Custom App (04/2022 - 10/2022)",
+        "A Shopify Custom App where merchant can perform product",
+        "management, orders management and new tasks creation.",
+        "It is developed using Laravel, MySql, Shopify, AWS, Git.",
+        "Buddy The Ball App (01/2023 - Present)",
+        "An App with four di\ufb00erent portals of customers, coaches,",
+        "regional managers, super admin where they all can perform their",
+        "tasks. They all will be using one app with their credentials.",
+        "Technologies Used are React Native, Node Js, Express Js,",
+        "Moongose, MongoDB, Shopify, Git.",
+        "Ribbon Reel Public App (02/2023 - Present)",
+        "A Shopify Public App by which merchant can add a functionality of",
+        "adding video message along with the purchased order by their",
+        "customers.",
+        "Technologies used are React Js, Node Js, PostgreSql, Express Js,",
+        "Shopify, Git, Heroku.",
+        "ACHIEVEMENTS",
+        "Appraisal",
+        "Got Appraisal in less than 12 months",
+        "LANGUAGES",
+        "English",
+        "Full Professional Pro\ufb01ciency",
+        "Hindi",
+        "Native or Bilingual Pro\ufb01ciency",
+        "INTERESTS",
+        "Poetry Writing, Reading Books",
+        "Achievements/Tasks",
+        "Achievements/Tasks",
+        "Courses"
+    ],
+    "education": [
+        {
+            "university_name": "",
+            "course_name": "B.Tech",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Rajkiya Engineering College",
+            "course_name": "08/2015",
+            "dates_attended": "10/2020,",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Banda, India",
+            "course_name": "Information Technology",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "SKILLS",
+            "course_name": "Design and development",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Javascript",
+            "course_name": "",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        }
+    ],
+    "work_experience": [],
+    "linkedin": "",
+    "github": ""
+}

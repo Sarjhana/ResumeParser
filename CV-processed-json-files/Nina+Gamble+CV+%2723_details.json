@@ -1,0 +1,51 @@
+{
+    "name": "Nina Gamble",
+    "email": "Ninargamble@gmail.com",
+    "phone": "",
+    "skills": [
+        "-Competent with Microsoft Office and Apple MAC software",
+        "-Competent with Adobe Premiere pro and Audition",
+        "-Competent with varied sound recording equipment and procedures",
+        "-Competent with social media backend navigation and planning"
+    ],
+    "education": [
+        {
+            "university_name": "Kingston School of Art, Kingston \u2014 Filmmaking BA",
+            "course_name": "September 2019",
+            "dates_attended": "May 2022",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "During my filmmaking degree at Kingston School of art I have developed skills",
+            "course_name": "in all aspects of the filmmaking process from pre production to post",
+            "dates_attended": "September 2019 - May 2022",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "production. Taking on varying roles across my three years of studies I gained",
+            "course_name": "a specific interest in the editing process and began to take professional",
+            "dates_attended": "three years",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "focus on this role within my projects. I aim to start a career allowing me to",
+            "course_name": "hone in on the pre production skills I have developed and grow",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "professionally. I also gained massive",
+            "course_name": "",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        }
+    ],
+    "work_experience": [],
+    "linkedin": "",
+    "github": ""
+}

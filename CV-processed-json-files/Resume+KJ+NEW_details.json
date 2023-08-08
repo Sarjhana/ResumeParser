@@ -1,0 +1,89 @@
+{
+    "name": "Jagadeesh Karri",
+    "email": "jagadeesh2102@gmail.com",
+    "phone": "+918074923672",
+    "skills": [
+        ".",
+        "Creativity and Innovation.",
+        "Strong Work ethic.",
+        "Attention to detail.",
+        "PERSONAL DETAILS",
+        "Name: Karri Jagadeesh",
+        "Father\u2019s Name: K Brahmaji",
+        "Date of birth: 21-feb-2001",
+        "Gender: Male",
+        "Nationality: Indian",
+        "Address: Visakhapatnam, AndhraPradesh-530046",
+        "DECLARATION",
+        "I do hereby declare that above mentioned information is true and to the best of my",
+        "knowledge."
+    ],
+    "education": [
+        {
+            "university_name": "",
+            "course_name": "Degree/Course                                  CGPA/Percentage                Year of passing",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "B. Tech                                                                           8.97                                                      2022",
+            "course_name": "Vignan\u2019s institute of information technology",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Intermediate                                                               88.6%                                                  2018",
+            "course_name": "Sri Chaitanya junior college",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "School                                                                             8.8                                                         2016",
+            "course_name": "New horizon high school",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "SKILLS",
+            "course_name": "\u2022 Proficient in python and Java Programming languages.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 Familiar with HTML, CSS, JavaScript and react framework.",
+            "course_name": "\u2022 Understanding of UI/UX principles.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 Basic Knowledge of MySQL, Git and GitHub version control systems.",
+            "course_name": "\u2022 Good Communication and interpersonal skills.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "PROJECTS",
+            "course_name": "\u2022 Portfolio: Developed a personal portfolio website using HTML, CSS and",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "JavaScript, showcasing my programming abilities and",
+            "course_name": "",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        }
+    ],
+    "work_experience": [],
+    "linkedin": "",
+    "github": ""
+}

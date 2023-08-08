@@ -1,0 +1,25 @@
+{
+    "name": "PRASHANT RAMESH",
+    "email": "f20180332@goa.bits-pilani.ac.in",
+    "phone": "+17038170634",
+    "skills": [],
+    "education": [
+        {
+            "university_name": "Jan 2020",
+            "course_name": "May 2020",
+            "dates_attended": "Role: Instructor | Cause: Education",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Taught Introduction to Linux (Ubuntu) course to students in Center for Technical Education BITS Goa",
+            "course_name": "VOLUNTEER",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        }
+    ],
+    "work_experience": [],
+    "linkedin": "",
+    "github": ""
+}

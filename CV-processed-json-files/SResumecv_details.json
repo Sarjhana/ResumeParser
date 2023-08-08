@@ -1,0 +1,435 @@
+{
+    "name": "Android Studio",
+    "email": "sumairayousuf36@gmail.com",
+    "phone": "+919622333402",
+    "skills": [
+        "| Time management | Resolving",
+        "customer issues | Team Leader| Motivation| Microsoft  Applications proficiency| MS Office | Business",
+        "Operations | CRM| Strong Work Ethics | Ability to accept and learn from criticism | Public speaking.",
+        "Academic Projects",
+        "LANE DETECTION IN AUTONOMOUS VEHICLES BUILT USING SEMANTIC SEGMENTATION",
+        "This project has been designed to detect lanes based on machine learning built using machine",
+        "learning CNN, Python, Keras, NumPy, Tensorflow.",
+        "\uf0b7",
+        "Created a semantic segmentation model that takes an image as an input, and provides us",
+        "output, a category classification for every pixel. It uses computer vision",
+        "\uf0b7",
+        "Ideated and developed a model which perfectly worked with offline test data set with 99%",
+        "accuracy, thereby eliminating scalability issues.",
+        "\uf0b7",
+        "It uses a CNN which consists of an encoder and decoder network.",
+        "\uf0b7",
+        "Encoder is the part of the algorithm network structure to extract image features.",
+        "\uf0b7",
+        "Decoder: This layer is widely used for the pixel-wise classification task  where the feature maps",
+        "have to be restored to original input image size. Its aim is to up-sample the image to get the same",
+        "resolution as the input image.",
+        "\uf0b7",
+        "The final deconvolution layer ends with one filter, as the image is returned image in the \u2018G\u2019",
+        "color channel, as we want the predicted lanes to be in green.",
+        "\uf0b7",
+        "The accuracy was 99% with each epoch where IOU of road pixels had high class score and helps",
+        "to detect a trajectory that is safe and efficient.",
+        "VEHICLE DETECTION",
+        "This project has been designed to detect vehicles based on machine learning built using HOG,",
+        "Python, Keras, NumPy, Tensorflow and SVM.",
+        "\uf0b7 Built a model in python which uses Histogram of Oriented Gradients (HOG) feature extraction",
+        "on a labelled training set of images.",
+        "\uf0b7 It Trains a Linear Support Vector Machine (SVM) classifier.",
+        "\uf0b7 It Implements a sliding-window technique and uses the trained SVM classifier to search for",
+        "vehicles in images.",
+        "\uf0b7 The model runs the pipeline on a video stream and creates a heat map of recurring detections",
+        "frame by frame to reject outliers and follows detected vehicles.",
+        "\uf0b7 We finally estimate a bounding box for vehicles which are detected.",
+        "\uf0b7  Implemented multiprocessing and python libraries to solve scalability challenges and provides a",
+        "better frame rate of average 5.5 fps which is far better than the cv model.",
+        "\uf0b7 The model was able to detect vehicles with 99.26% efficiency.",
+        "DEEP LEARNING IN AUTONOMOUS VEHICLES",
+        "Designed a simulation model of self driving system using imitation learning policy",
+        "\u201cBehavioral Cloning ,python and PyTorch",
+        "\uf0b7 Using behavioral cloning, we give raw sensor data as input to train our network.",
+        "\uf0b7 The model learns to imitate the actions of the expert system.",
+        "\uf0b7 The output of the network is the driving policy, represented by desired steering angle",
+        "and/or acceleration or breaking.",
+        "\uf0b7 To build the training dataset, we collected about 72 hours of real-world driving videos.",
+        "\uf0b7 During the evaluation, the car was able to drive itself with accuracy of 98%.",
+        "FREELANCING ANDROID APPLICATION",
+        "An android application which provides a platform for developers and employers to interact",
+        "with each other and get the projects done within the deadline by hiring the developers with",
+        "suitable profiles using MySQL, PHP, Apache Tomcat server, Java and Android Studio.",
+        "\uf0b7 It is a responsive application and works comfortably on any platform.",
+        "\uf0b7 It provides separate profiles for employers and freelancers where both profiles have different",
+        "features in their corresponding navigation drawers.",
+        "\uf0b7 The application provides Push Notifications, feedback options, chat facility, push project, bid",
+        "project settings, inbox, client verification and authentication.",
+        "\uf0b7 Employers post the project, Choose the perfect freelancer, browse the freelancer profiles, chat in",
+        "real time and pay when satisfied.",
+        "Academic Achievements",
+        "\uf0b7",
+        "GOLD MEDAL IN M.TECH CS |Received the award on 25-August-2021 through Kashmir",
+        "University for securing First class First position in Master Of Technology in Computer Sciences",
+        "with certificate of merit."
+    ],
+    "education": [
+        {
+            "university_name": "",
+            "course_name": "UNIVERSITY OF KASHMIR",
+            "dates_attended": "2012-2017",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\uf0b7 Master of Technology (M.Tech) in Computer Science  | CGPA: 9.31 /10",
+            "course_name": "2018",
+            "dates_attended": "2021",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Position: 1st with Gold Medal",
+            "course_name": "UNIVERSITY OF KASHMIR",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\uf0b7 Bachelor of Technology (B.Tech) in Computer Science Engineering | CGPA: 7.71",
+            "course_name": "2012",
+            "dates_attended": "2017",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "",
+            "course_name": "MALLINSON GIRLS SCHOOL",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Higher Secondary (XII)",
+            "course_name": "\uf0b7 JKBOSE (The Jammu and Kashmir state board of school education) | CGPA: 8.48",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "2010",
+            "course_name": "MALLINSON GIRLS SCHOOL",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Secondary (X)",
+            "course_name": "\uf0b7 JKBOSE (The Jammu and Kashmir state board of school education) | CGPA: 9.26",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "2008",
+            "course_name": "Skills",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "",
+            "course_name": "Programming:  | C| C++|Java.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Web Applications: Html | Css |Java Script.",
+            "course_name": "Other:  Data Structures, Network Security, Deep Learning, Machine Learning.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Soft Skills | Verbal and written Communication | Detail oriented | Active listening | Problem solving |",
+            "course_name": "Multitasking | Customer needs assessment | phone and chat skills | Time management | Resolving",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "customer issues | Team Leader| Motivation| Microsoft  Applications proficiency| MS Office | Business",
+            "course_name": "Operations | CRM| Strong Work Ethics | Ability to accept and learn from criticism | Public speaking.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "",
+            "course_name": "Academic Projects",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "",
+            "course_name": "LANE DETECTION IN AUTONOMOUS VEHICLES BUILT USING SEMANTIC SEGMENTATION",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "",
+            "course_name": "This project has been designed to detect lanes based on machine learning built using machine",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "learning CNN, Python, Keras, NumPy, Tensorflow.",
+            "course_name": "\uf0b7",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Created a semantic segmentation model that takes an image as an input, and provides us",
+            "course_name": "output, a category classification for every pixel. It uses computer vision",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\uf0b7",
+            "course_name": "Ideated and developed a model which perfectly worked with offline test data set with 99%",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "accuracy, thereby eliminating scalability issues.",
+            "course_name": "\uf0b7",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "It uses a CNN which consists of an encoder and decoder network.",
+            "course_name": "\uf0b7",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Encoder is the part of the algorithm network structure to extract image features.",
+            "course_name": "\uf0b7",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Decoder: This layer is widely used for the pixel",
+            "course_name": "wise classification task  where the feature maps",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "have to be restored to original input image size. Its aim is to up",
+            "course_name": "sample the image to get the same",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "resolution as the input image.",
+            "course_name": "\uf0b7",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "The final deconvolution layer ends with one filter, as the image is returned image in the \u2018G\u2019",
+            "course_name": "color channel, as we want the predicted lanes to be in green.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\uf0b7",
+            "course_name": "The accuracy was 99% with each epoch where IOU of road pixels had high class score and helps",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "to detect a trajectory that is safe and efficient.",
+            "course_name": "VEHICLE DETECTION",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "",
+            "course_name": "This project has been designed to detect vehicles based on machine learning built using HOG,",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Python, Keras, NumPy, Tensorflow and SVM.",
+            "course_name": "\uf0b7 Built a model in python which uses Histogram of Oriented Gradients (HOG) feature extraction",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "on a labelled training set of images.",
+            "course_name": "\uf0b7 It Trains a Linear Support Vector Machine (SVM) classifier.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\uf0b7 It Implements a sliding",
+            "course_name": "window technique and uses the trained SVM classifier to search for",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "vehicles in images.",
+            "course_name": "\uf0b7 The model runs the pipeline on a video stream and creates a heat map of recurring detections",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "frame by frame to reject outliers and follows detected vehicles.",
+            "course_name": "\uf0b7 We finally estimate a bounding box for vehicles which are detected.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\uf0b7  Implemented multiprocessing and python libraries to solve scalability challenges and provides a",
+            "course_name": "better frame rate of average 5.5 fps which is far better than the cv model.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\uf0b7 The model was able to detect vehicles with 99.26% efficiency.",
+            "course_name": "DEEP LEARNING IN AUTONOMOUS VEHICLES",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "",
+            "course_name": "Designed a simulation model of self driving system using imitation learning policy",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u201cBehavioral Cloning ,python and PyTorch",
+            "course_name": "\uf0b7 Using behavioral cloning, we give raw sensor data as input to train our network.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\uf0b7 The model learns to imitate the actions of the expert system.",
+            "course_name": "\uf0b7 The output of the network is the driving policy, represented by desired steering angle",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "and/or acceleration or breaking.",
+            "course_name": "\uf0b7 To build the training dataset, we collected about 72 hours of real",
+            "dates_attended": "world driving videos.",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\uf0b7 During the evaluation, the car was able to drive itself with accuracy of 98%.",
+            "course_name": "FREELANCING ANDROID APPLICATION",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "",
+            "course_name": "An android application which provides a platform for developers and employers to interact",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "with each other and get the projects done within the deadline by hiring the developers with",
+            "course_name": "suitable profiles using MySQL, PHP, Apache Tomcat server, Java and Android Studio.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\uf0b7 It is a responsive application and works comfortably on any platform.",
+            "course_name": "\uf0b7 It provides separate profiles for employers and freelancers where both profiles have different",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "features in their corresponding navigation drawers.",
+            "course_name": "\uf0b7 The application provides Push Notifications, feedback options, chat facility, push project, bid",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "project settings, inbox, client verification and authentication.",
+            "course_name": "\uf0b7 Employers post the project, Choose the perfect freelancer, browse the freelancer profiles, chat in",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "real time and pay when satisfied.",
+            "course_name": "Academic Achievements",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "",
+            "course_name": "\uf0b7",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "GOLD MEDAL IN M.TECH CS |Received the award on 25",
+            "course_name": "August",
+            "dates_attended": "2021 through Kashmir",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "University for securing First class First position in Master Of Technology in Computer Sciences",
+            "course_name": "with certificate of merit.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "",
+            "course_name": "",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        }
+    ],
+    "work_experience": [],
+    "linkedin": "",
+    "github": ""
+}

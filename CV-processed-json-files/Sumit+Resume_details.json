@@ -1,0 +1,88 @@
+{
+    "name": "Marital Status",
+    "email": "suuumitlohar@gmail.com",
+    "phone": "+916351004500",
+    "skills": [],
+    "education": [
+        {
+            "university_name": "PROFESSIONAL",
+            "course_name": "PROGRAMMING",
+            "dates_attended": "2016 - 2018",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "IN VISUAL EFFECTS",
+            "course_name": "ZICA (Zee Institute of Creative Arts)",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "2016",
+            "course_name": "2018",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "BACHELOR OF COMPUTER",
+            "course_name": "APPLICATIONS",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Jaipur National University",
+            "course_name": "2020",
+            "dates_attended": "Present",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Travel",
+            "course_name": "Music",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Filming",
+            "course_name": "Photography",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "INTERESTS",
+            "course_name": "PERSONAL DETAILS",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Marital Status",
+            "course_name": "Nationality",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Known Languages",
+            "course_name": "Certi\ufb01cate of Completion",
+            "dates_attended": "Indian",
+            "marks_or_percentage": "Single",
+            "additional_info": "Hindi, English, Gujarati"
+        },
+        {
+            "university_name": "video editing in premiere pro course by Udemy",
+            "course_name": "ACHIVEMENTS",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        }
+    ],
+    "work_experience": [],
+    "linkedin": "",
+    "github": ""
+}

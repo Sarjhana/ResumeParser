@@ -1,0 +1,33 @@
+{
+    "name": "Ankan Pal",
+    "email": "ankanpalcse19a@gmail.com",
+    "phone": "+919735253735",
+    "skills": [
+        "Data Structures and Algorithms (Programming Languages) : C,C++ and Java",
+        "Web development : React.js, Node.js, JavaScript, MongoDB, CSS, HTML",
+        "Developer Tools and Technologies : Github,Firebase,Git,VsCode,Eclipse",
+        "Computer Science Fundamentals : Operating System , Database Management System , OOPs",
+        "Position of responsibilty",
+        "Codechef IEMK Chapter : Core Committee Member. I have solved various questions of Competitive Coding",
+        "EddieHub : Core Team Member of a community which promotes open source contributions."
+    ],
+    "education": [
+        {
+            "university_name": "Institute of Engineering and Management",
+            "course_name": "Kolkata, India",
+            "dates_attended": "Aug. 2019",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Bachelor of Technology in Computer Science, Secured an aggregate of 9.51 CGPA",
+            "course_name": "Aug. 2019 \u2013 July 2023 (Expected)",
+            "dates_attended": "July 2023",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        }
+    ],
+    "work_experience": [],
+    "linkedin": "",
+    "github": ""
+}

@@ -1,0 +1,196 @@
+{
+    "name": "Yugant Singh",
+    "email": "yugantsings@gmail.com",
+    "phone": "",
+    "skills": [
+        "and collaborative abilities.",
+        "Won the award for the best front-end website for community."
+    ],
+    "education": [
+        {
+            "university_name": "Vellore Institute of Technology",
+            "course_name": "Jul. 2019 \u2013 Ongoing",
+            "dates_attended": "Jul. 2019",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Electronics and Communication Engineering \u2013 8.64/10",
+            "course_name": "Bhopal, Madhya Pradesh",
+            "dates_attended": "May 2018",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "St. Paul\u2019s Church College",
+            "course_name": "May 2018",
+            "dates_attended": "Mar. 2023",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Senior Secondary \u2013 81/100",
+            "course_name": "Agra, Uttar Pradesh",
+            "dates_attended": "Oct. 2022",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Technical Skills",
+            "course_name": "Languages: JavaScipt, Python, Java, SQL",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Developer Tools: VS Code, Google Colab, Jupyter Notebook",
+            "course_name": "Technologies/Frameworks: React.js, Next.js, Tensorflow, Bash, Linux, Github",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Projects",
+            "course_name": "Clear Vision | Github",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Apr. 2023",
+            "course_name": "ClearVision is a project that uses advanced machine learning techniques, implemented with TensorFlow and",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Google Colab, to improve the visibility of images taken in extreme weather conditions such as rain, fog, and",
+            "course_name": "underwater. The project also utilizes React for its front",
+            "dates_attended": "end interface",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 Stack: Python, TensorFlow, Raspberry Pi, Google Colab, React",
+            "course_name": "\u2022 Led a team of 3 members in the development of the ClearVision project as part of your final year project.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 Trained machine learning models using TensorFlow and Google Colab to improve the visibility of images taken in",
+            "course_name": "extreme weather conditions, which works 40% more efficient than researched AOD networks.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 Contributed to the front",
+            "course_name": "end development of the project.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Job Hunt | Github Live",
+            "course_name": "Mar. 2023",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "The application allows users to search for jobs, view popular and nearby job listings, and filter results by job type",
+            "course_name": "and provides a convenient and user",
+            "dates_attended": "friendly way for job seekers to find and apply for jobs.",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 Stack: React Native, Rapid API, Expo, Metro",
+            "course_name": "\u2022 Single",
+            "dates_attended": "handedly developed the Job Hunt mobile application, utilizing skills in React Native and the Rapid API.",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 Published the application on Expo, making it available for users to download and use in their job search.",
+            "course_name": "NPM Package \u2013 @yugant",
+            "dates_attended": "hooks | Github Live",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Oct. 2022",
+            "course_name": "A collection of custom React Hooks that can be used to manage state in your React Applications.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 Stack: React, JavaScript, NPM",
+            "course_name": "\u2022 Successfully developed yugant",
+            "dates_attended": "hooks, a custom hooks library for React that includes a collection of hooks for",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "managing state in React applications, such as use",
+            "course_name": "title, use",
+            "dates_attended": "click, and use",
+            "marks_or_percentage": "network.",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 Published the package on the NPM public repository, making it available for other developers to use in their own",
+            "course_name": "react projects.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Leafy Lane | Github Live",
+            "course_name": "Sep. 2022",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "A fully functional Plant based E",
+            "course_name": "commerce website, with add to cart and checkout functionality powered by Stripe",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "payments.",
+            "course_name": "\u2022 Stack: Next.js, Sanity.io, Stripe, Vercel",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 Developed a fully functional e",
+            "course_name": "commerce website using Next.js, Sanity.io, and Stripe Payments.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 Implemented features such as dynamic product addition through Sanity, real",
+            "course_name": "time updates, and a Stripe",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Payments checkout with multiple shipping rate options.",
+            "course_name": "\u2022 Utilized the Next.js routing system to create an intuitive and user",
+            "dates_attended": "friendly shopping",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        }
+    ],
+    "work_experience": [],
+    "linkedin": "",
+    "github": ""
+}

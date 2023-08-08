@@ -1,0 +1,59 @@
+{
+    "name": "Shrey Bihani",
+    "email": "shreybihani13@gmail.com",
+    "phone": "+917977542385",
+    "skills": [
+        "Programming",
+        "Python [Numpy | Pandas | Keras |",
+        "Tensorflow | Matplotlib | openCV],",
+        "C, C++, C#, SQL, R, Java, HTML,",
+        "CSS",
+        "Machine Learning / Statistics",
+        "Regression analysis, Decision Trees,",
+        "Classification, SVM, Clustering, KNN,",
+        "Neural Networks, Deep Learning [CNN",
+        "| RNN | GAN]",
+        "Others",
+        "Git, MS Office, Angular, .NET,",
+        "Matlab, Linux, Google Cloud, ROS,",
+        "Point Cloud",
+        "Languages",
+        "English",
+        "Hindi",
+        "30 Days of Google Cloud Project                                          [OCT 2020]",
+        "- Worked on GCP to build and deploy ML models on kubernetes.",
+        "- Learnt basics of Google Cloud Platform and Cloud Management.",
+        "Fastenal India (Software Developer Intern)   [JAN 2023 - MAY 2023]",
+        "- Learnt and built a full stack hotel booking web application using",
+        "Angular for frontend, .NET 6 in backend for creating API services",
+        "and MS SQL for database.",
+        "Projects",
+        "Path Planner",
+        "- Built a global planner for a non-holonomic robot in C++",
+        "Hotel Booking",
+        "- Full Stack Hotel booking web app using angular, .NET and SQL",
+        "Lane Detection",
+        "- Identifying Lane Lines on road for a self-driving car using openCV",
+        "Sudoku Solver",
+        "- Solve the sudoku puzzle by simply scanning an image using openCV"
+    ],
+    "education": [
+        {
+            "university_name": "",
+            "course_name": "BTech in Electronics and Communication Engineering | CGPA: 8.64",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Manipal Institute of Technology | 2023",
+            "course_name": "",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        }
+    ],
+    "work_experience": [],
+    "linkedin": "",
+    "github": "https://github.com/sb369"
+}

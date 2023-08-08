@@ -1,0 +1,134 @@
+{
+    "name": "George Williamson",
+    "email": "georgesamwilliamson@gmail.com",
+    "phone": "+447760597692",
+    "skills": [
+        "Video editing",
+        "Photo editing",
+        "Music production",
+        "Woodworking",
+        "metalworking",
+        "Research",
+        "Data entry",
+        "Software troubleshooting",
+        "English",
+        "Spanish",
+        "French",
+        "Adobe Premiere (1 year)",
+        "Adobe After Effects (1 year)",
+        "Facebook Advertising",
+        "Google Ads",
+        "TikTok Ads",
+        "Adobe Photoshop (1 year)"
+    ],
+    "education": [
+        {
+            "university_name": "A Level in Environmental Science",
+            "course_name": "steyning grammar school",
+            "dates_attended": "West Sussex",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "September 2020 to July 2022",
+            "course_name": "A Level in Product design",
+            "dates_attended": "September 2020 to July 2022",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Steyning grammar school",
+            "course_name": "West Sussex",
+            "dates_attended": "September 2020 to July 2022",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "September 2020 to July 2022",
+            "course_name": "A Level in Spanish",
+            "dates_attended": "September 2020 to July 2022",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Steyning grammar school",
+            "course_name": "West Sussex",
+            "dates_attended": "1 year",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "September 2020 to July 2022",
+            "course_name": "Skills",
+            "dates_attended": "1 year",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 Video editing",
+            "course_name": "\u2022 Photo editing",
+            "dates_attended": "(1 year",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 Music production",
+            "course_name": "\u2022 Woodworking",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 metalworking",
+            "course_name": "\u2022 Research",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 Data entry",
+            "course_name": "\u2022 Software troubleshooting",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 English",
+            "course_name": "\u2022 Spanish",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 French",
+            "course_name": "\u2022 Adobe Premiere (1 year)",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 Adobe After Effects (1 year)",
+            "course_name": "\u2022 Facebook Advertising",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 Google Ads",
+            "course_name": "\u2022 TikTok Ads",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2022 Adobe Photoshop (1 year)",
+            "course_name": "",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        }
+    ],
+    "work_experience": [],
+    "linkedin": "",
+    "github": ""
+}

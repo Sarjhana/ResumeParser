@@ -1,0 +1,81 @@
+{
+    "name": "Rajarshi Chatterjee",
+    "email": "rajarshi.1998.chatterjee@gmail.com",
+    "phone": "+917871904332",
+    "skills": [
+        "& DB: HTML/CSS, Flask, FastAPI, PostgresSQL, MySQL, MongoDB",
+        "Positions of Responsibility",
+        "Teaching Assistant,Fundamentals of Data Science, BITS Goa",
+        "January 2022 - May 2022",
+        "Research Practice,Biologically-Inspired Neural Nets, BITS Goa",
+        "September 2021 - December 2021",
+        "Achievements",
+        "Secured AWS AI & ML Scholarship",
+        "2022",
+        "Certifications",
+        "NPTEL Certification on Data Analysis with Python, IIT Roorkee",
+        "Deep Learning Specialisation, DeepLearning.ai",
+        "Natural Language Processing Specialisation, DeepLearning.ai"
+    ],
+    "education": [
+        {
+            "university_name": "Degree/Certificate",
+            "course_name": "Institute/Board",
+            "dates_attended": "2017-2021",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Year",
+            "course_name": "M.Eng. (CS)",
+            "dates_attended": "2014",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "BITS Pilani, Goa",
+            "course_name": "2021",
+            "dates_attended": "Present",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "B.Tech. (CSE)",
+            "course_name": "SRMIST, Kattankulathur",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "2017",
+            "course_name": "2021",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Senior Secondary",
+            "course_name": "WBHSCE Board",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "2016",
+            "course_name": "Secondary",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "ICSE Board",
+            "course_name": "2014",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        }
+    ],
+    "work_experience": [],
+    "linkedin": "",
+    "github": ""
+}

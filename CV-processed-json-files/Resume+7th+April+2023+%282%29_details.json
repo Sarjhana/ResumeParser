@@ -1,0 +1,338 @@
+{
+    "name": "Raunak Burrows",
+    "email": "raunakburrows@gmail.com",
+    "phone": "+918219486037",
+    "skills": [
+        "1.",
+        "Languages - Java 8, Python 3, Kotlin,",
+        "Javascript",
+        "2.",
+        "Object-oriented programming, Low",
+        "Level Design (SOLID principles),",
+        "Design Patterns",
+        "3.",
+        "REST APIs, Distributed Systems,",
+        "Micro-service Architecture, Basic",
+        "High Level Design.",
+        "4.",
+        "Databases \u2013 MySQL",
+        "5.",
+        "FrontEnd Frameworks - React, Redux",
+        "6.",
+        "BackEnd Frameworks -",
+        "\u25cf",
+        "Spring \u2013 Boot /Security / Data",
+        "JPA / MVC",
+        "\u25cf",
+        "Struts",
+        "\u25cf",
+        "Express.js",
+        "7.",
+        "Testing Frameworks - Junit 5,",
+        "Mockito",
+        "8.",
+        "Build Tools \u2013 Maven",
+        "9.",
+        "Repository Management tools \u2013 Git",
+        "and Github",
+        "10.",
+        "OS - Windows10/11, MacOS, Fedora34",
+        "(Linux)",
+        "11.",
+        "Ticket Management Tool - JIRA,",
+        "Youtrack",
+        "AWARDS and CERTIFICATIONS",
+        "1.",
+        "430 AIR in infytq_prep hackerrank",
+        "contest",
+        "2.",
+        "Cleared infytq \ufb01nal coding round",
+        "with 65+%",
+        "3.",
+        "Hackerrank problem solving",
+        "certi\ufb01cate",
+        "4.",
+        "AIIMS Raipur - Online CME on",
+        "Arti\ufb01cial Intelligence in Health Care.",
+        "5.",
+        "Python Linkedin Skill Badge",
+        "6.",
+        "OOPS Linkedin Skill Badge",
+        "PROJECTS",
+        "1.",
+        "3D model of Sun, Moon, Earth",
+        "Project live here",
+        "Source Code"
+    ],
+    "education": [
+        {
+            "university_name": "1.",
+            "course_name": "Jaypee University of Information Technology, Solan \u2014 Bachelors in Technology (Computer",
+            "dates_attended": "2017 - 2021",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Science and Engineering)",
+            "course_name": "2017",
+            "dates_attended": "2021",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "University Projects:",
+            "course_name": "\u25cf",
+            "dates_attended": "(3rd year",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Re\ufb02ex Test (3rd year) Source Code",
+            "course_name": "\u25cf",
+            "dates_attended": "4th year",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Jarvis",
+            "course_name": "AI (4th year) Source Code",
+            "dates_attended": "Javascript\n2",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "SKILLS",
+            "course_name": "1.",
+            "dates_attended": "Fedora34",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Languages",
+            "course_name": "Java 8, Python 3, Kotlin,",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Javascript",
+            "course_name": "2.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Object",
+            "course_name": "oriented programming, Low",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Level Design (SOLID principles),",
+            "course_name": "Design Patterns",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "3.",
+            "course_name": "REST APIs, Distributed Systems,",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Micro",
+            "course_name": "service Architecture, Basic",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "High Level Design.",
+            "course_name": "4.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Databases \u2013 MySQL",
+            "course_name": "5.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "FrontEnd Frameworks",
+            "course_name": "React, Redux",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "6.",
+            "course_name": "BackEnd Frameworks",
+            "dates_attended": "\u25cf",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Spring \u2013 Boot /Security / Data",
+            "course_name": "JPA / MVC",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u25cf",
+            "course_name": "Struts",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u25cf",
+            "course_name": "Express.js",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "7.",
+            "course_name": "Testing Frameworks",
+            "dates_attended": "Junit 5,",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Mockito",
+            "course_name": "8.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Build Tools \u2013 Maven",
+            "course_name": "9.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Repository Management tools \u2013 Git",
+            "course_name": "and Github",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "10.",
+            "course_name": "OS",
+            "dates_attended": "Windows10/11, MacOS, Fedora34",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "(Linux)",
+            "course_name": "11.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Ticket Management Tool",
+            "course_name": "JIRA,",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Youtrack",
+            "course_name": "AWARDS and CERTIFICATIONS",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "1.",
+            "course_name": "430 AIR in infytq_prep hackerrank",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "contest",
+            "course_name": "2.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Cleared infytq \ufb01nal coding round",
+            "course_name": "with 65+%",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "3.",
+            "course_name": "Hackerrank problem solving",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "certi\ufb01cate",
+            "course_name": "4.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "AIIMS Raipur",
+            "course_name": "Online CME on",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Arti\ufb01cial Intelligence in Health Care.",
+            "course_name": "5.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Python Linkedin Skill Badge",
+            "course_name": "6.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "OOPS Linkedin Skill Badge",
+            "course_name": "PROJECTS",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "1.",
+            "course_name": "3D model of Sun, Moon, Earth",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Project live here",
+            "course_name": "Source Code",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        }
+    ],
+    "work_experience": [],
+    "linkedin": "https://linkedin.com/in/raunak-burrows/",
+    "github": ""
+}

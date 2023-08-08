@@ -1,0 +1,100 @@
+{
+    "name": "Garbeta",
+    "email": "subhaduleygba@gmail.com",
+    "phone": "+17076617238",
+    "skills": [
+        "C++, Python, Data Structures and Algorithms, HTML, CSS, JavaScript, MERN STACK,",
+        "React.js, Node.js, Redux, SQL, Networking, Git & GitHub, OOPS, Tailwind CSS, familiar",
+        "with Django, java.",
+        "\u2756 Working Experience",
+        "Web Developer (Intern)   OCT 2022 \u2014 Dec 2022          WorInWell",
+        "Working on JobPortal website using PHP, SQL, HTML, and CSS.",
+        "Designed cards in the front-end part and saving user details and fetching data in backend.",
+        "By using this project we can see the details of posted jobs, can apply for jobs and one can post jobs.",
+        "\u2756 Projects ( Portfolio - https://suva-dtech111.netlify.app/)",
+        "\u2756",
+        "Netflix app \u2014 Api Based Web application July-2022",
+        "\u27a2 Designed and developed a Netflix clone",
+        "\u27a2 Fetching movies details and showing to user",
+        "\u27a2 Data fetching using Movie Api Tmdb.",
+        "\u2756",
+        "Covid-19 Tracker \u2014 Api Based Web application   Nov -2021",
+        "\u27a2 Designed and developed a Covid-19 Tracker .",
+        "\u27a2 We can select the country and find all current covid case details.",
+        "\u27a2 Data fetching using covid Api.",
+        "\u27a2 Tools/Technologies used : React.js , Node.js , Express.js , covid-api.",
+        "\u2756",
+        "Realtime Chat Application - Chat app   Jun-2021",
+        "\u27a2 Designed and developed Realtime chat app.",
+        "\u27a2 Google authentication",
+        "\u27a2 Tools/Technologies used: React.js , Node.js , pusher , Mongodb.",
+        "\u2756 Achievements and awards",
+        "\u2794 2* on Leetcode solving 200+ dsa & algo problems.",
+        "\u2794 Solving 240+ Problems on GeeksforGeeks.",
+        "\u2794 Qualify for SnackDown 2021 pre-Elimination round on codechef.",
+        "\u2794 Content writer at Medium.",
+        "\u2794 Specialist at Codestudio.",
+        "\u2794 3* at Codechef."
+    ],
+    "education": [
+        {
+            "university_name": "",
+            "course_name": "\u27a2",
+            "dates_attended": "2019- \n23",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "University Institute of Technology , Burdwan",
+            "course_name": "Bachelor of Technology (Computer Science and Engineering) 8.54 Cgpa (2019",
+            "dates_attended": "23)",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u27a2",
+            "course_name": "Banerjee Danga High School",
+            "dates_attended": "2018- 19",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Higher Secondary (77.14%) (2018",
+            "course_name": "19)",
+            "dates_attended": "2016-17",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u27a2 Banerjee Danga High School",
+            "course_name": "Secondary (73.14%) (2016",
+            "dates_attended": "17)",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "",
+            "course_name": "\u2756 Skills",
+            "dates_attended": "C++",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "C++, Python, Data Structures and Algorithms, HTML, CSS, JavaScript, MERN STACK,",
+            "course_name": "React.js, Node.js, Redux, SQL, Networking, Git & GitHub, OOPS, Tailwind CSS, familiar",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "with Django, java.",
+            "course_name": "\u2756 Working",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        }
+    ],
+    "work_experience": [],
+    "linkedin": "https://www.linkedin.com/in/suva-duley-741881202/",
+    "github": "https://github.com/subhaDTECH"
+}

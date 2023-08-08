@@ -1,0 +1,145 @@
+{
+    "name": "Watches",
+    "email": "shubhamdambale123@gmail.com",
+    "phone": "+918999949450",
+    "skills": [
+        "Communication | Team Work Team",
+        "Collaboration | Remote Work Problem",
+        "Solving | Self Learning",
+        "Projects",
+        "To Book a cab based on cab availability",
+        "Able to view trip history",
+        "Driver can update status i.e. Offline or Online",
+        "Admin can modify user/driver details",
+        "Implemented the authentication functionality",
+        "Created the customer module flow",
+        "Integrated validation through the app",
+        "Online Cab Booking Application",
+        "Rest API for an Online Cab Booking Application",
+        "This API performs all the fundamental CRUD",
+        "operations.",
+        "Features:",
+        "Tech Stack: SpringBoot | JAVA | Hibernate |",
+        "MySQL | Swagger",
+        "Areas of responsibility:",
+        "A collaborative project built by a team of",
+        "5 executed in 4 days."
+    ],
+    "education": [
+        {
+            "university_name": "Java Backend Developer, Masai School",
+            "course_name": "09/2022 \u2013 present | Online | Bangalore, india",
+            "dates_attended": "Solved 450+ DSA problems",
+            "marks_or_percentage": "100+ hours of communication and soft skills",
+            "additional_info": ""
+        },
+        {
+            "university_name": "training",
+            "course_name": "Graduation, B.A.M.U. Chatrapati College",
+            "dates_attended": "4 days",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "10/2019 \u2013 25/2022 | Aurangabad, India",
+            "course_name": "Certificates",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Java Backend Developer (Masai School)",
+            "course_name": "Problem Solving (hackerrank)",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Soft Skills",
+            "course_name": "Communication | Team Work Team",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Collaboration | Remote Work Problem",
+            "course_name": "Solving | Self Learning",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Projects",
+            "course_name": "To Book a cab based on cab availability",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Able to view trip history",
+            "course_name": "Driver can update status i.e. Offline or Online",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Admin can modify user/driver details",
+            "course_name": "Implemented the authentication functionality",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Created the customer module flow",
+            "course_name": "Integrated validation through the app",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Online Cab Booking Application",
+            "course_name": "Rest API for an Online Cab Booking Application",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "This API performs all the fundamental CRUD",
+            "course_name": "operations.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Features:",
+            "course_name": "Tech Stack: SpringBoot | JAVA | Hibernate |",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "MySQL | Swagger",
+            "course_name": "Areas of responsibility:",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "A collaborative project built by a team of",
+            "course_name": "5 executed in 4 days.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "",
+            "course_name": "",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        }
+    ],
+    "work_experience": [],
+    "linkedin": "",
+    "github": ""
+}

@@ -1,0 +1,81 @@
+{
+    "name": "Manjot Singh",
+    "email": "manjotsingh844.ms@gmail.com",
+    "phone": "",
+    "skills": [
+        "Programming Languages: Python, C++, SQL, JAVA, Solidity, HTML/CSS, JavaScript, LUA",
+        "Web Development:",
+        "Flask, NodeJS, ReactJS, ExpressJS, SQL, MongoDB",
+        "Machine Learning:",
+        "Tensorflow, OpenCV, Numpy, Pandas, Matplotlib",
+        "PUBLICATIONS",
+        "Ensemble Image Explainable AI (XAI) Algorithm for Face Morphing Attack Detection (Deep Learning): Aim to",
+        "be published by Pattern Recognition Journal.",
+        "ACHIEVEMENTS",
+        "April 2021: Finished in Top 10 teams in MLH Season of 2021, HackVerse 2.0-NITK out of 2800+ participants organized by",
+        "NIT Surathkal.",
+        "April 2019: JEE Mains - Secured all india percentile of 98.62",
+        "Solved 650+ Problems based on Data Structures and Algorithms on Leetcode."
+    ],
+    "education": [
+        {
+            "university_name": "Degree/Certificate",
+            "course_name": "Year",
+            "dates_attended": "Year",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Institute",
+            "course_name": "CGPA/%",
+            "dates_attended": "2019-2023",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "B.Tech: Computer Science and Engineering (AI)",
+            "course_name": "2019",
+            "dates_attended": "2023",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Netaji Subhas University of Technology, Delhi",
+            "course_name": "7.89/10",
+            "dates_attended": "2016",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "AISSCE (Class XII)",
+            "course_name": "2018",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Sukho Khalsa Senior Secondary School, Delhi",
+            "course_name": "85%",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "AISSE (Class X)",
+            "course_name": "2016",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Dayanand Adarsh Vidyalaya, Delhi",
+            "course_name": "9.6/10",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        }
+    ],
+    "work_experience": [],
+    "linkedin": "",
+    "github": ""
+}

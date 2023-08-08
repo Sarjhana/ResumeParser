@@ -1,0 +1,73 @@
+{
+    "name": "Aditya Sharma",
+    "email": "adityasharma07281@gmail.com",
+    "phone": "+12017062021",
+    "skills": [
+        "React",
+        "OOPS",
+        "Azure",
+        "Python",
+        "Web Devlopment",
+        "Node js",
+        "Javascript",
+        "MongoDb",
+        "Django",
+        "Git",
+        "Cordova",
+        "PERSONAL PROJECTS",
+        "Self Driving Car (07/2019 - 06/2020)",
+        "In this project, I have written and implemented a controller for the",
+        "CARLA simulator. The goal is to control the vehicle to follow a race",
+        "track by navigating through preset waypoints.",
+        "Portfolio and Other Projects",
+        "Sharma Ji | Developer",
+        "CERTIFICATES AND PUBLICATION",
+        "Self Driving Car (08/2021 - Present)",
+        "I have published my paper in INTERNATIONAL JOURNAL OF CURRENT",
+        "ENGINEERING AND SCIENTIFIC RESEARCH (IJCESR), It was a review",
+        "paper. Paper link :- http://troindia.in/journal/ijcesr/vol8iss8/77-81.pdf",
+        "LANGUAGES",
+        "English",
+        "Full Professional Pro\ufb01ciency",
+        "Hindi",
+        "Native or Bilingual Pro\ufb01ciency",
+        "Courses",
+        "Achievements/Tasks",
+        "Achievements/Tasks",
+        "Achievements/Tasks",
+        "Achievements/Tasks"
+    ],
+    "education": [
+        {
+            "university_name": "",
+            "course_name": "Bachelor of Engineering",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "BIT MESRA",
+            "course_name": "07/2017",
+            "dates_attended": "06/2021,",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "GPA:",
+            "course_name": "7.12/10",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Computer Science and",
+            "course_name": "Engineering",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        }
+    ],
+    "work_experience": [],
+    "linkedin": "",
+    "github": ""
+}

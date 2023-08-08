@@ -1,0 +1,57 @@
+{
+    "name": "Pankaj Gurung Phone",
+    "email": "pankajgurung2016@gmail.com",
+    "phone": "",
+    "skills": [
+        "- Microsoft office, Video production, Photography, Customer service, Communication,",
+        "Canva,Final Cut Pro X, Teamwork, Active listening, and leadership.",
+        "Languages \u2013 English, Nepali, Hindi, Urdu, Bengali & Thai"
+    ],
+    "education": [
+        {
+            "university_name": ":",
+            "course_name": "2023",
+            "dates_attended": "MSc in Marketing Communication",
+            "marks_or_percentage": "University of the West of England",
+            "additional_info": ""
+        },
+        {
+            "university_name": "2014",
+            "course_name": "Bachelor of Arts (Buddhism) First Class honours Mahachulalongkornrajavidyalaya",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "University, Ayutthaya \u2013Thailand",
+            "course_name": "Other Education:",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "2019",
+            "course_name": "Diploma in Education St. Theresa International College, Nakhon Nayok \u2013 Thailand",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Working",
+            "course_name": "2015",
+            "dates_attended": "Photography Somani Institute of DigVision and Production, Ashrampara, Siliguri, W.B \u2013",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "India",
+            "course_name": "",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        }
+    ],
+    "work_experience": [],
+    "linkedin": "",
+    "github": ""
+}

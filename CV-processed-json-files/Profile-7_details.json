@@ -1,0 +1,46 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "skills": [],
+    "education": [
+        {
+            "university_name": "Institute of Chartered Accountants of India",
+            "course_name": "Chartered Accountant\u00a0\u00a0\u00b7\u00a0(February 2022)",
+            "dates_attended": "February 2022",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Yeshas Academy",
+            "course_name": "IPCC,\u00a0Commerce\u00a0\u00b7\u00a0(August 2016",
+            "dates_attended": "May 2017)",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Sri Chaitanya Junior College, Madhapur",
+            "course_name": "Intermediate,\u00a0MEC\u00a0\u00b7\u00a0(March 2014",
+            "dates_attended": "March 2016)",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Montessori English Medium High School",
+            "course_name": "\u00b7\u00a0(2005",
+            "dates_attended": "2014)",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "",
+            "course_name": "Page 1 of 1",
+            "dates_attended": "August 2016",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        }
+    ],
+    "work_experience": [],
+    "linkedin": "",
+    "github": ""
+}

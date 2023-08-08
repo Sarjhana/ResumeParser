@@ -1,0 +1,584 @@
+{
+    "name": "Anna University",
+    "email": "prasanthpkp191196@gmail.com",
+    "phone": "+918122490546",
+    "skills": [
+        ": C, C++, Java, Kotlin,Python, Data structures",
+        "\u2714 AWS Services: AWS CDK,AWS SDK,EC2,S3,Lambda,CodeCommit,CodePipeline,",
+        "CloudWatch,API Gateway, DynamoDB,AWS Amplify,Cognito,CloudFormation,App",
+        "Runner,Elastic Container Service,CloudFront, AWS Chime Video, AWS Chime Chat",
+        "Organizational Scan",
+        "\u2756 InterviewDesk Technologies Pvt Ltd,Chennai, India",
+        "\u2756 FalconOrange Technologies, Coimbatore, India",
+        "\u2756 Focus Academy for Career Enhancement(FACE),",
+        "Coimbatore, India",
+        "\u2756 Consensus Technologies Private Limited, Coimbatore, India",
+        "Personal Profile",
+        "Father\u2019s Name",
+        ":",
+        "Mr.Pachayapillai.S",
+        "Nationality",
+        ":",
+        "Indian",
+        "Marital Status",
+        ":",
+        "Single",
+        "Email",
+        ":",
+        "prasanthpkp191196@gmail.com",
+        "Contact",
+        ":",
+        "+91 8122490546, 8248133001"
+    ],
+    "education": [
+        {
+            "university_name": "al Qualifications",
+            "course_name": "Degree",
+            "dates_attended": "March 2022",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Name of the Institution",
+            "course_name": "Year",
+            "dates_attended": "April 2021",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Board/University",
+            "course_name": "Percentage",
+            "dates_attended": "February 2022",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "/CGPA",
+            "course_name": "BE CSE",
+            "dates_attended": "April 2020",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "MUTHAYAMMAL ENGINEERING",
+            "course_name": "COLLEGE",
+            "dates_attended": "February 2021",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "2018",
+            "course_name": "Anna University,",
+            "dates_attended": "September 2019 - April 2020",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Chennai",
+            "course_name": "6.5/10",
+            "dates_attended": "February 2019 - September 2019",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Class",
+            "course_name": "XII",
+            "dates_attended": "March 2018 - February 2019",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "GOVERNMENT BOYS HIGHER",
+            "course_name": "SECONDARY SCHOOL",
+            "dates_attended": "June 2017 - March 2018",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "2014",
+            "course_name": "State Board",
+            "dates_attended": "C++",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "65%",
+            "course_name": "Class X",
+            "dates_attended": "8122490546, 8248133001",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "GOVERNMENT BOYS HIGHER",
+            "course_name": "SECONDARY SCHOOL",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "2012",
+            "course_name": "State Board",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "88.4%",
+            "course_name": "Professional Abridgment",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "SDE II , InterviewDesk Technologies \u2013 Chennai",
+            "course_name": "March 2022 \u2013 Till Now",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "I have worked on our own digital product from scratch.The ultimate platform for",
+            "course_name": "conducting virtual interviews, with advanced AI",
+            "dates_attended": "powered tools to help you make better",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "hiring decisions.",
+            "course_name": "\u2756 Front",
+            "dates_attended": "End(Frameworks) : ReactJs",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2756 Design (Framework) : Antd Design",
+            "course_name": "\u2756 Back",
+            "dates_attended": "End(Frameworks) : Kotlin",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2756 Database: DynamoDB",
+            "course_name": "\u2756 AWS Services: AWS CDK,AWS SDK,EC2,S3,Lambda,CodeCommit,CodePipeline,",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "CloudWatch,API Gateway, DynamoDB,AWS Amplify,Cognito,CloudFormation,App",
+            "course_name": "Runner,Elastic Container Service,CloudFront, AWS Chime Video, AWS Chime Chat",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Senior Software Developer , FalconOrange Technologies \u2013 Coimbatore",
+            "course_name": "April 2021 \u2013 February 2022",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Web Application",
+            "course_name": "I have worked on 3+ digital products. It is used to communicate between owner and user.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2756 Front",
+            "course_name": "End(Frameworks) : ReactJs",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2756 Design (Framework) : Antd Design",
+            "course_name": "\u2756 Back",
+            "dates_attended": "End(Frameworks) : Nestjs , Python(FastApi)",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2756 Database: PostgreSQL",
+            "course_name": "Bot",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "I have worked on 4+ bot products .It is used to chat between owner to",
+            "course_name": "user.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2756 Front",
+            "course_name": "End(Frameworks) : Bot Framework , Vuejs(Nuxtjs)",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2756 Back",
+            "course_name": "End(Frameworks) : Nestjs",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2756 Database: PostgreSQL",
+            "course_name": "\u2756 Design (Framework) : Vuetify , Bootstrap",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Mobile Application",
+            "course_name": "As a Senior Developer, I have worked on one digital product. It is used to communicate",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "between owner and user.",
+            "course_name": "\u2756 Front",
+            "dates_attended": "End(Frameworks) : Flutter",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2756 Design (Framework) : Material, Bootstrap",
+            "course_name": "\u2756 Database: PostgreSQL",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Full Stack Developer & Lead Technology Mentor, FACE \u2013 Coimbatore",
+            "course_name": "April 2020 \u2013 February 2021",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u25cf",
+            "course_name": "As a Lead Technology Mentor, I have trained 6 batches in Java Full Stack and 5 batches",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "in MERN Stack, with an industry approved curriculum",
+            "course_name": "\u25cf",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Developed a dedicated WebRTC application for Organizational meeting, webinars and",
+            "course_name": "online classes (like Zoom meet) using open source systems.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u25cf",
+            "course_name": "Developed MERN Stack web application for Food order chat bot.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u25cf",
+            "course_name": "Developed MERN Stack application for Students Report Management.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u25cf",
+            "course_name": "Personal hobby project using Digital Learning MERN Stack",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Technology Mentor, FACE",
+            "course_name": "Kollam, Kerala",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "September 2019",
+            "course_name": "April 2020",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u25cf",
+            "course_name": "As a Technology Mentor, I have trained 4 batches in DDUGKY (Central Government",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Project) on Java Full Stack in Kerala.",
+            "course_name": "\u25cf",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Responsible for managing the Technical division in Kollam DDUGKY Center, designing",
+            "course_name": "the curriculum, upskilling the team and job placements.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u25cf",
+            "course_name": "Developed a python bot for generating certificates, post the assessments and test results",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "of respective candidates.",
+            "course_name": "Associate, FACE",
+            "dates_attended": "Coimbatore",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "February 2019",
+            "course_name": "September 2019",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u25cf",
+            "course_name": "As an Associate Trainer guided thousands of students to attain their dream career.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u25cf",
+            "course_name": "Technical trainer and a part of Full stack Development.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u25cf",
+            "course_name": "Developed a python bot to send automated WhatsApp messages and Web applications",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "as a part of digital marketing.",
+            "course_name": "\u25cf",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Create a customized Moodle e",
+            "course_name": "learning platform",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Software Developer, Consensus Technology",
+            "course_name": "Coimbatore",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "March 2018",
+            "course_name": "February 2019.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u25cf",
+            "course_name": "As a Developer, managed the Entire E",
+            "dates_attended": "learning and online coding platform (Dodo) and",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "added new features to the live environment.",
+            "course_name": "\u25cf",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Part of Application development and Content development for the courses conducted in",
+            "course_name": "Consensus Technologies",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Junior Technology Specialist (Intern), Consensus Technology",
+            "course_name": "Coimbatore",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "June 2017",
+            "course_name": "March 2018",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u25cf",
+            "course_name": "Responsible for upskilling final year students in industry oriented technical courses",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u25cf",
+            "course_name": "Part of Content development team",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Technical Exposure",
+            "course_name": "\u2714 Front",
+            "dates_attended": "end languages: HTML5, CSS3, Bootstrap, JS, Query and JSP.",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2714 Frameworks & Library: React Js, Angular Js,Node Js, Vue JS, NestJS",
+            "course_name": "\u2714 Back",
+            "dates_attended": "end Languages: MySQL, MongoDB, Oracle, PostgreSQL",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2714 Operating system: Ubuntu, Linux, Windows.",
+            "course_name": "\u2714 Cloud and Hosting: AWS and Digital Ocean.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2714 Web Server: Apache, Tomcat, Nginx",
+            "course_name": "\u2714 Software: Eclipse, VS Code.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2714 Programming skills: C, C++, Java, Kotlin,Python, Data structures",
+            "course_name": "\u2714 AWS Services: AWS CDK,AWS SDK,EC2,S3,Lambda,CodeCommit,CodePipeline,",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "CloudWatch,API Gateway, DynamoDB,AWS Amplify,Cognito,CloudFormation,App",
+            "course_name": "Runner,Elastic Container Service,CloudFront, AWS Chime Video, AWS Chime Chat",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Organizational Scan",
+            "course_name": "\u2756 InterviewDesk Technologies Pvt Ltd,Chennai, India",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u2756 FalconOrange Technologies, Coimbatore, India",
+            "course_name": "\u2756 Focus Academy for Career Enhancement(FACE),",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Coimbatore, India",
+            "course_name": "\u2756 Consensus Technologies Private Limited, Coimbatore, India",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Personal Profile",
+            "course_name": "Father\u2019s Name",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": ":",
+            "course_name": "Mr.Pachayapillai.S",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Nationality",
+            "course_name": ":",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Indian",
+            "course_name": "Marital Status",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": ":",
+            "course_name": "Single",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Email",
+            "course_name": ":",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "prasanthpkp191196@gmail.com",
+            "course_name": "Contact",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": ":",
+            "course_name": "+91 8122490546, 8248133001",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        }
+    ],
+    "work_experience": [],
+    "linkedin": "https://www.linkedin.com/in/prasanth-pkp-2391b4145/",
+    "github": ""
+}

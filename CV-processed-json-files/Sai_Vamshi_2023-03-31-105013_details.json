@@ -1,0 +1,312 @@
+{
+    "name": "Sai Vamshi Sarab",
+    "email": "saivamshisarab@gmail.com",
+    "phone": "",
+    "skills": [
+        "\u25cf",
+        ".NET",
+        "\u25cf",
+        "AI / ML",
+        "\u25cf",
+        "Android App",
+        "\u25cf",
+        "Angular",
+        "\u25cf",
+        "AngularJS",
+        "\u25cf",
+        "C",
+        "\u25cf",
+        "C++",
+        "Education",
+        "Nxtwave Disruptive Technologies",
+        "Sep \u201922 - Ongoing",
+        "Industry Ready Certi\ufb01cation in Full-stack Development",
+        "Mother Teresa PG College, Hyderabad",
+        "2020 - 2022",
+        "MBA (Master of Business Administration)_Finance (7.0 CGPA)",
+        "Jaagruti Degree College, Bhongir",
+        "2016 - 2019",
+        "B Com (Bachelor of Commerce)_Finance (9.2 CGPA)",
+        "Times Junior College, Bhongir",
+        "2014 - 2016",
+        "Intermediate_MEC (86.0%)",
+        "Mother Teresa High School, Bhongir",
+        "2013 - 2014",
+        "Secondary School Of Certi\ufb01cate (9.3 CGPA)",
+        "Project",
+        "Todos Application",
+        "project1_link",
+        "Technologies used : HTML, CSS, JS, Bootstrap",
+        "Developed persistent todo application with CRUD operations to track list of tasks",
+        "\u25cf",
+        "Displayed list of todos with HTML list elements, styled todo list using",
+        "CSS, Bootstrap",
+        "\u25cf",
+        "Implemented todo crud operations by using JavaScript event listeners and",
+        "updated UI dynamically by using JavaScript DOM operations.",
+        "\u25cf",
+        "Used Arrays, Objects and their methods during todolist CRUD",
+        "Operations, Persisted todo list state on page reloads using local storage",
+        "methods.",
+        "Countries Search",
+        "project2_link",
+        "Technologies used : HTML, CSS, JS, REST API Calls, Bootstrap",
+        "Developed responsive countries search application which shows all countries and",
+        "respective population in the world. We can also search by speci\ufb01c country",
+        "\u25cf",
+        "Fetched countries list from server asynchronously using fetch GET HTTP",
+        "API call and implemented responsiveness using Bootstrap grid system",
+        "and CSS box model.",
+        "\u25cf",
+        "- Implemented local search functionality by using input element,",
+        "JavaScript event listeners & \ufb01ltered countries using Array \ufb01lter method.",
+        "Wikipedia Search Application",
+        "project3_link",
+        "Technologies used : HTML, CSS, JS, REST API Calls, Bootstrap",
+        "Developed custom wikipedia search application where user can search and view",
+        "curated results and can see detailed explanation in wikipedia by clicking on the",
+        "speci\ufb01c result",
+        "\u25cf",
+        "Displayed list of search results with HTML list elements with hyperlink as",
+        "url, styled list using CSS, Bootstrap and implemented responsiveness",
+        "using Flex properties and CSS Box model.",
+        "\u25cf",
+        "Fetched search results from server asynchronously using fetch GET HTTP",
+        "API call. When a user clicks on a particular result, opens the website in a",
+        "new tab by using the target attribute of the anchor tag in HTML.",
+        "Achievements",
+        "First Prize",
+        "Won \ufb01rst prize in essay competition conducted by LIC.",
+        "Student of the year",
+        "Represented College in University competitions"
+    ],
+    "education": [
+        {
+            "university_name": "Nxtwave Disruptive Technologies",
+            "course_name": "Sep \u201922",
+            "dates_attended": "Ongoing",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Industry Ready Certi\ufb01cation in Full",
+            "course_name": "stack Development",
+            "dates_attended": "2020 - 2022",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Mother Teresa PG College, Hyderabad",
+            "course_name": "2020",
+            "dates_attended": "2022",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "MBA (Master of Business Administration)_Finance (7.0 CGPA)",
+            "course_name": "Jaagruti Degree College, Bhongir",
+            "dates_attended": "2016 - 2019",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "2016",
+            "course_name": "2019",
+            "dates_attended": "2014 - 2016",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "B Com (Bachelor of Commerce)_Finance (9.2 CGPA)",
+            "course_name": "Times Junior College, Bhongir",
+            "dates_attended": "2013 - 2014",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "2014",
+            "course_name": "2016",
+            "dates_attended": "Arrays",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Intermediate_MEC (86.0%)",
+            "course_name": "Mother Teresa High School, Bhongir",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "2013",
+            "course_name": "2014",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Secondary School Of Certi\ufb01cate (9.3 CGPA)",
+            "course_name": "Project",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Todos Application",
+            "course_name": "project1_link",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Technologies used : HTML, CSS, JS, Bootstrap",
+            "course_name": "Developed persistent todo application with CRUD operations to track list of tasks",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u25cf",
+            "course_name": "Displayed list of todos with HTML list elements, styled todo list using",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "CSS, Bootstrap",
+            "course_name": "\u25cf",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Implemented todo crud operations by using JavaScript event listeners and",
+            "course_name": "updated UI dynamically by using JavaScript DOM operations.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "\u25cf",
+            "course_name": "Used Arrays, Objects and their methods during todolist CRUD",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Operations, Persisted todo list state on page reloads using local storage",
+            "course_name": "methods.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Countries Search",
+            "course_name": "project2_link",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Technologies used : HTML, CSS, JS, REST API Calls, Bootstrap",
+            "course_name": "Developed responsive countries search application which shows all countries and",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "respective population in the world. We can also search by speci\ufb01c country",
+            "course_name": "\u25cf",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Fetched countries list from server asynchronously using fetch GET HTTP",
+            "course_name": "API call and implemented responsiveness using Bootstrap grid system",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "and CSS box model.",
+            "course_name": "\u25cf",
+            "dates_attended": "Implemented local search functionality by using input element,",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "JavaScript event listeners & \ufb01ltered countries using Array \ufb01lter method.",
+            "course_name": "Wikipedia Search Application",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "project3_link",
+            "course_name": "Technologies used : HTML, CSS, JS, REST API Calls, Bootstrap",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Developed custom wikipedia search application where user can search and view",
+            "course_name": "curated results and can see detailed explanation in wikipedia by clicking on the",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "speci\ufb01c result",
+            "course_name": "\u25cf",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Displayed list of search results with HTML list elements with hyperlink as",
+            "course_name": "url, styled list using CSS, Bootstrap and implemented responsiveness",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "using Flex properties and CSS Box model.",
+            "course_name": "\u25cf",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Fetched search results from server asynchronously using fetch GET HTTP",
+            "course_name": "API call. When a user clicks on a particular result, opens the website in a",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "new tab by using the target attribute of the anchor tag in HTML.",
+            "course_name": "Achievements",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "First Prize",
+            "course_name": "Won \ufb01rst prize in essay competition conducted by LIC.",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Student of the year",
+            "course_name": "Represented College in University competitions",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        }
+    ],
+    "work_experience": [],
+    "linkedin": "https://www.linkedin.com/in/sai-vamshi-sarab-4202331b4/",
+    "github": ""
+}

@@ -1,0 +1,110 @@
+{
+    "name": "Pankaj Yadav",
+    "email": "siddarth8818@gmail.com",
+    "phone": "+19174867756",
+    "skills": [
+        "Contact",
+        "9174867756",
+        "Phone",
+        "siddarth8818@gmail.com",
+        "Email",
+        "Surendra Palace, Narayan",
+        "Nagar, Bhopal, Madhya Pradesh",
+        "462026",
+        "Address",
+        "Education",
+        "Smrat Ashok Technological",
+        "Institute, vidisha",
+        "Bachelor in technology",
+        "2022 - present",
+        "Language",
+        "12th: 93%",
+        "10th: 92.4%",
+        "Hindi - Native Speaker",
+        "English - Good",
+        "Links",
+        "Instagram",
+        "Youtube",
+        "Linkedin",
+        "Volunteering",
+        "Video editor, Udaan: dramatical society",
+        "February 2022 - present",
+        "Cinematographer, Mirage: photogra[hy club",
+        "April 2022 - present"
+    ],
+    "education": [
+        {
+            "university_name": "Smrat Ashok Technological",
+            "course_name": "Institute, vidisha",
+            "dates_attended": "February 2022",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Bachelor in technology",
+            "course_name": "2022",
+            "dates_attended": "present",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Language",
+            "course_name": "12th: 93%",
+            "dates_attended": "April 2022",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "10th: 92.4%",
+            "course_name": "Hindi",
+            "dates_attended": "Native Speaker",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "English",
+            "course_name": "Good",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Links",
+            "course_name": "Instagram",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Youtube",
+            "course_name": "Linkedin",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Volunteering",
+            "course_name": "Video editor, Udaan: dramatical society",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "February 2022",
+            "course_name": "present",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        },
+        {
+            "university_name": "Cinematographer, Mirage: photogra[hy club",
+            "course_name": "April 2022",
+            "dates_attended": "present",
+            "marks_or_percentage": "",
+            "additional_info": ""
+        }
+    ],
+    "work_experience": [],
+    "linkedin": "",
+    "github": ""
+}
