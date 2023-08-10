@@ -6,11 +6,13 @@ import phonenumbers
 import pandas as pd
 import os
 import json
+import datetime
 
 from nltk.corpus import wordnet
 
 # Download the NLTK wordnet data (if not already downloaded)
 nltk.download('wordnet')
+nlp = spacy.load("en_core_web_sm")
 
 def pdf_to_text(pdf_path, output_directory):
     pdf_document = fitz.open(pdf_path)
@@ -34,7 +36,7 @@ def extract_name(doc):
     for ent in doc.ents:
         if ent.label_ == "PERSON":
             return ent.text.strip()
-    return ""
+    return "Unknown"  # Return Unknown if no name is found
 
 def extract_email(text):
     email_match = re.search(r'\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b', text)
@@ -42,11 +44,17 @@ def extract_email(text):
         return email_match.group()
     return ""
 
-def extract_url(text, regex):
-    url_match = re.search(regex, text)
-    if url_match:
-        return url_match.group()
-    return ""
+def extract_linkedin_url(text):
+    # Regular expression pattern to extract LinkedIn URLs
+    linkedin_pattern = r'https?://(?:www\.)?linkedin\.com/[\w\-/]+'
+    match = re.search(linkedin_pattern, text)
+    return match.group(0) if match else ""
+
+def extract_github_url(text):
+    # Regular expression pattern to extract GitHub URLs
+    github_pattern = r'https?://(?:www\.)?github\.com/[\w\-]+'
+    match = re.search(github_pattern, text)
+    return match.group(0) if match else ""
 
 def extract_phone_number(text):
     for match in phonenumbers.PhoneNumberMatcher(text, "US"):
@@ -73,118 +81,197 @@ def search_for_section(page_text, section_name, section_synonyms):
             return extract_section_items(page_text, section_name)
     return []
 
-def extract_education_section(text):
-    nlp = spacy.load("en_core_web_sm")
-    education_details = []
+def extract_start_end_years(years_range):
+    if 'Present' in years_range:
+        end_year = datetime.datetime.now().year
+    else:
+        end_year = None
 
-    # Education section identification
-    education_section_pattern = r'(?i)(?:Education|Academic Qualifications|Educational Background)(.*?)(?:(?:Experience|Work Experience|Professional Experience)|$)'
-    education_section_match = re.search(education_section_pattern, text, re.DOTALL)
-    print(education_section_match, "eve")
+    year_parts = re.findall(r'(\d{4}|\d{2}-\d{4})', years_range)
+    
+    start_year = int(year_parts[0].split('-')[0]) if year_parts else None
+    if not end_year:
+        end_year = int(year_parts[0].split('-')[-1]) if year_parts else None
 
-    if education_section_match:
-        education_section_text = education_section_match.group(1)
+    return start_year, end_year
 
-        # Education information extraction using regex
-        doc = nlp(education_section_text)
+def divide_into_sections(text):
+    sections = {}
+    
+    # Each main section has its possible variations
+    section_variations = {
+        "Skills": ["Skills", "Technical Skills", "Key Skills"],
+        "Education": ["Education", "Educational Background", "Academic Qualifications"],
+        "Work Experience": ["Work Experience", "Experience", "Professional Experience"],
+        "Projects": ["Projects", "Key Projects"],
+        "Certifications":["Certifications"],
+        "Extra":["Extracurricular", "Leadership", "Leadership roles and responsibilities", "Additional responsibilities"]
+    }
 
-        # Extract dates from spaCy entities
-        dates = extract_dates_from_spacy(doc)
+    text_lower = text.lower()
+    section_indexes = {}
 
-        # Education information extraction using regex
-        education_pattern = r'(?P<university_name>[^\n-]+)\s*-?\s*(?P<course_name>[^\n-]+)?(?:\s*-\s*(?P<dates_attended>[^\n-]+))?(?:\s*-\s*(?P<marks_or_percentage>[^\n-]+))?(?:\s*-\s*(?P<additional_info>[^\n-]+))?'
+    # Search for each variation and keep the earliest index
+    for main_title, variations in section_variations.items():
+        for variation in variations:
+            idx = text_lower.find(variation.lower())
+            if idx != -1:
+                # If the section title hasn't been found yet or a new earlier index is found, update
+                if main_title not in section_indexes or idx < section_indexes[main_title]:
+                    section_indexes[main_title] = idx
 
-        for match in re.finditer(education_pattern, education_section_text):
-            university_name = match.group('university_name').strip() if match.group('university_name') else ''
-            course_name = match.group('course_name').strip() if match.group('course_name') else ''
-            dates_attended = match.group('dates_attended').strip() if match.group('dates_attended') else ''
-            marks_or_percentage = match.group('marks_or_percentage').strip() if match.group('marks_or_percentage') else ''
-            additional_info = match.group('additional_info').strip() if match.group('additional_info') else ''
+    # If no sections are found, return an empty dictionary
+    if not section_indexes:
+        return {}
 
-            if not dates_attended:
-                # If dates_attended is not found using regex, use dates extracted from spaCy entities in order
-                dates_attended = dates.pop(0) if dates else ''
+    # Sort the section titles based on their order in the text
+    sorted_titles = sorted(section_indexes, key=section_indexes.get)
 
-            education_details.append({
-                'university_name': university_name,
-                'course_name': course_name,
-                'dates_attended': dates_attended,
-                'marks_or_percentage': marks_or_percentage,
-                'additional_info': additional_info
-            })
+    # Slice the text to extract each section
+    for i in range(len(sorted_titles)):
+        start_index = section_indexes[sorted_titles[i]]
 
-    return education_details
+        # Move start index to the next line after the heading
+        next_line_start = text.find('\n', start_index) + 1
+        if next_line_start != -1:  # If there's a new line after the heading
+            start_index = next_line_start
+
+        end_index = section_indexes[sorted_titles[i + 1]] if i + 1 < len(sorted_titles) else len(text)
+        sections[sorted_titles[i]] = text[start_index:end_index].strip()
+
+    return sections
+
+def extract_dates_from_regex(text):
+    # Extract dates with formats like "2022 - Present", "2021 - 2023", "2021 - Now"
+    return re.findall(r'\d{4} - (?:\d{4}|Present|Now)', text, re.I)
 
 def extract_work_experience_section(text):
     work_experience_details = []
 
-    # Work Experience section identification
-    work_experience_section_pattern = r'(?i)(?:Work Experience|Experience|Professional Experience)(.*?)(?:Education|Academic Qualifications|$)'
-    work_experience_section_match = re.search(work_experience_section_pattern, text)
+    # Extract dates from the section using both spaCy and regex
+    doc = nlp(text)
+    dates_spacy = extract_dates_from_spacy(doc)
+    dates_regex = extract_dates_from_regex(text)
+    dates = list(set(dates_spacy + dates_regex))
 
-    if work_experience_section_match:
-        work_experience_section_text = work_experience_section_match.group(1)
+    lines = text.split('\n')
+    i = 0
+    while i < len(lines):
+        line = lines[i].strip()
 
-        # Work experience information extraction using regex
-        work_experience_pattern = r'(\d{4})\s*-\s*(\d{4}|Present)?\s*:\s*(.*?)(?:\s*-\s*(.*?))?(?:\s*-\s*(.*?))?(?:\s*-\s*(.*?))?\s*(?:-|$)'
-        work_experience_matches = re.findall(work_experience_pattern, work_experience_section_text)
+        # Check with SpaCy if it's recognized as a company
+        doc_line = nlp(line)
+        if any(ent.label_ == "ORG" for ent in doc_line.ents):
+            company_name = line
 
-        for match in work_experience_matches:
-            start_year, end_year, title, company, location, description = match
+            job_title = ''
+            date_worked = ''
+            # Check the next line for job title or date
+            if i + 1 < len(lines):
+                next_line = lines[i + 1].strip()
+                doc_next_line = nlp(next_line)
+                if any(ent.label_ == "DATE" for ent in doc_next_line.ents) or any(date in next_line for date in dates):
+                    date_worked = next_line
+                    i += 2
+                else:
+                    job_title = next_line
+                    # Check the line after the job title for a date
+                    if i + 2 < len(lines) and (any(date in lines[i + 2] for date in dates) or any(ent.label_ == "DATE" for ent in nlp(lines[i + 2].strip()).ents)):
+                        date_worked = lines[i + 2].strip()
+                        i += 3
+                    else:
+                        i += 2
+
+            # Gather additional details until the next company or the end of the list
+            additional_details = []
+            max_iterations = len(lines) * 20
+            current_iterations = 0
+
+            while i < len(lines) and current_iterations < max_iterations:
+                current_iterations += 1
+                additional_details.append(lines[i].strip())
+                i += 1
+
             work_experience_details.append({
-                'start_year': int(start_year),
-                'end_year': int(end_year) if end_year and end_year.lower() != 'present' else 'Present',
-                'title': title.strip(),
-                'company': company.strip(),
-                'location': location.strip(),
-                'description': description.strip()
+                'company_name': company_name,
+                'job_title': job_title,
+                'dates_worked': date_worked,
+                'additional_info': additional_details
             })
-        print(work_experience_details, "----")
+        else:
+            i += 1
+
     return work_experience_details
 
+def extract_education_section(text):
+    education_details = []
+    
+    education_section_text = text
+    doc = nlp(education_section_text)
+    dates = extract_dates_from_spacy(doc)
+    
+    university_pattern = r"((?:[\w\s'’]+?(?: University| College))(?=[\s,;]|\n))"
+    university_matches = re.split(university_pattern, education_section_text)[1:]
+
+    for i in range(0, len(university_matches), 2):
+        uni_name = university_matches[i].strip()
+        uni_section = university_matches[i+1].strip()
+
+        course_name_pattern = r'(?i)(bachelors|b\.?a|b\.?sc|b\.?e|b\.?tech|masters|m\.?a|m\.?sc|m\.?e|m\.?tech|ph\.?d)[\w\s.&]+'
+        course_match = re.search(course_name_pattern, uni_section)
+        course_name = course_match.group().strip() if course_match else ''
+        uni_section = uni_section.replace(course_name, "", 1).strip()
+
+        marks_pattern = r'(\d{1,2}\.\d{1,2}/\d{1,2}|\d{1,2}%|Pass with [\w\s]+)'
+        marks_match = re.search(marks_pattern, uni_section)
+        marks = marks_match.group().strip() if marks_match else ''
+
+        additional_details = [info for info in re.split(r'\s*\u25cb\s*|\s*\u25cf\s*', uni_section) if info and not info.startswith(('Github', 'LinkedIn'))]
+
+        date_attended = dates.pop(0) if dates else ''
+
+        education_details.append({
+            'university_name': uni_name,
+            'course_name': course_name,
+            'dates_attended': date_attended,
+            'marks_or_percentage': marks,
+            'additional_info': additional_details
+        })
+
+    return education_details
 
 def extract_details_from_text(text):
-    nlp = spacy.load("en_core_web_sm")
 
     name = extract_name(nlp(text))
     email = extract_email(text)
 
-    linkedin_regex = r'https?://(www\.)?linkedin\.com/\S+'
-    github_regex = r'https?://(www\.)?github\.com/\S+'
-    linkedin = extract_url(text, linkedin_regex)
-    github = extract_url(text, github_regex)
+    linkedin_regex = r'https?://(www\.)?linkedin\.com/'
+    github_regex = r'https?://(www\.)?github\.com/'
+    linkedin_url = extract_linkedin_url(text)
+    github_url = extract_github_url(text)
 
     phone = extract_phone_number(text)
 
-    education_details = extract_education_section(text)
-    work_experience_details = extract_work_experience_section(text)
+    sections = divide_into_sections(text)
 
-    section_headers = {
-        'Skills': {'Skills'},
-        #'Education': {'Education'},
-        #'Work Experience': {'Work Experience', 'Experience', 'Work History'},
-        # Add other possible synonyms for section headers here
-    }
+    if 'Education' in sections:
+        education_text = sections["Education"]
+        education_details = extract_education_section(education_text)
+        
+    if 'Work Experience' in sections:
+        work_experience_text = sections["Work Experience"]
+        work_experience_details = extract_work_experience_section(work_experience_text)
 
-    skills = []
-    #education = []
-    #work_experience = []
-
-    for section_name, section_synonyms in section_headers.items():
-        if section_name == 'Skills':
-            skills = search_for_section(text, section_name, section_synonyms)
-        #elif section_name == 'Work Experience':
-            #work_experience = search_for_section(text, section_name, section_synonyms)
 
     details = {
         'name': name,
         'email': email,
         'phone': phone,
-        'skills': skills,
+        #'skills': skills,
         'education': education_details,
         'work_experience': work_experience_details,
-        'linkedin': linkedin,
-        'github': github
+        'linkedin': linkedin_url,
+        'github': github_url
     }
     return details
 
@@ -200,10 +287,10 @@ def save_details_to_json(details, output_file, output_directory):
         json.dump(details, f, indent=4)
 
 def main():
-    input_directory = '/Users/sarjhana/Projects/Campuzzz/CV Archive'  # Specify the directory containing the PDF files
-    output_directory_txt = '/Users/sarjhana/Projects/Campuzzz/CV-text-files'  # Specify the desired output directory for text files
-    output_directory_csv = '/Users/sarjhana/Projects/Campuzzz/CV-processed-csv-files'  # Specify the desired output directory for CSV files
-    output_directory_json = '/Users/sarjhana/Projects/Campuzzz/CV-processed-json-files' # Specify the desired output directory for JSON files
+    input_directory = '/Users/sarjhana/Projects/Campuzzz/Testing'  # Specify the directory containing the PDF files
+    output_directory_txt = '/Users/sarjhana/Projects/Campuzzz/CV-text-files-test'  # Specify the desired output directory for text files
+    output_directory_csv = '/Users/sarjhana/Projects/Campuzzz/CV-processed-csv-files-test'  # Specify the desired output directory for CSV files
+    output_directory_json = '/Users/sarjhana/Projects/Campuzzz/CV-processed-json-files-test' # Specify the desired output directory for JSON files
     
     # Create a single text file to store all the converted text
     all_text_file = '/Users/sarjhana/Projects/Campuzzz/all_resumes_text.txt'
@@ -234,9 +321,20 @@ def main():
 
         with open(txt_file_path, 'r', encoding='utf-8') as f:
             pdf_text = f.read()
-        # Extract details from the text using extract_details_from_text
+        
+        '''# Extract details from the text using extract_details_from_text
+        sections = divide_into_sections(pdf_text)
+
+        if 'Education' in sections:
+            education_text = sections["Education"]
+            print(education_text)
+            education_details = extract_education_section(education_text)
+        if 'Work Experience' in sections:
+            work_experience_text = sections["Work Experience"]
+            work_experience = extract_work_experience_section(work_experience_text)'''
+        
         resume_details = extract_details_from_text(pdf_text)
-        print(resume_details['education'])
+        #print(resume_details['education'])
 
         # Save the details to a CSV file
         output_file = os.path.splitext(pdf_file)[0] + '_details.csv'

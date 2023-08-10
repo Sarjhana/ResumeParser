@@ -1,0 +1,56 @@
+{
+    "name": "Sarjhana Ragunathan Brindha",
+    "email": "sarjhur@gmail.com",
+    "phone": "+447824061765",
+    "education": [
+        {
+            "university_name": "King\u2019s College",
+            "course_name": "MSc Artificial Intelligence\nPass with Merit",
+            "dates_attended": "Sept. 2022",
+            "marks_or_percentage": "68%",
+            "additional_info": [
+                "London\nSept. 2022\n (68%)",
+                "Relevant Modules: Data Mining, AI Planning, Computer Vision, AI Reasoning & Decision Making,\nNature-Inspired Learning Algorithms, Pattern Recognition, Neural Networks, and Deep Learning.",
+                "Dissertation: Explainable Predictive Frameworks from Medical Time Series supervised by Dr. Zina Ibrahim.",
+                "Aim: Develop an interpretable classifier using a next-generation Neurosymbolic AI approach, \u201cLogic\nExplained Networks\u201d that produces first-order logic explanations for time-series data."
+            ]
+        },
+        {
+            "university_name": "Github\nAnna University",
+            "course_name": "May 2021\nB.Engg. Computer Science & Engineering\nCGPA",
+            "dates_attended": "May 2021",
+            "marks_or_percentage": "8.7/10",
+            "additional_info": [
+                ": 8.7/10",
+                "Team Research Project: Early Detection of Alzheimer\u2019s Disease",
+                "Proposed a novel approach of combining Residual Neural Networks(ResNet) and Ensemble Learning\n(Majority Voting).",
+                "Led the team to preprocess MRI Brain Images from the ADNI dataset and implement the ResNet\nclassifier using Transfer Learning. Github"
+            ]
+        }
+    ],
+    "work_experience": [
+        {
+            "company_name": "National Health Service (NHS - CAMHS) London, UK",
+            "job_title": "",
+            "dates_worked": "Feb 2023 - Present",
+            "additional_info": [
+                "Clinical Informatician",
+                "\u25cf",
+                "Conducted research and developed extensions for NLP solutions to analyse unstructured health records data.",
+                "\u25cf",
+                "Developed several Robotic Process Automation (RPA) bots using industry-leading technologies to automate",
+                "business processes and enhance operational efficiency.",
+                "\u25cf",
+                "Conducted rigorous testing and debugging of RPA bots to ensure accurate functionality, identify and resolve",
+                "issues, and optimize performance.",
+                "Child and Adolescent Mental Health Services (KCL) London, UK",
+                "Aug 2022 - Feb 2023",
+                "Senior Analyst (Part-time)",
+                "\u25cf",
+                "Performed data extraction, manipulation, and analysis using Microsoft SQL Server for ADHD research"
+            ]
+        }
+    ],
+    "linkedin": "https://www.linkedin.com/in/sarjhana/",
+    "github": "https://github.com/Sarjhana"
+}

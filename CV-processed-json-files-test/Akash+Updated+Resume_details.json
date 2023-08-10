@@ -1,0 +1,37 @@
+{
+    "name": "Apr 2016",
+    "email": "akashkrprj@gmail.com",
+    "phone": "+17379970761",
+    "education": [
+        {
+            "university_name": "India\nMG Inter College",
+            "course_name": "May 2017\nClass XII",
+            "dates_attended": "July 2018",
+            "marks_or_percentage": "40%",
+            "additional_info": [
+                "Apr 2016 \u2013  - Percentage - 80.40%\nGorakhpur,"
+            ]
+        },
+        {
+            "university_name": "India\nSPB Inter College",
+            "course_name": "May 2015\nClass X",
+            "dates_attended": "July 2022",
+            "marks_or_percentage": "67%",
+            "additional_info": [
+                "Apr 2014 \u2013  - Percentage - 85.67%\nMaharajganj, India"
+            ]
+        }
+    ],
+    "work_experience": [
+        {
+            "company_name": "\u2022 Develop fully functioning projects based on Java.",
+            "job_title": "\u2022 Learned Data Structures and Algorithms, Web Development, SQL.",
+            "dates_worked": "",
+            "additional_info": [
+                "\u2022 Enhancing my problems and technical skills in DSA."
+            ]
+        }
+    ],
+    "linkedin": "https://www.linkedin.com/in/akashprj/",
+    "github": "https://github.com/akashprj"
+}
