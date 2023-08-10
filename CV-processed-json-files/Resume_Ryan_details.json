@@ -2,219 +2,92 @@
     "name": "ML",
     "email": "ryangilberttt@gmail.com",
     "phone": "+918459242358",
-    "skills": [
-        "/  Decision-making /  Critical thinking /  Strategic Planning /  Strong-",
-        "communication /  google spreadsheets /  SQL /  Arti\ufb01cial Intilligence /",
-        "Machine Learning /  Python Libraries",
-        "(numpy, pandas, scikit-learn, gensim, surprise, spaCY, NLTK, PyTorch, ...) /  Microsoft O\ufb03ce /  GUI frameworks /",
-        "Data Science | Data Collection, Data Processing, Data Analysis, Data Visualization /  Microsoft Excel /",
-        "Reinforcement Learning",
-        "PROJECTS",
-        "EXPERIMENT ON THE AMBIGUITY IN SENTENCE PROCESSING USING DMDX( a Windows-based",
-        "program designed primarily for language-processing experiments.)",
-        "[ 02/12/2022 \u2013 07/12/2022 ]",
-        "Conducted this experiment with 10 native speakers of di\ufb00erent dialects of Marathi(an Indian language) with the",
-        "help of linguistics analysis (Socio-linguistics, Psycho-linguistics, Syntax, Semantics and Stylistics).",
-        "A project on NLP tools and Corpora in the mother tongue named \" Marathi\".",
-        "[ 10/06/2021 \u2013 10/08/2021 ]",
-        "Worked on NLP techniques, NLP libraries, NLP tools, Corpus Analysis Tools like Concord module, and AntConc",
-        "Corpus Linguistics and theoretical Linguistics approaches.",
-        "[ 22/06/2022 \u2013 22/07/2022 ]",
-        "worked a text dataset to analyze and identify the patterns in the corpus with the help of a corpus analysis tool,",
-        "Concordance."
-    ],
     "education": [
         {
-            "university_name": "AND TRAINING",
-            "course_name": "Master's in Computational Linguistics",
+            "university_name": "Master's in Computational Linguistics \nEnglish And Foreign Languages University",
+            "course_name": "bad",
             "dates_attended": "09/06/2021 \u2013 09/08/2021",
             "marks_or_percentage": "",
-            "additional_info": ""
+            "additional_info": [
+                "[ 01/10/2021 \u2013 01/05/2023 ] \nAddress: Hydera (India) \nWebsite: https://www.e\ufb02university.ac.in \nPhonetics, Morphology, Syntax, Mathematical Linguistics, NLP 1 and 2, Psycholinguistics, Formal Language and\nAutomata Theory, Corpus Linguistics, Language acquisition, Human sentence processing, Semantics, HPSG,\nTagging and parsing, The Joy of Computing using Python.\nGoogle Data Analytics \nGoogle [ 18/10/2022 \u2013 Current ] \nAddress: (India)"
+            ]
         },
         {
-            "university_name": "English And Foreign Languages University [ 01/10/2021 \u2013 01/05/2023 ]",
-            "course_name": "Address: Hyderabad (India)",
+            "university_name": "Certi\ufb01cate course in Computational Linguistics \nDeccan College",
+            "course_name": "ber of credits",
             "dates_attended": "",
             "marks_or_percentage": "",
-            "additional_info": ""
+            "additional_info": [
+                "Post Graduate and Research Institute [ 09/06/2021 \u2013 09/08/2021 ] \nAddress: Pune (India) \nFinal grade: A \nNum: 2 \nOther language(s):"
+            ]
         },
         {
-            "university_name": "Website: https://www.e\ufb02university.ac.in",
-            "course_name": "Phonetics, Morphology, Syntax, Mathematical Linguistics, NLP 1 and 2, Psycholinguistics, Formal Language and",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Automata Theory, Corpus Linguistics, Language acquisition, Human sentence processing, Semantics, HPSG,",
-            "course_name": "Tagging and parsing, The Joy of Computing using Python.",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Google Data Analytics",
-            "course_name": "Google [ 18/10/2022 \u2013 Current ]",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Address: (India)",
-            "course_name": "Certi\ufb01cate course in Computational Linguistics",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Deccan College Post Graduate and Research Institute [ 09/06/2021 \u2013 09/08/2021 ]",
-            "course_name": "Address: Pune (India)",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Final grade: A",
-            "course_name": "Number of credits: 2",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Other language(s):",
-            "course_name": "German",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "LISTENING A1  READING A1  WRITING A1",
-            "course_name": "SPOKEN PRODUCTION A1  SPOKEN INTERACTION A1",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Hindi",
-            "course_name": "LISTENING C2  READING C1  WRITING B2",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "SPOKEN PRODUCTION C2  SPOKEN INTERACTION C2",
-            "course_name": "Bachelor's In English Language and Linguistics",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Savitribai Phule Pune University [ 01/07/2018 \u2013 01/06/2021 ]",
-            "course_name": "Address: Pune (India)",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Website: http://www.unipune.ac.in",
-            "course_name": "Final grade: A",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "LANGUAGE SKILLS",
-            "course_name": "Mother tongue(s): Marathi |  English(US Accent)",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "DIGITAL SKILLS",
-            "course_name": "Python Programming /  R",
-            "dates_attended": "programming /  Organizational and planning skills /  American Accent /  Analytical",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "skills /  Written and Verbal skills /  Decision",
-            "course_name": "making /  Critical thinking /  Strategic Planning /  Strong",
-            "dates_attended": "communication /  google spreadsheets /  SQL /  Arti\ufb01cial Intilligence /  \u2022 Machine Learning /  Python Libraries",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "(numpy, pandas, scikit",
-            "course_name": "learn, gensim, surprise, spaCY, NLTK, PyTorch, ...) /  Microsoft O\ufb03ce /  GUI frameworks /",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Data Science | Data Collection, Data Processing, Data Analysis, Data Visualization /  Microsoft Excel /",
-            "course_name": "Reinforcement Learning",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "PROJECTS",
-            "course_name": "EXPERIMENT ON THE AMBIGUITY IN SENTENCE PROCESSING USING DMDX( a Windows",
-            "dates_attended": "based",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "program designed primarily for language",
-            "course_name": "processing experiments.)",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "[ 02/12/2022 \u2013 07/12/2022 ]",
-            "course_name": "Conducted this experiment with 10 native speakers of di\ufb00erent dialects of Marathi(an Indian language) with the",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "help of linguistics analysis (Socio",
-            "course_name": "linguistics, Psycho",
-            "dates_attended": "linguistics, Syntax, Semantics and Stylistics).",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "A project on NLP tools and Corpora in the mother tongue named \" Marathi\".",
-            "course_name": "[ 10/06/2021 \u2013 10/08/2021 ]",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Worked on NLP techniques, NLP libraries, NLP tools, Corpus Analysis Tools like Concord module, and AntConc",
-            "course_name": "Corpus Linguistics and theoretical Linguistics approaches.",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "[ 22/06/2022 \u2013 22/07/2022 ]",
-            "course_name": "worked a text dataset to analyze and identify the patterns in the corpus with the help of a corpus analysis tool,",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Concordance.",
+            "university_name": "German \nLISTENING A1  READING A1  WRITING A1  \nSPOKEN PRODUCTION A1  SPOKEN INTERACTION A1  \nHindi \nLISTENING C2  READING C1  WRITING B2  \nSPOKEN PRODUCTION C2  SPOKEN INTERACTION C2  \nBachelor's In English Language and Linguistics \nSavitribai Phule Pune University",
             "course_name": "",
             "dates_attended": "",
             "marks_or_percentage": "",
-            "additional_info": ""
+            "additional_info": [
+                "[ 01/07/2018 \u2013 01/06/2021 ] \nAddress: Pune (India) \nWebsite: http://www.unipune.ac.in \nFinal grade: A \nLANGUAGE"
+            ]
         }
     ],
-    "work_experience": [],
+    "work_experience": [
+        {
+            "company_name": "NLP .",
+            "job_title": "2. Guideline Development: Re\ufb01ne annotation guidelines and improve clarity.",
+            "dates_worked": "",
+            "additional_info": [
+                "3. Collaboration and Communication: Work closely with the ML team and communicate e\ufb00ectively.",
+                "4. Documentation: Maintain records of decisions and issues encountered during the NLP tasks.",
+                "5. Feedback and Improvement: Provide feedback to enhance annotation processes.",
+                "6. Continuous Learning: Stay updated with linguistic , NLP and annotation techniques.",
+                "7. Text cleaning with the help of NLP techniques.",
+                "8. Crucial role in creating high-quality labeled datasets for machine learning models.",
+                "Computational Linguist(Part-time)",
+                "KomunIKON [ 29/04/2023 \u2013 Current ]",
+                "Country: Switzerland",
+                "Responsibilities: Use NLP techniques wherever required, help a team in developing the world's \ufb01rst fully",
+                "functioning language based on visual icons, collaborate with developers and linguist consultants to produce rule-",
+                "based linguistic models and codes that improve the KomunIKON app's ability to e\ufb00ectively suggest an",
+                "appropriate vocabulary to users, enabling a motivated retrieval of icons starting from verbal input based on",
+                "similarity and other semantic relations using Word-embedding NLP technique. Work with the IT team to",
+                "implement ideas in the best way possible and conduct research and stay up-to-date with the latest advancements",
+                "in computational linguistics. Provide insights and recommendations on linguistic aspects of the project based on",
+                "NLP and Computational Linguistics expertise.",
+                "Activity:- Working on generating a feature that automatically identi\ufb01es the synonyms of the user input and",
+                "displays the relevant icon based on the description given in the database.",
+                "NLP Analyst",
+                "Service Pack Software Technologies Private Limited India [ 01/02/2023 \u2013 01/05/2023 ]",
+                "City: Hyderabad",
+                "Country: India",
+                "1.Responsibilities:- NLP Models and Techniques using NLTK, , Reinforcement learning, AI solution, Data",
+                "annotation, Transcription, Diarization, Data preparation, Data Analysis, Group-work, Machine learning Models,",
+                "Arti\ufb01cial Intelligence, Quality assurance, Speech analysis, etc.",
+                "Ryan Gilbert",
+                "Nationality: Indian  Date of birth: 26/12/1999  Gender: Male",
+                "",
+                "",
+                "",
+                "",
+                "\uf879 Phone number: (+91) 8459242358",
+                "Email address: ryangilberttt@gmail.com",
+                "\uf0e0",
+                "LinkedIn: https://www.linkedin.com/in/ryan-gilbert-579055196/",
+                "\uf08c",
+                "\uf3c5 Home: Hyderabad (India)",
+                "2.Activities:- I actively collaborated with interdisciplinary teams to develop AI-based solutions for audio calls/",
+                "Conversation moderation. primarily worked on Text cleaning, Text Analysis , Pre-processing for NLP tasks. I was",
+                "responsible for supervising the team of interns who were working on data annotation and I played a crucial role",
+                "in helping the ML team design and implement algorithms to improve customer acquisition. I worked closely with",
+                "ML experts and developers to ensure compliance with relevant regulations and guidelines, emphasizing the",
+                "importance of balancing customer service and user safety. Apart from that, I did an individual project on",
+                "\"Conversation designing\" for an AI tool.",
+                "Copywriter, Email-Writer, English Tutor(Freelance)",
+                "[ 08/2021 \u2013 Current ]",
+                "Country: India"
+            ]
+        }
+    ],
     "linkedin": "https://www.linkedin.com/in/ryan-gilbert-579055196/",
     "github": ""
 }

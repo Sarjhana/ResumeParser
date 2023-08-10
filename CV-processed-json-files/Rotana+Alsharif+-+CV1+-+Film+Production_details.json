@@ -2,71 +2,27 @@
     "name": "Rotana Alsharif",
     "email": "RotanaAlsharif11@outlook.com",
     "phone": "+447496968533",
-    "skills": [
-        "v Directed a radio program, whilst editing audio (Inc. Music).",
-        "2021 - Script writer for an episode of The Banat Program - Al Majid Channel",
-        "Notable Achievement:",
-        "v My production was selected to air live on a the renowned Al Majid TV channel.",
-        "Responsibilities:",
-        "Written the script and the dialogue of Banat tv program",
-        "2020 - Create Elephant in the room podcast - Apple Podcasts, YouTube & Soundcloud",
-        "Responsibilities:",
-        "v written and co-hosted the podcast which garnered over 5000 views.",
-        "2019 - Member of the Programs and Activities Unit of the Photography and Production Club",
-        "Responsibilities:",
-        "v organised many events for university students with the photography and production club",
-        "Education",
-        "2022 \u2013 2023",
-        "MA producing Film and television - Royal Holloway University",
-        "2017 \u2013 2021",
-        "Bachelor of Arts in mass communication (Radio &TV) Excellent-First Honor - king Abdulaziz University",
-        "References are available upon request"
-    ],
     "education": [
         {
-            "university_name": "",
-            "course_name": "2022 \u2013 2023",
+            "university_name": "Royal Holloway University",
+            "course_name": "Bachelor of Arts in mass communication",
             "dates_attended": "2017",
             "marks_or_percentage": "",
-            "additional_info": ""
+            "additional_info": [
+                "2017 \u2013 2021  \n (Radio &TV) Excellent-First Honor -"
+            ]
         },
         {
-            "university_name": "MA producing Film and television",
-            "course_name": "Royal Holloway University",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "",
-            "course_name": "2017 \u2013 2021",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Bachelor of Arts in mass communication (Radio &TV) Excellent",
-            "course_name": "First Honor",
-            "dates_attended": "king Abdulaziz University",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "",
-            "course_name": "References are available upon request",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "",
+            "university_name": "king Abdulaziz University",
             "course_name": "",
             "dates_attended": "",
             "marks_or_percentage": "",
-            "additional_info": ""
+            "additional_info": [
+                "References are available upon request"
+            ]
         }
     ],
-    "work_experience": [],
+    "work_experience": null,
     "linkedin": "",
     "github": ""
 }

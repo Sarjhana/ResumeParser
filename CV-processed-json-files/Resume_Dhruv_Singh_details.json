@@ -2,185 +2,44 @@
     "name": "Qt Creator",
     "email": "dhruvsisodia34@gmail.com",
     "phone": "+919870315393",
-    "skills": [
-        ".",
-        "\u2756 Flexibility in thinking and operating style.",
-        "\u2756 Tolerance and respect for team members.",
-        "\u2756 Collaborating and working well together with others.",
-        "PERSONAL INFORMATION",
-        "\u2756 Date of Birth:",
-        "03-01-2002",
-        "\u2756 Gender:",
-        "Male",
-        "\u2756 Marital Status:",
-        "Unmarried",
-        "\u2756 Language Proficiency:",
-        "English & Hindi"
-    ],
-    "education": [
+    "education": [],
+    "work_experience": [
         {
-            "university_name": "",
-            "course_name": "\u2756 B. Tech, Computer Science Engineering | Chandigarh Group of Colleges, Landran, Punjab",
-            "dates_attended": "2019",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "SGPA: 8.63 | 2023",
-            "course_name": "\u2756 XII (CBSE) | Shiv Vani Model Senior Secondary School, New Delhi",
-            "dates_attended": "2017",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "76% | 2019",
-            "course_name": "\u2756 X (RBSE) | Vidhya Bharti Public School, Sikar, Rajasthan",
-            "dates_attended": "3 weeks",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "91.33% | 2017",
-            "course_name": "SOFTWARE COMPETENCIES",
-            "dates_attended": "03-01-2002",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "\u2756 Operating systems:",
-            "course_name": "Windows, Linux",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "\u2756 Languages/Skills known:",
-            "course_name": "C, C++, Java programming languages, C++ Unit Testing (Gtest, GMock), GNU DeBugger, Data",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Structures and Algorithms, Object Oriented Programming (OOP) concepts",
-            "course_name": "\u2756 Other Interests:",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Software Engineering, Operating System, Game Development, Computer Networks",
-            "course_name": "ACADEMIC PROJECTS",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "\u2756 Colour Detector",
-            "course_name": "Application through which we can get the name of the colour by clicking on a certain point in given",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "image",
-            "course_name": "Python, OpenCV, Pandas, PyCharm",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "\u2756 Project Rocket | Simplistic rocket game",
-            "course_name": "Player has to manoeuvre rocket from starting point to finishing point while avoiding obstacles",
-            "dates_attended": "C#,",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Unity game engine",
-            "course_name": "EXPERIENTIAL LEARNING / INDUSTRIAL TRAINING",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "\u2756 Training subject:",
-            "course_name": "Java for android development",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "\u2756 Training provider:",
-            "course_name": "Solitaire Infosys Pvt. Ltd.",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "\u2756 Training duration:",
-            "course_name": "3 weeks",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "",
-            "course_name": "INTERPERSONAL SKILLS",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "\u2756 Enthusiasm to learn anything new.",
-            "course_name": "\u2756 Clear communication skills.",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "\u2756 Flexibility in thinking and operating style.",
-            "course_name": "\u2756 Tolerance and respect for team members.",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "\u2756 Collaborating and working well together with others.",
-            "course_name": "PERSONAL INFORMATION",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "\u2756 Date of Birth:",
-            "course_name": "03",
-            "dates_attended": "01",
-            "marks_or_percentage": "2002",
-            "additional_info": ""
-        },
-        {
-            "university_name": "\u2756 Gender:",
-            "course_name": "Male",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "\u2756 Marital Status:",
-            "course_name": "Unmarried",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "\u2756 Language Proficiency:",
-            "course_name": "English & Hindi",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
+            "company_name": "\u2756 Software Engineer Intern | Nokia Solutions and Networks India Private Limited",
+            "job_title": "",
+            "dates_worked": "",
+            "additional_info": [
+                "Company",
+                "",
+                "Nokia Solutions and Networks India Private Limited",
+                "",
+                "Location",
+                "",
+                "L5, Manayata Tech Park, Bengaluru, Karnataka, 560045",
+                "",
+                "Duration",
+                "",
+                "11 months (10/August/2022 to 09/July/2023)",
+                "",
+                "Position",
+                "",
+                "Software Engineer Intern",
+                "",
+                "Technologies",
+                "used",
+                "",
+                "C++, Qt Creator, GDB (GNU DeBugger), Google Test, Google",
+                "Mock, GitLab",
+                "",
+                "",
+                "Responsibilities",
+                "\u2022 Development of various plugins in Nokia\u2019s internal web",
+                "application software product.",
+                "\u2022 Maintenance of the software product.",
+                "\u2022 Debugging and resolving any legacy issues/bugs."
+            ]
         }
     ],
-    "work_experience": [],
     "linkedin": "",
     "github": ""
 }

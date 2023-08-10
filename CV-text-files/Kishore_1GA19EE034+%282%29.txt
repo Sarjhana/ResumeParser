@@ -1,0 +1,152 @@
+ 
+ 
+ 
+P Kishore 
+Kishore1ga19ee034@gmail.com 
+8971860509 
+https://www.linkedin.com/in/kishore-p-ore-6bb610243 
+ 
+CAREER OBJECTIVE: 
+Build a long term career in a conductive and progressive organizational environment which 
+provides wider exposure for continuous learning process with ample opportunities for future 
+career growth. To use my skills and techniques in the best possible way for achieving the 
+company’s goals and increases its profitability and growth. 
+ 
+TECHNICAL SKILLS: 
+ Programming Languages: C, C++ and basics of Python 
+ Electrical design such as embedded c, VLSI design, embedded hardware desings. 
+ Analog circuits such as switching circuits, dc-dc converters, invertors etc. 
+ Digital electronics, power electronics circuits. 
+ Electric machine design such as transformers, alternators etc. 
+ Basic knowledge about SCADA. 
+EDUCATION: 
+ 
+Degree/Course Institute/College 
+Institute/College Percentage/ 
+CGPA 
+Year of 
+Passing 
+B E in 
+electrical and 
+electronics 
+engineering 
+Global 
+Academy 
+Of Technology 
+Bengaluru 
+Visvesvaraya 
+Technological 
+University 
+(VTU), 
+Belgaum 
+7.45 CGPA 
+ 
+2023 
+PUC/12th in 
+PCMB 
+Shee Sahyadri 
+collage Tekal 
+road, Kolar 
+Karnataka 
+State Board 
+
+2019 
+SSLC/ 10th 
+Gnana Jyothi school 
+Mulbagal, Kolar 
+ICSE, New Delhi 
+2017 
+ 
+MINI PROJECTS: 
+1. PANIC ALARM 
+In this project, I will show how to design and build a simple panic alarm circuit using 555 
+Timer IC and a few other easily available components. This can used to activate an alarm in case of 
+any emergencies. 
+There can be any sudden situation of panic. It could be because of an intruder entering our house or 
+bad health status. Situations can be many for panicking and may vary from person to person. 
+During such emergencies, we might be unable to intimate to the people around us. At that time we 
+use Panic alarm. 
+ 
+ 
+ 
+2. CONVERSION OF SOUND ENERGY TO ELECTICAL VOLATGE. 
+This can be done by using a transducer by converting vibrations caused by noise into 
+electrical energy. The vibrations created by the noise can be converted into electrical 
+energy through the principle of electromagnetic induction. The demonstrated ideas probe 
+into a clean and readily available source of energy. 
+3. RC SUBMARINE. 
+ 
+          Nowadays, RC (radio control) submarine canbe used to do underwater monitoring. In this 
+project, the costwill be optimum and using an easy to obtain parts. The mainthings in the RC 
+submarine are controller system andwatertight. The important components in the controllercircuit are 
+ESC and radio control module and propellermotor. For direction control servo motor is used to 
+controlsurface unit. The ballast tank is made from PVC (poly vinylchloride) pipes, sockets and round 
+shape. To make a controlsystem for the ballast system is the tough challenge in thisproject. The circuit 
+is sensitive and easy to malfunctions. Thesubmarine can be controlled by using remote control 
+deviceand can broadcast underwater scene using on board wirelesscamera. 
+ 
+      STRENGTHS: 
+ 
+Self-Motivated
+ 
+Punctual
+ 
+Working smart
+ 
+Respect
+ 
+Punctual 
+ 
+Disciplined
+
+HOBBIES: 
+ 
+Singing
+ 
+Dancing
+ 
+Sports
+ 
+Travelling
+ 
+Swimming,
+ 
+Reading magazines
+ 
+CERTIFICATION: 
+ Certified by SkillUP Simplilearn for completing course on programming with python 3.X.
+
+    INTERNSHIP: 
+ 
+I have perused my intern at ARDC, HAL Bangalore. It was good experience at HAL by learning lot of 
+things on aircrafts, testing of aircrafts. I had experience by learning software such as AutoCAD, 
+CATIA etc. I visited lab of LCA aircraft and learned some of testing such as NTT testing of LCA 
+aircraft. I had good experience and had intern upto 1 month at HAL. 
+  
+ 
+ 
+PERSONAL DETAILS: 
+Address: 
+Subash Chandra Bose street, Muthyalpet, Mulbagal, Kolar dist 
+Date of Birth: 
+16-04-2001 
+Gender: 
+Male 
+Nationality: 
+Indian 
+Languages Known: 
+Tamil, Kannada, Telugu, English. 
+ 
+ 
+ 
+DECLARATION: 
+I hereby declared that the above-mentioned details are true to the best of my knowledge. If given 
+an opportunity to work under your organization, I shall discharge my duties to the best ability and 
+to the satisfaction of my superior. 
+ 
+P.KISHORE 
+
+
+
+
+ 

@@ -1,10 +1,9 @@
 {
-    "name": "",
+    "name": "Unknown",
     "email": "",
     "phone": "",
-    "skills": [],
-    "education": [],
-    "work_experience": [],
+    "education": null,
+    "work_experience": null,
     "linkedin": "",
     "github": ""
 }

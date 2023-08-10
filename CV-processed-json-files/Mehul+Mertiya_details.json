@@ -2,75 +2,33 @@
     "name": "Mehul Mertiya",
     "email": "mehulmertiya@gmail.com",
     "phone": "+917003730317",
-    "skills": [
-        "Mother tongue(s): Hindi"
-    ],
     "education": [
         {
-            "university_name": "AND TRAIN\u2010",
-            "course_name": "ING",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "[ 04/2014 \u2013 04/2016 ]  Higher Secondary",
-            "course_name": "Shree Maheshwari Vidyalaya",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "",
-            "course_name": "Address: Kolkata, India",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "[ 06/2016 \u2013 07/2018 ]  Coursework in B.com",
-            "course_name": "Bhawanipur Education Society College",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "",
-            "course_name": "Address: Kolkata, India",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "DIGITAL SKILLS",
-            "course_name": "Facebook |  Instagram |  LinkedIn |  YouTube |  Microsoft O\ufb03ce |  In\ufb02uencer Marketer |  User",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Growth Marketing |  Social Media Measurement |  Content Development Strategy |  Actionable",
-            "course_name": "Insights |  Problem Solving and Analytical Skills |  Adaptability |  ORM |  Content Research |",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Twitter",
-            "course_name": "LANGUAGE SKILLS",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Mother tongue(s): Hindi",
+            "university_name": "com \nBhawanipur Education Society College",
             "course_name": "",
             "dates_attended": "",
             "marks_or_percentage": "",
-            "additional_info": ""
+            "additional_info": [
+                "Address: Kolkata, India \nDIGITAL"
+            ]
         }
     ],
-    "work_experience": [],
+    "work_experience": [
+        {
+            "company_name": "[ 03/01/2022 \u2013 11/04/2023 ]  Social Media Executive",
+            "job_title": "CricTracker Private Limited",
+            "dates_worked": "",
+            "additional_info": [
+                "City: Bengaluru",
+                "Country: India",
+                "I've worked as a brand manager looking after the social media team. I have been working with",
+                "clients for more than a year delivering high-quality and unique content keeping in mind the larger",
+                "audience. I have also been involved in strategies in the video team and posting videos on all social",
+                "media platforms including Youtube.",
+                "Tools- Meta Business Suite, CrowdTangle, YouTube Studio, Canva, Hootsuite"
+            ]
+        }
+    ],
     "linkedin": "",
     "github": ""
 }

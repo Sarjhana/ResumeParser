@@ -2,84 +2,20 @@
     "name": "Sarah-Myriam Bayebane",
     "email": "sarah_bayebane@hotmail.com",
     "phone": "",
-    "skills": [
-        "Microsoft office: Word, Excel, PowerPoint, Publisher",
-        "C2i certificate",
-        "Creative platform: Canva, Instagram, Tik Tok",
-        "Native French speaker/ Fluent English speaker/ Basic notion in Spanish / Some notion in",
-        "Arabic",
-        "INTEREST AND INVESMENT",
-        "Member of the high school reading club Lyc\u00e9e Paul Valery",
-        "Member of Solidarity club Paul Valery Highschool",
-        "Avid reader, traveller, engaged in sports",
-        "Cultural experience: lived in 3 different countries"
-    ],
-    "education": [
+    "education": [],
+    "work_experience": [
         {
-            "university_name": "",
-            "course_name": "UNIVERSITY OF BIRMINGHAM",
-            "dates_attended": "Year 3",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "\u2022",
-            "course_name": "English Literature and civilisation degree",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "\u2022",
-            "course_name": "Erasmus exchange Year 3",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "UNIVERSITE JEAN JAURES, TOULOUSE, FRANCE",
-            "course_name": "\u2022",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "LLCE Language, literature, civilization English degree.",
-            "course_name": "\u2022",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Modules: English and American literature/civilization.",
-            "course_name": "Translation (French/English) \u2013",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Linguistic/phonology \u2013African studies \u2013Cinema and film analysis.",
-            "course_name": "\u2022",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Comprehensive understanding of linguistics, grammar, writing, and literary analysis, \uf0fc critical",
-            "course_name": "and synthetic thinking \uf0fc Imaginative problem",
-            "dates_attended": "solving \uf0fc information literacy and research",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "skills.",
-            "course_name": "EMPLOYMENT AND",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
+            "company_name": "Waitress, barista, hostess, team leader/ Barista at Farnborough Air show 2022 / Team leading and",
+            "job_title": "managing at wedding events",
+            "dates_worked": "",
+            "additional_info": [
+                "\u2022",
+                "Excellent attention to detail and interpersonal skills",
+                "\u2022",
+                "Strong"
+            ]
         }
     ],
-    "work_experience": [],
     "linkedin": "",
     "github": ""
 }

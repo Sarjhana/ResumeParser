@@ -2,103 +2,15 @@
     "name": "MHB Colony, Borivali",
     "email": "ajaykhandekar5914@gmail.com",
     "phone": "+917387659563",
-    "skills": [
-        "Premiere Pro, After Effect, Diamond.",
-        "Work Experience",
-        "Video Editor",
-        "Prime Focus Technology - July 2022 \u2013 Present",
-        "Receiving a brief, and maybe an outline of footage and/or a shot list, script, or screenplay.",
-        "Assembling all raw footage, with camera shots either recorded or transferred onto video tape in",
-        "preparation for inputting into the computer",
-        "inputting uncut rushes and sound, and synchronizing and storing them into files on the computer",
-        "Management of all proxy files sent out of house for subtitling and dubbing.",
-        "Creating a 'rough cut' (or assembly edit) of the programmed/film and determining the exact",
-        "cutting for the next and final stages.",
-        "Video Editor",
-        "S S Multimedia  Oct 2021 \u2013 July 2022",
-        "As Member of video editor in a team of four, turned 12+ hours of raw footage into 1 hour of",
-        "Finished. Video Edit for Weeding project, Events, Corporate Videos, Short Films, YT Videos",
-        "Education",
-        "Diploma in Textile Engg.",
-        "MSBTE University",
-        "Personal Details",
-        "Father Name- Rajaram Khandekar",
-        "Current Address- MHB Colony, Borivali West, Mumbai-400091",
-        "Language Known- English, Marathi , Hindi",
-        "Date Of Birth- 21 Oct 1995",
-        "Place- Mumbai",
-        "Ajay Khandekar"
-    ],
     "education": [
         {
-            "university_name": "",
-            "course_name": "\u2022",
+            "university_name": "MSBTE University",
+            "course_name": "bai",
             "dates_attended": "Oct 1995",
             "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Diploma in Textile Engg.",
-            "course_name": "\u2022",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "MSBTE University",
-            "course_name": "Personal Details",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "",
-            "course_name": "\u2022",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Father Name",
-            "course_name": "Rajaram Khandekar",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "\u2022",
-            "course_name": "Current Address",
-            "dates_attended": "MHB Colony, Borivali West, Mumbai",
-            "marks_or_percentage": "400091",
-            "additional_info": ""
-        },
-        {
-            "university_name": "\u2022",
-            "course_name": "Language Known",
-            "dates_attended": "English, Marathi , Hindi",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "\u2022",
-            "course_name": "Date Of Birth",
-            "dates_attended": "21 Oct 1995",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "",
-            "course_name": "Place",
-            "dates_attended": "Mumbai",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Ajay Khandekar",
-            "course_name": "",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
+            "additional_info": [
+                "Personal Details \n \n \n\u2022 \n  Father Name- Rajaram Khandekar \n\u2022 \n  Current Address- MHB Colony, Borivali West, Mum-400091 \n\u2022 \n  Language Known- English, Marathi , Hindi \n\u2022 \n  Date Of Birth- 21 Oct 1995 \n \n \n \n \n \n \n     Place- Mumbai \n     Ajay Khandekar"
+            ]
         }
     ],
     "work_experience": [],

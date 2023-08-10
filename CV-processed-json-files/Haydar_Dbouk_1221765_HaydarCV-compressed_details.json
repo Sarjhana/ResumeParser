@@ -2,90 +2,15 @@
     "name": "Helena Lodge",
     "email": "Haydar_dbouk@outlook.com",
     "phone": "",
-    "skills": [
-        "Achievements",
-        "Work Experience",
-        "Education",
-        "Bachelors in Film Production",
-        "Brunel University",
-        "Second Class 2:1",
-        "October 2020 - December 2021",
-        "A levels",
-        "Bentley Wood Sixth Form",
-        "2016-2018",
-        "Anthropology   B",
-        "Arabic   B",
-        "Art   B",
-        "Philosophy   C",
-        "Languages: Fluent in English and Arabic",
-        "Completed Grade 5 in Piano",
-        "Completed Academy of Cheese Level One Associate course",
-        "Completed BLOM Beirut Charity Marathon Youth race in",
-        "2011 and 2012"
-    ],
     "education": [
         {
-            "university_name": "Bachelors in Film Production",
-            "course_name": "Brunel University",
+            "university_name": "Bachelors in Film Production\nBrunel University",
+            "course_name": "ber 2020",
             "dates_attended": "October 2020 - December 2021",
             "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Second Class 2:1",
-            "course_name": "October 2020",
-            "dates_attended": "December 2021",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "A levels",
-            "course_name": "Bentley Wood Sixth Form",
-            "dates_attended": "2016-2018",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "2016",
-            "course_name": "2018",
-            "dates_attended": "2011 and 2012",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Anthropology   B",
-            "course_name": "Arabic   B",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Art   B",
-            "course_name": "Philosophy   C",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Languages: Fluent in English and Arabic",
-            "course_name": "Completed Grade 5 in Piano",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Completed Academy of Cheese Level One Associate course",
-            "course_name": "Completed BLOM Beirut Charity Marathon Youth race in",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "2011 and 2012",
-            "course_name": "",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
+            "additional_info": [
+                "Second Class 2:1\nOcto - December 2021\nA levels\nBentley Wood Sixth Form\n2016-2018\nAnthropology   B\nArabic   B\nArt   B\nPhilosophy   C\nLanguages: Fluent in English and Arabic\nCompleted Grade 5 in Piano\nCompleted Academy of Cheese Level One Associate course\nCompleted BLOM Beirut Charity Marathon Youth race in \n2011 and 2012"
+            ]
         }
     ],
     "work_experience": [],

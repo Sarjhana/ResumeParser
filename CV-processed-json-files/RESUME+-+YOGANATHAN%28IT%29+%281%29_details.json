@@ -2,9 +2,21 @@
     "name": "Pottiyapuram",
     "email": "yoganathan781@gmail.com",
     "phone": "+919994113161",
-    "skills": [],
-    "education": [],
-    "work_experience": [],
+    "education": null,
+    "work_experience": [
+        {
+            "company_name": "NPTEL COURSE",
+            "job_title": "\uf0b7",
+            "dates_worked": "",
+            "additional_info": [
+                "Fundamentals of Manufacturing Process\uf020",
+                "\uf0b7",
+                "Fundamental of welding science and technology\uf020",
+                "\uf0b7",
+                "Advanced machining process\uf020"
+            ]
+        }
+    ],
     "linkedin": "",
     "github": ""
 }

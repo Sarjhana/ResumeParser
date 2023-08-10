@@ -2,80 +2,38 @@
     "name": "Manjot Singh",
     "email": "manjotsingh844.ms@gmail.com",
     "phone": "",
-    "skills": [
-        "Programming Languages: Python, C++, SQL, JAVA, Solidity, HTML/CSS, JavaScript, LUA",
-        "Web Development:",
-        "Flask, NodeJS, ReactJS, ExpressJS, SQL, MongoDB",
-        "Machine Learning:",
-        "Tensorflow, OpenCV, Numpy, Pandas, Matplotlib",
-        "PUBLICATIONS",
-        "Ensemble Image Explainable AI (XAI) Algorithm for Face Morphing Attack Detection (Deep Learning): Aim to",
-        "be published by Pattern Recognition Journal.",
-        "ACHIEVEMENTS",
-        "April 2021: Finished in Top 10 teams in MLH Season of 2021, HackVerse 2.0-NITK out of 2800+ participants organized by",
-        "NIT Surathkal.",
-        "April 2019: JEE Mains - Secured all india percentile of 98.62",
-        "Solved 650+ Problems based on Data Structures and Algorithms on Leetcode."
-    ],
     "education": [
         {
-            "university_name": "Degree/Certificate",
-            "course_name": "Year",
+            "university_name": "2023\nNetaji Subhas University",
+            "course_name": "",
             "dates_attended": "Year",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Institute",
-            "course_name": "CGPA/%",
-            "dates_attended": "2019-2023",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "B.Tech: Computer Science and Engineering (AI)",
-            "course_name": "2019",
-            "dates_attended": "2023",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Netaji Subhas University of Technology, Delhi",
-            "course_name": "7.89/10",
-            "dates_attended": "2016",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "AISSCE (Class XII)",
-            "course_name": "2018",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Sukho Khalsa Senior Secondary School, Delhi",
-            "course_name": "85%",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "AISSE (Class X)",
-            "course_name": "2016",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Dayanand Adarsh Vidyalaya, Delhi",
-            "course_name": "9.6/10",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
+            "marks_or_percentage": "7.89/10",
+            "additional_info": [
+                "of Technology, Delhi\n7.89/10\nAISSCE (Class XII)\n2018\nSukho Khalsa Senior Secondary School, Delhi\n85%\nAISSE (Class X)\n2016\nDayanand Adarsh Vidyalaya, Delhi\n9.6/10"
+            ]
         }
     ],
-    "work_experience": [],
+    "work_experience": [
+        {
+            "company_name": "\u2013 Fixed various bugs that were encountered by the users & worked on the Frontend and Backend part of the software.",
+            "job_title": "\u2013 Developed Plugin using LUA and python based backend server for culling in Lightroom Platform.",
+            "dates_worked": "",
+            "additional_info": [
+                "\u2013 Technology - Angular, Electron, LUA, Python, Web Development",
+                "\u2022 Subject Matter Expert(Computer Science)",
+                "Chegg Inc.",
+                "Apr\u201921 - Jan\u201922",
+                "\u2013 Solved 350+ questions with detailed explanation on various Computer Science concepts that includes Data Structures,",
+                "Object Orientation Programming ,Operating Systems, Database Management Systems etc.",
+                "\u2013 Clarified follow-up queries of students via comments and forum discussions.",
+                "\u2022 Frontend Development Intern",
+                "Evren Global Solution Pvt. Ltd.",
+                "Jan\u201921 - Feb\u201921",
+                "\u2013 Handled FrontEnd part, worked on their landing page and additionally making it suitable to view from mobile devices.",
+                "\u2013 Technology - ReactJS, Redux"
+            ]
+        }
+    ],
     "linkedin": "",
     "github": ""
 }

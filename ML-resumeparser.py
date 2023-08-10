@@ -256,11 +256,16 @@ def extract_details_from_text(text):
 
     if 'Education' in sections:
         education_text = sections["Education"]
+        print(education_text)
         education_details = extract_education_section(education_text)
+    else:
+        education_details = None
         
     if 'Work Experience' in sections:
         work_experience_text = sections["Work Experience"]
         work_experience_details = extract_work_experience_section(work_experience_text)
+    else:
+        work_experience_details = None
 
 
     details = {
@@ -287,10 +292,10 @@ def save_details_to_json(details, output_file, output_directory):
         json.dump(details, f, indent=4)
 
 def main():
-    input_directory = '/Users/sarjhana/Projects/Campuzzz/Testing'  # Specify the directory containing the PDF files
-    output_directory_txt = '/Users/sarjhana/Projects/Campuzzz/CV-text-files-test'  # Specify the desired output directory for text files
-    output_directory_csv = '/Users/sarjhana/Projects/Campuzzz/CV-processed-csv-files-test'  # Specify the desired output directory for CSV files
-    output_directory_json = '/Users/sarjhana/Projects/Campuzzz/CV-processed-json-files-test' # Specify the desired output directory for JSON files
+    input_directory = '/Users/sarjhana/Projects/Campuzzz/CV Archive'  # Specify the directory containing the PDF files
+    output_directory_txt = '/Users/sarjhana/Projects/Campuzzz/CV-text-files'  # Specify the desired output directory for text files
+    output_directory_csv = '/Users/sarjhana/Projects/Campuzzz/CV-processed-csv-files'  # Specify the desired output directory for CSV files
+    output_directory_json = '/Users/sarjhana/Projects/Campuzzz/CV-processed-json-files' # Specify the desired output directory for JSON files
     
     # Create a single text file to store all the converted text
     all_text_file = '/Users/sarjhana/Projects/Campuzzz/all_resumes_text.txt'

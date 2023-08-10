@@ -2,19 +2,29 @@
     "name": "Mohammed Movein Beig",
     "email": "Movein96106@gmail.com",
     "phone": "+19182917362",
-    "skills": [
-        "Languages",
-        "\uf076 English                        \u25cf \u25cf \u25cf \u25cf",
-        "\uf076 Telugu                         \u25cf \u25cf",
-        "\uf076 Hindi                                                  \u25cf \u25cf",
-        "\uf076 Kananda                      \u25cf",
-        "Address :-  # Divya Panchami",
-        "App, 4th main road, Thayappa",
-        "garden, Bilekahalli, Bangalore-",
-        "560076."
+    "education": null,
+    "work_experience": [
+        {
+            "company_name": "Hadoop, Hive, Pig, and Spark. Proficient in Python, MATLAB, SAS, R, and SQL.",
+            "job_title": "Experience",
+            "dates_worked": "April \u201923  -",
+            "additional_info": [
+                "Present",
+                "Data Science consultant at Rubixe AI Consulting ( Bangalore)",
+                "\u2022 Fulfilled all data science duties for a high-end capital firm.",
+                "\u2022 Created and presented models for potential holdings to fund managers.",
+                "Achieved 20% better returns",
+                "Academics",
+                "2017-2021",
+                "Vemana Institute of Technology, BE (MECH)",
+                "CGPA : 7.0/10",
+                "2015 - 2017",
+                "Narayana Junior College, PUC (XI \u2013 XII)  88%",
+                "2015",
+                "Keshava Reddy School, SSC (X) 83%"
+            ]
+        }
     ],
-    "education": [],
-    "work_experience": [],
     "linkedin": "",
     "github": ""
 }

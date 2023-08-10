@@ -2,26 +2,15 @@
     "name": "banipreet kaur",
     "email": "banipreetkaur31@gmail.com",
     "phone": "",
-    "skills": [
-        "English",
-        "Arts & Crafts",
-        "Performing Arts",
-        "Baking",
-        "Cooking",
-        "Communication",
-        "Teaching",
-        "Leadership",
-        "Paper Craft",
-        "E-Learning",
-        "banipreet kaur - page 3"
-    ],
     "education": [
         {
-            "university_name": "professional with a Commerce",
-            "course_name": "with business maths focused in Commerce from Adarsh Vidyalaya High School",
-            "dates_attended": "India.",
+            "university_name": "page 2\nEducation\nSri Guru Tegh Bahadur Khalsa College",
+            "course_name": "Bachelor",
+            "dates_attended": "9 months",
             "marks_or_percentage": "",
-            "additional_info": ""
+            "additional_info": [
+                "'s degree\nOct 2021 - Oct 2024\nAdarsh Vidyalaya High School - India\nHigher Education, Commerce\nJun 2019 - Jun 2021\nS S MOTA SINGH MODEL SCHOOL\nPrimary and Secondary Education\n2009 - 2019"
+            ]
         }
     ],
     "work_experience": [],

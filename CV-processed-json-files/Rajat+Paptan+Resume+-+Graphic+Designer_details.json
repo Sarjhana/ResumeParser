@@ -2,57 +2,7 @@
     "name": "Hindi",
     "email": "paptanrajat@gmail.com",
     "phone": "+919016515154",
-    "skills": [
-        "& Expertise",
-        "Language",
-        "Responsible for the daily design activities of the commercial project",
-        "Developed environment modeling for a game in Autodesk 3Ds max",
-        "Created indoor lighting for a commercial complex",
-        "Designed graphic content for digital marketing",
-        "Graphic Designer Intern",
-        "2015 - 2016",
-        "Maya Academy of Advanced Cinematics",
-        "https://www.behance.net/gall",
-        "ery/167051005/Portfolio",
-        "Portfolio Link"
-    ],
-    "education": [
-        {
-            "university_name": "+91",
-            "course_name": "9016515154",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Phone",
-            "course_name": "paptanrajat@gmail.com",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Email",
-            "course_name": "Rajat Paptan",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "G r a p h i c  D e s i g n e r",
-            "course_name": "Creative Graphic Designer with talent for developing unique custom artwork. Detail",
-            "dates_attended": "oriented, organized and meticulous individual who follows innovative approach to ideas",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "and concept development. Works at fast pace to meet tight deadlines. Enthusiastic",
-            "course_name": "team player ready to contribute to company success.",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        }
-    ],
+    "education": [],
     "work_experience": [],
     "linkedin": "",
     "github": ""

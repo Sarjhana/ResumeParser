@@ -2,69 +2,34 @@
     "name": "Pilani",
     "email": "akshay2dhingra@gmail.com",
     "phone": "+917424882669",
-    "skills": [
-        ": Python | MongoDB | SQL | Node.js | C++ | DSA | Django",
-        "Interests: Analytics, Personal Finance, BasketBall, Gaming."
-    ],
-    "education": [
+    "education": [],
+    "work_experience": [
         {
-            "university_name": "Birla Institute of Technology and Sciences, Pilani",
-            "course_name": "Pilani, RJ",
-            "dates_attended": "June 2022",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "BE in Mechanical Engineering :  (GPA: 7.30)",
-            "course_name": "Graduation Date: June 2022",
-            "dates_attended": "May 2018",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "\u25cf",
-            "course_name": "Organizations: Marudhara Cultural Assoc, BasketBall.",
-            "dates_attended": "May 2016",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Jayshree Periwal High School, Jaipur",
-            "course_name": "Jaipur, RJ",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Higher Secondary Certificate, CBSE: (Percentage: 90.4)",
-            "course_name": "Graduation Date: May 2018",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Delhi Public School, Jodhpur",
-            "course_name": "Jodhpur, RJ",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Secondary School Certificate, CBSE: (CGPA : 10)",
-            "course_name": "Graduation Date: May 2016",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "\u25cf",
-            "course_name": "Awards/Activities : Table Tennis, BasketBall.",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
+            "company_name": "Deployed Python Scripts to migrate data of  ~10 Lacs users from SQL Database to MongoDB database.",
+            "job_title": "\u25cf",
+            "dates_worked": "",
+            "additional_info": [
+                "Created APIs to reduce the TAT of user\u2019s information by 30%, in turn created a study plan in real time for",
+                "students using Nodejs.",
+                "\u25cf",
+                "Wrote a listener to generate dynamic links using python saving ~4 hrs of daily man work.",
+                "\u25cf",
+                "Designed a dashboard to generate a report for ~50 schools on the basis of students data of questions played",
+                "using SQL, MongoDB and Python.",
+                "Questt",
+                "Bengaluru, KA",
+                "Tech Intern",
+                "January 2022 - June 2022",
+                "\u25cf",
+                "Orchestrated smooth deployment of daily notifications for ~2 Lacs users of the app.",
+                "\u25cf",
+                "Segregated and visualized data metrics on DAU of the app with the help of tools like Advanced excel, SQL,",
+                "and Redash.",
+                "\u25cf",
+                "Organized CRM data funnel with help of MoEngage, Google Analytics, and excel."
+            ]
         }
     ],
-    "work_experience": [],
     "linkedin": "",
     "github": ""
 }

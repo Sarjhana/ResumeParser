@@ -2,64 +2,26 @@
     "name": "Badiyani",
     "email": "hiralbadiyani452@gmail.com",
     "phone": "+918347294595",
-    "skills": [
-        "Writing",
-        "Social Media Marketing",
-        "Communication",
-        "Graphic Designing",
-        "Strategy & Branding",
-        "Contact",
-        "+91 8347294595",
-        "hiralbadiyani452@gmail.com",
-        "https://hiralbadiyani452.journoportfolio.com/",
-        "Content/Copy Writer + Social Media",
-        "Hiral Badiyani",
-        "Experienced content writer, skilled in crafting effective",
-        "website copy, blogs, and product descriptions, with",
-        "added proficiency in social media management.",
-        "Passionate about helping clients connect with their",
-        "target audience and achieve their marketing goals.",
-        "Committed to delivering top-notch results and a",
-        "valuable asset to any marketing team."
-    ],
-    "education": [
+    "education": [],
+    "work_experience": [
         {
-            "university_name": "",
-            "course_name": "2019",
-            "dates_attended": "Present",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Started out as a Content Writer in 2019 and upskilled",
-            "course_name": "myself constantly to now cater to my clients with",
-            "dates_attended": "2019",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Content/Copywriting as well as Social Media Management.",
-            "course_name": "Industries worked with: Travel, Hospitality. Digital",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Marketing, Non",
-            "course_name": "Profits, E",
-            "dates_attended": "commerceEducation, and so",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "on..",
-            "course_name": "Freelance Writer + Social Media Manager",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
+            "company_name": "Saurashtra University",
+            "job_title": "Bachelor of Commerce",
+            "dates_worked": "2017-2019",
+            "additional_info": [
+                "Ahmedabad Univeristy",
+                "Master's in Business Administration",
+                "(Marketing & Finance)",
+                "Nov 2022- May 2023/ Ahmedabad International School",
+                "Social Media Manager",
+                "Worked on Social Media Marketing",
+                "Created a Process for Content flow, creating a content",
+                "strategy, Branding, and Planning the content Drumbeats.",
+                "Managing Content Creation and engagement on various",
+                "Platforms."
+            ]
         }
     ],
-    "work_experience": [],
     "linkedin": "",
     "github": ""
 }

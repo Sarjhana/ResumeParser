@@ -1,46 +1,39 @@
 {
-    "name": "",
+    "name": "Unknown",
     "email": "",
     "phone": "",
-    "skills": [],
     "education": [
         {
-            "university_name": "Institute of Chartered Accountants of India",
-            "course_name": "Chartered Accountant\u00a0\u00a0\u00b7\u00a0(February 2022)",
+            "university_name": "Sri Chaitanya Junior College",
+            "course_name": "Madhapur\nIntermediate",
             "dates_attended": "February 2022",
             "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Yeshas Academy",
-            "course_name": "IPCC,\u00a0Commerce\u00a0\u00b7\u00a0(August 2016",
-            "dates_attended": "May 2017)",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Sri Chaitanya Junior College, Madhapur",
-            "course_name": "Intermediate,\u00a0MEC\u00a0\u00b7\u00a0(March 2014",
-            "dates_attended": "March 2016)",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Montessori English Medium High School",
-            "course_name": "\u00b7\u00a0(2005",
-            "dates_attended": "2014)",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "",
-            "course_name": "Page 1 of 1",
-            "dates_attended": "August 2016",
-            "marks_or_percentage": "",
-            "additional_info": ""
+            "additional_info": [
+                ", ,\u00a0MEC\u00a0\u00b7\u00a0(March 2014\u00a0-\u00a0March 2016)\nMontessori English Medium High School\n\u00a0\u00b7\u00a0(2005\u00a0-\u00a02014)\n\u00a0\nPage 1 of 1"
+            ]
         }
     ],
-    "work_experience": [],
+    "work_experience": [
+        {
+            "company_name": "Brane Enterprises Pvt Ltd",
+            "job_title": "Associate Solution Leader",
+            "dates_worked": "February 2023\u00a0-\u00a0Present\u00a0(6 months)",
+            "additional_info": [
+                "Hyderabad, Telangana, India",
+                "EY",
+                "5 years 6 months",
+                "Tax Consultant",
+                "February 2022\u00a0-\u00a0January 2023\u00a0(1 year)",
+                "India",
+                "Analyst",
+                "August 2020\u00a0-\u00a0February 2022\u00a0(1 year 7 months)",
+                "India",
+                "Articleship intern",
+                "August 2017\u00a0-\u00a0August 2020\u00a0(3 years 1 month)",
+                "Hyderabad, Telangana, India"
+            ]
+        }
+    ],
     "linkedin": "",
     "github": ""
 }

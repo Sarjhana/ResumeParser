@@ -2,73 +2,39 @@
     "name": "Arundhati Nandi",
     "email": "arundhatinandi93@gmail.com",
     "phone": "+918420173594",
-    "skills": [
-        "Softwares: InDesign | Final Cut Pro | Canva | Microsoft Office - Word, Excel, PowerPoint",
-        "Extra Curricular Activities",
-        "Technical Member, \"Ad-Adda\", Marketing Communication Event organized by The Heritage Academy, Kolkata.",
-        "Actively participated in a Short Film Festival, \"Mini Input\", organized by the Department of Media Science from",
-        "The Heritage Academy.",
-        "Completed 4th year in Fine Arts (Painting) from Pracheen Kala Kendra."
-    ],
     "education": [
         {
-            "university_name": "2019",
-            "course_name": "2021",
+            "university_name": "2019\nRani Birla Girls\u2019 College",
+            "course_name": "BA in Journalism and Mass Communication",
             "dates_attended": "2019 - 2021",
             "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "The Heritage Academy, Kolkata (MAKAUT)",
-            "course_name": "MS in Media Science, Grade: 8.42/10",
-            "dates_attended": "2016 - 2019",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "2016",
-            "course_name": "2019",
-            "dates_attended": "2014",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Rani Birla Girls\u2019 College, University of Calcutta",
-            "course_name": "BA in Journalism and Mass Communication (Honours)",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "2016",
-            "course_name": "BDM International, CBSE",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "AISSCE",
-            "course_name": "Commerce with Business Studies (10+2)",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "2014",
-            "course_name": "Holy Cross School, CISCE",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "ICSE (10th)",
-            "course_name": "Freelance",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
+            "additional_info": [
+                ", University of Calcutta\n (Honours)\n2016\nBDM International, CBSE\nAISSCE - Commerce with Business Studies (10+2)\n2014\nHoly Cross School, CISCE\nICSE (10th)\nFreelance Experience\n\u2022 Social Media Marketing - 3 Domestic B2C clients [ Genre: Jewellery and FMCG Industry ]\n\u2022 Content Writing: Successfully delivered 250+ articles serving 4 Domestic B2C clients [ Genre: Blogs (Fashion,\nTravel, and Technology), Product Promotions, and Website Content ]"
+            ]
         }
     ],
-    "work_experience": [],
+    "work_experience": [
+        {
+            "company_name": "Social Media Marketing Consultant",
+            "job_title": "\u2022 Currently managing 5+ US-based B2B Technology clients specializing in UI/UX, Big Data,",
+            "dates_worked": "",
+            "additional_info": [
+                "Customer Experience, SNOW, and AI/ML.",
+                "\u2022 Social Media Copy Writing and Creative Designing for LinkedIn, Twitter, Instagram, and Facebook.",
+                "\u2022 Client Consulting experience for optimized Marketing Mix and Technology stack.",
+                "\u2022 Tools - Creator Studio | SocialPilot | TweetDeck | Canva",
+                "Oct 2021 -",
+                "Jan 2022",
+                "Mind and Matter",
+                "Social Media Manager",
+                "\u2022 Managed the Social Media accounts of Zee Bangla Cinema, one of the major Bengali Entertainment",
+                "Channels with a follower count of 1.4M.",
+                "\u2022 Planning and Implementing Virtual Campaigns, Creatives, and Content for Facebook and Instagram.",
+                "\u2022 Stakeholder Management across Marketing (Client) and in-house Designing Team.",
+                "\u2022 Campaign Research, Ideation, and Social Media Report."
+            ]
+        }
+    ],
     "linkedin": "",
     "github": ""
 }

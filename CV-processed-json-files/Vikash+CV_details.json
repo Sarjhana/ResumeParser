@@ -2,131 +2,53 @@
     "name": "Complex Coding",
     "email": "vikash0303kumar0303@gmail.com",
     "phone": "+919588299731",
-    "skills": [
-        "from Git-Hub, Geeks-for-Geeks,",
-        "\u27a2 Hacker Rank, Hacker-Earth, Code-forces, Code-chefs and many other platforms.",
-        "\u27a2 In  2016  gradually in 3rd year, I found myself and attract",
-        "towards various algorithm and application of Programming in",
-        "the real world projects.",
-        "\u27a2 In  2017  final year however  real-time projects roles leads",
-        "towards Application of Artificial Intelligence and Machine",
-        "Learning Algorithms and models.",
-        "Higher Secondary school 12th CBSE, PCM and Computer Science,   66%           2012 - 2014",
-        "Kendriya Vidyalaya Danapur Cantt (KVD), Patna",
-        "Secondary School 10th CBSE , Science, Maths And Computer,  10 CGPA,      2010 - 2012",
-        "Sunshine Residential Public School, Maner, Patna",
-        "Personal Details",
-        "Father\u2019s Name - Chandra Bhushan Singh",
-        "Date of Birth - 2nd March 1997"
-    ],
     "education": [
         {
-            "university_name": "",
-            "course_name": "Bachelor of Technology \u2013 B.Tech(Computer Science)  , 71%                              2014 \u2013 2018",
+            "university_name": "2018 \nRajasthan Technical University",
+            "course_name": "basic knowledge of programming languages in",
             "dates_attended": "2014",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Rajasthan Technical University, RTU  ,   Jaipur",
-            "course_name": "\u27a2 In 2014 starts career with interest in basic knowledge of programming languages in",
-            "dates_attended": "2015",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "\u27a2 C, C++, Java, Python, PHP, HTML",
-            "course_name": "CSS, DBMS, SOL, MYSQL, MS Office",
-            "dates_attended": "2016",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "",
-            "course_name": "\u27a2 In 2015 starts some competitive programming skills from Git",
-            "dates_attended": "Hub, Geeks",
-            "marks_or_percentage": "for",
-            "additional_info": "Geeks,"
-        },
-        {
-            "university_name": "\u27a2 Hacker Rank, Hacker",
-            "course_name": "Earth, Code",
-            "dates_attended": "forces, Code",
-            "marks_or_percentage": "chefs and many other platforms.",
-            "additional_info": ""
-        },
-        {
-            "university_name": "",
-            "course_name": "\u27a2 In  2016  gradually in 3rd year, I found myself and attract",
-            "dates_attended": "3rd year",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "towards various algorithm and application of Programming in",
-            "course_name": "the real world projects.",
-            "dates_attended": "2012 - 2014",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "",
-            "course_name": "\u27a2 In  2017  final year however  real",
-            "dates_attended": "time projects roles leads",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "towards Application of Artificial Intelligence and Machine",
-            "course_name": "Learning Algorithms and models.",
-            "dates_attended": "Secondary School 10th",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "",
-            "course_name": "Higher Secondary school 12th CBSE, PCM and Computer Science,   66%           2012",
-            "dates_attended": "2014",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Kendriya Vidyalaya Danapur Cantt (KVD), Patna",
-            "course_name": "Secondary School 10th CBSE , Science, Maths And Computer,  10 CGPA,      2010",
-            "dates_attended": "2012",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Sunshine Residential Public School, Maner, Patna",
-            "course_name": "Personal Details",
-            "dates_attended": "2010 - 2012",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "",
-            "course_name": "Father\u2019s Name",
-            "dates_attended": "Chandra Bhushan Singh",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Date of Birth",
-            "course_name": "2nd March 1997",
-            "dates_attended": "March 1997",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "",
-            "course_name": "",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
+            "marks_or_percentage": "66%",
+            "additional_info": [
+                ", RTU  ,   Jaipur \n \n\u27a2 In 2014 starts career with interest in   \n\u27a2 C, C++, Java, Python, PHP, HTML-CSS, DBMS, SOL, MYSQL, MS Office \n \n\u27a2 In 2015 starts some competitive programming skills from Git-Hub, Geeks-for-Geeks,  \n\u27a2 Hacker Rank, Hacker-Earth, Code-forces, Code-chefs and many other platforms. \n \n\u27a2 In  2016  gradually in 3rd year, I found myself and attract \ntowards various algorithm and application of Programming in \nthe real world projects. \n \n\u27a2 In  2017  final year however  real-time projects roles leads \ntowards Application of Artificial Intelligence and Machine \nLearning Algorithms and models. \n \n         \n      Higher Secondary school 12th CBSE, PCM and Computer Science,   66%           2012 - 2014 \n    Kendriya Vidyalaya Danapur Cantt (KVD), Patna \n \n \n \nSecondary School 10th CBSE , Science, Maths And Computer,  10 CGPA,      2010 - 2012 \nSunshine Residential Public School, Maner, Patna \n \n \nPersonal Details \n \nFather\u2019s Name - Chandra Bhushan Singh \nDate of Birth - 2nd March 1997"
+            ]
         }
     ],
-    "work_experience": [],
+    "work_experience": [
+        {
+            "company_name": "1 year of experience in  online coding teaching in C ,C++, Java, Python, HTML-CSS, and other programming Languages.",
+            "job_title": "Programming Knowledge & Skills",
+            "dates_worked": "\u27a2 C, C++, Java, Python, PHP, DBMS, SQL, NoSQL,  MYSQL, HTML-CSS, MS Office, Artificial Intelligence Algorithms,",
+            "additional_info": [
+                "Machine Learning Models.",
+                "",
+                "Brief about Programming Skills",
+                "",
+                "\u27a2 Deep Understanding of Basic Concepts of Syntax and Data Types.",
+                "\u27a2 Object Oriented programming (OOPs) concepts.",
+                "\u27a2 Decision control Instructions, Strings,  Arrays, Pointers, Functions, Recursion,",
+                "Structures, File Input /Output etc\u2026",
+                "\u27a2 Uses of common Python Libraries :- Pandas, Numpy, Keras, TensorFlow, Scikit-",
+                "Learn, Matplotlib, SciPy, Theano, PyGame, PyTorch, PyBrain and many more\u2026",
+                "\u27a2 Uses of all database management systems :- Hirerarchical, Network,Relational,",
+                "Object-Oriented, Graph, ER Model, Document, NoSQL database management",
+                "systems.",
+                "\u27a2 Uses of HTML concepts  to develope Front end and Backend  Web pages.",
+                "Categories of HTML :- Transitional, Strict,frameset.",
+                "\u27a2 Uses of MS Office 365 Tools :- Word, Powerpoint, Access, Ecxel, Publisher,",
+                "OneNote, Outlook, OneDrive , Microsoft Team.",
+                "",
+                "Brief about AI & ML Algorithm and Models Skills",
+                "",
+                "\u27a2 Types of Learning In AI concept uses are :- 1.Artificial Narrow Intelligence (ANI)",
+                "2.Artificial General Intelligence (AGI)  3.Artificial Super Intelligence (ASI)",
+                "",
+                "\u27a2 Type Of AI System concept learned:- 1.Reactive Machine AI   2.Limited Memory AI",
+                "3.Theory Of Mind AI   4.Self-aware AI.",
+                "",
+                "\u27a2 Some domains of AI used to solve real-world"
+            ]
+        }
+    ],
     "linkedin": "",
     "github": ""
 }

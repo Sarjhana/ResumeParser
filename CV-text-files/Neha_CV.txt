@@ -1,0 +1,474 @@
+NEHA BARANWAL
+Ph.D (Human-Robot Interaction), Post-doc (Robot-Robot Collaboration)
+� baranwal.neha24@gmail.com
+� +919721397457
+� Hyderabad, India
+� https://scholar.google.co.in/citations?user=MBgGDPYAAAAJhl=en
+� https://github.com/Neha-Baranwal
+EXPERIENCE
+Senior AI Researcher
+Kaliber Labs, India
+� February 2022 – Ongoing
+� Hyderabad, India
+Kaliber labs is a U.S. based startup that deals in U.S. healthcare sys-
+tems. Here I am working as a senior ai researcher where my work is
+to design the architecture of the project and assure its delivery.
+• To hire more people into the team. Work allocation, monitoring
+client deliveries, and identifying the gaps in the current process
+ﬂow to propose machine learning solutions.
+• Out of body segment classiﬁcation in surgery videos: Given the
+endoscopy surgery videos, the task is to classify body segments
+that are not part of the body using vgg-16 and ResNet-50. Here
+we also applied diﬀerent augmentation techniques scaling rota-
+tion etc.
+• Scene change detection: Given the endoscopy video we try to
+ﬁnd out where there is a change on the basis of anatomy and
+tool. In this, we combined tool, anatomy and bad frame model to
+get the proper results.
+• Pathology Segmentation: Given the endoscopy video we look for
+the pathology part and segment it. We used MaskRCNN, U-Net
+model to get the proper segmentation.
+ML/DS thesis supervisor
+UpGrad, India
+� January 2021 – Ongoing
+� Part-Time
+Upgrad is an education learning platform. It provides various courses
+such as MBA, MS, Deploma etc. in ML/DS/AI.
+• Supervising students in their master thesis.
+Mentor
+Great Learning, India
+� January 2022 – Ongoing
+� Part-Time
+Great Learning is an educational learning platform. It provides vari-
+ous courses such as MBA, MS, diploma, etc. in ML/DS/AI.
+• Mentoring students in their projects.
+• Taking sessions related to projects.
+Senior Researcher
+Montpellier University, France
+� Nov 2020 – December 2021
+� Montpellier, France
+I am associated with the electronics lab (LIRMM) and worked on
+seatizen project. As a part of the project, I worked on the classiﬁca-
+tion of marine species and checked the health of the sea.
+EDUCATION
+Ph.D. in Human-Robot Interaction
+Indian Institute of Information Technology,
+Allahabad, India
+� Nov2011 – Feb2017 � CGPI: 9.0
+Thesis title: On eﬀective human-robot inter-
+action using multimodel techniques.
+M.Tech. in Computer Science
+KIIT University, Bhubaneswar, India
+� Jul2009 – Jun2011
+� CGPI: 8.89
+Thesis title: Spread spectrum based audio
+watermarking techniques.
+M.Sc. in Computer Science
+Allahabad University, Allahabad, India
+� Jul2007 – Jun2009
+� Per: 68%
+COURSE WORK
+Soft Computing
+Image Processing
+Robotics & Industrial Automation
+Computer Vision
+Pattern Recognition
+Research Methodology
+SKILLS
+Machine Learning
+○ ○ ○ ○ ○
+Computer Vision
+○ ○ ○ ○ ○
+Deep Leaning
+○ ○ ○ ○ ○
+Natural Language Processing
+○ ○ ○ ○ ○
+Git
+○ ○ ○ ○ ○
+Jira
+○ ○ ○ ○ ○
+Slack
+○ ○ ○ ○ ○
+Docker
+○ ○ ○ ○ ○
+• Marine species classiﬁcation: Given the RGB images and their
+meta data we classiﬁed marine species such as sea grass, sea cu-
+cumber, ﬁsh, turtle etc. using ResNet-50, DensNet.
+• Deep learning optimization: Given the deep learning algorithm
+we optimized inferencing upto the level where it can be used in
+microelectronic devices.
+Associate Solution Leader
+Brane Enterprises LLP
+� April 2020 – Oct 2020
+� Hyderabad
+Brane is a private Indian startup that deals in AI and Robotics prod-
+ucts, As a leader my responsibilities were:
+• To hire more people into the team. Work allocation, monitoring
+client deliveries, and identifying the gaps in the current process
+ﬂow to propose machine learning solutions.
+• To design the architecture of machine learning solutions.
+• We had developed a no-code platform that helps user to load
+the training population, conﬁgure the hyper parameters and then
+allow training and deploy the model without writing a single line
+of code. Here we used LSTM, graph neural network to make the
+complete eco system.
+Postdoctoral Researcher
+Umea University, Sweden
+� November, 2017 – Jan, 2020
+� Umea, Sweden
+During the postdoc, I worked on humanoid robots. We train them
+to assist humans in the household scenarios.
+• We designed a dialogue based human robot interaction system
+that allows humans, to talk to the robot.
+• A dialogue generation system is added to translate robot’s action
+into the natural language so that they would be understandable.
+Associate Process Manager
+eClerx Services Limited
+� April, 2016 – August, 2017
+� Navi-Mumbai, India
+eClerx is an Indian IT consulting and outsourcing multinational
+company. I worked there as a full stack developer and my job was
+to design and develop NLP, ML solutions. Here i used word2vec,
+globe, Spacy parcer, Baye’s network, SVM. We used image prepro-
+cessing to improve OCR (tresseract, google) accuracy, further to
+integrate these solutions with RPA system. I have supervised junior
+members of the team.
+RESEARCH PROJECTS
+Fusion of gesture and speech for increased accuracy in
+human robot interaction
+Umea University, Sweden
+An approach for decision-level fusion for gesture and speech based
+human-robot interaction (HRI) is proposed. A rule-based method is
+compared with several machine learning approaches. Gestures and
+speech signals are initially classiﬁed using hidden Markov models,
+reaching accuracies of 89.6 percent and 84 percent respectively. The
+rule-based approach reached 91.6 percent while SVM, which was the
+Headless servers
+○ ○ ○ ○ ○
+MOST PROUD OF
+�
+Seatizen Project (2020-2025)
+Selected for the Post-Doc position on
+health monitoring of underwater sea
+species at LIRMM Montpellier, France.
+�
+Postdoc funding from Kemphe Foun-
+dations, Sweden
+Received 2.5 years of research fund-
+ing to pursue my postdoctoral work
+in Human-Robot Interaction at Umea
+University, Sweden.
+�
+Spot Award for project negative news
+analysis
+Selected for spot award at eClerx, In-
+dia.
+�
+DST travel grant, India
+Selected for DST travel grant for at-
+tending 35th IEEE TENCON 2015 con-
+ference held in Macao, china, 1-4 Nov.
+2015 at IIITA, India.
+�
+Best paper award
+My publication got selected for best
+paper award in 3rd IEEE International
+Conference on Advances in Comput-
+ing, Communications, and Informatics
+(ICACCI 2014) at IIITA, India.
+� MHRD, India PH.D Fellowship
+Selected for the Ph.D under the
+robotics and AI lab, IIITA
+PROGRAMMING SKILLS
+Python
+○ ○ ○ ○ ○
+MATLAB
+○ ○ ○ ○ ○
+INVITED TALKS
+An Empirical Review of Calibration
+Techniques for the Pepper Humanoid
+Robot’s RGB and Depth Camera
+Intelligent Systems and Applications.
+� 5th Sept 2019
+� London, England
+Occasion: Presented conference paper in
+IntelliSys 2019.
+Fusion of Gesture and Speech for In-
+creased Accuracy in Human Robot
+Interaction
+best of all evaluated machine learning algorithms, reached an accu-
+racy of 98.2 percent on the test data. A complete framework is de-
+ployed in real time humanoid robot (NAO) which proves the eﬃcacy
+of the system.
+Techniques: Multi-Layer Perceptron, CNN, DWT
+Platform: Python, Choregraphe, TensorFlow.
+Understandable Collaborating Robot Teams
+Umea University, Sweden
+We investigate understandability for teams of robots collaborating to
+solve a common task. We present a novel and ﬂexible solution based
+on Cooperating Distributed Grammar Systems and a multi-agent al-
+gorithm for coordination of actions. The solution is implemented and
+evaluated on three Pepper robots collaborating to solve a task while
+commenting on their own and other robots’ current and planned ac-
+tions.
+Techniques: Cooperating Distributed Grammar System, Multi-
+Agent System, Natural Language Generation.
+Platform: Python, Choregraphe.
+Development of a framework for human–robot interac-
+tions with Indian sign language using possibility theory
+IIIT, Allahabad, India
+This paper demonstrates the capability of NAO humanoid robot to
+interact with hearing impaired persons using Indian Sign Language
+(ISL). Principal contributions of the paper are: wavelet descriptor has
+been applied to extracting moment invariant shape future of hand
+gestures and possibility theory (PT) has been used for classiﬁcation of
+gestures. Preprocessing and extraction of overlapping frames (start
+and end point of each gesture) are the other major events which have
+been solved using background modeling and novel gradient method.
+We have shown that the overlapping frames are helpful for fragment-
+ing a continuous ISL gesture into isolated gestures. These isolated
+gestures are further processed and classiﬁed. During the segmenta-
+tion process some of the geometrical features like shape and orien-
+tation of hand are deformed, which has been overcome by extracting
+a new moment invariant feature through wavelet descriptor. These
+features are then combined with the other two features (orienta-
+tion and speed) and are classiﬁed using PT. Here we use PT in place
+of probability theory because possibility deals with the problem of
+uncertainty and impression whereas probability handles only uncer-
+tainty issues. Experiments have been performed on 20 sentences of
+continuous ISL gestures having 4000 samples where each sentence
+having 20 instances. In this dataset 50
+Techniques: Possibility Theory, Nao Speech Engine, HMM.
+Platform: Matlab, Choregraphe, NAOqi.
+INDUSTRIAL PROJECTS
+Out of body segment classiﬁcation
+Kaliber Labs
+We designed an algorithm that would classify out-of-body segments
+from endoscopy videos. We applied ResNet-50 and CNN+LSTM to
+classify images. Total 50000 images was used where 60 percent is
+used for training and 30 percent was used for validation and 10 per-
+cent was used for testing. Window based smoothing was used as
+postprocessing to get a better result. To handle the datadrift prob-
+lem we trained the model using semi supervised learning approach.
+25th International Conference on Methods
+and Models in Automation and Robotics
+� 24th Aug 2019
+� Międzyzdroje, Poland
+Occasion: Presented conference paper in
+MMAR 2019.
+Deep Learning
+3-Day workshop at LIRMM, Montpellier
+University, France
+� 22nd July–24 July 2021
+� Montpellier, France
+Occasion: Organized 3-day workshop on
+deep learning.
+Understandable human-robot inter-
+action
+Computing science department, Umea Uni-
+versity
+� 18th June 2019
+� Umea, Sweden
+Occasion: Poster presentation in 31st Swedish
+AI Society Workshop.
+Robotic Manipulator and sketch draw-
+ing
+WASP-Wallenberg Foundation
+� 11th April 2018
+� Stockholm, Sweden
+Occasion: Presented live demo in AI4X- Col-
+lecting Ideas and Identifying Challenges for
+Future AI Research in Sweden.
+Robotics
+Department of Electronics and CSE SUIIT,
+Sambalpur University, Burla, Odisha, India
+� 30th April 2021
+� Sambalpur, India
+Occasion: Delivered talk in International
+workshop on recent advancements in elec-
+tronica and computer advancement.
+Deep Learning
+LIRMM, Montpellier University, France
+� 28th June 2021
+� Montpellier, France
+Occasion: Delivered talk at MIC DAY orga-
+nized by Microelectronics department.
+Artiﬁcial Intelligence and the Future
+of Robotics
+Centre for Artiﬁcial Intelligence, Banasthali
+University, Rajasthan, India
+� 22nd March 2021
+� Rajasthan, India
+Occasion: Delivered talk at Faculty Develop-
+ment Programme on Artiﬁcial Intelligence,
+Robotics, and Automation.
+Techniques: Vgg-16, ResNet-50, CNN+LSTM
+Platform: Python, TensorFlow, Keras.
+Scene change detection
+Kaliber Labs
+We are given an endoscopy videos, our task is to identify changes on
+the basis of tool and anatomy. Here we used 4 models (Inside/outside,
+good/bad, anatomy and tool) clubbed together and get the ﬁnal out-
+put which we saved in csv ﬁle where each column represents the
+results of one algorithm. Distance based method is used to identify
+changes presents in csv ﬁle. Smoothing is also used to remove out-
+liers.
+Techniques: Transfer Learning, MASKRCNN, U-Net
+Platform: Python, TensorFlow, Keras.
+Email Classiﬁcation
+Credit Suisse International
+A classiﬁcation system requires two things, features which can rep-
+resent the sample in the feature space (vector form) and classiﬁer
+who will classify these feature to their respective classes. We have
+used bag of words, nGram, and TF-IDF to deﬁne the features while
+Linear, Naïve Bayes, Support Vector Machines are used to classify
+these emails to one of the deﬁned classes. Since email signatures,
+Images etc. are not required in email classiﬁcation. A separate pre-
+processing module is written for email cleansing.
+Techniques: TD-IDF, Bayes (Multinomial, Unigram), Linear Classi-
+ﬁer, SVM.
+Platform: Python, Scikit, Numpy, Beautifulsoup, NLTK, SQL.
+Negative News Scanning
+eClerx Services
+We need to ﬁnd the relative information about the person/organization
+from the given sources(websites) and then estimate that the extract
+information is positive or negative. Here the term negative symbol-
+izes that the entity is involved in money laundering or any illegal ac-
+tivity in the past. We used web scrapping to download the informa-
+tion and then applied anaphora resolution to identify the sentences
+related to the entity. Later we used sentiment analysis over the col-
+lected samples.
+Techniques: TD-IDF, nGram (unigram, bigram, trigram), Logistic Re-
+gression, SVM.
+Platform: Python, Scikit, Numpy, Beautifulsoup, NLTK.
+Intent Classiﬁcation
+Brane enterprises LLP
+Intent Detection and Slot Filling is the task of interpreting user com-
+mands/queries by extracting the intent and the relevant slots. HR
+dataset was considered. The slots are labeled in the BIO (Inside Out-
+side Beginning) format (similar to NER). Encoding was extracted us-
+ing Bert then these encodings was fed into LSTM model to get the
+intent and slot.
+Techniques: Bert, LSTM.
+Platform: Python, Tensorﬂow, Keras.
+SELECTED PUBLICATIONS
+� Journal Articles
+Possibility Theory based Continuous
+Indian Sign Language Gesture Recog-
+nition
+TENCON a premier international technical
+conference of IEEE Region 10
+� 1st Nov 2015
+� Macau, China
+Occasion: Presented conference paper in
+TENCON 2015.
+CERTIFICATIONS
+Social network analysis (SNAW’12)
+Indian Statistical Institute, Kolkata, India
+� 27 June – 28 June 2012
+Occasion: National workshop organized by
+Center for Soft Computing Research.
+Computing Techniques and Applica-
+tions
+Banaras Hindu University, Varanasi, India
+� 1 July – 7 July 2012
+Occasion: National workshop cum training
+program organized by Mathematics Depart-
+ment.
+Machine Learning
+Indian Institute of Technology, Kanpur, India
+� 1 July – 3 July 2013
+Occasion: 1st Indian Workshop organized by
+computer science department.
+Image Processing, Computer Vision
+and Pattern Recognition
+National Institute of Technology Delhi, India
+� 18th June – 22 June 2013
+Occasion: Faculty Development Program
+organized by computer science department.
+PDE Modeling and Computation
+Indian Institute of Technology Madras, India
+� 21 Oct – 25 Oct 2013
+Occasion: DAAD Supported International
+Workshop organized by Department of Math-
+ematics.
+ACADEMIC SERVICES
+• Organizing committee member of “SERB
+sponsored 1st summer school on robotics”,
+organized by IIIT Allahabad.
+• Served as a Publicity Chair in Second In-
+ternational Symposium on Women in
+Computing and Informatics (WCI-2014).
+• Singh, Avinash Kumar, Neha Baranwal, Kai-Florian Richter, Thomas
+Hellström, et al. (2020b). “Verbal explanations by collaborating
+robot teams”. In: Paladyn, Journal of Behavioral Robotics 12.1,
+pp. 47–57.
+• Baranwal, Neha and Gora Chand Nandi (2017a). “A mathematical
+framework for possibility theory-based hidden Markov model”.
+In: International Journal of Bio-Inspired Computation 10.4, pp. 239–
+247.
+• – (2017b). “An eﬃcient gesture based humanoid learning using
+wavelet descriptor and MFCC techniques”. In: International Jour-
+nal of Machine Learning and Cybernetics 8.4, pp. 1369–1388.
+• Baranwal, Neha, Gora Chand Nandi, and Avinash Kumar Singh
+(2017). “Real Time Gesture Based Communication Using Possi-
+bility Theory Based Hidden Markov Model”. In: Computational
+Intelligence 33.4, pp. 843–862.
+• Baranwal, Neha, Avinash Kumar Singh, and Gora Chand Nandi
+(2017). “Development of a Framework for Human–Robot inter-
+actions with Indian Sign Language Using Possibility Theory”. In:
+International Journal of Social Robotics 9.4, pp. 563–574.
+• Baranwal, Neha, Shweta Tripathi, and Gora Chand Nandi (2014).
+“A speaker invariant speech recognition technique using HFCC
+features in isolated Hindi words”. In: International Journal of Com-
+putational Intelligence Studies 3.4, pp. 277–291.
+� Conference Proceedings
+• Singh, Avinash Kumar, Neha Baranwal, and Kai-Florian Richter
+(2020). “A Fuzzy Inference System for a Visually Grounded Robot
+State of Mind”. In: Proceedings of the Europian conference on ar-
+tiﬁcal intelligence, (ECAI 2020), Santiago de Compostela, Spain, 29
+Aug-2 Sept 2020. Spain: ECAI2020.
+• Singh, Avinash Kumar, Neha Baranwal, Kai-Florian Richter, Thomas
+Hellström, et al. (2020a). “Understandable collaborating robot
+teams”. In: International Conference on Practical Applications of
+Agents and Multi-Agent Systems. Springer, pp. 168–178.
+• Baranwal, Neha, Avinash Kumar Singh, and Suna Bench (2019).
+“Extracting primary objects and spatial relations from sentences”.
+In: 11th International Conference on Agents and Artiﬁcial Intelli-
+gence, Prague, Czech Republic, 19-21 February 2019.
+• Baranwal, Neha, Avinash Kumar Singh, and Thomas Hellström
+(2019). “Fusion of gesture and speech for increased accuracy in
+human robot interaction”. In: 2019 24th International Conference
+on Methods and Models in Automation and Robotics (MMAR). IEEE,
+pp. 139–144.
+• Baranwal, Neha, Kumud Tripathi, and GC Nandi (2015). “Possibil-
+ity theory based continuous Indian Sign Language gesture recog-
+nition”. In: TENCON 2015-2015 IEEE Region 10 Conference. IEEE,
+pp. 1–5.
+• Baranwal, Neha, Neha Singh, and GC Nandi (2014). “Indian sign
+language gesture recognition using discrete wavelet packet trans-
+form”. In: 2014 International Conference on Signal Propagation and
+Computer Technology (ICSPCT 2014). IEEE, pp. 573–577.
+• IEEE Professional Student Member.
+LANGUAGES
+Hindi
+○ ○ ○ ○ ○
+English
+○ ○ ○ ○ ○
+French
+○ ○ ○ ○ ○
+Swedish
+○ ○ ○ ○ ○
+REFERENCES
+Prof. G C Nandi
+� Indian Institute of Information Technol-
+ogy, Allahabad, India
+� gcnandi@iiita.ac.in
+Prof. Thomas Hellström
+� Umeå universitet
+� thomas.hellstrom@umu.se
+Declaration
+I hereby declare that the above mentioned particulars are true to the best of my knowledge and belief.
+Date:
+Place:
+Neha Baranwal

@@ -2,8 +2,7 @@
     "name": "MERN",
     "email": "",
     "phone": "",
-    "skills": [],
-    "education": [],
+    "education": null,
     "work_experience": [],
     "linkedin": "",
     "github": ""

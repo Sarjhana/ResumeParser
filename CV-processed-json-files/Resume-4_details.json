@@ -2,22 +2,24 @@
     "name": "Moraya Gosavi Raj",
     "email": "sayaligangapurkar@gmail.com",
     "phone": "+917498980240",
-    "skills": [
-        "Problem Solving",
-        "Positive Work Ethics",
-        "Creativity",
-        "Teamworking",
-        "Adaptability",
-        "HOBBIES",
-        "Painting",
-        "Making DIY",
-        "Videography",
-        "Travelling",
-        "Photography",
-        "Article Reading"
-    ],
     "education": [],
-    "work_experience": [],
+    "work_experience": [
+        {
+            "company_name": "Chinchwad, Pune, Maharashtra-411033",
+            "job_title": "www.behance.net/sayaligangapurkar",
+            "dates_worked": "",
+            "additional_info": [
+                "+91 - 7498980240",
+                "sayaligangapurkar@gmail.com",
+                "CONTACT",
+                "U I / U X  D E S I G N E R , A R C H I T E C T",
+                "EDIT Institute",
+                "2022-2022",
+                "Conducted initial site visits to assess client needs.",
+                "Drafted blueprints and designs for new construction"
+            ]
+        }
+    ],
     "linkedin": "",
     "github": ""
 }

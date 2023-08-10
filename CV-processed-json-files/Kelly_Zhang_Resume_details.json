@@ -2,36 +2,7 @@
     "name": "Kelly Zhang",
     "email": "golive.future@gmail.com",
     "phone": "+17856694192",
-    "skills": [
-        "Machine Learning (Python, AWS, GCP, Azure, Keras, Numpy, Scikit-Learn, CI/CD, ChatGPT, GPT4, Stable Diffusion, LLM, Computer",
-        "Vision, NLP, Docker, Kubernetes, LSTM, CNN, RNN, Spacy)",
-        "Full Stack Development (React.js, Angular.js, Node.js, JavaScript, TypeScript, ASP.NET, Flask, PHP, Django, RESTful API, SQL,",
-        "NoSQL, MongoDB, PostgreSQL)",
-        "Programming (Python, C++, C#, Java, JavaScript, R, Scala, Delphi)"
-    ],
-    "education": [
-        {
-            "university_name": "Bachelor's Degree / Computer Science, University of Pittsburgh",
-            "course_name": "\u2022Won the 1st place in programming competition",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "\u2022Explored various aspects of artificial intelligence, including knowledge representation, reasoning,",
-            "course_name": "planning, and expert systems.",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "08/2008 \u2013 08/2012",
-            "course_name": "",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        }
-    ],
+    "education": [],
     "work_experience": [],
     "linkedin": "https://www.linkedin.com/in/kelly-zhang-930752246/",
     "github": ""

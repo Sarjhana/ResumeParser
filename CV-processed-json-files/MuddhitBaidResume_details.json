@@ -2,9 +2,30 @@
     "name": "React JS",
     "email": "",
     "phone": "",
-    "skills": [],
-    "education": [],
-    "work_experience": [],
+    "education": null,
+    "work_experience": [
+        {
+            "company_name": "TAT.",
+            "job_title": "\u2022 Developed a user-friendly flow for workspace management, including inviting new members and managing member",
+            "dates_worked": "",
+            "additional_info": [
+                "roles and settings.",
+                "\u2022 Developed a global search engine with shortcut access to important features anywhere in the application, reducing",
+                "overall turnaround time. Received MVP recognition for completing the project in just four days.",
+                "\u2022 Built the first cut of Creative Analytics engine in less than 2 weeks, which automatically pulls data from platforms",
+                "where campaigns run, understands formats, text, imagery, layouts, in the visuals, allows teams to add",
+                "brand-specific data such as offer or goal, visualises this data with information-rich charts. This attracted a great",
+                "attention among the marketers in industry.",
+                "\u2022 Proficient in a variety of technologies, including MongoDB, ExpressJS, React JS, NodeJS, AWS, TypeScript, and",
+                "Ant Design.",
+                "Technical content writer Intern",
+                "Nov 2020 \u2013 May 2021",
+                "GeeksforGeeks",
+                "Virtual",
+                "\u2022 Crafted multiple articles on demanding topics and received good reviews."
+            ]
+        }
+    ],
     "linkedin": "",
     "github": ""
 }

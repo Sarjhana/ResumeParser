@@ -2,9 +2,30 @@
     "name": "Content Creator",
     "email": "priyanka10051@gmail.com",
     "phone": "",
-    "skills": [],
-    "education": [],
-    "work_experience": [],
+    "education": null,
+    "work_experience": [
+        {
+            "company_name": "Kingston University, UK",
+            "job_title": "BAHons in Fashion Designing",
+            "dates_worked": "Creatively led monthly issues and managed the",
+            "additional_info": [
+                "entire team along with digital marketing",
+                "BOLD MAGAZINE",
+                "Curated, directed and styled monthly shoots",
+                "along with creative articles and social media",
+                "posts.",
+                "FACE MAGAZINE",
+                "Single-handedly took care of the social media",
+                "platform along with in-house shoots and",
+                "events.",
+                "THEVASA",
+                "Indian Institute of Art and Design",
+                "Diploma in Design & Applied Arts",
+                "Let's create",
+                "magic together!"
+            ]
+        }
+    ],
     "linkedin": "",
     "github": ""
 }

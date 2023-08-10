@@ -2,66 +2,18 @@
     "name": "Entri",
     "email": "asad112ali@gmail.com",
     "phone": "+919860140457",
-    "skills": [],
-    "education": [
+    "education": [],
+    "work_experience": [
         {
-            "university_name": "Tanvi Gandhi",
-            "course_name": "Worked on an",
-            "dates_attended": "6 \nweeks",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "8 Part Documentary series as",
-            "course_name": "an editor, AD and assi\ufb06ant",
-            "dates_attended": "annual",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "producer.",
-            "course_name": "Teacher For India",
-            "dates_attended": "Worked",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "as an Assi\ufb06ant Teacher to",
-            "course_name": "class of 4th Graders for 6",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "weeks",
-            "course_name": "Music Ba\ufb06i",
-            "dates_attended": "Worked as a",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "motion graphic arti\ufb06  for their",
-            "course_name": "youtube channel and",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "photographer for their annual",
-            "course_name": "magazine.",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Internships",
-            "course_name": "",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
+            "company_name": "entertainment environments. Highly adept in Adobe Creative Suite, po\ufb06 production process,",
+            "job_title": "and non-linear editing. Possesses excellent time management and organisational skill.",
+            "dates_worked": "",
+            "additional_info": [
+                "ASAD ALI",
+                "Video Editor and Motion Graphic Artist"
+            ]
         }
     ],
-    "work_experience": [],
     "linkedin": "",
     "github": ""
 }

@@ -2,92 +2,37 @@
     "name": "Afaaf Adam",
     "email": "",
     "phone": "",
-    "skills": [
-        "over time while on the job.",
-        "Experience",
-        "Rashu.mv",
-        "Producer + Host",
-        "November 2022\u00a0-\u00a0Present\u00a0(9 months)",
-        "Mal\u00e9, Maldives",
-        "Southpaw Malaysia",
-        "Videographer",
-        "April 2022\u00a0-\u00a0Present\u00a0(1 year 4 months)",
-        "Malaysia",
-        "Freelance",
-        "Content Writer",
-        "2018\u00a0-\u00a0Present\u00a0(5 years)",
-        "Raajje TV",
-        "Video Journalist",
-        "September 2019\u00a0-\u00a0April 2020\u00a0(8 months)",
-        "Mal\u00e9, Maldives",
-        "MarComms Maldives",
-        "Staff Writer",
-        "August 2017\u00a0-\u00a0April 2018\u00a0(9 months)",
-        "Male' City, Maldives",
-        "Page 2 of 3",
-        "What began as a marketing assistant for Taste Magazine - a bi-monthly",
-        "publication covering the Maldives food & beverage industry - soon launched",
-        "a career in writing. This was my first foray into writing as a profession and by",
-        "the end of my time at Taste magazine, I received the chance to be co-editor-",
-        "in-chief on the 5th issue. The experience of working with creative professionals",
-        "inspired me to continue working in the media industry.",
-        "Education",
-        "University of Hertfordshire",
-        "Bachelor of Arts - BA,\u00a0Mass Communication/Media Studies\u00a0\u00b7\u00a0(April",
-        "2020\u00a0-\u00a0December 2023)",
-        "INTI International University & Colleges",
-        "\u00b7\u00a0(2020\u00a0-\u00a02023)",
-        "Centre for Higher Secondary Education",
-        "A-levels,\u00a0Science\u00a0\u00b7\u00a0(May 2012\u00a0-\u00a0July 2014)",
-        "Hiriya School",
-        "O'levels,\u00a0Science\u00a0\u00b7\u00a0(2009\u00a0-\u00a02011)",
-        "Page 3 of 3"
-    ],
     "education": [
         {
-            "university_name": "University of Hertfordshire",
-            "course_name": "Bachelor of Arts",
-            "dates_attended": "BA,\u00a0Mass Communication/Media Studies\u00a0\u00b7\u00a0(April",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "2020",
-            "course_name": "December 2023)",
+            "university_name": "INTI International University",
+            "course_name": "May 2012",
             "dates_attended": "April",
             "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "INTI International University & Colleges",
-            "course_name": "\u00b7\u00a0(2020",
-            "dates_attended": "2023)",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Centre for Higher Secondary Education",
-            "course_name": "A",
-            "dates_attended": "levels,\u00a0Science\u00a0\u00b7\u00a0(May 2012",
-            "marks_or_percentage": "July 2014)",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Hiriya School",
-            "course_name": "O'levels,\u00a0Science\u00a0\u00b7\u00a0(2009",
-            "dates_attended": "2011)",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "",
-            "course_name": "Page 3 of 3",
-            "dates_attended": "December 2023",
-            "marks_or_percentage": "",
-            "additional_info": ""
+            "additional_info": [
+                "& Colleges\n\u00a0\u00b7\u00a0(2020\u00a0-\u00a02023)\nCentre for Higher Secondary Education\nA-levels,\u00a0Science\u00a0\u00b7\u00a0(\u00a0-\u00a0July 2014)\nHiriya School \nO'levels,\u00a0Science\u00a0\u00b7\u00a0(2009\u00a0-\u00a02011)\n\u00a0\nPage 3 of 3"
+            ]
         }
     ],
-    "work_experience": [],
+    "work_experience": [
+        {
+            "company_name": "MarComms Maldives",
+            "job_title": "Staff Writer",
+            "dates_worked": "August 2017\u00a0-\u00a0April 2018\u00a0(9 months)",
+            "additional_info": [
+                "Male' City, Maldives",
+                "",
+                "Page 2 of 3",
+                "",
+                "",
+                "What began as a marketing assistant for Taste Magazine - a bi-monthly",
+                "publication covering the Maldives food & beverage industry - soon launched",
+                "a career in writing. This was my first foray into writing as a profession and by",
+                "the end of my time at Taste magazine, I received the chance to be co-editor-",
+                "in-chief on the 5th issue. The experience of working with creative professionals",
+                "inspired me to continue working in the media industry."
+            ]
+        }
+    ],
     "linkedin": "",
     "github": ""
 }

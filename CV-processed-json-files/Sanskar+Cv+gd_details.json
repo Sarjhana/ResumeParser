@@ -2,93 +2,31 @@
     "name": "Hindi",
     "email": "ksr166402@gmail.com",
     "phone": "",
-    "skills": [
-        ". 3 . Good Communication . 4 . Fast typing.",
-        "LANGUAGE",
-        "1 . English ( conversational ) 2. Hindi ( \ufb02uent )",
-        "EDUCATION",
-        "COLLEGE :-",
-        "Pursuing 3rd year B.com (plain)",
-        "From RPL Maheswari college",
-        "PERSONAL INFORMATION",
-        "Father name - Dilip Medatwal",
-        "Father occupation - business man",
-        "My DOB - 05/11/2002",
-        "Nationality - india",
-        "Status - unmarried",
-        "EXPERIENCE",
-        "COMPANY - lets share it.",
-        "EXPERIENCE - 1 year .",
-        "POST - Video Editor and graphic designer.",
-        "YOUTUBE",
-        "POST - Video Editor",
-        "EXPERIENCE - 2 Year",
-        "Freelancer Video editor and graphic designer -",
-        "EXPERIENCE - 2 year .",
-        "6 month experience in job consultancy",
-        "Post - operation manager.",
-        "EDUCATION",
-        "School :-",
-        "Completed from MP board",
-        "In 2020.",
-        "10th - 57%",
-        "12th - 73%",
-        "HOBBIES",
-        "1. Cycling",
-        "2. Video editing"
-    ],
-    "education": [
+    "education": [],
+    "work_experience": [
         {
-            "university_name": "COLLEGE :",
-            "course_name": "Pursuing 3rd year B.com (plain)",
-            "dates_attended": "Pursuing 3rd year",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "From RPL Maheswari college",
-            "course_name": "PERSONAL INFORMATION",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Father name",
-            "course_name": "Dilip Medatwal",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Father occupation",
-            "course_name": "business man",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "My DOB",
-            "course_name": "05/11/2002",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Nationality",
-            "course_name": "india",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Status",
-            "course_name": "unmarried",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
+            "company_name": "POST - Video Editor and graphic designer.",
+            "job_title": "YOUTUBE",
+            "dates_worked": "",
+            "additional_info": [
+                "POST - Video Editor",
+                "EXPERIENCE - 2 Year",
+                "Freelancer Video editor and graphic designer -",
+                "EXPERIENCE - 2 year .",
+                "6 month experience in job consultancy",
+                "Post - operation manager.",
+                "EDUCATION",
+                "School :-",
+                "Completed from MP board",
+                "In 2020.",
+                "10th - 57%",
+                "12th - 73%",
+                "HOBBIES",
+                "1. Cycling",
+                "2. Video editing"
+            ]
         }
     ],
-    "work_experience": [],
     "linkedin": "",
     "github": ""
 }

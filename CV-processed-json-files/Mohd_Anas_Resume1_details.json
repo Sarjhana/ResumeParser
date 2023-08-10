@@ -2,84 +2,61 @@
     "name": "Mohd Anas",
     "email": "mohdanasra649@gmail.com",
     "phone": "",
-    "skills": [
-        "traveling",
-        "Standup Comedy",
-        "Languages",
-        "English",
-        "Hindi",
-        "Urdu",
-        "Projects",
-        "Breast Cancer",
-        "ML model based on classification,",
-        "Method to predict Breast Cancer,",
-        "using Python.",
-        "Declaration",
-        "\u201cI hereby declare that the contents of my resume",
-        "are accurate to the best of my knowledge and verify",
-        "their authenticity.\u201d",
-        "Mohd Anas",
-        "Delhi"
-    ],
     "education": [
         {
-            "university_name": "",
-            "course_name": "High school",
+            "university_name": "K  Inter College",
+            "course_name": "May 2017",
             "dates_attended": "May 2017",
             "marks_or_percentage": "",
-            "additional_info": ""
+            "additional_info": [
+                "Jul 2016 \u2013  | Pilibhit, India\nIntermediate\nA."
+            ]
         },
         {
-            "university_name": "k.K  Inter College",
-            "course_name": "Jul 2016 \u2013 May 2017 | Pilibhit, India",
+            "university_name": "K Inter College",
+            "course_name": "May2019",
             "dates_attended": "Jul 2018",
             "marks_or_percentage": "",
-            "additional_info": ""
+            "additional_info": [
+                "Jul 2018 \u2013  | Pilibhit,"
+            ]
         },
         {
-            "university_name": "Intermediate",
-            "course_name": "A.K Inter College",
+            "university_name": "India\nCourses\n \n                                                       \n \n \nBCA\nSpringdale College",
+            "course_name": "Management Studies",
             "dates_attended": "2019",
             "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Jul 2018 \u2013 May2019 | Pilibhit, India",
-            "course_name": "Courses",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "",
-            "course_name": "BCA",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Springdale College Of Management Studies, MJPRU",
-            "course_name": "Jul 2019 \u2013 Nov 2022 | Pilibhit, India",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Created a model Online Result System, using php.",
-            "course_name": "Professional",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "",
-            "course_name": "",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
+            "additional_info": [
+                "Of , MJPRU\nJul 2019 \u2013 Nov 2022 | Pilibhit, India\nCreated a model Online Result System, using php.\nProfessional"
+            ]
         }
     ],
-    "work_experience": [],
+    "work_experience": [
+        {
+            "company_name": "Hand on project related to Python. We have created",
+            "job_title": "various models on Python,Flask and MySql.",
+            "dates_worked": "",
+            "additional_info": [
+                "Interests",
+                "",
+                "",
+                "",
+                "",
+                "Cricket",
+                "learning skills",
+                "traveling",
+                "Standup Comedy",
+                "Languages",
+                "",
+                "",
+                "",
+                "",
+                "English",
+                "Hindi",
+                "Urdu"
+            ]
+        }
+    ],
     "linkedin": "",
     "github": ""
 }

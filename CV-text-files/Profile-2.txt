@@ -1,0 +1,151 @@
+ 
+ 
+Contact
+jyotidabas91@gmail.com
+www.linkedin.com/in/jyoti-dabass-
+ph-d-2b747083 (LinkedIn)
+github.com/jyotidabass (Personal)
+Top Skills
+Machine Learning
+Deep Learning
+Fuzzy Logic
+Languages
+Hindi, English, Sanskrit, Punjabi
+Certifications
+Build an App in Android Studio using
+Static Files
+Building Smart Business Assistants
+with IBM Watson
+Improve Efficiency in Asana for
+Project Managers
+Python for Data Science and AI
+Network Data Science with
+NetworkX and Python
+Honors-Awards
+Machine Learning Specialization
+https://www.coursera.org/account/
+accomplishments/specialization/
+certificate/2RJU4KVXCW63
+IBM Data Science Professional
+Certificate, https://www.coursera.org/
+account/accomplishments/
+specialization/certificate/
+WGP85Q8B497Z
+AI for Medicine Specialization
+Introduction to Data Science
+Specialization
+Applied Data Science Specialization
+Publications
+Proposed SRAM Cell Using
+Low Power Schmitt Trigger in
+Subthreshold Region Which Adapts
+Its Own Threshold
+Jyoti Dabass, Ph.D
+IIT Delhi|Sony Research|Data Science| Video,audio,speech, image
+processing| Fuzzy| Deep Learning|Computer Vision|AI
+Gurgaon, Haryana, India
+Summary
+Researcher, Engineer and Head of R&D team with interest in data
+science, analytics, marketing, computer vision, deep learning,
+fuzzy logic, machine learning, artificial intelligence, computer aided
+diagnosis, and natural language processing.
+Career Highlights
+1. Multidisciplinary academic background with qualification, research
+and teaching experience in computer, electrical and electronics
+engineering.
+2. Top 1% of class during all educational degrees.
+3. Completed higher education via competitive selections in public
+and private universities with educational fundings(scholarships) for
+the phd degree and bachelor's degree.
+4.Earned certifications from 500+ MOOCs on data science,
+marketing, machine learning, deep
+learning, image processing, and related courses. 
+5. Worked with more than 100 learners in guiding/mentoring their
+thesis and projects in collaboration with Liverpool John Moore’s
+University, UK and IIT Madras.
+6. Collaborated and shared 800+ GitHub repositories.
+7. Technical reviewer of 50 plus international journals and books.
+Reviewed more than 190 international publications.
+github profile: https://github.com/jyotidabass
+Semantic Scholar:https://www.semanticscholar.org/author/Jyoti-
+Dabass/83462281
+Publons profile: https://publons.com/researcher/3973927/jyoti-
+dabass/
+Google Scholar profile:  https://scholar.google.com/citations?
+user=a7HGcrkAAAAJ&hl=en&oi=ao
+Medium profile: medium. com/@jyoti_98875
+ 
+Page 1 of 3
+ 
+ 
+Segmentation of Breast Density
+Using K-Means  Clustering Algorithm
+Applications of Type II Fuzzy Sets-
+A Mathematical Review on Breast
+Cancer Imaging Modalities
+Applications of Advanced Fuzzy Set
+in Medical Image Analysis: A Review
+A hybrid U-Net model with attention
+and advanced convolutional
+learning modules for simultaneous
+gland segmentation and cancer
+grade prediction in colorectal
+histopathological images
+⁂ Feel free to reach out at jyotidabas91gmail.com for any assistance
+with Natural Language Processing, Machine learning, Data Science,
+Image Processing or Speech Processing, etc.
+Experience
+Buildnetic
+Senior AI Scientist (Research and Development)
+April 2023 - Present (4 months)
+upGrad
+Thesis Supervisor/Subject Matter Expert and Instructor
+December 2021 - Present (1 year 8 months)
+o Worked with more than 100 learners in guiding/mentoring their thesis and
+projects in collaboration with Liverpool John Moore’s University, UK and IIT
+Madras.
+SonyAI
+Researcher
+October 2022 - March 2023 (6 months)
+o Worked on data (text, image, audio and speech signals, techniques
+(supervised, unsupervised, reinforcement and meta-learning).
+o Contribution from data collection to product launch.
+o Contribution to patents, publications, collaborations and providing open
+source research solutions
+Bajaj Capital Ltd
+Head- Image Processing
+January 2022 - September 2022 (9 months)
+Gurugram, Haryana, India
+o Worked on image and text datasets to provide personalized diet
+recommendation system.
+o Worked on stages from data collection to deployment of project.
+The NorthCap University
+Research Scholar
+January 2017 - December 2021 (5 years)
+Gurgaon, India
+o Supervisors: Prof. Madasu Hanmandlu (IIT Delhi), Prof. Rekha Vig (NCU,
+Gurugram)
+ 
+Page 2 of 3
+ 
+ 
+o Subject: Image Processing
+o Remarks: Research work is focused on the analysis of breast cancer
+imaging modalities to detect Cancer. The main objective of the thesis are
+pre-processing (denoising, removal of background, pectoral muscles, labels
+etc. and enhancement), segmentation (clustering), feature extraction and
+classification using fuzzy, machine learning and deep learning techniques.
+Education
+Indian Institute of Technology, Delhi
+Postdoctoral Research Associate, Image Text Video and Audio
+processing · (June 2022 - April 2023)
+The NorthCap University
+Doctor of Philosophy - PhD, Image Processing · (January 2017 - December
+2021)
+J.C. Bose University of Science and Technology, YMCA
+Master of Technology - MTech, Electrical, Electronics and Communications
+Engineering · (2014 - 2016)
+Maharshi Dayanand University
+Bachelor of Technology - BTech, Electronics and communication engineering
+ 
+Page 3 of 3

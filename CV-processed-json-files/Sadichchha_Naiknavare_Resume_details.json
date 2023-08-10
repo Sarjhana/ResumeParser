@@ -2,136 +2,46 @@
     "name": "Sadichchha Naiknavare",
     "email": "sadichchha15@gmail.com",
     "phone": "+12019092021",
-    "skills": [
-        "Positive Attitude | Problem-Solving | Team-Work",
-        "Remote Work | Online Collaboration",
-        "PROFESSIONAL EXPERIENCE",
-        "Quality Inspector",
-        "Mindarika Pvt Ltd",
-        "07/2021 \u2013 03/2022 | Pune, India",
-        "Subject Matter Expert",
-        "Chegg",
-        "08/2020 \u2013 present",
-        "PROFILE",
-        "An ambitious developer with strong command in Java,",
-        "JavaScript, HTML, SQL database, Web API, etc. Constant",
-        "learner and ability to adapt to new technologies and can",
-        "work in a challenging atmosphere. 12000+ hours of Practical",
-        "Coding.",
-        "AWARDS",
-        "2nd prize winner Kirloskar Vasundhara",
-        "Green Collage Clean Collage competition",
-        "(2020)",
-        "A to Z viral news Speech competition 1st",
-        "price winner (2021)",
-        "Zoom Marathon Certificate",
-        "Basic of web Development Certificate",
-        "Course",
-        "SQL Basic And SQL intermediate",
-        "certificate",
-        "PROJECTS",
-        "PharmaEasy.com Clone",
-        "It was a website that give all the imformation",
-        "about medicine.And also help to buy",
-        "medicine.",
-        "GitHub link",
-        "Features:",
-        "Signup | Login | Profile |Cart| Product Section |Checkout &",
-        "Payment |",
-        "Tech Stacks:",
-        "HTML | CSS | JavaScript.",
-        "Areas of responsibility:",
-        "Fixed Navbar",
-        "A responsive header, footer",
-        "A collaborative project Developed within 5 days, with a team",
-        "of 5.",
-        "Kapsi - Online Cab Booking Application",
-        "GitHub link",
-        "Kapsi is a Online Cab Booking Application using Advance",
-        "Java and Spring Boot. It's a REST API for book a cab online",
-        "for trip, schedule a trip, give ratings to driver and many",
-        "more such operations.",
-        "Feature:",
-        "create Account | login Application | create a new trip, book a",
-        "trip, schedule a trip, select driver for trip and give ratings to",
-        "the driver. | Customer update account details ,view the list of",
-        "all customer and can change the status of trip booking. |",
-        "Driver can create a account and login.",
-        "Tech Stack:",
-        "MySql | Spring | SpringBoot | lombok | swagger | Spring-",
-        "mvc | advance-java.",
-        "Areas of responsibility:",
-        "Insert Customer | Get all Customer | Viwe Customer |",
-        "Update | Customer | Delete Customer",
-        "A collaborative project Developed within 5 days, with a team",
-        "of 5."
-    ],
     "education": [
         {
-            "university_name": "Full Stack Web Development ( Full",
-            "course_name": "Time)",
+            "university_name": "Solapur University",
+            "course_name": "Maharashtra\nB.Sc.",
             "dates_attended": "",
             "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Masai School Bengaluru, Karnataka",
-            "course_name": "05/2022 \u2013 present | Bengaluru",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "M.Sc.(Physics)",
-            "course_name": "Solapur University,Solapur",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "07/2019 \u2013 09/2021 | Solapur, Maharashtra",
-            "course_name": "B.Sc.(Physics)",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "K.B.P.Mahavidyalaya, Pandharpur",
-            "course_name": "04/2016 \u2013 05/2019 | Solapur, Maharashtra",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "SKILLS",
-            "course_name": "TECHNICAL SKILLS",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "HTML | CSS | Data Structure | Algorithm | Java | JavaScript  |",
-            "course_name": "MySQL |  HIBERNATE  | Spring",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "SOFT SKILLS",
-            "course_name": "Positive Attitude | Problem",
-            "dates_attended": "Solving | Team",
-            "marks_or_percentage": "Work",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Remote Work | Online Collaboration",
-            "course_name": "",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
+            "additional_info": [
+                ",Solapur\n07/2019 \u2013 09/2021 | Solapur, (Physics)\nK.B.P.Mahavidyalaya, Pandharpur\n04/2016 \u2013 05/2019 | Solapur, Maharashtra"
+            ]
         }
     ],
-    "work_experience": [],
+    "work_experience": [
+        {
+            "company_name": "Mindarika Pvt Ltd",
+            "job_title": "",
+            "dates_worked": "07/2021 \u2013 03/2022 | Pune, India",
+            "additional_info": [
+                "Subject Matter Expert",
+                "Chegg",
+                "08/2020 \u2013 present",
+                "PROFILE",
+                "An ambitious developer with strong command in Java,",
+                "JavaScript, HTML, SQL database, Web API, etc. Constant",
+                "learner and ability to adapt to new technologies and can",
+                "work in a challenging atmosphere. 12000+ hours of Practical",
+                "Coding.",
+                "AWARDS",
+                "2nd prize winner Kirloskar Vasundhara",
+                "Green Collage Clean Collage competition",
+                "(2020)",
+                "A to Z viral news Speech competition 1st",
+                "price winner (2021)",
+                "Zoom Marathon Certificate",
+                "Basic of web Development Certificate",
+                "Course",
+                "SQL Basic And SQL intermediate",
+                "certificate"
+            ]
+        }
+    ],
     "linkedin": "",
     "github": ""
 }

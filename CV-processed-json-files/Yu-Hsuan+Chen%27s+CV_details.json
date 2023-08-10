@@ -2,59 +2,77 @@
     "name": "Durham University",
     "email": "chenyouxuan87@gmail.com",
     "phone": "+12019122019",
-    "skills": [
-        "\uf0b7",
-        "Programming Languages: Python (Basic), SQL",
-        "\uf0b7",
-        "IT: Microsoft words, Microsoft power point, Microsoft excel, Teams, Outlook, Zoom, SEO, SEM",
-        "REFERENCES",
-        "Department Head of O-Bank"
-    ],
     "education": [
         {
-            "university_name": "",
-            "course_name": "2019",
-            "dates_attended": "2021",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Bachelor in Art: Chinese Literature",
-            "course_name": "National Central University, Taiwan",
+            "university_name": "National Central University",
+            "course_name": "many                                                                                \n \n2022",
             "dates_attended": "2019-2021",
             "marks_or_percentage": "",
-            "additional_info": ""
+            "additional_info": [
+                ", Taiwan   \n \n03/2020-09/2020(Cancelled due to Covid-19) \nUniversity of Stuttgart                                            \nExchange Student (with scholarship) \nStuttgart, Ger-"
+            ]
         },
         {
-            "university_name": "",
-            "course_name": "03/2020",
-            "dates_attended": "09/2020(Cancelled due to Covid",
-            "marks_or_percentage": "19)",
-            "additional_info": ""
-        },
-        {
-            "university_name": "University of Stuttgart",
-            "course_name": "Exchange Student (with scholarship)",
+            "university_name": "2023 \nPostgraduate of MSc Marketing \nDurham University",
+            "course_name": "",
             "dates_attended": "2022-2023",
             "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Stuttgart, Germany",
-            "course_name": "2022",
-            "dates_attended": "2023",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Postgraduate of MSc Marketing",
-            "course_name": "Durham University, United Kingdom",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
+            "additional_info": [
+                ", United Kingdom"
+            ]
         }
     ],
-    "work_experience": [],
+    "work_experience": [
+        {
+            "company_name": "Responsible for variable data analysis and visualization, gained by SQL, in",
+            "job_title": "the Salary Transfer Department.",
+            "dates_worked": "",
+            "additional_info": [
+                "\uf0b7",
+                "Responsible for monthly department Self-Inspection of the Financial",
+                "Supervisory Commission.",
+                "\uf0b7",
+                "Supporting the marketing events, such as introducing the latest ESG cards",
+                "by cooperating with the P+ League basketball Public Relations team.",
+                "\uf0b7",
+                "Responsible for making weekly working performance PowerPoint.",
+                "\uf0b7",
+                "Calculating, analyzing and visualizing monthly sales performance by Excel.",
+                "\uf0b7",
+                "Working on different cases with cross-functional communication.",
+                "09/2019-12/2019",
+                "Sales and Customer Services-Ming-Ren Leather, Taipei",
+                "\uf0b7",
+                "Responsible for customer service, such as, introducing our services,",
+                "delivering their leather goods, and communicating with the workers on",
+                "phone.",
+                "\uf0b7",
+                "In charge of developing more customers online by Facebook and",
+                "Instagram and in person, persuading them to purchase our services.",
+                "\uf0b7",
+                "Dealing with clients' arguments about the quality of the services.",
+                "07/2019-08/2019",
+                "Part time assistant-JING-CHI management consulting, Taipei",
+                "\u2022",
+                "Responsible for assignments from the manager.",
+                "\u2022",
+                "Dealing with a government department-Ministry of health and welfare.",
+                "Phone:",
+                "+44 7467 342557",
+                "",
+                "E-Mail:",
+                "chenyouxuan87@gmail.com",
+                "",
+                "Linkedin:",
+                "https://www.linkedin.com/in/yu-",
+                "hsuan-chen-180239242",
+                "Skill Highlights",
+                "\uf0b7 Multitasking",
+                "\uf0b7 Efficiency",
+                "\uf0b7 Communication"
+            ]
+        }
+    ],
     "linkedin": "https://www.linkedin.com/in/yu-",
     "github": ""
 }

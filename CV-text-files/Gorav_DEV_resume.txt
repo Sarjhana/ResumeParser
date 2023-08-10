@@ -1,0 +1,52 @@
+N/A
+N/A
+Gorav Sharma
+India
+sgorav330@gmail.com
++91-9682107690
+in/gorav-sharma-52986a192
+EXPERIENCE
+DevOps Engineer | Spyne | Gurgaon, Haryana | April 2023 - Present
+• Managed AWS infrastructure and EC2 instances, including creating and configuring virtual machines, monitoring resource usage, and troubleshooting issues. 
+• Utilized Terraform to automate the deployment and management of infrastructure resources, including EC2 instances, security groups, load balancers, and 
+more.
+• Configured and managed Pritunl VPN connections for secure remote access, providing users with secure access to company resources from remote locations. 
+• Maintained and monitored Terraform state files to ensure consistency and accuracy of infrastructure resources.
+AWS DevOps Intern | Mactores | Bellevue, Washington | December 2022 - March 2023
+• Preparing for AWS Solutions Architect Associate Exam through materials provided by the company.
+• Completing daily tasks and activities and attending standup calls every day. 
+DevOps Intern | PearlThoughts IT Consulting and Services | Thoothukudi, Tamil Nadu | October 2022 - November 2022
+• Setting up snipe IT on a local machine with Docker, AWS, GitPod and Kubernetes approach. 
+• Creating dumps, asset management system in Snipe IT. 
+• Implement Github Actions for software deployment workflow. 
+Cloud Intern | Kainskep Solutions | Jaipur, Rajasthan | April 2022 - September 2022
+• Implementing practices in Microsoft Azure and managing app deployments in Azure app service.  
+• Selecting and deploying appropriate CI/CD Tools. 
+• Implement automation tools like Docker, Jenkins, Kubernetes, and Argo CD for deployments. 
+PROJECTS
+Text Translator Web App
+• Translate text into multiple languages using Artificial Intelligence and Azure Cloud Cognitive Services. 
+• Flask Framework(Python) for the front end and Azure Cognitive services for the Backend. 
+Smart Garbage Segregation and Management System using IoT
+• The two bins are used to store dry and wet waste respectively. 
+• The program is coded in Embedded C.
+• With the help of Servo motors, the wastes are moved into their respective bins with IR sensors. 
+House Price Prediction(ML project)
+• Predict the price of a house based on feature variables like Area, Parking, Bedrooms, etc. 
+• Uses Linear Regression to train the model. 
+• Evaluate the linear regression model by calculating the parameters such as coefficient of determination, MAE, MSE, RMSE, and mean of residuals, and by 
+checking for homoscedasticity.
+EDUCATION
+B.Tech in Electronics and Communication Engineering | Shri Mata Vaishno Devi University (SMVDU) Katra | Katra,Jammu and 
+Kashmir | 2023 | 8.07
+Higher Secondary (12th) | DS Heritage Scholars School  | Kathua,Jammu and Kashmir | 2019 | 84.4
+SKILLS
+Programming Languages:- Python, C/C++, MATLAB, HTML.
+Tools/Platform:- Docker, Kubernetes, Ansible, Terraform.
+Cloud Services:- Microsoft Azure, GCP, Amazon Web Services(AWS).
+Development:- CI/CD, Linux, GIT, Jenkins, Code Pipelines.
+CERTIFICATIONS
+Microsoft Azure Certified Fundamentals - AZ 900. | 2022
+Microsoft Certified Azure AI Fundamentals - AI 900. | 2022
+Microsoft Certified Security , Compliance and Identity Fundamentals - SC 900. | 2022
+Data Science & Data Analytics Nasscom Assessment Clearance | Nasscom

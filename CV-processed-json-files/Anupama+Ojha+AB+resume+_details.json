@@ -2,103 +2,80 @@
     "name": "Anywhere \n \n \nPersonal Details \n \nDate",
     "email": "anupamaojha.cs12@gmail.com",
     "phone": "+919608596033",
-    "skills": [
-        "."
-    ],
-    "education": [
+    "education": [],
+    "work_experience": [
         {
-            "university_name": "",
-            "course_name": "Bachelor's in Technology, Computer Science (8.9 CGPA)",
-            "dates_attended": "May 2019",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "NRI Institute of information science and technology, Bhopal",
-            "course_name": "Bhopal, Madhya Pradesh",
-            "dates_attended": "May 2023",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "R.G.P.V. University, Bhopal",
-            "course_name": "May 2019 to May 2023",
-            "dates_attended": "March 2016",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "",
-            "course_name": "12th in Science (PCM)",
-            "dates_attended": "May 2018",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Rajkamal Saraswati Vidya mandir Dhanbad",
-            "course_name": "Dhanbad, Jharkhand",
-            "dates_attended": "April 2015 to July 2016",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "CBSE Board: 80%",
-            "course_name": "March 2016 to May 2018",
-            "dates_attended": "more than two year",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "",
-            "course_name": "Diploma In Psychology (Human Behaviour)",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "University of Strathclyde Glasgow (Online Platform)",
-            "course_name": "Accuracy: 83% Grade: \u201cA",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "August 2019 to September 2020",
-            "course_name": "10th in All subjects",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "SSVM Institutions Dhanbad",
-            "course_name": "Baghmara, West Bengal",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "CBSE Board: 10 CGPA",
-            "course_name": "April 2015 to July 2016",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "",
-            "course_name": "Additional Information",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "",
-            "course_name": "Bachelor in Computer Science with distinction and more than two year of",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
+            "company_name": "Netlink Software Pvt. Ltd - Mandideep, Madhya Pradesh",
+            "job_title": "",
+            "dates_worked": "November 2022 to Present",
+            "additional_info": [
+                "\u2022 Analytical understanding of data.",
+                "\u2022 Generation of reports, data Modelling, Data Migration, Data Analysis, and manipulation.",
+                "\u2022 Analytical dashboard and functional testing, manual testing.",
+                "\u2022 Dashboard development",
+                "\u2022 SQL, database (vertica), azure, AWS, RDBMs.",
+                "\u2022 Advanced Excel (VLOOKUP, lookup).",
+                "\u2022 Project management, business requirements (BRD) and KPI Mapping documents.",
+                "\u2022 Fresher Interviews, Project Presentation, Client handling etc.",
+                "",
+                "Trainee Python Developer",
+                "Rack AI Pvt. Ltd - Bhopal, Madhya Pradesh",
+                "March 2022 to October 2022",
+                "\u2022 I was responsible for developing and implementing functional programs in Python language with",
+                "its libraries like pandas, NumPy, skit-learn, (keras, TensorFlow).",
+                "\u2022 In this role, I had to do teamwork with developers to design algorithms and flowcharts.",
+                "\u2022 Along with this, I integrate several software components and third-party modifications in the",
+                "existing program are also observed by me.",
+                "\u2022 I had to create technical documentation for reference and reporting.",
+                "",
+                "\u2022 Data visualization with JustPy",
+                "",
+                "Internship",
+                "NRI Institute of Technology - Bhopal, Madhya Pradesh",
+                "July 2021 to December 2021",
+                "Project work based on Data Analytics and Visualization.",
+                "\u2022 Skill: SQL, python, data visualization and analytics, excel, Functional testing etc",
+                "\u2022 Interview Preparation, Presentation skills, et",
+                "",
+                "",
+                "",
+                "Skills / IT Skills",
+                "",
+                "\u2022 Communication Skills, Presentations, Client Handling",
+                "\u2022 SQL, Microsoft Excel Advances Analysis skills",
+                "\u2022 Python",
+                "\u2022 Pandas, NumPy, Skit-learn Lib",
+                "\u2022 Django",
+                "\u2022 Rest API, Keras, TensorFlow",
+                "\u2022 Data mining",
+                "\u2022 Communication skills",
+                "\u2022 Tableau, Power BI tools",
+                "\u2022 Machine learning",
+                "\u2022 Natural language processing",
+                "\u2022 Computer vision",
+                "\u2022 Big data, Hadoop",
+                "\u2022 Interview Scheduling, Project Management",
+                "\u2022 Functional testing",
+                "\u2022 Data analytics",
+                "\u2022 Artificial Intelligence",
+                "\u2022 Simple Chatbot",
+                "\u2022 Data analysis skills: Data Modelling, Data Migration",
+                "\u2022 Data Manipulation",
+                "",
+                "",
+                "Languages",
+                "",
+                "\u2022 English - Fluent",
+                "\u2022 Hindi - Fluent",
+                "\u2022 Bengali \u2013 Fluent",
+                "",
+                "Online Profile",
+                "",
+                "",
+                "LinkedIn: https://www.linkedin.com/in/anupama-ojha-12b055199"
+            ]
         }
     ],
-    "work_experience": [],
     "linkedin": "https://www.linkedin.com/in/anupama-ojha-12b055199",
     "github": ""
 }

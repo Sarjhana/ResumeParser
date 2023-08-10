@@ -1,0 +1,77 @@
+WORK EXPERIENCE
+ Ibrix Pvt Ltd |Data Analyst Intern                                                          Oct 2021-  Apr 2022
+ROHIT RAI
+DATA SCIENCE|ML AND ALGORITHMS| AZURE|GCP BIG QUERY|ADVANCE EXCEL
+An ambitious and skilled Data Science student with Diverse Experience in Data Analysis as an 
+intern for 6 Months, and 6 Months in academic Data Visualization & ETL Tools, with Over 1 Year 
+in Machine Learning and AI-ANN during Academics career and SQL. 
+NCR, India
+rai13042000@gmail.com
++91 8150005306
+LinkedIn Profile
+Assisting with the collection, organization, and cleaning of data from a variety of sources.
+Using tools such as SQL Workbench, Power BI, and Excel to analyze and interpret data.
+Creating reports, charts, and visualizations to communicate findings to stakeholders.
+Collaborating with team members to identify trends, patterns, and insights in the data.
+Completing other tasks as assigned by the manager.
+ DocVita Inc |Web Developer                                                                  Oct 2020- Jan 2021
+WordPress total admin management of Docvita.com  with Google AdWords campaign and Google Analytics.
+Assisting with the development and maintenance of WordPress websites and applications.
+Writing, testing, and debugging code using languages such as XML, HTML5, and CSS3.
+Implementing features and functionality according to project specifications.
+POC: Bricks Sales Insight using Power BI & MySQL
+Analyze the requirement of the Stack Holder's, Database import into MySQL Workbench, which contains 12000+ rows
+Performed ETL (Extract Transformation Load) using Power BI, Done Data Modeling like Star and Snowflakes Schema
+Performed and cross-checked the values in MySQL Workbench. Created BI reports presenting the data visualization.
+Roles & Responsibilities
+Dec 2021 - Feb 2022
+PROJECT AND RESEARCH
+EDUCATION
+M.Sc. - Computer Applications 'Data Science'
+Symbiosis Institute of Computer Studies and Research (SICSR) 
+Data Analysis using Python|ERD; Machine Learning Algorithms|Computer Vision, Image Processing
+CPA: 7.5
+Garden City University
+Organized Team Lead at ICAIML - 2019, Core Web Development | Python
+Web Developer intern | 3 Months; Relationship Manager | 3 Months
+CGPA: 8.45
+June 2021 - June 2023
+Bangalore, Karnataka
+July 2018 - June 2021
+Pune, Maharashtra
+BCA  - Computer Applications
+Augment Systems Pvt Ltd |Research Analyst                                    Mar 2023- 
+ April 2023
+Conducting research: Conducting research on various topics related to the business using primary and secondary sources, 
+Data collection and analysis: Collecting and analyzing data from various sources using statistical and analytical tools.
+Preparing reports: Preparing reports summarizing research findings, insights, and recommendations clearly and concisely 
+that is easily understandable by business stakeholders.
+Quality assurance: Ensuring research data and analysis accuracy and reliability through quality assurance and testing.
+Research & POC: Heart Diseases Prediction using Machine Learning
+POC for Heart Diseases predictions Analysis can detect whether a patient is having the positive symptoms of diseases or not 
+and comparison done after getting 4 different accuracy result.
+Analyze the requirement of an Independent Variable to perform the analysis. The database is taken from CDC Official 
+Survey Data.
+Performed EDA (Exploratory data analysis) on the entire data. Performed 4 Major Classifiers of ML Algorithms to 
+compare the result better.
+Applied more than three different ML accuracy Boosters & Confusion Matrics as well.
+Roles & Responsibilities
+June '22 - Dec'22
+SKILLS
+Programming Languages: Python
+DL/ML  & It's Algorithms: Time Series,CNN,RNN,LSTM,SVM,DT,Logistic
+Deep Learning Frameworks: TensorFlow, Keras, PyTorch
+Tools: MS Excel (Advance), Power BI, Looker Studio, Tableau, Jupyter 
+Libraries: Pandas, Numpy, Matplotlib, Seaborn, TensorFlow, Keras, SK Learn
+BIG Data Technologies: Hadoop
+Database: MySQL, BIG Query (GCP)
+Cloud: Microsoft Azure, GCP
+SOFT SKILLS
+Team Player & Client Communication 
+Presentation Skills | MS Office 
+Proficient| Pro Active| Quick Learner
+LANGUAGE
+English ; Hindi ; Marathi (Beginner) 
+Spanish (Beginner)
+https://app.powerbi.com
+DoB: 13 Apr'2000

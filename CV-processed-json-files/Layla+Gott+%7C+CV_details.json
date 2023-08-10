@@ -2,36 +2,18 @@
     "name": "Milton Keynes College",
     "email": "Lago7g@gmail.com",
     "phone": "",
-    "skills": [
-        "SPRINGBOARD",
-        "WED2B",
-        "WORK EXPERIENCE",
-        "CAREER OBJECTIVE",
-        "Campaign Management",
-        "Marketing Strategy",
-        "Brand Strategy",
-        "EDUCATION",
-        "Graphic Design",
-        "Content Creation",
-        "Social Media Marketing"
-    ],
-    "education": [
+    "education": [],
+    "work_experience": [
         {
-            "university_name": "Graphic Design",
-            "course_name": "Content Creation",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Social Media Marketing",
-            "course_name": "",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
+            "company_name": "CAREER OBJECTIVE",
+            "job_title": "Campaign Management",
+            "dates_worked": "",
+            "additional_info": [
+                "Marketing Strategy",
+                "Brand Strategy"
+            ]
         }
     ],
-    "work_experience": [],
     "linkedin": "",
     "github": ""
 }

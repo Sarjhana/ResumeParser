@@ -2,23 +2,8 @@
     "name": "M.Sc",
     "email": "sejalsanadi@gmail.com",
     "phone": "+447799159547",
-    "skills": [
-        "Time management",
-        "Cross Functional Collaboration",
-        "Goal Oriented Approach",
-        "Productive Enhancement",
-        "Digital Marketing",
-        "Business Analysis",
-        "S O C I A L  E N G A G E M E N T S",
-        "Active member of Khalsa College \u2013 Beach Cleaning Initiative",
-        "Active Member of Khalsa College \u2013 Orphanage Aid",
-        "E X T R A C U R R I C U L A R  A C T I V I T Y",
-        "Took part in college fest and assisted in conducting the fest",
-        "H O B B I E S",
-        "Reading \uf0a9  Travelling \uf0a9  Yoga & Meditation"
-    ],
-    "education": [],
-    "work_experience": [],
+    "education": null,
+    "work_experience": null,
     "linkedin": "",
     "github": ""
 }

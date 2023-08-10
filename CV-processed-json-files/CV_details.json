@@ -2,33 +2,31 @@
     "name": "Bhaumik Tandan",
     "email": "bhaumik.tandan@gmail.com",
     "phone": "+918604616679",
-    "skills": [
-        "section"
-    ],
-    "education": [
+    "education": [],
+    "work_experience": [
         {
-            "university_name": "Vellore Institute of Technology",
-            "course_name": "Vellore, India",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "BACHELORS OF TECHNOLOGY iN INFORMATiON TECHNOLOGY",
-            "course_name": "JULY 2019\u2011Present",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "\u2022 Developed Interest in Web Development",
-            "course_name": "\u2022 Explored domains like machine learning,data science and database management system",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
+            "company_name": "SnappiTech",
+            "job_title": "Work From Home",
+            "dates_worked": "",
+            "additional_info": [
+                "MERN STACK DEVELOPER",
+                "January 2021\u2011October 2021",
+                "\u2022 ReactJS",
+                "\u2022 NodeJS",
+                "\u2022 AWS Piperline",
+                "Appleute",
+                "Work From Home",
+                "SOFTWARE ENGiNEER INTERN",
+                "October 2021\u2011Mach 2022",
+                "\u2022 Betra Project",
+                "Appleute",
+                "Work From Home",
+                "SOFTWARE DEVELOPER ENGiNEER\u20111",
+                "April 2022\u2011Present",
+                "\u2022 Puma\u2011Catchup React Native App"
+            ]
         }
     ],
-    "work_experience": [],
     "linkedin": "",
     "github": ""
 }

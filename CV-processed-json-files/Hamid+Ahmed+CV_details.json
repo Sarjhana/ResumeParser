@@ -2,169 +2,18 @@
     "name": "Hamid Ahmed  \n  \n \n \n \n \n \n  \n   \n  \n  \n \n  \n  \n  \n \n  \n  \n  \n  \nEmployment History",
     "email": "",
     "phone": "",
-    "skills": [
-        "Proficient in using graphic design",
-        "and photo editing software such",
-        "as Photoshop and Canva.",
-        "Proficient in using video editing",
-        "software such as Premiere Pro.",
-        "Skilled in creating user interfaces",
-        "for websites and mobile apps,",
-        "using software such as Adobe XD.",
-        "Understanding of SEO, optimising",
-        "video titles, tags to increase video",
-        "visibility and reach.",
-        "Effective in driving YouTube",
-        "channel growth, achieving a 16-",
-        "subscriber increase and over",
-        "1,000 views for a client\u2019s video.",
-        "Skilled in driving engagement on",
-        "TikTok, achieving 5,000 views",
-        "and 140 likes for a client\u2019s page."
-    ],
     "education": [
         {
-            "university_name": "&",
-            "course_name": "Training History",
+            "university_name": "London \nVesta College",
+            "course_name": "Marketing Traineeship \nSep 2014",
             "dates_attended": "2021",
             "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Sep 2021 \u2013 Jul 2023 | New City",
-            "course_name": "College, Redbridge Campus",
-            "dates_attended": "2020",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "BTEC Level 3 Extended Diploma in",
-            "course_name": "Creative Media Production",
-            "dates_attended": "Oct 2020",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "",
-            "course_name": "Grade: Pending",
-            "dates_attended": "2014",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Sep 2020 \u2013 Oct 2020 | London",
-            "course_name": "Vesta College",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "",
-            "course_name": "Digital Marketing Traineeship",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Sep 2014 \u2013 Jun 2019 | Sir John",
-            "course_name": "Cass Redcoat Secondary School",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "",
-            "course_name": "5 GCSEs A*",
-            "dates_attended": "C",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "",
-            "course_name": "Technical Skills",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "",
-            "course_name": "Proficient in using graphic design",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "and photo editing software such",
-            "course_name": "as Photoshop and Canva.",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "",
-            "course_name": "Proficient in using video editing",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "software such as Premiere Pro.",
-            "course_name": "Skilled in creating user interfaces",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "for websites and mobile apps,",
-            "course_name": "using software such as Adobe XD.",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "",
-            "course_name": "Understanding of SEO, optimising",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "video titles, tags to increase video",
-            "course_name": "visibility and reach.",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "",
-            "course_name": "Effective in driving YouTube",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "channel growth, achieving a 16",
-            "course_name": "subscriber increase and over",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "1,000 views for a client\u2019s video.",
-            "course_name": "Skilled in driving engagement on",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "TikTok, achieving 5,000 views",
-            "course_name": "and 140 likes for a client\u2019s page.",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
+            "additional_info": [
+                "Digital  \u2013 Jun 2019 | Sir John \nCass Redcoat Secondary School \n \n5 GCSEs A*-C"
+            ]
         }
     ],
-    "work_experience": [],
+    "work_experience": null,
     "linkedin": "",
     "github": ""
 }

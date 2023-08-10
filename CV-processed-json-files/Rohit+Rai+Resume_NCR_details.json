@@ -2,200 +2,51 @@
     "name": "DocVita Inc |Web Developer",
     "email": "rai13042000@gmail.com",
     "phone": "+918150005306",
-    "skills": [
-        "| MS Office",
-        "Proficient| Pro Active| Quick Learner",
-        "LANGUAGE",
-        "English ; Hindi ; Marathi (Beginner)",
-        "Spanish (Beginner)",
-        "https://app.powerbi.com",
-        "DoB: 13 Apr'2000"
-    ],
     "education": [
         {
-            "university_name": "M.Sc.",
-            "course_name": "Computer Applications 'Data Science'",
+            "university_name": "5\nGarden City University",
+            "course_name": "ment",
             "dates_attended": "| 3 Months",
             "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Symbiosis Institute of Computer Studies and Research (SICSR)",
-            "course_name": "Data Analysis using Python|ERD; Machine Learning Algorithms|Computer Vision, Image Processing",
-            "dates_attended": "3 Months",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "CPA: 7.5",
-            "course_name": "Garden City University",
-            "dates_attended": "June 2021",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Organized Team Lead at ICAIML",
-            "course_name": "2019, Core Web Development | Python",
-            "dates_attended": "July 2018",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Web Developer intern | 3 Months; Relationship Manager | 3 Months",
-            "course_name": "CGPA: 8.45",
-            "dates_attended": "April 2023",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "June 2021",
-            "course_name": "June 2023",
-            "dates_attended": "June '22 - Dec'22",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Bangalore, Karnataka",
-            "course_name": "July 2018",
-            "dates_attended": "June 2021",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Pune, Maharashtra",
-            "course_name": "BCA",
-            "dates_attended": "Computer Applications",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Augment Systems Pvt Ltd |Research Analyst                                    Mar 2023",
-            "course_name": "April 2023",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Conducting research: Conducting research on various topics related to the business using primary and secondary sources,",
-            "course_name": "Data collection and analysis: Collecting and analyzing data from various sources using statistical and analytical tools.",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Preparing reports: Preparing reports summarizing research findings, insights, and recommendations clearly and concisely",
-            "course_name": "that is easily understandable by business stakeholders.",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Quality assurance: Ensuring research data and analysis accuracy and reliability through quality assurance and testing.",
-            "course_name": "Research & POC: Heart Diseases Prediction using Machine Learning",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "POC for Heart Diseases predictions Analysis can detect whether a patient is having the positive symptoms of diseases or not",
-            "course_name": "and comparison done after getting 4 different accuracy result.",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Analyze the requirement of an Independent Variable to perform the analysis. The database is taken from CDC Official",
-            "course_name": "Survey Data.",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Performed EDA (Exploratory data analysis) on the entire data. Performed 4 Major Classifiers of ML Algorithms to",
-            "course_name": "compare the result better.",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Applied more than three different ML accuracy Boosters & Confusion Matrics as well.",
-            "course_name": "Roles & Responsibilities",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "June '22",
-            "course_name": "Dec'22",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "SKILLS",
-            "course_name": "Programming Languages: Python",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "DL/ML  & It's Algorithms: Time Series,CNN,RNN,LSTM,SVM,DT,Logistic",
-            "course_name": "Deep Learning Frameworks: TensorFlow, Keras, PyTorch",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Tools: MS Excel (Advance), Power BI, Looker Studio, Tableau, Jupyter",
-            "course_name": "Libraries: Pandas, Numpy, Matplotlib, Seaborn, TensorFlow, Keras, SK Learn",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "BIG Data Technologies: Hadoop",
-            "course_name": "Database: MySQL, BIG Query (GCP)",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Cloud: Microsoft Azure, GCP",
-            "course_name": "SOFT SKILLS",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Team Player & Client Communication",
-            "course_name": "Presentation Skills | MS Office",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Proficient| Pro Active| Quick Learner",
-            "course_name": "LANGUAGE",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "English ; Hindi ; Marathi (Beginner)",
-            "course_name": "Spanish (Beginner)",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "https://app.powerbi.com",
-            "course_name": "DoB: 13 Apr'2000",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
+            "additional_info": [
+                "Organized Team Lead at ICAIML - 2019, Core Web Develop | Python\nWeb Developer intern | 3 Months; Relationship Manager | 3 Months\nCGPA: 8.45\nJune 2021 - June 2023\nBangalore, Karnataka\nJuly 2018 - June 2021\nPune, Maharashtra\nBCA  - Computer Applications\nAugment Systems Pvt Ltd |Research Analyst                                    Mar 2023- \n April 2023\nConducting research: Conducting research on various topics related to the business using primary and secondary sources, \nData collection and analysis: Collecting and analyzing data from various sources using statistical and analytical tools.\nPreparing reports: Preparing reports summarizing research findings, insights, and recommendations clearly and concisely \nthat is easily understandable by business stakeholders.\nQuality assurance: Ensuring research data and analysis accuracy and reliability through quality assurance and testing.\nResearch & POC: Heart Diseases Prediction using Machine Learning\nPOC for Heart Diseases predictions Analysis can detect whether a patient is having the positive symptoms of diseases or not \nand comparison done after getting 4 different accuracy result.\nAnalyze the requirement of an Independent Variable to perform the analysis. The database is taken from CDC Official \nSurvey Data.\nPerformed EDA (Exploratory data analysis) on the entire data. Performed 4 Major Classifiers of ML Algorithms to \ncompare the result better.\nApplied more than three different ML accuracy Boosters & Confusion Matrics as well.\nRoles & Responsibilities\nJune '22 - Dec'22"
+            ]
         }
     ],
-    "work_experience": [],
+    "work_experience": [
+        {
+            "company_name": "Ibrix Pvt Ltd |Data Analyst Intern                                                          Oct 2021-  Apr 2022",
+            "job_title": "ROHIT RAI",
+            "dates_worked": "",
+            "additional_info": [
+                "DATA SCIENCE|ML AND ALGORITHMS| AZURE|GCP BIG QUERY|ADVANCE EXCEL",
+                "An ambitious and skilled Data Science student with Diverse Experience in Data Analysis as an",
+                "intern for 6 Months, and 6 Months in academic Data Visualization & ETL Tools, with Over 1 Year",
+                "in Machine Learning and AI-ANN during Academics career and SQL.",
+                "NCR, India",
+                "rai13042000@gmail.com",
+                "+91 8150005306",
+                "LinkedIn Profile",
+                "Assisting with the collection, organization, and cleaning of data from a variety of sources.",
+                "Using tools such as SQL Workbench, Power BI, and Excel to analyze and interpret data.",
+                "Creating reports, charts, and visualizations to communicate findings to stakeholders.",
+                "Collaborating with team members to identify trends, patterns, and insights in the data.",
+                "Completing other tasks as assigned by the manager.",
+                "DocVita Inc |Web Developer                                                                  Oct 2020- Jan 2021",
+                "WordPress total admin management of Docvita.com  with Google AdWords campaign and Google Analytics.",
+                "Assisting with the development and maintenance of WordPress websites and applications.",
+                "Writing, testing, and debugging code using languages such as XML, HTML5, and CSS3.",
+                "Implementing features and functionality according to project specifications.",
+                "POC: Bricks Sales Insight using Power BI & MySQL",
+                "Analyze the requirement of the Stack Holder's, Database import into MySQL Workbench, which contains 12000+ rows",
+                "Performed ETL (Extract Transformation Load) using Power BI, Done Data Modeling like Star and Snowflakes Schema",
+                "Performed and cross-checked the values in MySQL Workbench. Created BI reports presenting the data visualization.",
+                "Roles & Responsibilities",
+                "Dec 2021 - Feb 2022",
+                "PROJECT AND RESEARCH"
+            ]
+        }
+    ],
     "linkedin": "",
     "github": ""
 }

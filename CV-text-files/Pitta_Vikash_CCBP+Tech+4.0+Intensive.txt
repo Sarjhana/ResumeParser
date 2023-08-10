@@ -1,0 +1,57 @@
+Pitta Vikash
+Srikakulam, Andhra Pradesh, 532263 | vikashpitta@gmail.com
+Education
+NXT wave Disruptive Technologies
+Jun 2021 - Ongoing
+Industry Ready Certification in Full Stack Development
+Kakinada Institute of Engineering & Technologies, Kakinada
+2015 - 2019
+B.Tech (Electronics & Communication Engineering) [66.07%]
+Krishna Sai Junior College, Sompeta
+2012 - 2014
+Intermediate (MPC) [91.7%]
+Skills
+Front End: HTML, CSS, Bootstrap, JavaScript, React.js*
+Back End: Python, Express*, Node.js*
+Databases: SQLite, MongoDB*
+*courses yet to be complete.
+Projects
+Portfolio-Project
+Developed a responsive website for the Portfolio of a person where other people like interviewers can
+see a list of projects, skills, testimonials, contact info
+●
+Designed page by using HTML structure elements and by using different bootstrap components to
+show different sections in the website and different Bootstrap classes for responsiveness through the
+mobile-first approach.
+●
+Displayed testimonials from different people using bootstrap carousel components.
+Technologies used: HTML, CSS, Bootstrap
+https://vick1portfolio.ccbp.tech/#
+E-Commerce-Project
+Developed an E-Commerce website where users can go through different products, detailed information about
+a product offers, and contact us info.
+●
+Designed page using following HTML structure elements and footer elements by using different
+bootstrap components to show different sections in the website and different bootstrap classes for
+responsiveness through the mobile-first approach.
+●
+Implemented product youtube videos by using bootstrap embed and model components and displayed
+multiple images of offers in a carousel using a bootstrap carousel.
+Technologies used: HTML, CSS, Bootstrap
+https://vikakaecommerce.ccbp.tech/
+VR-Project
+Developed a responsive website for VR products where users can see a list of products, detailed information
+about a product and trending blogs, contact us info
+●
+Designed page using HTML structure elements, footer elements by using different bootstrap
+components to show different sections in the website.
+●
+Implemented responsiveness by using Bootstrap grid system and flex classes and CSS box model
+properties through a mobile-first approach.
+Technologies used: HTML, CSS, Bootstrap
+https://vickyvirtualpge.ccbp.tech
+Achievements
+●
+Completed NCC along with my graduation in the Air Wing.
+●
+Created an impact on the public by participating in awareness rallies.

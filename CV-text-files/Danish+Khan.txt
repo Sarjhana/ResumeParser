@@ -1,0 +1,96 @@
+Working as a third party on PWC clients' projects.
+Develop and maintain APIs and Data Science tools for
+PWC's business operations. Using Python, PostgreSQL,
+and AWS like technologies
+Parsing PDFs, invoices, and excel sheets into json for PWC.  
+Web scrapping and automation.
+Developed NER(Named Entity Recognition) app for an
+organization and integrated it with Flask and VueJS.
+I've worked on Natural Language Processing and created
+an algorithm for extracting specific data from multiple
+pdf files.
+Web scrapping and automation.
+Challenge to build a real world project using azure
+services
+There were a self learning path as well as industrial
+session which helps to complete this internship. I
+developed an educational blog using Microsoft Azure
+services for this internship.
+Leading GDSC chapter 2022-23 at my university
+Helping our university students to build their mobile, web,
+machine learning and cloud skills.
+solving real world problem with technology based solution
+and open source contribution 
+taking session and creating awareness about google
+technologies like Google Cloud Platform, Flutter etc.
+Python Developer - FullTime
+Mobifly, Gurugram, Haryana, India  
+ July 2022 - March 2023 (9 months) 
+Python Developer -Internship
+Panalink Infotech Limited, Delhi India. 
+January 2022 - July 2022 (6 months )  
+Azure Cloud -Internship
+Future Ready Talent, Microsoft 
+ December 2021 - January 2022 (2 months) 
+GDSC Lead 
+Google Developer Student Clubs (KKCEM-DHANBAD)
+July 2022 - Present (9 months) 
+EXPERIENCE
+SKILLS & ABILITIES
+Python 
+Django | Flask|Fast Api
+Pandas|Numpy|Scikit
+Learn|Seaboarn|Spacy|TF.2O
+Java
+C | C ++
+HTML | CSS | JavaScript
+React-Js | Vue-Js
+MYSQL | Postgresql 
+Google Cloud Platform | Microsoft-
+Azure | HEROKU | AWS
+CODE2HELL.AZUREWEBSITES.NET/
+ 
+ 
+SUMMARY
+  I am proficiently in python and
+have built Games like Flappy Bird,
+Snake, Rock Paper & Scissor with
+the help of pygame and OpenCv
+library.  To-do, Blog, E-Commerce,
+like Websites by using Django
+framework and I've also done Web
+Scrapping by using beautiful-soup
+library.
+ I extended my knowledge in python
+to learn machine Learning and have
+built models using datasets like
+Sentiment Analysis,House price
+predictor and few NLP projects. 
+I have completed Qwiklabs(Google
+Cloud Platform) 2 months program
+and earn skill certificates and
+google swags.
+ I've also partifcipate on OpenSorce
+events like Hacktoberfest and got
+rewarded by them
+DANISH KHAN
+DHANBAD, JHARKHAND, INDIA 
+EDUCATIONAL HISTORY
+K.K COLLAGE OF ENGINEERING AND MANAGEMENT
+DHANBAD
+Bachelor of Technology - BTech
+Computer Science & Engineering · (2019 - 2023)
+Grade: 7.8 CGPA
+AHSAN ALAM MEMORIAL COLLAGE
+ 12TH SCIENCE  · (2019) 
+Grade: 60%
+Dhanbad city school 
+10TH  · (2017)
+Grade: 8.4 CGPA
+KHAND7661@GMAIL.COM
+ 
+ 
+HTTPS://WWW.LINKEDIN.COM/IN/DANISHKHAN420/
+HTTPS://GITHUB.COM/KHAND420
+ 
++91 9110187713  

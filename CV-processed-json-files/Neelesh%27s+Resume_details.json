@@ -2,79 +2,57 @@
     "name": "Neelesh Tiwari",
     "email": "neeleshishu021@gmail.com",
     "phone": "+19516095476",
-    "skills": [
-        "Courses",
-        "Courses",
-        "Achievements/Tasks",
-        "Achievements/Tasks",
-        "Achievements/Tasks"
-    ],
     "education": [
         {
-            "university_name": "",
-            "course_name": "B",
-            "dates_attended": "Tech",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Jabalpur Engineering College, (Govt.",
-            "course_name": "Autonomous) Jabalpur M.P.",
+            "university_name": "Tech \nJabalpur Engineering College",
+            "course_name": "balpur M.P. \n06",
             "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "06/2019",
-            "course_name": "Present,",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "JABALPUR",
-            "course_name": "Industrial and Production",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Engineering",
-            "course_name": "8.05 CGPA",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "12th",
-            "course_name": "Marthoma Gram Jyoti School Sihora",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "04/2018",
-            "course_name": "04/2019,",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Sihora DISTT Jabalput",
-            "course_name": "Maths/Science",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "68%",
-            "course_name": "",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
+            "marks_or_percentage": "68%",
+            "additional_info": [
+                ", (Govt.\nAutonomous) Ja/2019 - Present,  \nJABALPUR \nIndustrial and Production\nEngineering \n8.05 CGPA \n12th \nMarthoma Gram Jyoti School Sihora \n04/2018 - 04/2019,  \nSihora DISTT Jabalput \nMaths/Science \n68%"
+            ]
         }
     ],
-    "work_experience": [],
+    "work_experience": [
+        {
+            "company_name": "Xtreme Media Mumbai",
+            "job_title": "06/2022 - 07/2022,",
+            "dates_worked": "",
+            "additional_info": [
+                "MUMBAI",
+                "XtremeSignage is India's highest-selling enterprise-level digital signage",
+                "solution.",
+                "Worked on a real time Projects of Digital Signage Software",
+                "with support team who gave Support in all Pan India",
+                "Location(Inox Cinemas , Mahindra etc).",
+                "Learned how to take Perfect Decision to make Client Happy",
+                "and Satis\ufb01ed.",
+                "Great Experience of how a corporate companies works.",
+                "Agile Software Development Training",
+                "Xtransmatrix Consulting Service Private",
+                "Limited",
+                "05/2022 - 06/2022,",
+                "Online mode",
+                "XTRANSMATRIX\" is a Lean-Agile boutique consulting \ufb01rm specializing in",
+                "Lean, Agile and DevOps plus.",
+                "in this 28 days training I learned about Agile Methodology.",
+                "Learned about Agile Methodology by Scrum and Lean",
+                "Frameworks.",
+                "Great Experience of Agile Development.",
+                "Production Intern",
+                "Shree Mahila Ghar Udyog Liggat Papad",
+                "Jabalpur",
+                "06/2021 - 06/2021,",
+                "Jabalpur",
+                "Makes papad at the low cost and other products",
+                "In this training as Production Trainee I learned about how to",
+                "Produce Products more faster and more cost e\ufb03cient.",
+                "I Learned about Time Study, Method Study and How a",
+                "Manufacturing Departments Works.",
+                "Great Experience of how Production Engineer works."
+            ]
+        }
+    ],
     "linkedin": "",
     "github": ""
 }

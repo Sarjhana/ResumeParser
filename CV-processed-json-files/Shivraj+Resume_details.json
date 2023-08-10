@@ -2,136 +2,32 @@
     "name": "Shiv Raj Singh",
     "email": "shivraj.singh8527@gmail.com",
     "phone": "",
-    "skills": [
-        "Languages: Java, JS",
-        "(HTML,CSS),Nodejs",
-        "Framework: Reactjs, Nextjs,",
-        "Tailwind CSS, Express",
-        "ACHIEVEMENT",
-        "GATE CE(2022)-QUALIFIED",
-        "(SCORE-435)",
-        "Essentials of EXCEL Post",
-        "Assessment coursework by",
-        "MICROSOFT",
-        "Elite Certificate  by NPTEL in",
-        "2019",
-        "EDUCATION",
-        "Chaudhary Brahm Prakash",
-        "Government Engineering College,",
-        "Delhi-110073",
-        "2017-2021",
-        "BTech-7.88 CGPA",
-        "Govt. Boys Sr. Sec School,",
-        "Vasundhara Enclave, Delhi-110096",
-        "2014-2016",
-        "12th-68%",
-        "Govt. Boys Sec. School,",
-        "Kondli Gharoli , Delhi-110096",
-        "2012-2014",
-        "10th-8.8 CGPA",
-        "SHIV RAJ SINGH"
-    ],
     "education": [
         {
-            "university_name": "",
-            "course_name": "Chaudhary Brahm Prakash",
-            "dates_attended": "2017-2021",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Government Engineering College,",
-            "course_name": "Delhi",
-            "dates_attended": "110073",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "2017",
-            "course_name": "2021",
-            "dates_attended": "2014-2016",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "BTech",
-            "course_name": "7.88 CGPA",
-            "dates_attended": "2012-2014",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "",
-            "course_name": "Govt. Boys Sr. Sec School,",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Vasundhara Enclave, Delhi",
-            "course_name": "110096",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "2014",
-            "course_name": "2016",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "12th",
-            "course_name": "68%",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "",
-            "course_name": "Govt. Boys Sec. School,",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Kondli Gharoli , Delhi",
-            "course_name": "110096",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "2012",
-            "course_name": "2014",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "10th",
-            "course_name": "8.8 CGPA",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "",
-            "course_name": "SHIV RAJ SINGH",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "",
+            "university_name": "Chaudhary Brahm Prakash \nGovernment Engineering College",
             "course_name": "",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
+            "dates_attended": "2017-2021",
+            "marks_or_percentage": "68%",
+            "additional_info": [
+                ", \nDelhi-110073 \n2017-2021 \nBTech-7.88 CGPA \n \nGovt. Boys Sr. Sec School, \nVasundhara Enclave, Delhi-110096 \n2014-2016 \n12th-68% \n \nGovt. Boys Sec. School, \nKondli Gharoli , Delhi-110096 \n2012-2014 \n10th-8.8 CGPA \n \n \n                                                   \n \nSHIV RAJ SINGH"
+            ]
         }
     ],
-    "work_experience": [],
+    "work_experience": [
+        {
+            "company_name": "P2P Softwares Pvt. Ltd",
+            "job_title": "",
+            "dates_worked": "30 November 2022",
+            "additional_info": [
+                "",
+                "WORK EXPERIENCE",
+                "Built a fully responsive multi page website using Next js & Tailwind CSS",
+                "as the landing Website.",
+                "Built resuable and SEO friendly frontent components using React.js which",
+                "improved the website efficiency by 87%."
+            ]
+        }
+    ],
     "linkedin": "",
     "github": ""
 }

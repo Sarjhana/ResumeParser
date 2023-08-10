@@ -2,198 +2,49 @@
     "name": "Docker",
     "email": "kartikchoudhary416@gmail.com",
     "phone": "+919768002730",
-    "skills": [
-        "and exports it as CSV or text \ufb01le.",
-        "Wrote routines for fraud detection for performing e-KYC of o\ufb04ine",
-        "Aadhaar documents.",
-        "Wrote function to convert large PDF \ufb01les to high DPI ti\ufb00 images",
-        "which consumes less storage space.",
-        "Data Science Intern",
-        "U-TO Solutions",
-        "\ufffd August 2019 \u2013 October 2019",
-        "\ufffd Mumbai, India",
-        "Created data mining architectures and models to identify trends in",
-        "large data sets.",
-        "Created data visualization graphics, translating complex data sets into",
-        "comprehensive visual representations.",
-        "Performed advanced data extraction and data manipulation.",
-        "Pinpointed meaningful insights from large data and metadata sources.",
-        "Applied appropriate data science techniques to solve business",
-        "problems.",
-        "Identi\ufb01ed, analyzed and interpreted trends in complex data sets using",
-        "supervised and unsupervised learning techniques."
-    ],
-    "education": [
+    "education": [],
+    "work_experience": [
         {
-            "university_name": "Msc Data Analytics",
-            "course_name": "Dundalk Institute of Technology, Ireland",
-            "dates_attended": "September 2020",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "\ufffd September 2020 \u2013 September 2021",
-            "course_name": "BE in Information Technology",
-            "dates_attended": "September 2021",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Xavier Insitute of Engineering, Mumbai",
-            "course_name": "\ufffd 2015 \u2013 2019",
-            "dates_attended": "2015",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "SKILLS",
-            "course_name": "Python",
-            "dates_attended": "2019",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "API",
-            "course_name": "Flask",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "SQL",
-            "course_name": "NoSQL",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Scrum",
-            "course_name": "Machine Learning",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Web Scraping",
-            "course_name": "Git",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Pytorch",
-            "course_name": "Pandas",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Data Visualization",
-            "course_name": "Matplotlib",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Numpy",
-            "course_name": "AWS",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Docker",
-            "course_name": "Data Analysis",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Object Oriented Programming",
-            "course_name": "Performance and Scalability Optimization",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "ACADEMIC/PERSONAL",
-            "course_name": "PROJECTS",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "\u2022 Text Extraction and Analysis using NLP",
-            "course_name": "\u2022 Covid",
-            "dates_attended": "19 Data Visualization.",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "\u2022 URL Shortner in Serverless Architecture.",
-            "course_name": "\u2022 Web Scraping and API development with",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Beautiful Soup and Flask.",
-            "course_name": "\u2022 Smart Notice Board using Raspberry pi.",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "\u2022 Time Series Analysis of Sales Data.",
-            "course_name": "CERTIFICATIONS",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "\u2022 Docker for Developers by LinkedIn",
-            "course_name": "Learning.",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "\u2022 AWS Technical Essentials by AWS",
-            "course_name": "\u2022 Big Data Analytics with Hadoop and",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Apache Spark.",
-            "course_name": "\u2022 DevOps Foundations: Continuous",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Delivery/Continuous Integration",
-            "course_name": "REFERENCES",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "\u2022 Avinash Permude, LinkedIn",
-            "course_name": "9986068473/apermude@linkedin.com",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "\u2022 Daljeet Singh Malhotra, Flairlabs",
-            "course_name": "9820261930/daljeet@\ufb02airlabs.com",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
+            "company_name": "using Scrapy, cleaning and mapping the scraped data impacting",
+            "job_title": "millions of job data.",
+            "dates_worked": "",
+            "additional_info": [
+                "Associate Software Engineer",
+                "Flairlabs",
+                "\ufffd December 2019 \u2013 July 2020",
+                "\ufffd Mumbai, India",
+                "\u2022 Applications for Alexa - I performed tasks like debugging issues",
+                "adding new features to existing skills.",
+                "\u2022 Researched and worked on Latex, MathJax Library, worked on",
+                "creating Bridges for Native Modules, Implemented Text Editor and",
+                "did some work on OCR Technology like AWS Textract,",
+                "Python-tesseract and others.",
+                "\u2022 Programmed a Deep Learning Model Using Pytorch for converting",
+                "image to small sized vector and then \ufb01nding similarity between",
+                "di\ufb00erent images.",
+                "\u2022 Created an RPA for web scraping using UiPath which extracts data",
+                "related to Alexa skills and exports it as CSV or text \ufb01le.",
+                "\u2022 Wrote routines for fraud detection for performing e-KYC of o\ufb04ine",
+                "Aadhaar documents.",
+                "\u2022 Wrote function to convert large PDF \ufb01les to high DPI ti\ufb00 images",
+                "which consumes less storage space.",
+                "Data Science Intern",
+                "U-TO Solutions",
+                "\ufffd August 2019 \u2013 October 2019",
+                "\ufffd Mumbai, India",
+                "\u2022 Created data mining architectures and models to identify trends in",
+                "large data sets.",
+                "\u2022 Created data visualization graphics, translating complex data sets into",
+                "comprehensive visual representations.",
+                "\u2022 Performed advanced data extraction and data manipulation.",
+                "\u2022 Pinpointed meaningful insights from large data and metadata sources.",
+                "\u2022 Applied appropriate data science techniques to solve business",
+                "problems.",
+                "\u2022 Identi\ufb01ed, analyzed and interpreted trends in complex data sets using",
+                "supervised and unsupervised learning techniques."
+            ]
         }
     ],
-    "work_experience": [],
     "linkedin": "",
     "github": ""
 }

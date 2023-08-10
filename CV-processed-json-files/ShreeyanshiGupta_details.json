@@ -2,77 +2,15 @@
     "name": "Shreeyanshi Gupta",
     "email": "shrynshigupta06@gmail.com",
     "phone": "",
-    "skills": [
-        "Languages",
-        ": JavaScript, TypeScript, C, C++",
-        "Frameworks",
-        ": Node.js, Angular",
-        "Databases",
-        ": MongoDB, MySQL",
-        "Frontend Dev",
-        ": HTML, CSS, Bootstrap, Tailwind CSS, Angular Material",
-        "EXPERIENCE",
-        "Software Engineer",
-        "Nov 2020 \u2013 Present",
-        "DLT Labs",
-        "Designed and developed dynamic and responsive websites using HTML, CSS, Tailwind, and Angular Material.",
-        "Extensively worked on developing and integrating REST APIs and databases into the client-side applications.",
-        "Collaborated with different teams on multiple products that provide a one-stop solution to blockchain enthusiasts.",
-        "Actively participated in end-to-end product delivery, collaborating with cross-functional teams from initial",
-        "planning and development to testing, debugging, and deployments..",
-        "Software Engineer Trainee",
-        "Feb 2020 \u2013 Oct 2020",
-        "Newgen Software",
-        "Worked on a hybrid mobile application for the client.",
-        "Troubleshoot issues and fixed bugs in the backend as well as integrate new functionalities to the existing",
-        "application.",
-        "EDUCATION",
-        "Dr. A.P.J. Abdul Kalam Technical University",
-        "KIET Group Of Institutions",
-        "Bachelor of Technology in Computer Science",
-        "Aug 2016 \u2013 Oct 2020",
-        "PROJECTS",
-        "Shopkart",
-        "* Shopkart is an application which integrates our online and offline shopping experience through its website and",
-        "mobile application.",
-        "* Technologies Used: Node.js, MongoDB, React.js, Flutter",
-        "* Team Project | Role: Backend Developer",
-        "DSC KIET Website",
-        "* The website includes detailed information about the events (boot camps, hackathons, coding contests, etc)",
-        "organized by the team for the community and opportunities (internships, meetups) for them.",
-        "* Technologies Used: HTML, CSS, Bootstrap",
-        "Campus Dost",
-        "* A guide built for the college campus which includes all the relevant information for campus members.",
-        "* Technologies Used: Node.js, MongoDB"
-    ],
     "education": [
         {
-            "university_name": "Dr. A.P.J. Abdul Kalam Technical University",
-            "course_name": "KIET Group Of Institutions",
+            "university_name": "Abdul Kalam Technical University",
+            "course_name": "Bachelor of Technology in Computer Science\nAug 2016",
             "dates_attended": "2016",
             "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Bachelor of Technology in Computer Science",
-            "course_name": "Aug 2016 \u2013 Oct 2020",
-            "dates_attended": "Oct 2020",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "PROJECTS",
-            "course_name": "Shopkart",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "* Shopkart is an application which integrates our online and offline shopping",
-            "course_name": "",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
+            "additional_info": [
+                "KIET Group Of Institutions\n \u2013 Oct 2020"
+            ]
         }
     ],
     "work_experience": [],

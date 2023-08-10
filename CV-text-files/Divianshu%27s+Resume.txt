@@ -1,0 +1,108 @@
+Divianshu Jaswal 
+STUDENT 
+I am a keen learner and passout student from NIT Jalandhar actively looking for software developer roles to get a headstart in the
+industry and work on challenging projects to grow professionally. 
+divianshu1@gmail.com 
+8427068892 
+Jalandhar 
+EDUCATION 
+BACHELOR OF TECHNOLOGY 
+Dr BR AMBEDKAR NATIONAL INSTITUTE OF
+TECHNOLOGY JALANDHAR 
+08/2018 - 06/2022,  
+7.01CGPA 
+BTech in Mechanical
+Engineering 
+Junior College 
+MGN PUBLIC SCHOOL ADARSH NAGAR
+JALANDHAR 
+04/2016 - 04/2018,  
+12th CBSE (86.6%) 
+NON MEDICAL 
+High School 
+Mount Carmel Public School , Garhshankar 
+2016,  
+10th ICSE(92.8%) 
+FRONTEND PROJECTS 
+Portfolio 
+https://portfolio-fmfq.onrender.com/
+ 
+ 
+My personal portfolio website showcasing my work and skills
+Code-> https://github.com/Divianshu7/developerFolio 
+Co-founder 
+Concept lab
+ 
+ 
+05/2021 - 07/2021,  
+Founded an Edtech startup, teaching 150+ students about
+CAD modelling software. I made and handled the website
+along with managing day-to-day operations and developing
+marketing content for various social media channels. 
+Code-> https://github.com/Divianshu7/Concept-Labs-deploy 
+https://concept-labs.onrender.com/ 
+SKILLS 
+Python 
+Data Structures 
+Algorithms 
+Node.js 
+React.js 
+JavaScript 
+HTML 
+CSS 
+MongoDb 
+Rest Api 
+PERSONAL PROJECTS 
+Hotel Booking App
+ 
+ 
+Full stack MERN application which allows users book hotel room or
+publish their own hotels. 
+Users can register /login ,search for hotels in particular location
+and perform other CRUD operations 
+This App can also handle payments which are integerated through
+stripe api . 
+Tech Stack-> React.js,Node.js,Express.js,MongoDb,Stripe Api 
+Code(frontend)-> https://github.com/Divianshu7/client 
+Code(backend)-> https://github.com/Divianshu7/server 
+https://client-uzs3.onrender.com/ 
+Amazon-Clone
+ 
+ 
+Full stack MERN stack application which replicates the key
+engineering features of an e-commerce platform like Amazon 
+Users can register /login , buy various products and perform other
+CRUD operations 
+This App can also handle payments which are integerated through
+stripe api . 
+Tech Stack-> React.js,Node.js,Express.js,MongoDb,Stripe Api 
+Code(frontend)-> https://github.com/Divianshu7/amazon 
+Code(backend)-> https://github.com/Divianshu7/amazon-server 
+https://amazon3.onrender.com/ 
+Chat App
+ 
+ 
+Full stack MERN stack application which allows users to chat with
+other users 
+Users can register/login and chat with other users with instant
+transfer of the messages using Socket.io 
+Tech Stack-> Socket.io,React.js,Node.js,Express.js,MongoDB 
+Code(frontend)-> https://github.com/Divianshu7/Client-chat-app 
+Code(backend)-> https://github.com/Divianshu7/Server-chat-app 
+https://chat-app-2bnm.onrender.com 
+LANGUAGES 
+English 
+Full Professional Proﬁciency 
+Hindi 
+Full Professional Proﬁciency 
+Punjabi 
+Full Professional Proﬁciency 
+INTERESTS 
+Working out 
+Football 
+Music 
+Travelling 
+Courses 
+Courses 
+Achievements/Tasks 
+Achievements/Tasks 

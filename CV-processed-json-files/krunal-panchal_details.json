@@ -2,139 +2,36 @@
     "name": "Kathwada",
     "email": "",
     "phone": "",
-    "skills": [
-        "Coding : \u200bHTML5, CSS3, JQuery,",
-        "JS, Bootstrap, Wordpress,",
-        "Software :\u200b  Adobe XD, Adobe",
-        "Photoshop, Adobe Illustrator,",
-        "CorelDraw, Indesign",
-        "Interaction :\u200b Prototyping,",
-        "Wireframing, User testing,",
-        "LANGUAGES",
-        "Gujarati, Hindi, English"
-    ],
     "education": [
         {
-            "university_name": "",
-            "course_name": "ECIT Training Center, Ahmedabad\u2014 \u200bHigh school Diploma",
+            "university_name": "KK Shah Jarodwala College",
+            "course_name": "Maninagar",
             "dates_attended": "April 2019",
             "marks_or_percentage": "",
-            "additional_info": ""
+            "additional_info": [
+                ", \u2014 \u200bUndergraduate\u00a0\n2017 - 2018\u00a0\nBachelor of Science -  2nd class\u00a0\nVIP International School\u00a0\n2015 -"
+            ]
         },
         {
-            "university_name": "April 2019",
-            "course_name": "November 2019",
+            "university_name": "2017\u00a0\nPROJECTS\u00a0\n\u00a0\nMG Sci Institute\u00a0\nSME String\u00a0\u00a0\nUniversal Medicap\u00a0\nMavenvista Webinar\u00a0\nGujarat Liver Foundation\u00a0\nDharmadev Infrastructure\u00a0\nAquatics\u00a0\nLuzon University",
+            "course_name": "",
             "dates_attended": "2017 - 2018",
             "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Web Designing",
-            "course_name": "A +",
-            "dates_attended": "2nd",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "KK Shah Jarodwala College, Maninagar\u2014 \u200bUndergraduate",
-            "course_name": "2017",
-            "dates_attended": "2018",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Bachelor of Science",
-            "course_name": "2nd class",
-            "dates_attended": "2015 - 2017",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "VIP International School",
-            "course_name": "2015",
-            "dates_attended": "2017",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "PROJECTS",
-            "course_name": "MG Sci Institute",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "SME String",
-            "course_name": "Universal Medicap",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Mavenvista Webinar",
-            "course_name": "Gujarat Liver Foundation",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Dharmadev Infrastructure",
-            "course_name": "Aquatics",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Luzon University",
-            "course_name": "Swaminarayan Dham School",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "",
-            "course_name": "SKILLS",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Coding : \u200bHTML5, CSS3, JQuery,",
-            "course_name": "JS, Bootstrap, Wordpress,",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Software :\u200b  Adobe XD, Adobe",
-            "course_name": "Photoshop, Adobe Illustrator,",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "CorelDraw, Indesign",
-            "course_name": "Interaction :\u200b Prototyping,",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Wireframing, User testing,",
-            "course_name": "LANGUAGES",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Gujarati, Hindi, English",
-            "course_name": "",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
+            "additional_info": [
+                "Swaminarayan Dham School"
+            ]
         }
     ],
-    "work_experience": [],
+    "work_experience": [
+        {
+            "company_name": "Adit Microsys Pvt Ltd, Ahmedabad \u2014 \u200bWeb Designer",
+            "job_title": "",
+            "dates_worked": "November 2019 - PRESENT",
+            "additional_info": [
+                "Handling all composition, color, illustration, typography, and branding for"
+            ]
+        }
+    ],
     "linkedin": "",
     "github": ""
 }

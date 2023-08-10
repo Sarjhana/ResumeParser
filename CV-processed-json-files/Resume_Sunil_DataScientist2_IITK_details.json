@@ -2,241 +2,50 @@
     "name": "Performed EDA",
     "email": "sunil31b@gmail.com",
     "phone": "+919911743829",
-    "skills": [],
     "education": [
         {
-            "university_name": "",
-            "course_name": "M.S. (By Research), Computer",
+            "university_name": "2013 \nJaypee University",
+            "course_name": "MATLAB",
             "dates_attended": "2020",
             "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Science & Engineering, 2020",
-            "course_name": "Indian Institute of Technology,",
-            "dates_attended": "2013",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Kanpur",
-            "course_name": "B.Tech., Computer Science &",
-            "dates_attended": "2021",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Engineering, 2013",
-            "course_name": "Jaypee University of Engineering and",
-            "dates_attended": "May-Jun 2013",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Technology, Guna",
-            "course_name": "SKILL SET AND INTERESTS",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "\uf0b7 Languages : C, C++, Python, SQL,",
-            "course_name": "MATLAB, Core Java and HTML",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "\uf0b7 Platforms/Tools",
-            "course_name": ":",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "PyTorch,",
-            "course_name": "TensorFlow, Pandas, Scikit",
-            "dates_attended": "Learn,",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Keras,  Numpy, Power BI,  Tableau,",
-            "course_name": "Git, LaTeX, Windows, Red Hat",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Enterprise Linux, Ubuntu",
-            "course_name": "\uf0b7 Others : Mathematics, Algorithms,",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Data Structures, Deep Learning,",
-            "course_name": "Machine Learning, Neural",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Networks,  Programming &",
-            "course_name": "Working in groups",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "",
-            "course_name": "CERTIFICATIONS",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "\uf0b7 Machine Learning from Stanford",
-            "course_name": "University on Coursera",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "\uf0b7 Deep",
-            "course_name": "Learning,",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "a",
-            "course_name": "5",
-            "dates_attended": "course",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "specialization",
-            "course_name": "from",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "deeplearning.ai on Coursera",
-            "course_name": "\uf0b7 Algorithms from Stanford Online",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "\uf0b7 Chrome Extensions from Udemy",
-            "course_name": "\uf0b7 Core Java  from Hewlett",
-            "dates_attended": "Packard",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Education Services, Kanpur",
-            "course_name": "\uf0b7 Linux",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "from",
-            "course_name": "Hewlett",
-            "dates_attended": "Packard",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Education Services, Kanpur",
-            "course_name": "\uf0b7  Cloud Computing from Cetpa",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Infotech Private Limited, Noida",
-            "course_name": "PUBLICATIONS",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "\uf0b7 GraphReach: Position",
-            "course_name": "Aware",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Graph Neural Network using",
-            "course_name": "Reachability Estimations in",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "International Joint Conference on",
-            "course_name": "Artificial Intelligence (IJCAI), 2021,",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Montreal, Canada",
-            "course_name": "\uf076  Achieved relative improvement of",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "upto 40 percent in ROC AUC scores,",
-            "course_name": "on the task of link prediction and",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "pairwise node classification using",
-            "course_name": "node embeddings, compared to",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "state of the art models like PGNN,",
-            "course_name": "GCN, GraphSAGE, GAT & GIN",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "\uf0b7 Lexical and Parser tool for CBOOP",
-            "course_name": "program in International",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Organization of Scientific Research",
-            "course_name": "Journal of Computer Engineering,",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Vol. 10, Issue 6, May",
-            "course_name": "Jun 2013",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
+            "additional_info": [
+                "of Engineering and  \nTechnology, Guna \n \n \n \nSKILL SET AND INTERESTS \n\uf0b7 Languages : C, C++, Python, SQL, \n, Core Java and HTML \n\uf0b7 Platforms/Tools \n: \nPyTorch, \nTensorFlow, Pandas, Scikit-Learn, \nKeras,  Numpy, Power BI,  Tableau, \nGit, LaTeX, Windows, Red Hat \nEnterprise Linux, Ubuntu \n\uf0b7 Others : Mathematics, Algorithms, \nData Structures, Deep Learning,  \nMachine Learning, Neural \nNetworks,  Programming & \nWorking in groups"
+            ]
         }
     ],
-    "work_experience": [],
+    "work_experience": [
+        {
+            "company_name": "Deloitte USI, Gurgaon",
+            "job_title": "",
+            "dates_worked": "Data Scientist 2                                                                                                                                     14 months",
+            "additional_info": [
+                "\uf0b7 Worked on Graph Neural Networks and Deep Learning",
+                "\uf0b7 Developed a bipartite graph using patient and diagnosis data and designed a model in python to",
+                "predict the treatment patients will get using node embeddings",
+                "\uf0b7 Performed EDA on graph data, plotted tSNE and Umap of node embeddings for analysis",
+                "ClearTax, Bangalore",
+                "",
+                "Software Engineer                                                                                                                                    4 months",
+                "\uf0b7 Developed an E-Invoicing API in python to generate B2C QR code",
+                "Bharat Electronics Limited \u2013 Central Research Laboratory, Ghaziabad",
+                "",
+                "Project Engineer                                                                                                                                     34 months",
+                "\uf0b7 Worked on Collision Resolution Server(CRS), Weapon Assignment(WA) and Decision Support",
+                "System(DSS) modules of Integrated Air Command and Control System Phase-V (IACCS-V) project",
+                "\uf0d8 Developed CRS Flight Plan algorithms that were used to detect collision of flights in C++ language",
+                "\uf0d8 Used Data Distribution Services technology to interact with other modules like Threat Evaluation,",
+                "Recovery, Web, Database etc.",
+                "\uf0d8 Modelled WA backend algorithms in MATLAB that assign weapons to neutralize the targets",
+                "\uf0d8 Developed Simulator for CRS, WA and DSS in Qt",
+                "\uf0d8 Documented System & Software Requirements, Software Architecture and Testing documents in",
+                "IBM Doors & IBM Raphsody application",
+                "Tectura Infotech Pvt. Ltd., Noida",
+                "",
+                "Associate Software Developer                                                                                                                   6 months",
+                "\uf0b7 Worked on ERP software Microsoft Dynamics Axapta 2012"
+            ]
+        }
+    ],
     "linkedin": "",
     "github": ""
 }

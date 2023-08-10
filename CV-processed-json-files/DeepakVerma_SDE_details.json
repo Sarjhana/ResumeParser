@@ -2,31 +2,42 @@
     "name": "Faym-wall",
     "email": "0822deepakverma@gmail.com",
     "phone": "+917701834592",
-    "skills": [
-        "\u25cf",
-        "Languages: C++, C, JavaScript, Typescript, Data Structures & Algorithm",
-        "\u25cf",
-        "Frontend: React.js, Redux,BootStrap, EJS, HTML, CSS, JQuery, SCSS",
-        "\u25cf",
-        "Backend: Nodejs, Mongoose, Express.js, MongoDB, RESTful API, OAuth 2.0, MySQL, Nest.js"
-    ],
-    "education": [
+    "education": [],
+    "work_experience": [
         {
-            "university_name": "NSUT West Campus (Formerly CBPGEC)\ud83d\udd17",
-            "course_name": "New Delhi, India",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Bachelor of Technology (Information Technology |CGPA: 8.90 till 6th sem)",
-            "course_name": "Aug/2019",
-            "dates_attended": "Present",
-            "marks_or_percentage": "",
-            "additional_info": ""
+            "company_name": "Grynow Media Pvt. Ltd.(Faym)\ud83d\udd17",
+            "job_title": "Remote",
+            "dates_worked": "",
+            "additional_info": [
+                "Software Developer Engineer( Nest.js, Typescript, AWS, Firebase)",
+                "May/2022 - Present",
+                "\u25cf",
+                "Developed multiple Faym-wall\u2019s for influencers to boost online presence and engagement.",
+                "\u25cf",
+                "Built a dashboard using Google Analytics APIs to monitor and summarize website clicks and views, enabling effective",
+                "measurement of the Faym-walls' impact on achieving influencer goals.",
+                "\u25cf",
+                "Developed and integrated various modules, including order tracking, influencer dashboard, and wallet, while utilizing",
+                "third-party APIs like Admitad, Razorpay, and Google Spreadsheet to meet business requirements.",
+                "\u25cf",
+                "Worked closely with the founder to understand product requirements and provided scalable, efficient solutions that",
+                "optimized performance. Utilized AWS services such as S3, EC2, and IAM to deploy and host websites and APIs.",
+                "Fly0kart\ud83d\udd17",
+                "Remote",
+                "Fullstack Developer (React.js, Node.js, MongoDB, JavaScript)",
+                "Oct/2021 - May/2022",
+                "\u25cf",
+                "Developed and maintained a flight booking portal, fixing existing bugs and adding new features to meet requirements.",
+                "Achieved zero errors and a seamless user experience.",
+                "\u25cf",
+                "Managed development and deployment of HRMS, ticketing tool, Zoho, and the official website on various platforms",
+                "like Bluehost, Netlify, and Render. Also, performed domain configuration and email service setup for efficient operation.",
+                "\u25cf",
+                "Collaborated closely with the founder, led a team of 7 developers, and interviewed 20+ candidates for respective",
+                "roles, gaining valuable"
+            ]
         }
     ],
-    "work_experience": [],
     "linkedin": "",
     "github": ""
 }

@@ -2,74 +2,31 @@
     "name": "Linux",
     "email": "contactmonika5@gmail.com",
     "phone": "+918554992238",
-    "skills": [
-        ":",
-        "EDUCATION:",
-        "EXPERIENCE:",
-        "Software Engineer / Incedo Inc, Pune",
-        "B.E in Information Technology / KDK College of Engineering, Nagpur",
-        "Completed Bachelor's of Engineering in 2020.",
-        "Monika M. Bhute",
-        "CERTIFICATIONS:",
-        "AWS Certified Cloud Practitioner  by AWS",
-        "SAFe5 Practitioner by Scaled Agile",
-        "Python Certification by Simplilearn",
-        "Project : Multiple Projects",
-        "Technologies : Python, MySQL, AWS",
-        "Role : Python Developer",
-        "Description:",
-        "As a Python Backend Developer worked on couple of projects like to write scripts for managing a portal",
-        "for handling data of new employees and automating the scripts for manual tasks using AWS.",
-        "Project : Project and Resources Management Tool",
-        "Technologies : Python, Flask, MySQL",
-        "Role : Python Developer",
-        "Description:",
-        "The project is developed for managing projects and resources bandwidth data along with KPI",
-        "Calculations. To maintain records of projects status, resources availability, skillset management, new",
-        "user management and KPI data. Keep track of all data related to projects and resources.",
-        "Roles and Responsibilities:",
-        "Developed the application using Flask Framework, which includes Python code.",
-        "Written backend efficient codes and logic using python.",
-        "MySQL was the primary database for data storage.",
-        "Developed RESTful APIs to communicate with frontend ensuring seamless communication.",
-        "Utilized libraries such as NumPy and Pandas for data manipulation.",
-        "Postman tool to test and verify the API's functionality ensuring they are reliable and accurate.",
-        "Understanding the process and interacting with front end team.",
-        "Worked on Defects and Bugs.",
-        "Experience working in Agile environments, employing Scrum, Agile or Kanban Frameworks.",
-        "Modifications in python code to make new enhancements or resolve problems, as per",
-        "client requirements.",
-        "_____________________________________________________________________________________",
-        "PROJECT PROFILE",
-        "Project 2:",
-        "Project 1:",
-        "Roles and Responsibilities:",
-        "Understanding the project requirements and developing/enhancing the code based on the client",
-        "requirements using Python.",
-        "Involved in creating modules and models using Python required for the project.",
-        "Developed python script to automate the manual task of taking data from AWS manipulating it",
-        "and loading again on AWS using S3 buckets.",
-        "Involved in accessing data from database as demanded for a task.",
-        "Coordinating with the team to meet the client requirement.",
-        "Installed & Configured MySQL database Connections.",
-        "Personal Profile:",
-        "Date of Birth : 29 June 1998",
-        "Languages Known : English, Hindi, Marathi",
-        "Permanent Address : Nagpur, Maharashtra",
-        "Sex : Female",
-        "Marital Status : Single",
-        "Nationality : India"
-    ],
     "education": [
         {
-            "university_name": ":",
-            "course_name": "",
+            "university_name": "KDK College",
+            "course_name": "Bachelor",
             "dates_attended": "",
             "marks_or_percentage": "",
-            "additional_info": ""
+            "additional_info": [
+                "of Engineering, Nagpur\nCompleted 's of Engineering in 2020. \n \nMonika M. Bhute"
+            ]
         }
     ],
-    "work_experience": [],
+    "work_experience": [
+        {
+            "company_name": "MySQL.",
+            "job_title": "\u2022 Proficiency in Python Scripting and Core Python Expertise.",
+            "dates_worked": "",
+            "additional_info": [
+                "\u2022 Good Extensive Experience in Developing/Handling highly interactive Web based Applications",
+                "specially using Python, Flask, API\u2019s.",
+                "\u2022 Familiar with Object Relational Mapper (ORM) libraries.",
+                "\u2022 Committed, goal oriented, adaptive to learn new things and technologies.",
+                "\u2022 Possess good problem solving & Interpersonal"
+            ]
+        }
+    ],
     "linkedin": "",
     "github": ""
 }

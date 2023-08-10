@@ -1,0 +1,176 @@
+ 
+| : +91- 776 051 6408 | : himanshu.dobhal24@gmail.com | GitHub: https://github.com/himanshudobhal  
+Skype ID: dobhal.himanshu | LinkedIn: www.linkedin.com/in/himanshu-dobhal-3477701a0/  
+P R O F E S S I O N A L B A C K G R O U N D  
+  
+• 
+Diligent and Innovative IT professional with over 12 years in NLP, Computer Vision, Image processing, Machine Learning, Deep 
+Learning and Time Series especially enabling environmental/sustainability work, computer graphics, fundamental scientific research, 
+space exploration, or personal assistive technologies with expertise in delivering quality software solutions  
+• 
+Develop novel real-time 3D scene reconstruction techniques and deliver accurate visual odometry system.  
+• 
+Develop algorithm for sensor fusion of Lidar data with RGB camera and IMU, 3D mapping, texture mapping.  
+• 
+Competent in working on research & development of deep learning algorithms, computer vision and machine learning algorithms 
+for exploring research in the areas of image processing/computer vision, and building automated machine vision systems across 
+Automobile, Agricultural and Healthcare products  
+• 
+Attained proficiency in solving high-value challenges using computer vision and machine learning in real world scenarios and 
+Advanced analytics platforms to solve critical business problems  
+• 
+Proven track record in Deep Learning models of CNN, GAN, traditional Image processing and Computer Vision like Classification, 
+Segmentation, Object Recognition and tracking, face recognition, image enhancement and Multiple view geometry  
+• 
+Experienced in working with various applications like patient moment monitoring and autocalibration of X-ray machine using depth 
+camera by estimating the pose of OTS, Face Recognition and verification for surveillance, Image Stitching for ADAS system based on 
+Fisheye lens also Optimization of Model and Deployment on Embedded Systems using Open vino  
+• 
+Well-versed with Technical skills like Python, C++, Matlab, Machine Learning- Scikit-learn, StatsModels, Deep Learning: Tensorflow, 
+Keras, PyTorch, etc.  
+  
+Skill Sets:  Research & Development | Generative AI | LLM | NLP | | Time Series | Computer Vision | Visual SLAM | 3D reconstruction | 3D 
+Geometry | Image processing | Machine Learning | Deep Learning | Artificial Intelligence | Software Development | Python/C++ | Generative 
+Adversarial Network VAE | Multiple rnel Learning | Auto Calibration | Image Enhancement | Object Recognition & Tracking | Face 
+Recognition | Detection/Classification | Project & Team Management  
+  
+Technical Skills: Languages- Python, C++, Matlab | Machine Learning- Scikit-learn, StatsModels | Deep Learning- Tensorflow, Keras,  
+PyTorch | LLM – OPEN AI, LangChain GPT 3.5 and 4 | Embedded Systems- Open vino | CV packages- Opencv, Skimage, Matlab toolkit | 
+Scripting Languages- Perl, Bash shell |  
+Plotting- Matplotlib, ggplot2 & Seaborn | Version Control Systems- Git, SVN | Operating System- Linux (Ubuntu, CentOS, Fedora), 
+Windows  
+  
+E M P L O Y M E N T H I S T O R Y  
+Jan 2023 – Present 
+Principal Data Scientist | Asper.ai  
+• 
+Implementing large language models (LLMs) across various turnkey products to enhance natural language processing 
+capabilities and drive intelligent decision-making.  
+• 
+LLM implementation to analyze statical data and query the database. (SQL , pandas data frame) 
+• 
+Leveraging time series analysis techniques to provide accurate forecasting solutions in the Consumer Packaged Goods (CPG) 
+domain ( XGboost, CNN-LSTM, Wave net, ,Transformer time series) 
+• 
+Passionate about integrating cutting-edge technologies to optimize business processes and deliver tangible value to clients 
+ 
+  
+ 
+  
+  
+  
+HIMA   N   S   HU   D   O   BHA   L   
+ 
+June 2021 – Nov 2022 
+Solution Architect | Tooliqa Innovations India  
+• 
+Implemented Sensor Fusion to get precious visual odometry for an indoor area (Sensor used:- lidar, RGB and IMU)  
+• 
+Reduced extrinsic metric error using the ICP algorithm in frame-frame or frame-map while having depth error in lidar frame data.   
+• 
+Data optimization on point cloud has been done using the octree data structure for high performance in calculation   
+• 
+BIM structure has been formed using the basic structure shape (plane, cylinder and sphere) on the point cloud.   
+• 
+Deep learning model (Yolo7, NERF,Efficient net) used for conversion of 2D to 3D and segmentation of 3D object from environment.   
+• 
+Computed Camera Calibration for Converting depth image to Point cloud.  
+ 
+Jul 2019 – May 2021  
+Sr. Software Engineer | GE Healthcare, India  
+• 
+Focusing on research and development of computer vision and machine learning algorithms related to object recognition, image 
+enhancement, detection/classification, and identification/segmentation of human anatomy  
+• 
+Actively participate in challenging software research projects for applying combination of Deep Learning, Natural Language 
+Processing and Representation pipelines to design, analysis and engineering workflows for real world problems  
+• 
+Analysing patient anatomy through X-ray & visual the moment on dashboard using contour from reference image to target image  
+• 
+Designing/developing computer vision or deep learning AI object detection/ classification of light on/off condition inside X-ray room 
+using live streaming videos  
+• 
+Collaborating with architecture, research, libraries, software engineers, data engineers, designers, program management, and quality 
+assurance to ensure prototypes and solutions are delivered efficiently and effectively  
+• 
+Building application for auto calibration for X-ray machine using depth camera by estimating pose of different receptor type  
+• 
+Participating in computer vision and deep learning-based model using Open vino (Intel SDK for deep learning) for inferencing in 
+Embedded System  
+• 
+Responsible for development of automated testing to measure quantitative impact of company’s core technology on subsequent 
+computer vision processing.  
+  
+Jan 2017 – July 2019  
+Consultant | Vee Technologies, India  
+• 
+Drive improvements to our core vision engine that models the 3D environment from 2D images  
+• 
+Applied image processing techniques for running an incubator center (AIML R&D lab) in Sona College of Engineering with 
+collaboration of VEE technologies  
+• 
+Performed research and developed computer vision solutions/models for estimating decaying time of fruits and vegetables using 
+hyperspectral images  
+• 
+Implemented deep learning method of classification, segmentation and anomaly detection for grain identification  
+• 
+Spearheaded the team of 20 members to enhance Research Associates, undergraduate/postgraduate students in Incubator center  
+• 
+Involved in live product development for Grain type identification and quality of grains using images  
+• 
+Technical approach to develop applications for Face Recognition & Verification of proctored exam HIREMEE APP and deployed in 
+AWS server  
+Sep 2016 – Jan 2017  
+Senior Software Engineer | LEECO India Pvt. Ltd  
+• 
+Stay up to date with the latest research in computer vision and machine learning as applied to the problem resolution  
+• 
+Developed/deployed high-quality unit-tested, production photogrammetry software and POC for recommender system  
+• 
+Collaborated closely with team members to solve tough computer vision problems and automated quality assessment  
+• 
+Worked with engineering, design, operations and marketing other teams to optimize/execute our commercial software deployment  
+• 
+Maintained high level of communications with the software development team and application engineers to enable progress of 
+multiple projects and products  
+• 
+Developed quality software for mission critical industrial applications optimized to be deployed on high performance platforms  
+• 
+Provided image processing/Machine Learning software for quality inspection  
+Mar 2013 – Sep 2016  
+Senior Software Engineer | Bosch India & Germany  
+• 
+Driven significant improvements in speed and quality from conception to production rollout and ongoing support  
+• 
+Managed computer vision tasks such as image search, image segmentation, depth estimation, object detection, image editing, pose 
+estimation, and generative image editing using  
+• 
+Responsible for creation of Image based ego motion (pitch and roll rate) estimation using stereo camera  
+• 
+Carried out Optical flow vector generation and Image harmonization of stitched images for near range camera  
+• 
+Involved in Image enhancement for dashboard screen in the car (brightness and contrast)  
+• 
+Coordinated with image quality testing engineers to optimize image quality and algorithm performance across a wide range of 
+environmental conditions  
+• 
+Developed & maintained end to end algorithm models for multi-camera imagers  
+• 
+Research/implemented algorithms for image transformations with an eye towards performance and compression  
+• 
+Assisted in development of the image processing space including image formats, computer vision, and new software  
+  
+P R I O R H I S T O R Y  
+  
+Oct 2012 – Mar 2013 | Consultant | Sony India Pvt. Ltd  
+Feb 2011 – Oct 2012 | Software Engineer | ASDLABS, India  
+  
+E D U C A T I O N A L B A C K G R O U N D  
+  
+ 2019  
+Post Graduate Program in Artificial intelligence & Machine Learning | The Great Lakes Institute of Management, India  
+ 2011  
+Master of Science in Embedded and Control System | University of Leicester, Leicester, England  
+ 2009  
+Bachelor of Technology in Electronic & Communication | University of Rajasthan, India  
+  

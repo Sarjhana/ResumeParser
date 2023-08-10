@@ -2,181 +2,28 @@
     "name": "Hyderabad",
     "email": "nikhithareddy.t630@gmail.com",
     "phone": "+916305074108",
-    "skills": [
-        ".",
-        "HOBBIES:",
-        "\uf0b7",
-        "Yoga .\uf020",
-        "\uf0b7",
-        "Teaching.\uf020",
-        "\uf0b7",
-        "Gardening.\uf020",
-        "EXTRA CURRICULAR ACTIVITIES:",
-        "\uf0b7",
-        "Active participator in managing college fests.\uf020",
-        "\uf0b7",
-        "Attended a one day workshop on \u201cSatellite Communication\u201d in Hyderabad.\uf020",
-        "\uf0b7",
-        "Ncc Candidate.\uf020",
-        "T.Nikhitha Reddy"
-    ],
     "education": [
         {
-            "university_name": ":",
-            "course_name": "Qualification",
+            "university_name": "Intermediate \n \n \nTSWREIS College",
+            "course_name": "Mattampally",
             "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "",
-            "course_name": "Institution",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "",
-            "course_name": "Year of",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "pass",
-            "course_name": "Percentage",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "",
-            "course_name": "B.TECH",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "",
-            "course_name": "University college of",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Engineering and",
-            "course_name": "Technology for",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "women.",
-            "course_name": "KU Campus,",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Warangal",
-            "course_name": "2023",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "",
-            "course_name": "83%",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "",
-            "course_name": "Intermediate",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "",
-            "course_name": "TSWREIS College",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Mattampally,",
-            "course_name": "Suryapet",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "",
-            "course_name": "2019",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "",
-            "course_name": "92%",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "",
-            "course_name": "10",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "th     Standard",
-            "course_name": "TSWREIS Nakrekal",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Nalgonda(D)",
-            "course_name": "2017",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "",
-            "course_name": "92%",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "",
-            "course_name": "COMPUTER SKILLS:",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Languages: C, Python.",
-            "course_name": "Database: SQL.",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Other Technologies:  Networking skills(Protocols, Troubleshooting,",
-            "course_name": "Cisco IOS Commands, etc), Knowledge on Cyber Security,",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
+            "marks_or_percentage": "92%",
+            "additional_info": [
+                ", \nSuryapet \n \n \n2019 \n \n \n92% \n \n \n10\nth     Standard \n \n \nTSWREIS Nakrekal \nNalgonda(D) \n \n \n2017 \n \n \n92% \n \nCOMPUTER"
+            ]
         }
     ],
-    "work_experience": [],
+    "work_experience": [
+        {
+            "company_name": "PYTHON\u201d at 1Stop from 8th Apr 2022 10 13th Jun 2022.\uf020",
+            "job_title": "In these Internship we had gone through the Python and basics of Machine",
+            "dates_worked": "",
+            "additional_info": [
+                "learning and then deep introduction on Restaurant Review using NLP,",
+                "Wireless Sound Control."
+            ]
+        }
+    ],
     "linkedin": "",
     "github": ""
 }

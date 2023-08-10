@@ -2,77 +2,23 @@
     "name": "Ruth Uchechi - page",
     "email": "sharonruth457@gmail.com",
     "phone": "",
-    "skills": [
-        "Problem Solving",
-        "Emphathy",
-        "User Research",
-        "Information Architecture",
-        "Interaction Design",
-        "Collaboration",
-        "Teamwork",
-        "Miro",
-        "Adobe Photoshop",
-        "User Interface Design"
-    ],
-    "education": [
+    "education": [],
+    "work_experience": [
         {
-            "university_name": "",
-            "course_name": "Institute of Management & Technology (IMT)",
-            "dates_attended": "2014 - 2019",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Hnd, Banking, Corporate, Finance, and Securities Law",
-            "course_name": "2014",
-            "dates_attended": "2019",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "",
-            "course_name": "Licenses & Certifications",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Creative Problem Solving and Decision Making",
-            "course_name": "Alison",
-            "dates_attended": "Empower Yourself",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "3896",
-            "course_name": "24528812",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "",
-            "course_name": "Skills",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Problem Solving \u2022 Emphathy \u2022 User Research \u2022 Information Architecture \u2022",
-            "course_name": "Interaction Design \u2022 Collaboration \u2022 Teamwork \u2022 Miro \u2022 Adobe Photoshop \u2022",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "User Interface Design",
-            "course_name": "",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
+            "company_name": "demonstrated my ability to enhance UX/UI and increase customer retention rates. My",
+            "job_title": "focus is on creating effective solutions that are relevant and leveraging data to tackle",
+            "dates_worked": "",
+            "additional_info": [
+                "intricate design challenges.",
+                "",
+                "Experience",
+                "UX Researcher",
+                "Montret",
+                "Jan 2020 - Mar 2023 (3 years 3 months)",
+                "\u2022 Led the UX design and research efforts for a number of"
+            ]
         }
     ],
-    "work_experience": [],
     "linkedin": "",
     "github": ""
 }

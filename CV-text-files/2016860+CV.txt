@@ -1,0 +1,192 @@
+Nahuel
+Angelone
+I am a trailblazing BizDev Manager with more than 
+3 years of leadership experience at the 
+intersection of technology, entertainment and 
+politics. Proven ability to build and direct 
+authentic and complex marketing, 
+communications, business automation and media 
+programs that earn trust and respect from 
+creators, influencers, industry thought leaders, 
+journalists, and consumers. 
+Fiscally responsible brand builder, adept at 
+designing industry-leading strategies aligned to 
+business goals, while bringing together key 
+stakeholders to build for success within a myriad 
+of business structures.
+Prepared business cases for IT enhancements, 
+ensuring a fresh approach to improving existing 
+systems and reporting processes.
+PROFILE
+WORK EXPERIENCE
+Student Ambassador
+Swansea University
+02/2022 – PRESENT
+SWANSEA, GALES, REINO UNIDO
+BanklessCard Bizdev
+BanklessDAO
+can't tell much, creating a card to help you becoming 
+bankless.
+01/2023 – PRESENT
+Contributor and Full member
+BanklessDAO
+Bankless Card project  Automatization of internal 
+operations Blog contributor Research guild
+10/2022 – PRESENT
+Co-Founder
+BionicDAO
+The DAO  is dedicated to using AI and blockchain to 
+produceeople of the future.  We believe that these 
+emerging technologies can be a powerful ally in our 
+11/2022 – PRESENT
+WORK EXPERIENCE
+lives. Additionally, AI can help us to consider a wide 
+range of perspectives when making decisions, 
+allowing us to make more well-rounded decisions.   
+We are creating an all in one decentralized 
+ecosystem of professionals that bring up communal 
+projects to work on for shared revenue.
+Técnica de selección de personal técnico
+Global Crypto Events
+02/2022 – PRESENT
+REMOTE
+Founder
+VerseFi
+- Managed a team of 15 people remotely - Metaverse 
+lead level designer - Administrated Notion for team 
+management - Created a weekly crypto blog still 
+active - Securing a customer retention rate of 63%. - 
+Attended crypto events as a brand representative  - 
+Made 3 useful partnerships that leveraged the 
+business (Santander Bank, Brickken, Bithotel) - 
+Wrote whitepaper and documentation of the project - 
+Successfully pitched to VC and banks  - Recruited 
+and evaluated over 100 people  - Created an 
+innovative method of redistributing equity among 
+workers through tokenisation - Designed game 
+experiences for different metaverses - Taken care of 
+the social media of the company - Made many 
+connections with web3 contacts and businesses - 
+Leveraging a community to over 2000 members - 
+Delivering weekly instructions and reports to the 
+community
+12/2021 – PRESENT
+SWANSEA, GALES, REINO UNIDO
+Ingeniero de software
+VerseFi
+Made an AI that uses the requests module to send a 
+request to the AliExpress website to get the 3 most 
+sold products in the week. It then uses the 
+BeautifulSoup module to parse the HTML code and 
+extract the data for these products. The extracted 
+data is stored in a pandas DataFrame, and the prices 
+are increased by 20%. The code then uses the 
+12/2022 – 12/2022
+07/05/2002
+Spain
++44 7907405673
+nahuelangeloneoliver@gmail.com
+Henrietta street, Swansea sa2 0pb, Uplands, Gales, Reino Unido
+WORK EXPERIENCE
+EtsyAPI module to relist the 3 most sold products on 
+Etsy with the updated prices. Finally, the code uses 
+the EtsyAPI again to get the orders from Etsy, and 
+loops through these orders to buy each item on 
+AliExpress.  An automatic reseller bot.   Made an 
+automatically growing social media account on 
+Instagram that follows people commenting a specific 
+hashtag and stops following them after a week, it 
+also comments on posts with such hashtags. With 
+this bot I can replace the role of account manager in 
+my company.
+Community Manager
+Bithotel.io
+- Testing and suggesting game features for a DeFi 
+game - Guerrilla marketing campaigns - Market 
+research & Study - Managing a community of 40000 
+people in discord while solving questions - Focused 
+on the Spanish community
+08/2022 – 09/2022
+Blog Contributor
+Brickken
+- Contributor of the weekly crypto blog about 
+tokenisation and DAOs - Market research
+08/2022 – 08/2022
+BARCELONA, CATALUÑA, ESPAÑA
+Director de desarrollo empresarial
+EMG Trading UK
+Selling medical equipment to the UK market
+12/2019 – 10/2021
+National Committee
+Model United Nations
+Attended a total of 3 MUN sessions as a Committee 
+representant  Outstanding Delegate, Outstanding 
+Parliamentarian, Best economical resolution
+05/2018 – 10/2021
+BARCELONA, CATALUÑA, ESPAÑA
+CMO & Partnership seeker
+Heartmed Pharmacy
+01/2018 – 10/2021
+BARCELONA, CATALUÑA, ESPAÑA
+Chairman Committee
+Model United Nations
+Attended a total of 5 MUN sessions as a chair 
+05/2016 – 10/2021
+BARCELONA, CATALUÑA, ESPAÑA
+EDUCATION
+Politics & Economics
+Swansea University
+2020 – 2024
+EDUCATION
+Investment banking & portfolio
+management
+Amplifyme
+Earned a total of 4M in commissions, second on the 
+50-participant leader board.
+11/2022 – 11/2022
+Interpersonal Skills & Effective
+communication
+Dale Carnegie Training
+03/2019 – 05/2019
+Leadership Skills
+Dale Carnegie Training
+08/2018
+Bacchalauratte
+European International School of Barcelona
+09/2014 – 06/2020
+Ambassador
+TMRW Crypto conferences
+09/2022
+# Cryptocurrency
+# Business development
+# Business automation
+# Business intelligence
+# web3
+# Leadership
+# web3
+# Team building
+# Problem resolution
+# Team management
+# Digital marketing
+# Time management
+# Business planning
+# Communication
+# Partnerships
+# Team spirit
+SKILLS
+English
+Catalan
+Spanish
+Italian
+French
+LANGUAGES
+90
+%
+100
+%
+100
+%
+40
+%
+30
+%

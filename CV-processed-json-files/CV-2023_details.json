@@ -2,324 +2,41 @@
     "name": "Docker",
     "email": "professional.sid13@gmail.com",
     "phone": "+12018082020",
-    "skills": [
-        "Client-Side: HTML, CSS, Bootstrap, JS,",
-        "TypeScript, Angular, React",
-        "Server-side: Typescript, NodeJS, NestJS,",
-        "Jest, JAVA, Spring Boot, JUnit, Docker,",
-        "Docker-compose, Kubernetes, k9s, REST",
-        "Blockchain: Hyperledger Fabric, IBP,",
-        "Ethereum.",
-        "ML, DL & AI: Python, NumPy, SciPy, Scikit-",
-        "learn, Keras, Eli5, TensorFlow, PyTorch",
-        "Data Visualization & Processing:",
-        "Tableau, MS Excel, matplotlib",
-        "Cloud: AWS, MS Azure, IBM Cloud",
-        "Database: MySQL, Couch DB, Mongo DB",
-        "Management Frameworks: Scaled Agile",
-        "(SAFE), LEAN, Agile, Scrum, Fast Works",
-        "Others: Postman scripting & testing, n8n.io",
-        "automation.",
-        "AWARDS",
-        "Manager choice & Event awards at IBM",
-        "Gold Medal 2020 \u2013 NIT  Kurukshetra",
-        "Gold Medal 2015 - NPTI   Badarpur",
-        "B",
-        "C",
-        "A",
-        "D",
-        "F",
-        "E",
-        "Siddharth Singh",
-        "Full-stack Development (Blockchain / AI & ML)",
-        "Software Developer",
-        "WebPro Technologies",
-        "~  02/2016 - 05/2018,  Faizabad",
-        "Faculty - Industrial Automation",
-        "Prolific Systems & Technology",
-        "~  07/2015 - 01/2016,  Noida",
-        "Manish Thaper",
-        "Engineering Manager, [XX] -A fortune 500 Organization",
-        "REFERENCES (ON REQUEST)",
-        "Sharvil Singh",
-        "Digital Technology Leadership, [XX] - A fortune 500 Organization"
-    ],
-    "education": [
+    "education": [],
+    "work_experience": [
         {
-            "university_name": "",
-            "course_name": "M.Tech (Power Electronics)",
-            "dates_attended": "8447447076",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "NIT Kurukshetra",
-            "course_name": "~  06/2018",
-            "dates_attended": "06/2020",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "%",
-            "course_name": "87 / 100",
-            "dates_attended": "6261197932",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "PG Diploma (Industrial Automation)",
-            "course_name": "Prolific Systems & technology, Noida",
-            "dates_attended": "2015 - NPTI",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "~  02/2015",
-            "course_name": "07/2015",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "PG  Diploma (Power, T&D)",
-            "course_name": "NPTI Badarpur, New Delhi",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "~  07/2014",
-            "course_name": "02/2015",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "%",
-            "course_name": "78 / 100",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "B.Tech (EEE)",
-            "course_name": "IMS Engineering Collage, Ghaziabad",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "~  07/2010",
-            "course_name": "07/2014",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "%",
-            "course_name": "78 / 100",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "F Statistics, AI / ML Models",
-            "course_name": "D DevOps & CI/CD pipeline",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "C Business Problem Solving",
-            "course_name": "E Unit/e2e testing & deployment",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "A Full Stack Development",
-            "course_name": "B Blockchain / Smart Contract",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "MY COMPETENCY",
-            "course_name": "professional.sid13@gmail.com",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "+91 8447447076",
-            "course_name": "+91 6261197932",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "https://github.com/demigod",
-            "course_name": "ares",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "SKILLS",
-            "course_name": "Client",
-            "dates_attended": "Side: HTML, CSS, Bootstrap, JS,",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "TypeScript, Angular, React",
-            "course_name": "Server",
-            "dates_attended": "side: Typescript, NodeJS, NestJS,",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Jest, JAVA, Spring Boot, JUnit, Docker,",
-            "course_name": "Docker",
-            "dates_attended": "compose, Kubernetes, k9s, REST",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Blockchain: Hyperledger Fabric, IBP,",
-            "course_name": "Ethereum.",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "ML, DL & AI: Python, NumPy, SciPy, Scikit",
-            "course_name": "learn, Keras, Eli5, TensorFlow, PyTorch",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Data Visualization & Processing:",
-            "course_name": "Tableau, MS Excel, matplotlib",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Cloud: AWS, MS Azure, IBM Cloud",
-            "course_name": "Database: MySQL, Couch DB, Mongo DB",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Management Frameworks: Scaled Agile",
-            "course_name": "(SAFE), LEAN, Agile, Scrum, Fast Works",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Others: Postman scripting & testing, n8n.io",
-            "course_name": "automation.",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "AWARDS",
-            "course_name": "Manager choice & Event awards at IBM",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Gold Medal 2020 \u2013 NIT  Kurukshetra",
-            "course_name": "Gold Medal 2015",
-            "dates_attended": "NPTI   Badarpur",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "B",
-            "course_name": "C",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "A",
-            "course_name": "D",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "F",
-            "course_name": "E",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Siddharth Singh",
-            "course_name": "Full",
-            "dates_attended": "stack Development (Blockchain / AI & ML)",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Software Developer",
-            "course_name": "WebPro Technologies",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "~  02/2016",
-            "course_name": "05/2018,  Faizabad",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Faculty",
-            "course_name": "Industrial Automation",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Prolific Systems & Technology",
-            "course_name": "~  07/2015",
-            "dates_attended": "01/2016,  Noida",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Manish Thaper",
-            "course_name": "Engineering Manager, [XX]",
-            "dates_attended": "A fortune 500 Organization",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "REFERENCES (ON REQUEST)",
-            "course_name": "Sharvil Singh",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Digital Technology Leadership, [XX]",
-            "course_name": "A fortune 500 Organization",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
+            "company_name": "IBM India Pvt Ltd",
+            "job_title": "~  04/2021 - Working, Bangalore",
+            "dates_worked": "",
+            "additional_info": [
+                "Developing in \u201cVinturas\u201d project with Agile approach. The project is",
+                "based on Hyperledger-fabric, IBP. Responsible for Developing best",
+                "solution to meet the client needs in NestJS framework with VS Code IDE.",
+                "Creating/modifying microservices and containerizing it using Docker.",
+                "Modifying configurations and updating dependencies of Hyperledger-fabric",
+                "network and microservices whenever necessary. Unit testing with Jest",
+                "framework and e2e testing with postman. Managing bit-bucket repository of",
+                "the project and using it for code review. Deploying the code to dev while",
+                "monitoring CI/CD pipeline in concourse. Process Automation using n8n.io.",
+                "Writing deployments for Kubernetes and managing k9s.",
+                "Blockchain Training Alliance \u2013 Certified Blockchain Developer Ethereum",
+                "Developing and testing D-apps on EVM using Solidity, Remix IDE,",
+                "Truffle, Hardhat, MetaMask wallet, testing on mainnet/testnet, Ganache,",
+                "geth, Ether Scan, Web3JS.",
+                "Certified IBM full-stack JAVA developer.",
+                "Microsoft Azure - AZ-900 certified.",
+                "Research Assistant",
+                "NIT Kurukshetra",
+                "~  07/2018 - 08/2020, Haryana",
+                "SUMMARY",
+                "",
+                "",
+                "Highly driven professional with extensive",
+                "experience in conducting research, contributing",
+                "to open-source"
+            ]
         }
     ],
-    "work_experience": [],
     "linkedin": "",
     "github": "https://github.com/demigod-ares"
 }

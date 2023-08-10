@@ -2,157 +2,37 @@
     "name": "Saumya Gupta",
     "email": "saumyagupta170400@gmail.com",
     "phone": "+19305244821",
-    "skills": [
-        ",copywriting abd copyediting,",
-        "reading books and have tried playing 3 to 4 different sports.",
-        "Experience",
-        "\u25cb Yubi",
-        "Chennai",
-        "Software Engineer Intern",
-        "Nov 2022\u2013May 2023",
-        "Building APIs from scratch for clients. Performing different levels of testing of the APIs. Building a platform \u201dBlitz-Scale\u201d to generate the",
-        "automated configuration files from excel sheet itself using Ruby on Rails. Getting hands-on in AWS, Postman, JIRA, Git, ROR",
-        "\u25cb Coding Blocks",
-        "WFH",
-        "Web Development Intern",
-        "May 2021\u2013July 2021",
-        "Individually designed a Social Media Web Application for the company. Web UI framework used ReactJS, Backend was done using NodeJS,",
-        "ExpressJS, Storing and fetching the user\u2019s data and CRUD functionality was managed using MongoDB, GraphQL.",
-        "\u25cb DoEarn",
-        "Varanasi",
-        "Founder and CEO",
-        "Apr 2020\u2013Dec 2021",
-        "Founded a web platform to help children earn their pocket money while studying by helping their peers in solving their doubts and enhancing",
-        "their problem-solving. Used Digital Marketing to advertise the company. Helped 50+ students.",
-        "Education",
-        "\u25cb BML Munjal University",
-        "Gurugram",
-        "BTech in Computer Science,",
-        "2019-2023",
-        "Projects",
-        "\u25cb Digital Bank:",
-        "- Built a Decentralised Web Application using Ethereum Blockchain. Implemented functionalities to Deposit, Withdraw, and take",
-        "Ethers as Loan. Language used for making smart contracts Solidity. Test Environment Ganache. Development Environment and Testing",
-        "framework Truffle.",
-        "\u25cb Music AnyTime:",
-        "- Built a Web Application using Reactjs, Redux Toolkit, Tailwind CSS, API Integration.A fully-fledged music player where you can",
-        "search,find lyrics, song exploration features, search popular music around you, worldwide top charts, and much more with better UI than",
-        "Spotify.",
-        "\u25cb Cryptoverse:",
-        "- Built a cryptocurrency web application, showcasing all the information about known cryptocurrencies. State Management using Redux",
-        "Toolkit, Web UI using Ant Design, creating charts using Chart.js, and fetching data from multiple sources using RapidAPI.Application",
-        "Software deployed on Vercel.",
-        "\u25cb Meme Generator:",
-        "- Built a web application that helps user to generate their own memes. Frontend using Reactjs.",
-        "Useful Courses",
-        "Operating systems, Database and Management Systems, Web Development, Understanding Business, Software Engineering, Remote",
-        "Sensing and Data Structures and Algorithms,Design and Analysis of Algorithms, Object Oriented Programming .",
-        "Highlights",
-        "Blitz-Scale - Lead and built an internal product (Software) of the company single-handedly which enables single-click integration and focuses",
-        "on reducing the developer efforts to zero by automating the entire configuration generation for each APIs. Technology hands-on Ruby-on-Rails,",
-        "Google Appscript, API development, Frontend integration, Postgres"
-    ],
     "education": [
         {
-            "university_name": "\u25cb BML Munjal University",
-            "course_name": "Gurugram",
+            "university_name": "BML Munjal University",
+            "course_name": "BTech in Computer Science",
             "dates_attended": "2019-2023",
             "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "BTech in Computer Science,",
-            "course_name": "2019",
-            "dates_attended": "2023",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Projects",
-            "course_name": "\u25cb Digital Bank:",
-            "dates_attended": "Built a Decentralised Web Application using Ethereum Blockchain. Implemented functionalities to Deposit, Withdraw, and take",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Ethers as Loan. Language used for making smart contracts Solidity. Test Environment Ganache. Development Environment and Testing",
-            "course_name": "framework Truffle.",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "\u25cb Music AnyTime:",
-            "course_name": "Built a Web Application using Reactjs, Redux Toolkit, Tailwind CSS, API Integration.A fully",
-            "dates_attended": "fledged music player where you can",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "search,find lyrics, song exploration features, search popular music around you, worldwide top charts, and much more with better UI than",
-            "course_name": "Spotify.",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "\u25cb Cryptoverse:",
-            "course_name": "Built a cryptocurrency web application, showcasing all the information about known cryptocurrencies. State Management using Redux",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Toolkit, Web UI using Ant Design, creating charts using Chart.js, and fetching data from multiple sources using RapidAPI.Application",
-            "course_name": "Software deployed on Vercel.",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "\u25cb Meme Generator:",
-            "course_name": "Built a web application that helps user to generate their own memes. Frontend using Reactjs.",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Useful Courses",
-            "course_name": "Operating systems, Database and Management Systems, Web Development, Understanding Business, Software Engineering, Remote",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Sensing and Data Structures and Algorithms,Design and Analysis of Algorithms, Object Oriented Programming .",
-            "course_name": "Highlights",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Blitz",
-            "course_name": "Scale",
-            "dates_attended": "Lead and built an internal product (Software) of the company single",
-            "marks_or_percentage": "handedly which enables single",
-            "additional_info": "click integration and focuses"
-        },
-        {
-            "university_name": "on reducing the developer efforts to zero by automating the entire configuration generation for each APIs. Technology hands",
-            "course_name": "on Ruby",
-            "dates_attended": "on",
-            "marks_or_percentage": "Rails,",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Google Appscript, API development, Frontend integration, Postgres",
-            "course_name": "",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
+            "additional_info": [
+                "Gurugram\n,\n2019-2023"
+            ]
         }
     ],
-    "work_experience": [],
+    "work_experience": [
+        {
+            "company_name": "automated configuration files from excel sheet itself using Ruby on Rails. Getting hands-on in AWS, Postman, JIRA, Git, ROR",
+            "job_title": "\u25cb Coding Blocks",
+            "dates_worked": "",
+            "additional_info": [
+                "WFH",
+                "Web Development Intern",
+                "May 2021\u2013July 2021",
+                "Individually designed a Social Media Web Application for the company. Web UI framework used ReactJS, Backend was done using NodeJS,",
+                "ExpressJS, Storing and fetching the user\u2019s data and CRUD functionality was managed using MongoDB, GraphQL.",
+                "\u25cb DoEarn",
+                "Varanasi",
+                "Founder and CEO",
+                "Apr 2020\u2013Dec 2021",
+                "Founded a web platform to help children earn their pocket money while studying by helping their peers in solving their doubts and enhancing",
+                "their problem-solving. Used Digital Marketing to advertise the company. Helped 50+ students."
+            ]
+        }
+    ],
     "linkedin": "https://www.linkedin.com/in/saumya-gupta-3b26491a5/",
     "github": ""
 }

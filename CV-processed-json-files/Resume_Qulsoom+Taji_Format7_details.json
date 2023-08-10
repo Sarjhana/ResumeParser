@@ -2,232 +2,53 @@
     "name": "Qulsoom Taji",
     "email": "qulsoom2000@gmail.com",
     "phone": "+919337486505",
-    "skills": [
-        ".",
-        "5.Effective member & leader of project team.",
-        "6.Carry out multiple assignments concurrently.",
-        "EXPERIENCE",
-        "Aug-2020 - Feb-2021",
-        "Pr & Media Intern",
-        "NSG CREW",
-        "1.Organise events both virtually as well as of\ufb02ine.",
-        "2.Collaborate with in\ufb02uencers & high worth individuals for creative initiatives.",
-        "3.Used to address the masses both online & of\ufb02ine on behalf of the organisation.",
-        "4.Used to manage the social media handles of the organisation for it's timely response and",
-        "smooth functioning.",
-        "Oct-2020 - Aug-2021",
-        "Sales & Marketing Intern",
-        "AASHMAN FOUNDATION",
-        "1.Used to sell eco-friendly products produced by the organisation virtually.",
-        "2.Raised funds for different kinds of campaigns conducted by the organisation.",
-        "3.Used email marketing for lead conversion.",
-        "4.Generated organic leads via both cold & warm calling.",
-        "Nov-2020 - May-2021",
-        "Freelance Recruiter",
-        "JOB 4 U CONSULTANCY",
-        "1.Used different job portals for hiring of candidates.",
-        "2.Screened the candidates as per the demands of different organisations.",
-        "3.Did follow-ups before & after recruitment.",
-        "4.Generated the urgency for  job posting in order to bridge the gap between work &",
-        "unemployment.",
-        "Mar-2022 - Jun-2022",
-        "Talent Acquisition Assistant",
-        "MEDIA NEWS NETWORK PVT, LTD.",
-        "1.Contacted with various types of media houses to understand the working of media.",
-        "2.Posted different types of jobs in relation to media using social media & job portals.",
-        "3.Screened the candidates as per the asked role & hired candidates with great ef\ufb01cacies.",
-        "4.Promoted & marketised the organisation whilst creating creative job posts for the \ufb01rm.",
-        "EDUCATION",
-        "Degree/Course",
-        "Institute/College",
-        "University/Board",
-        "Year of Passing",
-        "10th-High School",
-        "New Stewart",
-        "School,Cuttack.",
-        "ICSE",
-        "2016",
-        "12th-Commerce",
-        "Shailabala",
-        "Junior Women's",
-        "College,Cuttack.",
-        "C.H.S.E.",
-        "2018",
-        "B.COM(HONS.)",
-        "Emarti Devi",
-        "Degree Women's",
-        "College,Cuttack.",
-        "Ramadevi",
-        "Women's University",
-        "Bhubhaneswar.",
-        "2021",
-        "STRENGTHS",
-        "1.Quick-learner, 2.Problem Solver, 3.Detail-oriented &, 4.Adaptable.",
-        "HOBBIES",
-        "1.Listening to soft-music &, 2. Doing things for the welfare of the society.",
-        "PERSONAL DETAILS",
-        "Date of Birth",
-        "23.12.2000",
-        "Gender",
-        "Female",
-        "Nationality",
-        "Indian",
-        "Marital Status",
-        "Single",
-        "Languages Known",
-        "1.English, 2.Hindi, 3.Odia &, 4.Quranic Arabic.",
-        "Qulsoom Taji"
-    ],
     "education": [
         {
-            "university_name": "Degree/Course",
-            "course_name": "Institute/College",
+            "university_name": "Ramadevi\nWomen's University",
+            "course_name": "male\nNationality\nIndian\nMarital Status\nSingle\nLanguages Known\n1.English",
             "dates_attended": "2.Hindi",
             "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "University/Board",
-            "course_name": "Year of Passing",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "10th",
-            "course_name": "High School",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "New Stewart",
-            "course_name": "School,Cuttack.",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "ICSE",
-            "course_name": "2016",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "12th",
-            "course_name": "Commerce",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Shailabala",
-            "course_name": "Junior Women's",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "College,Cuttack.",
-            "course_name": "C.H.S.E.",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "2018",
-            "course_name": "B.COM(HONS.)",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Emarti Devi",
-            "course_name": "Degree Women's",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "College,Cuttack.",
-            "course_name": "Ramadevi",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Women's University",
-            "course_name": "Bhubhaneswar.",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "2021",
-            "course_name": "STRENGTHS",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "1.Quick",
-            "course_name": "learner, 2.Problem Solver, 3.Detail",
-            "dates_attended": "oriented &, 4.Adaptable.",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "HOBBIES",
-            "course_name": "1.Listening to soft",
-            "dates_attended": "music &, 2. Doing things for the welfare of the society.",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "PERSONAL DETAILS",
-            "course_name": "Date of Birth",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "23.12.2000",
-            "course_name": "Gender",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Female",
-            "course_name": "Nationality",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Indian",
-            "course_name": "Marital Status",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "Single",
-            "course_name": "Languages Known",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
-        },
-        {
-            "university_name": "1.English, 2.Hindi, 3.Odia &, 4.Quranic Arabic.",
-            "course_name": "Qulsoom Taji",
-            "dates_attended": "",
-            "marks_or_percentage": "",
-            "additional_info": ""
+            "additional_info": [
+                "Bhubhaneswar.\n2021\nSTRENGTHS\n1.Quick-learner, 2.Problem Solver, 3.Detail-oriented &, 4.Adaptable.\nHOBBIES\n1.Listening to soft-music &, 2. Doing things for the welfare of the society.\nPERSONAL DETAILS\nDate of Birth\n23.12.2000\nGender\nFe, 2.Hindi, 3.Odia &, 4.Quranic Arabic.\nQulsoom Taji"
+            ]
         }
     ],
-    "work_experience": [],
+    "work_experience": [
+        {
+            "company_name": "Pr & Media Intern",
+            "job_title": "NSG CREW",
+            "dates_worked": "",
+            "additional_info": [
+                "1.Organise events both virtually as well as of\ufb02ine.",
+                "2.Collaborate with in\ufb02uencers & high worth individuals for creative initiatives.",
+                "3.Used to address the masses both online & of\ufb02ine on behalf of the organisation.",
+                "4.Used to manage the social media handles of the organisation for it's timely response and",
+                "smooth functioning.",
+                "Oct-2020 - Aug-2021",
+                "Sales & Marketing Intern",
+                "AASHMAN FOUNDATION",
+                "1.Used to sell eco-friendly products produced by the organisation virtually.",
+                "2.Raised funds for different kinds of campaigns conducted by the organisation.",
+                "3.Used email marketing for lead conversion.",
+                "4.Generated organic leads via both cold & warm calling.",
+                "Nov-2020 - May-2021",
+                "Freelance Recruiter",
+                "JOB 4 U CONSULTANCY",
+                "1.Used different job portals for hiring of candidates.",
+                "2.Screened the candidates as per the demands of different organisations.",
+                "3.Did follow-ups before & after recruitment.",
+                "4.Generated the urgency for  job posting in order to bridge the gap between work &",
+                "unemployment.",
+                "Mar-2022 - Jun-2022",
+                "Talent Acquisition Assistant",
+                "MEDIA NEWS NETWORK PVT, LTD.",
+                "1.Contacted with various types of media houses to understand the working of media.",
+                "2.Posted different types of jobs in relation to media using social media & job portals.",
+                "3.Screened the candidates as per the asked role & hired candidates with great ef\ufb01cacies.",
+                "4.Promoted & marketised the organisation whilst creating creative job posts for the \ufb01rm."
+            ]
+        }
+    ],
     "linkedin": "",
     "github": ""
 }
