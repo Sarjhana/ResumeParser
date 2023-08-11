@@ -9,8 +9,7 @@
             "dates_attended": "July 2024",
             "marks_or_percentage": "",
             "additional_info": [
-                "Huddersfield\nBroadcast  (BSc)\nGraduating July 2024",
-                "Predicted First Class Honours."
+                "Huddersfield\nBroadcast  (BSc)\nGraduating July 2024\n \nPredicted First Class Honours."
             ]
         },
         {
@@ -19,53 +18,60 @@
             "dates_attended": "September",
             "marks_or_percentage": "",
             "additional_info": [
-                "Leeds\nA Level Qualifications\nSeptem- June 2020",
-                "Awarded A, A, C, in Media Studies, Sociology and English Literature, respectively."
+                "Leeds\nA Level Qualifications\nSeptem- June 2020\n \nAwarded A, A, C, in Media Studies, Sociology and English Literature, respectively."
             ]
         }
     ],
     "work_experience": [
         {
-            "company_name": "Nando\u2019s",
-            "job_title": "Leeds",
-            "dates_worked": "",
+            "company_name": "Nando's",
+            "job_title": "General Sales Assistant",
+            "dates_worked": "December 2022 - Current",
             "additional_info": [
+                "Matalan",
+                "Leeds",
+                "Using my initiative and creative flair to style mannequins and main displays to appeal to our",
+                "customer base and compete with other well-established brands in the city centre.",
+                "Maintaining a good availability of stock, out posting where necessary to drive basket sales.",
+                "Supporting the wider management team with daily duties.",
+                "Gain vast amount of knowledge to aid customers",
+                "Highly efficient on tills and cash handling.",
+                "Keeping up to date with sales and offers to drive more profit",
+                "Enforcing company policy when dealing with returns and customer complaints."
+            ]
+        },
+        {
+            "company_name": "Videographer & Editor",
+            "job_title": "Help lead the team and delegate tasks to other colleagues to have quick table turnover.",
+            "dates_worked": "July 2018 - December 2022",
+            "additional_info": [
+                "Leeds",
                 "Cashier",
-                "July 2018 - December 2022",
-                "\u25cf",
                 "Delivered excellent customer service and ensured that every customer had the best dining",
                 "experience.",
-                "\u25cf",
                 "Ensured high food safety standards were met.",
-                "\u25cf",
                 "Gain a vast knowledge of the menu to give excellent recommendations to customers",
                 "depending on their taste.",
-                "\u25cf",
                 "Upsell items from the menu to gain more profit.",
-                "\u25cf",
-                "Help lead the team and delegate tasks to other colleagues to have quick table turnover.",
                 "Monomyth Records",
-                "Leeds",
-                "Videographer & Editor",
-                "November 2022",
-                "\u25cf",
+                "Leeds"
+            ]
+        },
+        {
+            "company_name": "Birkenshaw CE \u00a9 Primary School",
+            "job_title": "",
+            "dates_worked": "November 2022",
+            "additional_info": [
                 "Using my creativity and extensive knowledge of visual and audio equipment, set up filming",
                 "equipment to film musicians performing, offering visually pleasing videography.",
-                "\u25cf",
                 "Used Premiere Pro to a high level to edit a film using footage that was filmed.",
-                "\u25cf",
                 "Directed the musicians in order to gain the best shot.",
-                "Birkenshaw CE \u00a9 Primary School",
                 "Bradford",
                 "Activity Support Worker",
                 "October 2017 - July 2018",
-                "\u25cf",
                 "Passed an extensive DBS check.",
-                "\u25cf",
                 "Upkeep strict safeguarding regulations",
-                "\u25cf",
                 "Liaise with parents and teachers to provide the best enrichment activities for the children.",
-                "\u25cf",
                 "Set an example of good behaviour for the children, which included being stern when needed",
                 "but also encouraging their"
             ]
@@ -76,5 +82,5 @@
     "projects": null,
     "certifications": null,
     "extra": "",
-    "skills": "Skills:\n\u25cf\nWith my degree, I have produced numerous short films, TV shows, live streams, podcasts\nand music videos, in which I have directed, filmed and edited together.\n\u25cf\nCompetent at Microsoft Office and Adobe Creative Cloud.\n\u25cf\nExtensive knowledge on various Social Media applications.\n\u25cf\nDigital communication such as composing e-mails, content creation, copywriting and copy\nediting.\n\u25cf\nResearch, reporting and presentations."
+    "skills": "Skills:\n \nWith my degree, I have produced numerous short films, TV shows, live streams, podcasts\nand music videos, in which I have directed, filmed and edited together.\n \nCompetent at Microsoft Office and Adobe Creative Cloud.\n \nExtensive knowledge on various Social Media applications.\n \nDigital communication such as composing e-mails, content creation, copywriting and copy\nediting.\n \nResearch, reporting and presentations."
 }

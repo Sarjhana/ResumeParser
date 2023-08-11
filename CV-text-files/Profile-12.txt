@@ -20,7 +20,7 @@ Cloud Dataproc on Google Cloud
 Platform
 Google Cloud Platform Big Data and
 Machine Learning Fundamentals
-70-461 – Querying SQL Server 2012
+70-461 - Querying SQL Server 2012
 database
 Honors-Awards
 Smt. G. S. Rajalakshmi Memorial
@@ -84,16 +84,16 @@ Attribution Modeling for Call Center Metrics
 Established key relationships between customer experience metrics and
 bottom line of a telecom major by using multivariate linear and non linear
 regression models that providing better control on metrics for key business
-stakeholders; Python – sklearn, pandas, statsmodels
+stakeholders; Python - sklearn, pandas, statsmodels
 Customer Segmentation and Profile Generation
 Created an unsupervised patient segmentation model using a modified k
 means algorithm that would classify patients into buckets based on their
 behavior characteristics to segment customers for pharma major; HIVE,
-Pyspark, Python – sklearn, pandas, seaborn
+Pyspark, Python - sklearn, pandas, seaborn
 Social Media Analytics (Text Classification)
 Built a classification algorithm to gauge public sentiment and created a
 customized dashboard to analyse key themes trending about traveller
-programs and its products; Python – pandas, sklearn, 
+programs and its products; Python - pandas, sklearn, 
 NLTK, spacy, gensim
 Text Analytics on Customer Conversations
 Built a text classification model that learns from the language usage and the
@@ -107,7 +107,7 @@ Page 2 of 5
 keywords from conversations. These keywords were used to generate labels
 for predefined topics. An array of supervised classification models were built
 to learn from this label dataset and use an ensemble approach to accurately
-classify any new conversations into the topic buckets. Python – pandas,
+classify any new conversations into the topic buckets. Python - pandas,
 sklearn, NLTK, spacy, gensim
 Walmart
 Marketing Analytics Capstone Project Intern
@@ -142,16 +142,16 @@ Page 3 of 5
  
  
 Built BI and Analytics system for Fortune 100 US mutual insurance company
-using Microsoft’s BI suite; enabled senior business users to track loss incurred
+using Microsoft's BI suite; enabled senior business users to track loss incurred
 over different periods;
 Designed custom coded UI using C#/CSS/JavaScript/SharePoint for fortune
-100 CPG Company’s operations team schedule and track cost centre data
+100 CPG Company's operations team schedule and track cost centre data
 loads faster and efficiently; helped team save up to 70% of the costs involved
 in financing a support team per year to keep track of the data loads
 Developed SSRS reports to analyze the effectiveness of forecast made during
 the demand planning week and attribute losses to a loss tree
 Successfully supported and troubleshot issues across Microsoft Business
-Intelligence Stack – SQL, SSIS, SSAS, SSRS and SharePoint for the Sales
+Intelligence Stack - SQL, SSIS, SSAS, SSRS and SharePoint for the Sales
 and Operations (S&OP) team at Fortune 100 CPG company; successful
 completion of four major change requests during year of support
 National Chemical Laboratory
@@ -171,7 +171,7 @@ concentrations (<100 PPM levels).
 Education
 The University of Texas at Austin - Red McCombs School of
 Business
-Master’s Degree, Business Analytics · (2015 - 2016)
+Master's Degree, Business Analytics · (2015 - 2016)
 National Institute of Technology Tiruchirappalli
  
 Page 4 of 5

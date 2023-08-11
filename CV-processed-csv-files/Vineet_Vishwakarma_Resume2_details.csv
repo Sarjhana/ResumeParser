@@ -1,54 +1,53 @@
 name,email,phone,education,work_experience,linkedin,github,projects,certifications,extra,skills
-Vineet Vishwakarma,vineetvishwakarma101@gmail.com,+916260437738,"[{'university_name': 'BACHELOR OF TECHNOLOGY\nLakshmi Narain College', 'course_name': 'Backlog', 'dates_attended': '2018-2019', 'marks_or_percentage': '8.7/10', 'additional_info': ['Of\nTechnology\n2019-2023 | Indore, India\n• Computer Science Engineering\n• Live : 0\n• CGPA: 8.7/10\nCLASS XII (M.P BOARD)\nHoly Faith Convent School\n90%\n2018-2019 | Garhakota, M.P\nCLASS X (M.P BOARD)\nHoly Faith Convent School\n89%\n2016-2017 | Garhakota, M.P\nLINKS\nGithub:// VineetVishwakarma\nLinkedIn:// vineet-vishwakarma']}]","[{'company_name': 'edge technologies.', 'job_title': '', 'dates_worked': '', 'additional_info': ['edge technologies.']}]",,,"BLOCKCHAIN EXPLORER
-Feb 2023 – Mar 2023 | Indore
-• Developed a Blockchain Explorer to allow users to explore and interact with a
+Vineet Vishwakarma,vineetvishwakarma101@gmail.com,+916260437738,"[{'university_name': 'BACHELOR OF TECHNOLOGY\nLakshmi Narain College', 'course_name': 'Backlog', 'dates_attended': '2018-2019', 'marks_or_percentage': '8.7/10', 'additional_info': ['Of\nTechnology\n2019-2023 | Indore, India\n  Computer Science Engineering\n  Live : 0\n  CGPA: 8.7/10\nCLASS XII (M.P BOARD)\nHoly Faith Convent School\n90%\n2018-2019 | Garhakota, M.P\nCLASS X (M.P BOARD)\nHoly Faith Convent School\n89%\n2016-2017 | Garhakota, M.P\nLINKS\nGithub:// VineetVishwakarma\nLinkedIn:// vineet-vishwakarma']}]",[],,,"BLOCKCHAIN EXPLORER
+Feb 2023 - Mar 2023 | Indore
+  Developed a Blockchain Explorer to allow users to explore and interact with a
 blockchain network using a web-based interface.
-• Utilized web3.js library to interact with the Ethereum blockchain and retrieve
+  Utilized web3.js library to interact with the Ethereum blockchain and retrieve
 transaction and block data.
-• Utilized technologies such as React, Node.js, and Ethereum smart contracts to
+  Utilized technologies such as React, Node.js, and Ethereum smart contracts to
 build the system.
 AUTHENTICATION SYSTEM
-Jan 2023 – Feb 2023 | Indore
-• Designed and developed an Authentication System using Nodejs for secure
+Jan 2023 - Feb 2023 | Indore
+  Designed and developed an Authentication System using Nodejs for secure
 user authentication and authorization.
-• Utilized the popular Express framework to build the back-end server and
+  Utilized the popular Express framework to build the back-end server and
 handle HTTP requests.
-• Integrated a MongoDB database to store and manage user information and
+  Integrated a MongoDB database to store and manage user information and
 session data.
 COMPETITIONS
 MLH HACKATHON - HACKTHEPLAN
 March 2023 | Remote
-• Our Diverse ’Planit’ Team: Comprising four individuals with unique skill sets, we
+  Our Diverse 'Planit' Team: Comprising four individuals with unique skill sets, we
 successfully developed and launched an Event Planning App website using
 NextJs, which is now live hosted on Vercel
 CERTIFICATION
-• Accenture Developer Virtual Experience Program.
-• AWS Academy Graduate - Cloud Foundations Certified Batch .
-• Udemy Certified Full-Stack Web Developer.
+  Accenture Developer Virtual Experience Program.
+  AWS Academy Graduate - Cloud Foundations Certified Batch .
+  Udemy Certified Full-Stack Web Developer.
 ACHIEVEMENTS
-• Recipient of Prestigious Inspire Scholarship by Government.
-• Got rank 95 in top coders of India in Next Level App.
-• Participated in Google Cloud Ready Facilitator Program .
-• Acquired proficiency in solving over 150 problems on HackerRank, showcasing
+  Recipient of Prestigious Inspire Scholarship by Government.
+  Got rank 95 in top coders of India in Next Level App.
+  Participated in Google Cloud Ready Facilitator Program .
+  Acquired proficiency in solving over 150 problems on HackerRank, showcasing
 a robust aptitude for algorithmic and computational problem-solving.",,"EXPERIENCE
 CODESMASH | Backend
 May 22 - Oct 22 | Remote
-• Developed and maintained scalable and efficient backend applications using
+  Developed and maintained scalable and efficient backend applications using
 Node.js and related frameworks, such as ExpressJs.
-• Built complex web applications utilizing Node.js for server-side development
+  Built complex web applications utilizing Node.js for server-side development
 and integrating APIs for seamless data exchange.
-• Integrated third-party services, such as payment gateways, social media APIs,
+  Integrated third-party services, such as payment gateways, social media APIs,
 and email providers, into NodeJs applications to enhance functionality.","PROGRAMMING
-• C/C++ • Java • MySQL • PHP
-• API’s • HTML/CSS • JavaScript
-• React • Node • Express • MongoDB
+  C/C++   Java   MySQL   PHP
+  API's   HTML/CSS   JavaScript
+  React   Node   Express   MongoDB
 MISCELLANEOUS
-• Amazon AWS • DBMS • Operating
-System • Agile • GitHub
-• Data Structure • Linux • Blockchain
+  Amazon AWS   DBMS   Operating
+System   Agile   GitHub
+  Data Structure   Linux   Blockchain
 PERSONAL SKILLS
-• Adaptability
-• Problem-solving
-• Time management
-• Teamwork
-•"
+  Adaptability
+  Problem-solving
+  Time management
+  Teamwork"

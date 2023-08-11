@@ -1,5 +1,5 @@
 name,email,phone,education,work_experience,linkedin,github,projects,certifications,extra,skills
-Kyrion,rampukaryadav073@gmail.com,+919643579827,[],[],,,"ABOUT ME
+Kyrion,rampukaryadav073@gmail.com,+919643579827,"[{'university_name': 'Computer Science Engineering\nInternational Institute', 'course_name': 'Management\nJun 2014', 'dates_attended': '', 'marks_or_percentage': '', 'additional_info': ['of Technology &  - May 2018 ,Haryana\nA self-ordering kiosk can be employed as a self-service\nfood ordering system wherein the customers can place\nan order directly at the kiosk\nProducts appear on click\nCart Page\nPayment method\nFeatures:\nTech Stack: HTML | CSS | JavaScript | Bootstrap\nRestro-Self-Kiosk']}]",[],,,"ABOUT ME
 Hardworking and passionate Full Stack Web
 Developer proficient in front-end and back-end
 technologies such as React, Redux and nodejs.

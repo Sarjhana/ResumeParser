@@ -4,15 +4,12 @@
     "phone": "+447824061765",
     "education": [
         {
-            "university_name": "King\u2019s College",
+            "university_name": "King's College",
             "course_name": "MSc Artificial Intelligence\nPass with Merit",
             "dates_attended": "Sept. 2022",
             "marks_or_percentage": "68%",
             "additional_info": [
-                "London\nSept. 2022\n (68%)",
-                "Relevant Modules: Data Mining, AI Planning, Computer Vision, AI Reasoning & Decision Making,\nNature-Inspired Learning Algorithms, Pattern Recognition, Neural Networks, and Deep Learning.",
-                "Dissertation: Explainable Predictive Frameworks from Medical Time Series supervised by Dr. Zina Ibrahim.",
-                "Aim: Develop an interpretable classifier using a next-generation Neurosymbolic AI approach, \u201cLogic\nExplained Networks\u201d that produces first-order logic explanations for time-series data."
+                "London\nSept. 2022\n (68%)\n \nRelevant Modules: Data Mining, AI Planning, Computer Vision, AI Reasoning & Decision Making,\nNature-Inspired Learning Algorithms, Pattern Recognition, Neural Networks, and Deep Learning.\n \nDissertation: Explainable Predictive Frameworks from Medical Time Series supervised by Dr. Zina Ibrahim.\n \nAim: Develop an interpretable classifier using a next-generation Neurosymbolic AI approach, \u201cLogic\nExplained Networks\u201d that produces first-order logic explanations for time-series data."
             ]
         },
         {
@@ -21,40 +18,33 @@
             "dates_attended": "May 2021",
             "marks_or_percentage": "8.7/10",
             "additional_info": [
-                ": 8.7/10",
-                "Team Research Project: Early Detection of Alzheimer\u2019s Disease",
-                "Proposed a novel approach of combining Residual Neural Networks(ResNet) and Ensemble Learning\n(Majority Voting).",
-                "Led the team to preprocess MRI Brain Images from the ADNI dataset and implement the ResNet\nclassifier using Transfer Learning. Github"
+                ": 8.7/10\n \nTeam Research Project: Early Detection of Alzheimer's Disease\n \nProposed a novel approach of combining Residual Neural Networks(ResNet) and Ensemble Learning\n(Majority Voting).\n \nLed the team to preprocess MRI Brain Images from the ADNI dataset and implement the ResNet\nclassifier using Transfer Learning. Github"
             ]
         }
     ],
     "work_experience": [
         {
             "company_name": "National Health Service (NHS - CAMHS) London, UK",
-            "job_title": "",
+            "job_title": "Clinical Informatician",
             "dates_worked": "Feb 2023 - Present",
+            "additional_info": []
+        },
+        {
+            "company_name": "Conducted research and developed extensions for NLP solutions to analyse unstructured health records data.",
+            "job_title": "Developed several Robotic Process Automation (RPA) bots using industry-leading technologies to automate",
+            "dates_worked": "Aug 2022 - Feb 2023",
             "additional_info": [
-                "Clinical Informatician",
-                "\u25cf",
-                "Conducted research and developed extensions for NLP solutions to analyse unstructured health records data.",
-                "\u25cf",
-                "Developed several Robotic Process Automation (RPA) bots using industry-leading technologies to automate",
                 "business processes and enhance operational efficiency.",
-                "\u25cf",
                 "Conducted rigorous testing and debugging of RPA bots to ensure accurate functionality, identify and resolve",
                 "issues, and optimize performance.",
-                "Child and Adolescent Mental Health Services (KCL) London, UK",
-                "Aug 2022 - Feb 2023",
-                "Senior Analyst (Part-time)",
-                "\u25cf",
-                "Performed data extraction, manipulation, and analysis using Microsoft SQL Server for ADHD research"
+                "Child and Adolescent Mental Health Services (KCL) London, UK"
             ]
         }
     ],
     "linkedin": "https://www.linkedin.com/in/sarjhana/",
     "github": "https://github.com/Sarjhana",
-    "projects": "\u25cf\nCreated impactful reports, dashboards, and data visualizations using Power BI to analyse mental health data.\nPredactica LLC Remote\nAug 2021 - Oct 2022\nAI/ML R&D consultant (Part-time)\n\u25cf\nWorked on researching and developing Explainable AI capabilities to generate global and local explanations\nusing the SHAP and LIME libraries.\n\u25cf\nTested counterfactual understanding of churn data and performed clustering for customer segmentation to\nhelp Fortune 500 companies diagnose and reduce customer churn rate resulting in a 20% increase in revenue.\n\u25cf\nAuthored optimal codes to effectively formulate Model Stability using Population Stability Index (PSI) and\nCharacteristic Stability Index (CSI).\n\u25cf\nActed as a single point of communication between the intern team and management team to engineer the\nnew features and integrate them into the existing product.\n\u25cf\nBuilt LSTM, CNN, NN, and BERT models to test various explainability libraries like SHAP, LIME, and ex-BERT\nusing TensorFlow and Huggingface.\nHatch Chennai, India\nJune 2019 - July 2019\nSoftware Developer (Intern)\n\u25cf\nCollaborated with the developer team to work on the demands specified by the client and created a\nprototype for a mobile application using React-Native that underwent various mockups.",
-    "certifications": "Technologies:\nArtificial Intelligence, Machine Learning, Deep Learning, NLP, Computer Vision\nProgramming:\nPython, C, C++, Dart, Matlab, R\nDatabases:\nMySQL, FireBase\nLibraries:\nTensorflow, Pytorch, Keras, Scikit Learn, NLTK, Numpy, Pandas, SHAP, LIME, DICE\nCertifications:\nArtificial Intelligence(Harvard University), Machine Learning(Stanford University),\nDeep Learning Specialization (CNN, LSTM from Coursera),\nIntroduction to Programming using Python(Microsoft, Credential ID - wLps5-H9MW)\nPROJECTS\nPeople Detection, Tracking and Counting\nJune 2021\n\u25cf\nDeveloped an object detector, tracker, and counter in TensorFlow using state-of-the-art techniques - YOLOv4\nand DeepSORT. GitHub\nAI in Marketing\nJan. 2021\n\u25cf\nTrained a K-Means Clustering Model on customer dataset to identify similar groups which can be used for\ntargeted ads or customised marketing campaigns.\n\u25cf\nPerformed Exploratory Data Analysis and PCA dimensionality reduction. GitHub\nCredit Card Default Detection\nMay 2020\n\u25cf\nTrained an XGBoost model with hyperparameter tuning by a Grid search to predict if a customer would\ndefault on credit card payments. GitHub\nACHIEVEMENTS\nWinner, Smart India Hackathon\nAug. 2020\n\u25cf\nDeveloped \u2018MIDDAY MEALS\u2019, an automated auditing system to monitor the free lunch scheme employed in\nover 1 million schools across India, for a 36-hour hackathon conducted by The Government of India.\n\u25cf\nAchieved 95% accuracy for Custom Food Detection model trained in SSD EfficientDet. Github\nWinner, Think-a-thon\nFeb. 2019\n\u25cf\nCreated prototype of Optical Character Recognition (OCR) system for automating and validating bank cheques\nusing Tesseract and Android Studio for a 24-hour hackathon conducted by Anna University, India. Github\nBest Innovation Award, SAACHACK\nJuly 2018\n\u25cf\nDesigned and implemented the project \u2018ParkSmart\u2019, an automated cloud-based parking system using Android\nStudio for a 24-hour hackathon conducted by Anna University, India. Github",
-    "extra": "Python Instructor, Hatch School of Code\nMay 2020 - Aug 2020\n\u25cf\nTaught foundational basics to advanced-level hands-on Python coding for kids of age 5 to 15.\nPresident, Association of Computer Engineers, Anna University\nJuly 2018 - May 2021\n\u25cf\nPlayed a crucial role in organising various technical events, hackathons, and the National level Symposium\n\u201cInterrupt\u201d for three consecutive years as a president, secretary, and an executive member.\n\u25cf\nAccomplished a 40% increase in student participation by enforcing new marketing strategies.",
-    "skills": ""
+    "projects": "Created impactful reports, dashboards, and data visualizations using Power BI to analyse mental health data.\nPredactica LLC Remote\nAug 2021 - Oct 2022\nAI/ML R&D consultant (Part-time)\n \nWorked on researching and developing Explainable AI capabilities to generate global and local explanations\nusing the SHAP and LIME libraries.\n \nTested counterfactual understanding of churn data and performed clustering for customer segmentation to\nhelp Fortune 500 companies diagnose and reduce customer churn rate resulting in a 20% increase in revenue.\n \nAuthored optimal codes to effectively formulate Model Stability using Population Stability Index (PSI) and\nCharacteristic Stability Index (CSI).\n \nActed as a single point of communication between the intern team and management team to engineer the\nnew features and integrate them into the existing product.\n \nBuilt LSTM, CNN, NN, and BERT models to test various explainability libraries like SHAP, LIME, and ex-BERT\nusing TensorFlow and Huggingface.\nHatch Chennai, India\nJune 2019 - July 2019\nSoftware Developer (Intern)\n \nCollaborated with the developer team to work on the demands specified by the client and created a\nprototype for a mobile application using React-Native that underwent various mockups.",
+    "certifications": "Technologies:\nArtificial Intelligence, Machine Learning, Deep Learning, NLP, Computer Vision\nProgramming:\nPython, C, C++, Dart, Matlab, R\nDatabases:\nMySQL, FireBase\nLibraries:\nTensorflow, Pytorch, Keras, Scikit Learn, NLTK, Numpy, Pandas, SHAP, LIME, DICE\nCertifications:\nArtificial Intelligence(Harvard University), Machine Learning(Stanford University),\nDeep Learning Specialization (CNN, LSTM from Coursera),\nIntroduction to Programming using Python(Microsoft, Credential ID - wLps5-H9MW)\nPROJECTS\nPeople Detection, Tracking and Counting\nJune 2021\n \nDeveloped an object detector, tracker, and counter in TensorFlow using state-of-the-art techniques - YOLOv4\nand DeepSORT. GitHub\nAI in Marketing\nJan. 2021\n \nTrained a K-Means Clustering Model on customer dataset to identify similar groups which can be used for\ntargeted ads or customised marketing campaigns.\n \nPerformed Exploratory Data Analysis and PCA dimensionality reduction. GitHub\nCredit Card Default Detection\nMay 2020\n \nTrained an XGBoost model with hyperparameter tuning by a Grid search to predict if a customer would\ndefault on credit card payments. GitHub\nACHIEVEMENTS\nWinner, Smart India Hackathon\nAug. 2020\n \nDeveloped \u2018MIDDAY MEALS', an automated auditing system to monitor the free lunch scheme employed in\nover 1 million schools across India, for a 36-hour hackathon conducted by The Government of India.\n \nAchieved 95% accuracy for Custom Food Detection model trained in SSD EfficientDet. Github\nWinner, Think-a-thon\nFeb. 2019\n \nCreated prototype of Optical Character Recognition (OCR) system for automating and validating bank cheques\nusing Tesseract and Android Studio for a 24-hour hackathon conducted by Anna University, India. Github\nBest Innovation Award, SAACHACK\nJuly 2018\n \nDesigned and implemented the project \u2018ParkSmart', an automated cloud-based parking system using Android\nStudio for a 24-hour hackathon conducted by Anna University, India. Github",
+    "extra": "Python Instructor, Hatch School of Code\nMay 2020 - Aug 2020\n \nTaught foundational basics to advanced-level hands-on Python coding for kids of age 5 to 15.\nPresident, Association of Computer Engineers, Anna University\nJuly 2018 - May 2021\n \nPlayed a crucial role in organising various technical events, hackathons, and the National level Symposium\n\u201cInterrupt\u201d for three consecutive years as a president, secretary, and an executive member.\n \nAccomplished a 40% increase in student participation by enforcing new marketing strategies.",
+    "skills": "\n"
 }

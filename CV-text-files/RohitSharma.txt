@@ -14,7 +14,7 @@ M.A Economics                                                                   
  
  
 Skills 
-• Python • Flask • Django • Django Rest Framework •PostgreSql • Git • Dialogflow  
+  Python   Flask   Django   Django Rest Framework  PostgreSql   Git   Dialogflow  
  
 Employment History 
  

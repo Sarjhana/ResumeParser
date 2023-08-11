@@ -14,7 +14,7 @@ predict the treatment patients will get using node embeddings
                    
 Software Engineer                                                                                                                                    4 months 
  Developed an E-Invoicing API in python to generate B2C QR code                                               
- Bharat Electronics Limited – Central Research Laboratory, Ghaziabad                       
+ Bharat Electronics Limited - Central Research Laboratory, Ghaziabad                       
  
 Project Engineer                                                                                                                                     34 months 
  Worked on Collision Resolution Server(CRS), Weapon Assignment(WA) and Decision Support 

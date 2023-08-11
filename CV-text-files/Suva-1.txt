@@ -29,9 +29,9 @@ with Django, java.
  
 ❖ Working Experience 
 Web Developer (Intern)   OCT 2022 — Dec 2022          WorInWell 
-• Working on JobPortal website using PHP, SQL, HTML, and CSS. 
-• Designed cards in the front-end part and saving user details and fetching data in backend. 
-• By using this project we can see the details of posted jobs, can apply for jobs and one can post jobs. 
+  Working on JobPortal website using PHP, SQL, HTML, and CSS. 
+  Designed cards in the front-end part and saving user details and fetching data in backend. 
+  By using this project we can see the details of posted jobs, can apply for jobs and one can post jobs. 
 ❖ Projects ( Portfolio - https://suva-dtech111.netlify.app/) 
 ❖ 
 Netflix app — Api Based Web application July-2022 

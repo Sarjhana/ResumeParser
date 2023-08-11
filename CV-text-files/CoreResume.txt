@@ -9,7 +9,7 @@ SUMMARY
 I have 7 years of experience in software development in different technologies. I have professional
 experience in mobile application development using Flutter, Swift pogromming languages and publishing
 it to AppStore. I follow the UI/UX designs to keep it pixel perfect to make it intuitive user experiences.
-Experience in building REST-API’s, Micro Services, Frameworks, SDKS using many languages such as
+Experience in building REST-API's, Micro Services, Frameworks, SDKS using many languages such as
 golang, dotntet & rust.
 I also worked as a Ethical Hacker.
 I architect mobile application as per the industry followed design patterns to make it robust, reusable and

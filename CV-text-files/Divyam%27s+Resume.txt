@@ -68,7 +68,7 @@ Tools: VS Code IDE
 GitHub : https://github.com/divyammakhaik01/url_shortner 
 Link : https://short-url-znf2.onrender.com 
 General_store 
-Implemented general store using OOP’s concepts. 
+Implemented general store using OOP's concepts. 
 admin can ( add_product , edit_product , delete_product) 
 user can buy items from store . 
 Tech Stack used : C++ 

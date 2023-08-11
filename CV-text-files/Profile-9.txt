@@ -29,17 +29,17 @@ Data & Applied Scientist II @Microsoft| Ex-DataScientist
 Science)@IIIT Bangalore
 Hyderabad, Telangana, India
 Summary
-• 6+ of experience in the areas of Predictive and Prescriptive
+  6+ of experience in the areas of Predictive and Prescriptive
 Analysis and have been supported by real-time industrial case
 studies assignments to further strengthen my knowledge in building
 the Predictive Model.
-• Providing data-driven, action-oriented solutions to challenging
+  Providing data-driven, action-oriented solutions to challenging
 business problems
-• Business-minded data scientist with a demonstrated ability to
+  Business-minded data scientist with a demonstrated ability to
 deliver valuable insights via data analytics and advanced data-driven
 methods.
-• Won First prize across India in Geek Goddess 2018-Data Science
-• Winner of her tech AI 2019 hackathons organized by Facebook.
+  Won First prize across India in Geek Goddess 2018-Data Science
+  Winner of her tech AI 2019 hackathons organized by Facebook.
 Analytics Vidhya Profile:https://www.analyticsvidhya.com/user/Roopa
 Github Profile: https://github.com/roopa164
 Medium Profile: https://medium.com/@roopa164gupta

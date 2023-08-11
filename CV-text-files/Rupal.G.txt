@@ -27,7 +27,7 @@ Technical skills:
 Browsers
 Google Chrome, Firefox, Internet explorer, Microsoft Edge
 Operating Systems
-Windows-7,10, Kali Linux – 2022.4 Virtual Box
+Windows-7,10, Kali Linux - 2022.4 Virtual Box
 Programming Skills
 C,C++, Java, Python
 Markup Languages
@@ -86,7 +86,7 @@ Responsibilities:
 1. Taken active part in all development phases of application.
 2. Worked with design team in order to optimize the usability of the
 application for the user.
-3. Involved in analyzing the client’s requirement in application
+3. Involved in analyzing the client's requirement in application
 development and developed code.
 4. Build MySQL queries for performing various CRUD operations like
 create, update, read and delete.
@@ -116,7 +116,7 @@ Marital status
 : Single
 Father Name
 : Ghaywat Ramesh Ananda
-Father’s Occupation
+Father's Occupation
 : Teacher
 Languages known
 : English, Hindi, Marathi.

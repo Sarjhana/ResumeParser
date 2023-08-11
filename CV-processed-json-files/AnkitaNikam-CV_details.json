@@ -4,7 +4,14 @@
     "phone": "",
     "education": [
         {
-            "university_name": "TBS Institute\nDigital Marketing\nMumbai University",
+            "university_name": "TBS Institute",
+            "course_name": "",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": []
+        },
+        {
+            "university_name": "Digital Marketing\nMumbai University",
             "course_name": "",
             "dates_attended": "",
             "marks_or_percentage": "",
@@ -25,16 +32,17 @@
             "dates_attended": "",
             "marks_or_percentage": "",
             "additional_info": [
-                "SSC\nSkills\nCreating google search ads\nCreating a google ads campaign\nBrand awareness campaign\nSocial  - Facebook, Instagram, Twitter\nEmail marketing\nSEO\nSEM\nCommunication skills- Coordinate with all Spoc\u2019s of entire Vistara network for requirement of staff.\nTechnical skills- MS Excel SAP MM Powerpoint MS Word\nProduct knowledge- Dispatch exact uniform material as indented.\nListening skills- Listen properly to the requirement and dispatch proper sizes of uniform.\nProblem solving attitude- Resolve the problem quickly if any damage or change in size is observed.\nTime management skills- Dispatch uniform materials on timely basis.\nAbility to respond quickly- Revert quickly to all concerns\nInterpersonal skills- Coordinate with HR,FLTOPS,Cabin crew,GS,SEC,ENGG team."
+                "SSC\nSkills\nCreating google search ads\nCreating a google ads campaign\nBrand awareness campaign\nSocial  - Facebook, Instagram, Twitter\nEmail marketing\nSEO\nSEM\nCommunication skills- Coordinate with all Spoc's of entire Vistara network for requirement of staff."
             ]
         }
     ],
     "work_experience": [
         {
             "company_name": "HDFC Bank",
-            "job_title": "HR",
-            "dates_worked": "",
+            "job_title": "manager.",
+            "dates_worked": "23/01/2020 - 01/02/2022",
             "additional_info": [
+                "HR",
                 "Worked as a Recruitment Of\ufb01cer in HDFC Bank Limited.",
                 "Sourcing suitable candidates from Naukri, Linked In.",
                 "Taking the \ufb01rst round of telephonic interview and shortlisting the candiates.",
@@ -44,15 +52,23 @@
                 "the documents, and lastly share the \ufb01nal appointment letter.",
                 "Before the joining day of candidate, share the joining details.",
                 "Post the joining of the candidate, share the employee code generation steps to the respective",
-                "manager.",
                 "Post the employee code generation, share the details with the HR business partner to take it",
-                "forward.",
-                "23/01/2020 - 01/02/2022",
-                "Maintain daily tracker of the candidates.",
-                "Maintain the vacancy tracker, position master report, offer drops report,Karza report.",
-                "Avvashya CCI Logistics Private Limited (All Cargo)",
-                "Sr.Executive",
-                "Worked as a Sr.Executive Customer Service with client Tata Sia Airlines Private Limited.",
+                "forward."
+            ]
+        },
+        {
+            "company_name": "Avvashya CCI Logistics Private Limited (All Cargo)",
+            "job_title": "Sr.Executive",
+            "dates_worked": "Maintain daily tracker of the candidates.",
+            "additional_info": [
+                "Maintain the vacancy tracker, position master report, offer drops report,Karza report."
+            ]
+        },
+        {
+            "company_name": "Worked as a Sr.Executive Customer Service with client Tata Sia Airlines Private Limited.",
+            "job_title": "Coordination with all outstation destination spoc's, station managers for uniforms matters",
+            "dates_worked": "and monthly basis to avoid any discrepancy in inventory.",
+            "additional_info": [
                 "(Vistara Airlines)",
                 "Handled inventory record of the entire network of Vistara all over India",
                 "Look after dispatches from Mumbai station",
@@ -66,28 +82,11 @@
                 "Outward entries in SAP MM",
                 "Dealing with all walk-in staff and suppliers who will be visiting warehouse for uniforms",
                 "collections & other queries and assist them accordingly.",
-                "Coordination with all outstation destination spoc's, station managers for uniforms matters",
                 "(entire Vistara network)",
                 "Timely update to User for material receipt in warehouse (MTM or any new material )",
                 "Ensure that uniforms are stored at correct designated area with proper marking and labelling,",
                 "so that material are easily traced and located for picking",
-                "Ensure that correct inventory control is maintained, and physical inventory is done on fortnightly",
-                "and monthly basis to avoid any discrepancy in inventory.",
-                "Ensure proper documentation is maintained (receiving, dispatch, reverse shipment, Bin card",
-                "etc.)",
-                "Proper communication on phone & email for complete Vistara staff of all stations for ensuring",
-                "that their uniforms are dispatched/ issued on timely basis against request received.",
-                "All pending material for individual staff is timely monitored and to be issued as soon as",
-                "material is received.",
-                "Pre alert email of the uniform material dispatch done timely for intimation at destination.",
-                "Material receiving for all new uniform material intimated to all concerned, as soon material is",
-                "received in warehouse.",
-                "Various MIS reports like daily uniform report, resigned staff data report, replacement uniforms",
-                "data report, and old uniforms return data report etc. maintained as per client requirement.",
-                "Any issue related to unform material (Inward, outward ) checked and resolved timely.",
-                "Collected Feedback from staff & share with Purchase team.",
-                "Communicated with Vistara team (Procurement,GS,Inflight,Security, Flight Ops, Engg, HR,etc)",
-                "Look after inward and outward of dispatches."
+                "Ensure that correct inventory control is maintained, and physical inventory is done on fortnightly"
             ]
         }
     ],
@@ -96,5 +95,5 @@
     "projects": "Tata Sia Airlines Private Limited",
     "certifications": null,
     "extra": "Travel to explore new places\nDancing and singing\nPhotography\nParticipating in social activities\nLanguages\nEnglish\nHindi\nMarathi\nPersonal Details\nDate of Birth\n: 11/06/1995\nMarital Status : Single\nNationality\n: Indian\nDeclaration\n\"I hereby declare that all the information furnished above is true to the best of my belief.\"\nCerti\ufb01cations\nGoogle Ads Search Certi\ufb01cation - April 2022\nDigital Marketing in Certi\ufb01cation Program - May 2022",
-    "skills": ""
+    "skills": "\nProduct knowledge- Dispatch exact uniform material as indented.\nListening skills- Listen properly to the requirement and dispatch proper sizes of uniform.\nProblem solving attitude- Resolve the problem quickly if any damage or change in size is observed.\nTime management skills- Dispatch uniform materials on timely basis.\nAbility to respond quickly- Revert quickly to all concerns\nInterpersonal skills- Coordinate with HR,FLTOPS,Cabin crew,GS,SEC,ENGG team."
 }

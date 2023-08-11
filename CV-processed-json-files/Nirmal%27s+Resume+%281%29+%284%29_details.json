@@ -6,9 +6,11 @@
     "work_experience": [
         {
             "company_name": "ATC",
-            "job_title": "05/2022 - 10/2022,",
-            "dates_worked": "",
+            "job_title": "Publicis Consultants Asia(MSL)",
+            "dates_worked": "11/2017 - 02/2018,",
             "additional_info": [
+                "Copy Writer",
+                "05/2022 - 10/2022,",
                 "Remote - USA",
                 "Tech Copy Writing",
                 "Video Copy Scripts",
@@ -20,7 +22,6 @@
                 "Innovative campaign ideation, ads and Digital Content",
                 "Social Media marketer (Project based)",
                 "Boarding Das(Vir Das) - Events Speciale",
-                "11/2017 - 02/2018,",
                 "Pune",
                 "Event Speciale is an event mangament and production company. We",
                 "were handling Vir Das's India Tour.",
@@ -33,17 +34,15 @@
                 "Writing articles/blogs for the company website",
                 "Creative artwork content / Constructing marketing",
                 "strategies and marketing campaigns",
-                "Intern - Public Relations",
-                "Publicis Consultants Asia(MSL)",
-                "10/2016 - 12/2016,",
-                "Mumbai",
-                "Accounts - \"Net\ufb02ix, Nvidia\"",
-                "Marketing Manager",
-                "Foodiecart.in",
-                "07/2015 - 01/2016,",
-                "Surat",
-                "Company Branding and Positioning Strategies",
-                "B2B communication and alliance"
+                "Intern - Public Relations"
+            ]
+        },
+        {
+            "company_name": "Accounts - \"Net\ufb02ix, Nvidia\"",
+            "job_title": "Marketing Manager",
+            "dates_worked": "10/2016 - 12/2016,",
+            "additional_info": [
+                "Mumbai"
             ]
         }
     ],

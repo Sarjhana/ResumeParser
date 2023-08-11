@@ -9,13 +9,13 @@ Portfolio
 EDUCATION
 Full Stack Web Development ( Full-Time)
 Masai School Bengaluru, Karnataka
-05/2022 – present | Bengaluru
+05/2022 - present | Bengaluru
 M.Sc.(Physics)
 Solapur University,Solapur
-07/2019 – 09/2021 | Solapur, Maharashtra
+07/2019 - 09/2021 | Solapur, Maharashtra
 B.Sc.(Physics)
 K.B.P.Mahavidyalaya, Pandharpur
-04/2016 – 05/2019 | Solapur, Maharashtra
+04/2016 - 05/2019 | Solapur, Maharashtra
 SKILLS
 TECHNICAL SKILLS
 HTML | CSS | Data Structure | Algorithm | Java | JavaScript  | 
@@ -26,10 +26,10 @@ Remote Work | Online Collaboration
 PROFESSIONAL EXPERIENCE
 Quality Inspector
 Mindarika Pvt Ltd
-07/2021 – 03/2022 | Pune, India
+07/2021 - 03/2022 | Pune, India
 Subject Matter Expert
 Chegg
-08/2020 – present
+08/2020 - present
 PROFILE
 An ambitious developer with strong command in Java,
 JavaScript, HTML, SQL database, Web API, etc. Constant

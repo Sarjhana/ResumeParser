@@ -44,9 +44,9 @@ Certificate
 9.0 
  
 TECHNICAL SKILLS: 
-● Programming Languages: Python, Java 
-● Database Languages: Sql 
-● Web Technology: Html, Css 
+  Programming Languages: Python, Java 
+  Database Languages: Sql 
+  Web Technology: Html, Css 
  
 PERSONAL DETAILS: 
             Father Name   
@@ -73,13 +73,13 @@ Nationality
  
 ACHIEVEMENTS: 
  
-●  Works as a Coordinator in arts and crafts club in college. 
-● I got a prize in Cursive writing competition in school level. 
+   Works as a Coordinator in arts and crafts club in college. 
+  I got a prize in Cursive writing competition in school level. 
  
  CERTIFICATES: 
-● I have received Python Programming Certificate from Udemy. 
-● I got a Certificate in  HTML  from Udemy. 
-● Successfully completed  TCS iON Career Edge - Young Professional course. 
+  I have received Python Programming Certificate from Udemy. 
+  I got a Certificate in  HTML  from Udemy. 
+  Successfully completed  TCS iON Career Edge - Young Professional course. 
  
 DECLARATION: 
 I hereby declare that the details above are correct and true to the best of my knowledge.  

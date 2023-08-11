@@ -6,17 +6,21 @@
     "work_experience": [
         {
             "company_name": "Keyvalue Software Systems",
-            "job_title": "",
+            "job_title": "Associate Software Engineer",
             "dates_worked": "07/2021 - Present,",
+            "additional_info": []
+        },
+        {
+            "company_name": "Slack, to monitor microservice errors, as an alternative to",
+            "job_title": "",
+            "dates_worked": "Lambda to automate daily product publication from",
             "additional_info": [
                 "Kochi, Kerala.",
                 "A company which focuses on building products from scratch for well",
                 "funded startups.",
                 "Designed and implemented an alert system integrated with",
-                "Slack, to monitor microservice errors, as an alternative to",
                 "Sentry for development and staging instances.",
                 "Developed a cron job using AWS EventBridge and AWS",
-                "Lambda to automate daily product publication from",
                 "catalogue to SFTP server, enabling easy injection of ads into",
                 "Google Ads and Facebook Ads.",
                 "Designed and implemented a secure OTP (One-Time",

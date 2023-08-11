@@ -1,19 +1,19 @@
 name,email,phone,education,work_experience,linkedin,github,projects,certifications,extra,skills
-Bhaumik Tandan,bhaumik.tandan@gmail.com,+918604616679,[],"[{'company_name': 'SnappiTech', 'job_title': 'Work From Home', 'dates_worked': '', 'additional_info': ['MERN STACK DEVELOPER', 'January 2021‑October 2021', '• ReactJS', '• NodeJS', '• AWS Piperline', 'Appleute', 'Work From Home', 'SOFTWARE ENGiNEER INTERN', 'October 2021‑Mach 2022', '• Betra Project', 'Appleute', 'Work From Home', 'SOFTWARE DEVELOPER ENGiNEER‑1', 'April 2022‑Present', '• Puma‑Catchup React Native App']}]",,,"E‑commerce website Django
-• A e‑commerce website for a sweet shop.
-• It uses SqlLite for Database connectivity.
-• Has a fully functional cart developed using localstorage functionality in js.
+Bhaumik Tandan,bhaumik.tandan@gmail.com,+918604616679,"[{'university_name': 'Vellore Institute', 'course_name': 'BACHELORS OF TECHNOLOGY iN INFORMATiON TECHNOLOGY\nJULY 2019', 'dates_attended': '', 'marks_or_percentage': '', 'additional_info': ['of Technology\nVellore, India\n‑Present\n  Developed Interest in Web Development\n  Explored domains like machine learning,data science and database management system']}]","[{'company_name': 'SnappiTech', 'job_title': 'MERN STACK DEVELOPER', 'dates_worked': 'January 2021‑October 2021', 'additional_info': ['Work From Home']}, {'company_name': 'ReactJS', 'job_title': 'SOFTWARE ENGiNEER INTERN', 'dates_worked': 'October 2021‑Mach 2022', 'additional_info': ['NodeJS', 'AWS Piperline', 'Appleute', 'Work From Home']}, {'company_name': 'Puma‑Catchup React Native App', 'job_title': 'SOFTWARE DEVELOPER ENGiNEER‑1', 'dates_worked': 'April 2022‑Present', 'additional_info': ['Betra Project', 'Appleute', 'Work From Home']}]",,,"E‑commerce website Django
+  A e‑commerce website for a sweet shop.
+  It uses SqlLite for Database connectivity.
+  Has a fully functional cart developed using localstorage functionality in js.
 Inventory Management System using SQL with PL‑SQL
-• Made ER diagram and Relational diagram using yED
-• Used the concept of primary key and foreign key
-• Have written nested queries as well as using join operation
-• Used nvl having and group by claus
-• Used the concept of triggers, procedures and functions in PL‑SQL
+  Made ER diagram and Relational diagram using yED
+  Used the concept of primary key and foreign key
+  Have written nested queries as well as using join operation
+  Used nvl having and group by claus
+  Used the concept of triggers, procedures and functions in PL‑SQL
 Online Compiler and site hosting service in MERN stack
-• Users can run their HTML, JS and CSS codes and watch the preview of it
-• Uses AceEditor to beutify and autocomplete the code
-• Can host the site generated instatly through hash routing in react
-• Can run the cods of all programming languges mentioned in skills section",,,"Programing Languages
+  Users can run their HTML, JS and CSS codes and watch the preview of it
+  Uses AceEditor to beutify and autocomplete the code
+  Can host the site generated instatly through hash routing in react
+  Can run the cods of all programming languges mentioned in skills section",,,"Programing Languages
 Python, Java, JavaScript, Ruby, C, C++
 Technology Explored
 Django, NodeJs, React, ReactJs, Android Studio, Git, Linux, ExpressJs, SQL, MongoDB, Numpy, Pandas, AWS S3, React Native"

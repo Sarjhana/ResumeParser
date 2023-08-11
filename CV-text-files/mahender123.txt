@@ -17,11 +17,11 @@ my skills as an IT professional possessing competent technical skills
 Skill Highlights 
  
  
-•    Active listening 
+     Active listening 
  
-•    Time management 
+     Time management 
  
-•    Problem solving 
+     Problem solving 
   
 Major Projects
 H.NO:175,Suraram(V), Mahadevpur(M),               
@@ -40,10 +40,10 @@ Telugu
 Technical Skills 
  
  
-Programming Languages – C,C++,JAVA 
+Programming Languages - C,C++,JAVA 
 WebTechnologies:PHP,JSP,JavaScript, 
 HTML,CSS 
-Tools – MS Word,MS Excel 
+Tools - MS Word,MS Excel 
 Operating 
 Systems:Windows,Ubuntu(Linux) Data 
 bases:My SQL 
@@ -53,19 +53,19 @@ Learning Outcomes
 Android Phone Theft Security with GPS Tracking 
 Description: 
  
-• 
+  
 Anti theft mobile security is an application which will notify user 
 when trigger it 
-• 
+  
 This application has registration module use have to register 
 himself to get access of web application as well app access 
-• 
+  
 If user is lost the phone user should login into application and 
 trigger the lost phone  button. 
-•     Then application takes the picture of lost phone and send the GPS 
+      Then application takes the picture of lost phone and send the GPS 
 coordinated web application to track the phone. 
  
-• 
+  
 I here by conclude that using this application user can track down 
 the thief and it allows user to view the location and image of the 
 thief 

@@ -2,18 +2,18 @@
     "name": "Garbeta",
     "email": "subhaduleygba@gmail.com",
     "phone": "+17076617238",
-    "education": [],
-    "work_experience": [
+    "education": [
         {
-            "company_name": "\u2022 Working on JobPortal website using PHP, SQL, HTML, and CSS.",
-            "job_title": "\u2022 Designed cards in the front-end part and saving user details and fetching data in backend.",
-            "dates_worked": "",
+            "university_name": "University Institute",
+            "course_name": "Bachelor of Technology",
+            "dates_attended": "2019- \n23",
+            "marks_or_percentage": "14%",
             "additional_info": [
-                "\u2022 By using this project we can see the details of posted jobs, can apply for jobs and one can post jobs.",
-                "\u2756"
+                "of Technology , Burdwan \n (Computer Science and Engineering) 8.54 Cgpa (2019- \n23) \n\u27a2 \nBanerjee Danga High School \nHigher Secondary (77.14%) (2018- 19) \n\u27a2 Banerjee Danga High School \nSecondary (73.14%) (2016-17) \n \n\u2756 Skills \nC++, Python, Data Structures and Algorithms, HTML, CSS, JavaScript, MERN STACK, \nReact.js, Node.js, Redux, SQL, Networking, Git & GitHub, OOPS, Tailwind CSS, familiar \nwith Django, java. \n \n\u2756 Working"
             ]
         }
     ],
+    "work_experience": [],
     "linkedin": "https://www.linkedin.com/in/suva-duley-741881202/",
     "github": "https://github.com/subhaDTECH",
     "projects": "\u2756 \nNetflix app \u2014 Api Based Web application July-2022 \n\u27a2 Designed and developed a Netflix clone \n\u27a2 Fetching movies details and showing to user \n\u27a2 Data fetching using Movie Api Tmdb. \n \n\u2756 \n  Covid-19 Tracker \u2014 Api Based Web application   Nov -2021 \n\u27a2 Designed and developed a Covid-19 Tracker . \n\u27a2 We can select the country and find all current covid case details. \n\u27a2 Data fetching using covid Api. \n\u27a2 Tools/Technologies used : React.js , Node.js , Express.js , covid-api. \n \n\u2756 \n Realtime Chat Application - Chat app   Jun-2021 \n\u27a2 Designed and developed Realtime chat app. \n\u27a2 Google authentication \n\u27a2 Tools/Technologies used: React.js , Node.js , pusher , Mongodb. \n \n\u2756 Achievements and awards \n\u2794 2* on Leetcode solving 200+ dsa & algo problems. \n\u2794 Solving 240+ Problems on GeeksforGeeks. \n\u2794 Qualify for SnackDown 2021 pre-Elimination round on codechef. \n\u2794 Content writer at Medium. \n\u2794 Specialist at Codestudio. \n\u2794 3* at Codechef.",

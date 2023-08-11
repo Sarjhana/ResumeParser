@@ -43,10 +43,10 @@ Education
  
 High school
 k.K  Inter College
-Jul 2016 – May 2017 | Pilibhit, India
+Jul 2016 - May 2017 | Pilibhit, India
 Intermediate
 A.K Inter College
-Jul 2018 – May2019 | Pilibhit, India
+Jul 2018 - May2019 | Pilibhit, India
 Courses
  
                                                        
@@ -54,7 +54,7 @@ Courses
  
 BCA
 Springdale College Of Management Studies, MJPRU
-Jul 2019 – Nov 2022 | Pilibhit, India
+Jul 2019 - Nov 2022 | Pilibhit, India
 Created a model Online Result System, using php.
 Professional
  
@@ -65,7 +65,7 @@ Professional
  
 Internship
 Web Microsystems
-Sep 2022 – Nov 2022 | Delhi, India
+Sep 2022 - Nov 2022 | Delhi, India
 Hand on project related to Python. We have created 
 various models on Python,Flask and MySql.
 Interests

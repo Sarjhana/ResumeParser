@@ -43,12 +43,12 @@ Spring Boot | Hibernate | MySQL | Rest API
 Data Structures and Algorithms 
 Education
 Java Backend Developer, Masai School
-09/2022 – present | Online | Bangalore, india
+09/2022 - present | Online | Bangalore, india
 - Solved 450+ DSA problems 
 - 100+ hours of communication and soft skills
 training 
 Graduation, B.A.M.U. Chatrapati College
-10/2019 – 25/2022 | Aurangabad, India 
+10/2019 - 25/2022 | Aurangabad, India 
 Certificates
 Java Backend Developer (Masai School) 
 Problem Solving (hackerrank)

@@ -97,24 +97,24 @@ Experience
 Google
 Data Scientist - Google Cloud AI
 January 2022 - Present (1 year 7 months)
-• Working on building solutions using Large Language Models and Generative
+  Working on building solutions using Large Language Models and Generative
 AI capabilities on Google Cloud- GenAI Specialist
-• Customer-facing Data Scientist, building machine learning solutions for
+  Customer-facing Data Scientist, building machine learning solutions for
 customer use cases leveraging core Google Cloud AI platform and services.
-• Collaborating cross functionally with product team to perform industry
+  Collaborating cross functionally with product team to perform industry
 research on machine learning use-cases and
 building technical assets for end-to-end pipelines
-• Co-leading initiatives for building tools for Responsible AI workflows
-• Led a team to develop Data Quality Assessment Framework to be widely
+  Co-leading initiatives for building tools for Responsible AI workflows
+  Led a team to develop Data Quality Assessment Framework to be widely
 used in Google Cloud AI teams
-• Working on demand forecasting models, MLOps pipelines, personalization
+  Working on demand forecasting models, MLOps pipelines, personalization
 models, DocAI, and VisionAI models, across retail, banking and manufacturing
 industries (confidential customers)
  
 Page 2 of 11
  
  
-• 20% – Working as a PM with the product team to develop features in Vertex
+  20% - Working as a PM with the product team to develop features in Vertex
 AI platform (confidential)
 Illuminate AI
 Founder | Mentor
@@ -168,7 +168,7 @@ San Francisco Bay Area
 - Building Data and AI capabilities of Cloud Pak for Data, IBM Lead with
 offerings and partnerships by building data science and machine learning
 models to cater to the broader client, sales, and partner communities. 
-• Worked cross functionally with product team, data science team and sales
+  Worked cross functionally with product team, data science team and sales
 to research AI use-cases for clients by conducting discovery workshops and
 building demo assets to showcase the value of IBM Cloud services
 - Lead a team to generate new opportunities by proposing new features

@@ -1,17 +1,17 @@
 KARTIK CHOUDHARY
 Software Developer | Python Developer | Data Scientist
-� kartikchoudhary416@gmail.com
-� (+91) 9768002730
-� Mumbai, India
-� linkedin.com/in/kartik416
-� github.com/kartik416
+ kartikchoudhary416@gmail.com
+ (+91) 9768002730
+ Mumbai, India
+ linkedin.com/in/kartik416
+ github.com/kartik416
 EDUCATION
 Msc Data Analytics
 Dundalk Institute of Technology, Ireland
-� September 2020 – September 2021
+ September 2020 - September 2021
 BE in Information Technology
 Xavier Insitute of Engineering, Mumbai
-� 2015 – 2019
+ 2015 - 2019
 SKILLS
 Python
 API
@@ -34,73 +34,73 @@ Object Oriented Programming
 Performance and Scalability Optimization
 ACADEMIC/PERSONAL
 PROJECTS
-• Text Extraction and Analysis using NLP
-• Covid-19 Data Visualization.
-• URL Shortner in Serverless Architecture.
-• Web Scraping and API development with
+  Text Extraction and Analysis using NLP
+  Covid-19 Data Visualization.
+  URL Shortner in Serverless Architecture.
+  Web Scraping and API development with
 Beautiful Soup and Flask.
-• Smart Notice Board using Raspberry pi.
-• Time Series Analysis of Sales Data.
+  Smart Notice Board using Raspberry pi.
+  Time Series Analysis of Sales Data.
 CERTIFICATIONS
-• Docker for Developers by LinkedIn
+  Docker for Developers by LinkedIn
 Learning.
-• AWS Technical Essentials by AWS
-• Big Data Analytics with Hadoop and
+  AWS Technical Essentials by AWS
+  Big Data Analytics with Hadoop and
 Apache Spark.
-• DevOps Foundations: Continuous
+  DevOps Foundations: Continuous
 Delivery/Continuous Integration
 REFERENCES
-• Avinash Permude, LinkedIn -
+  Avinash Permude, LinkedIn -
 9986068473/apermude@linkedin.com
-• Daljeet Singh Malhotra, Flairlabs -
+  Daljeet Singh Malhotra, Flairlabs -
 9820261930/daljeet@ﬂairlabs.com
 EXPERIENCE
 Software Engineer
 LinkedIn
-� November 2021 – September 2022 � Dublin, Ireland
-• Updated old code bases to modern development standards,
+ November 2021 - September 2022  Dublin, Ireland
+  Updated old code bases to modern development standards,
 improving functionality.
-• Provided guidance and mentored other team members.
-• Collaborated with management, internal and development partners
+  Provided guidance and mentored other team members.
+  Collaborated with management, internal and development partners
 regarding software application design status and project progress.
-• Coordinated with other engineers to evaluate and improve software
+  Coordinated with other engineers to evaluate and improve software
 performance and robustness.
-• Coordinated eﬃcient large-scale software deployments.
-• Analyzed proposed technical solutions based on customer
+  Coordinated eﬃcient large-scale software deployments.
+  Analyzed proposed technical solutions based on customer
 requirements.
-• Created eﬃcient spiders that can scrape data from multiple sources
+  Created eﬃcient spiders that can scrape data from multiple sources
 using Scrapy, cleaning and mapping the scraped data impacting
 millions of job data.
 Associate Software Engineer
 Flairlabs
-� December 2019 – July 2020
-� Mumbai, India
-• Applications for Alexa - I performed tasks like debugging issues
+ December 2019 - July 2020
+ Mumbai, India
+  Applications for Alexa - I performed tasks like debugging issues
 adding new features to existing skills.
-• Researched and worked on Latex, MathJax Library, worked on
+  Researched and worked on Latex, MathJax Library, worked on
 creating Bridges for Native Modules, Implemented Text Editor and
 did some work on OCR Technology like AWS Textract,
 Python-tesseract and others.
-• Programmed a Deep Learning Model Using Pytorch for converting
+  Programmed a Deep Learning Model Using Pytorch for converting
 image to small sized vector and then ﬁnding similarity between
 diﬀerent images.
-• Created an RPA for web scraping using UiPath which extracts data
+  Created an RPA for web scraping using UiPath which extracts data
 related to Alexa skills and exports it as CSV or text ﬁle.
-• Wrote routines for fraud detection for performing e-KYC of oﬄine
+  Wrote routines for fraud detection for performing e-KYC of oﬄine
 Aadhaar documents.
-• Wrote function to convert large PDF ﬁles to high DPI tiﬀ images
+  Wrote function to convert large PDF ﬁles to high DPI tiﬀ images
 which consumes less storage space.
 Data Science Intern
 U-TO Solutions
-� August 2019 – October 2019
-� Mumbai, India
-• Created data mining architectures and models to identify trends in
+ August 2019 - October 2019
+ Mumbai, India
+  Created data mining architectures and models to identify trends in
 large data sets.
-• Created data visualization graphics, translating complex data sets into
+  Created data visualization graphics, translating complex data sets into
 comprehensive visual representations.
-• Performed advanced data extraction and data manipulation.
-• Pinpointed meaningful insights from large data and metadata sources.
-• Applied appropriate data science techniques to solve business
+  Performed advanced data extraction and data manipulation.
+  Pinpointed meaningful insights from large data and metadata sources.
+  Applied appropriate data science techniques to solve business
 problems.
-• Identiﬁed, analyzed and interpreted trends in complex data sets using
+  Identiﬁed, analyzed and interpreted trends in complex data sets using
 supervised and unsupervised learning techniques.

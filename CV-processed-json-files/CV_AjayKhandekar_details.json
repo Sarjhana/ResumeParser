@@ -6,18 +6,38 @@
         {
             "university_name": "MSBTE University",
             "course_name": "bai",
-            "dates_attended": "Oct 1995",
+            "dates_attended": "",
             "marks_or_percentage": "",
             "additional_info": [
-                "Personal Details \n \n \n\u2022 \n  Father Name- Rajaram Khandekar \n\u2022 \n  Current Address- MHB Colony, Borivali West, Mum-400091 \n\u2022 \n  Language Known- English, Marathi , Hindi \n\u2022 \n  Date Of Birth- 21 Oct 1995 \n \n \n \n \n \n \n     Place- Mumbai \n     Ajay Khandekar"
+                "Personal Details \n \n \n  \n  Father Name- Rajaram Khandekar \n  \n  Current Address- MHB Colony, Borivali West, Mum-400091 \n  \n  Language Known- English, Marathi , Hindi \n  \n  Date Of Birth- 21 Oct 1995 \n \n \n \n \n \n \n     Place- Mumbai \n     Ajay Khandekar"
             ]
         }
     ],
-    "work_experience": [],
+    "work_experience": [
+        {
+            "company_name": "Prime Focus Technology - July 2022 - Present",
+            "job_title": "",
+            "dates_worked": "S S Multimedia  Oct 2021 - July 2022",
+            "additional_info": [
+                "per week. Received Positive comments on my work from clients",
+                "Video Editor",
+                "Receiving a brief, and maybe an outline of footage and/or a shot list, script, or screenplay.",
+                "Assembling all raw footage, with camera shots either recorded or transferred onto video tape in",
+                "preparation for inputting into the computer",
+                "inputting uncut rushes and sound, and synchronizing and storing them into files on the computer",
+                "Management of all proxy files sent out of house for subtitling and dubbing.",
+                "Creating a 'rough cut' (or assembly edit) of the programmed/film and determining the exact",
+                "cutting for the next and final stages.",
+                "Video Editor",
+                "As Member of video editor in a team of four, turned 12+ hours of raw footage into 1 hour of",
+                "Finished. Video Edit for Weeding project, Events, Corporate Videos, Short Films, YT Videos"
+            ]
+        }
+    ],
     "linkedin": "",
     "github": "",
     "projects": null,
     "certifications": null,
     "extra": null,
-    "skills": "Premiere Pro, After Effect, Diamond. \n \nWork Experience \n \nVideo Editor \nPrime Focus Technology - July 2022 \u2013 Present  \n\u2022 \nReceiving a brief, and maybe an outline of footage and/or a shot list, script, or screenplay. \n\u2022 \nAssembling all raw footage, with camera shots either recorded or transferred onto video tape in \npreparation for inputting into the computer \n\u2022 \ninputting uncut rushes and sound, and synchronizing and storing them into files on the computer \n\u2022 \nManagement of all proxy files sent out of house for subtitling and dubbing. \n\u2022 \nCreating a 'rough cut' (or assembly edit) of the programmed/film and determining the exact \ncutting for the next and final stages.  \n \n \nVideo Editor \nS S Multimedia  Oct 2021 \u2013 July 2022 \n\u2022 \nAs Member of video editor in a team of four, turned 12+ hours of raw footage into 1 hour of \nFinished. Video Edit for Weeding project, Events, Corporate Videos, Short Films, YT Videos"
+    "skills": "Premiere Pro, After Effect, Diamond."
 }

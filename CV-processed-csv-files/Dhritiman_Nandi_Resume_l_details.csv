@@ -1,11 +1,9 @@
 name,email,phone,education,work_experience,linkedin,github,projects,certifications,extra,skills
-"2023/02 - 
- 
-Senior",talk2dn@yahoo.com,,[],"[{'company_name': 'https://www.linkedin.com/in/dhritima', 'job_title': 'n-nandi-622522', 'dates_worked': '', 'additional_info': []}]",https://www.linkedin.com/in/dhritima,,"GSK and JPMC 
-• Worked as database developer and administrator for 
+Shell,talk2dn@yahoo.com,,"[{'university_name': 'QROR \nIndian Statistical Institute', 'course_name': 'M.Tech in Quality', 'dates_attended': '2016-07', 'marks_or_percentage': '', 'additional_info': ['- Kolkata \n, Reliability & Operations Research, a two year \nfull time academic program,']}, {'university_name': 'the first of its kind in the country wa\nintroduced at Indian Statistical Institute', 'course_name': 'Mathematical Modeling', 'dates_attended': '2018-07', 'marks_or_percentage': '', 'additional_info': ['in 1989. The program is \nintended to develop statistical analysts with adequate theoretical\npractical exposure in Statistical and , \nOperations Research, Optimization, Business analytics, Database\nManagement system, Statistical Quality Control & Reliability. \nStudents pursuing this course are either Masters in Statistics, \nMathematics or Engineering graduates. \n  \n2004-07 - \n2008-07 \n  \nB.E: Electrical Engineering \nIIEST - Shibpur']}]",[],https://www.linkedin.com/in/dhritima,,"GSK and JPMC 
+  Worked as database developer and administrator for 
 different requirements 
-• Brought down migration completion timeline by 80% 
-• Solve issues with special characters in clinical data while 
+  Brought down migration completion timeline by 80% 
+  Solve issues with special characters in clinical data while 
 migrating to a different database","2011-12 
   
 Oracle Certified Professional in Oracle 11g on the PL/SQL 
@@ -14,19 +12,18 @@ Track.
 2019-05 
   
 Human Research (Curriculum Group) Data or Specimens Only 
-Research","• 
-GIS based solutions 
-• 
+Research","GIS based solutions 
+  
 Agritech 
-• 
+  
 Demand Estimation 
-• 
+  
 Econometrics 
-• 
+  
 OR 
-• 
+  
 Data Visualization 
-• 
+  
 Cloud data architecture 
 Internships  
 Organization Name: ABInBev 
@@ -96,24 +93,24 @@ Work History
  
 2023/02 - 
  
-Senior Associate – Analytics 
+Senior Associate - Analytics 
 Dun & Bradstreet, Mumbai 
-• 
+  
 Developing in-house tech solutions as part of country 
 insight group. 
-• 
+  
 Developing MDA model for automating scores for variou
 entities 
-• 
+  
 Developing model to predict various macro economic 
 variables 
-• 
+  
 Developing satellite based solutions to assess economic 
 activities 
-• 
+  
 Reduced dependencies on manual run for weekly and 
 monthly jobs by automating python scripts 
-• 
+  
 Working on large language model for alert and 
 notifications on relevant news articles 
  
@@ -124,103 +121,103 @@ notifications on relevant news articles
 Manager Analytics 
 RPG Enterprises, Mumbai 
 Project: HML 
-• Decide on algorithms to build models for shoot 
+  Decide on algorithms to build models for shoot 
 development and pest prediction/detection based on 
 weather and GIS data. The model based approach 
 estimates yield improvement by 130% 
-• Scout different service providers for satellite images and 
+  Scout different service providers for satellite images and 
 weather data to choose one based on cost and services 
 offered 
-• Requirement gathering and building solutions to tackle 
+  Requirement gathering and building solutions to tackle 
 various problems that plague the century old practices at 
 tea plantations 
-• Come up with solutions for cloud based data pipeline 
+  Come up with solutions for cloud based data pipeline 
 architecture 
   
-2019/09 – 
+2019/09 - 
 2021/11 
   
 Data Scientist II 
 General Mills , Mumbai 
 Project: Research New Algorithm 
-• Come up with LSTM model and fitment of the same as a 
+  Come up with LSTM model and fitment of the same as a 
 replacement of the existing approaches. The MAPE was 
 improved from 70% to 92% 
-• Develop and deliver content in the space of machine 
+  Develop and deliver content in the space of machine 
 learning for analytic capabilities development 
-• Check feasibility of algorithms like Q-learning and SARSA 
+  Check feasibility of algorithms like Q-learning and SARSA 
 as a replacement of the OR based approaches for the 
 supply chain team 
 Project: Finance Transformation 
-• Come up with a machine learning model to predict financial 
+  Come up with a machine learning model to predict financial 
 indicators based on external factors only. The monthly 
 model had MAPE around 84% 
-• Assess the effectiveness of the external data source used 
+  Assess the effectiveness of the external data source used 
 in the project 
-• Generate monthly report and explain it to the finance team 
+  Generate monthly report and explain it to the finance team 
 Project: C&F Harmonization 
-• Come up with a machine learning model to harmonize text 
+  Come up with a machine learning model to harmonize text 
 based customer data from various sources about various 
 entities 
-• Assess various record linkage algorithms to come up with 
+  Assess various record linkage algorithms to come up with 
 the best fit. The accuracy achieved was 95% 
   
-2019/01 – 
+2019/01 - 
 2019/09 
   
 Senior Data Scientist 
 Circle of Life Healthcare Pvt. Ltd., New Delhi 
 Project: ZEVAC 
-• To develop a product based on clinical data available at a 
+  To develop a product based on clinical data available at a 
 hospital that can suggest the proper anti-biotic for a 
 patient based on various attributes of the person and the 
 symptoms 
-• Come up with a strategy on what model to use based on 
+  Come up with a strategy on what model to use based on 
 the data and the inputs from the SMEs 
-• Planned and executed go-live as the PoC for the clients 
-• Come up with automated testing strategy of the data 
+  Planned and executed go-live as the PoC for the clients 
+  Come up with automated testing strategy of the data 
 science codes 
-• Come up with a testing strategy for the data science 
+  Come up with a testing strategy for the data science 
 module and the final product 
-• Come up with a set of best practices for the coding and 
+  Come up with a set of best practices for the coding and 
 ensure the same is enforced 
-• Come up with a strategy for the data extraction and 
+  Come up with a strategy for the data extraction and 
 handling 
-• Looking after the patenting process of the product 
-• Manage the team of data scientists and do proper resource 
+  Looking after the patenting process of the product 
+  Manage the team of data scientists and do proper resource 
 allocation 
   
-2013/05 – 
+2013/05 - 
 2016/08 
   
 Senior Software Engineer 
 CGI, Bengaluru 
 Project: Shell Horizon H3 
 Client: Royal Dutch Shell 
-• Examine and troubleshoot problems as logged in by the 
+  Examine and troubleshoot problems as logged in by the 
 service desk to ensure smooth operation of the application 
-• To come up with fraud detection model to handle large 
+  To come up with fraud detection model to handle large 
 volume of fraudulent transactions 
-• Monitor different components of the application and 
+  Monitor different components of the application and 
 database 
-• Proactive tuning of the database to bring down the 
+  Proactive tuning of the database to bring down the 
 response time 
-• Maintained information security of the transaction data at 
+  Maintained information security of the transaction data at 
 all times 
-• Liaise with the Defect Management Team to take care of 
+  Liaise with the Defect Management Team to take care of 
 any defect that has been logged in the system 
-• Work closely with the testing team the effectiveness of the 
+  Work closely with the testing team the effectiveness of the 
 solutions provided by the Application vendor to include in 
 the next release 
-• Taking care of the deployment process for bug fixes, 
+  Taking care of the deployment process for bug fixes, 
 improvements, and go live for major OUs for the 
 application 
-• Taking part in creating and improving support plan for the 
+  Taking part in creating and improving support plan for the 
 application 
   
-2008/12 – 
+2008/12 - 
 2013/04 
   
 Associate  
 Cognizant, Pune 
-• Worked on various data migration"
+  Worked on various data migration"

@@ -6,11 +6,26 @@
     "work_experience": [
         {
             "company_name": "including social media, email marketing,",
-            "job_title": "and events.",
-            "dates_worked": "",
+            "job_title": "Managed ORM and generated leads and",
+            "dates_worked": "October 2022- January 2023",
             "additional_info": [
-                "Big Bang Social",
-                "October 2022- January 2023",
+                "Developed and implemented a",
+                "comprehensive marketing strategy that",
+                "increased brand awareness by 25% and",
+                "customer engagement by 30%",
+                "forwarded it to sales team and hence",
+                "increased the overall sales.",
+                "Planned and executed successful",
+                "campaigns across various channels,",
+                "and events.",
+                "Big Bang Social"
+            ]
+        },
+        {
+            "company_name": "Social Media Manager",
+            "job_title": "",
+            "dates_worked": "February 2023 - March 2023",
+            "additional_info": [
                 "Assisted in the development of decks",
                 "for creative brand campaigns.",
                 "Conducted research for reel ideas",
@@ -19,8 +34,6 @@
                 "created engaging content to",
                 "promote the client's brand.",
                 "ALYF",
-                "February 2023 - March 2023",
-                "Social Media Manager",
                 "Branded Content Intern"
             ]
         }

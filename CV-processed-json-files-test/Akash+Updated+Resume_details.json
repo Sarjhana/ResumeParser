@@ -1,37 +1,51 @@
 {
-    "name": "Apr 2016",
+    "name": "Java Swing",
     "email": "akashkrprj@gmail.com",
     "phone": "+17379970761",
     "education": [
         {
+            "university_name": "Bansal Institute",
+            "course_name": "B.Tech in Electronics and Communication",
+            "dates_attended": "July 2018",
+            "marks_or_percentage": "",
+            "additional_info": [
+                "of Engineering & Technology\nJuly 2018 - July 2022\n- CGPA - 9.15\nLucknow,"
+            ]
+        },
+        {
             "university_name": "India\nMG Inter College",
             "course_name": "May 2017\nClass XII",
-            "dates_attended": "July 2018",
+            "dates_attended": "2016 - May 2017",
             "marks_or_percentage": "40%",
             "additional_info": [
-                "Apr 2016 \u2013  - Percentage - 80.40%\nGorakhpur,"
+                "Apr 2016 -  - Percentage - 80.40%\nGorakhpur,"
             ]
         },
         {
             "university_name": "India\nSPB Inter College",
             "course_name": "May 2015\nClass X",
-            "dates_attended": "July 2022",
+            "dates_attended": "2014 - May 2015",
             "marks_or_percentage": "67%",
             "additional_info": [
-                "Apr 2014 \u2013  - Percentage - 85.67%\nMaharajganj, India"
+                "Apr 2014 -  - Percentage - 85.67%\nMaharajganj, India"
             ]
         }
     ],
     "work_experience": [
         {
-            "company_name": "\u2022 Develop fully functioning projects based on Java.",
-            "job_title": "\u2022 Learned Data Structures and Algorithms, Web Development, SQL.",
-            "dates_worked": "",
+            "company_name": "Develop fully functioning projects based on Java.",
+            "job_title": "Full Stack Developer Training",
+            "dates_worked": "June 2022 - Dec 2022",
             "additional_info": [
-                "\u2022 Enhancing my problems and technical skills in DSA."
+                "AccioJob",
+                "Gurgaon, India"
             ]
         }
     ],
     "linkedin": "https://www.linkedin.com/in/akashprj/",
-    "github": "https://github.com/akashprj"
+    "github": "https://github.com/akashprj",
+    "projects": "Airline Reservation System  | Java, Java Swing, AWT, SQL, OOPs, JDBC Driver\n  This app is made for a flight admin, where the admin is the person who handles all of the flight companies'\noperations using our app. key points to highlight.\n  Features: Customer Creation, Customer Search, Customer Data Updation, Flight Creation,\nTicket Booking, User Creation.\n  The app will only be accessible to authorized users, and this will be facilitated by a login screen that will\nrequire a username and password.\nStudent Grade Calculator  | HTML, CSS, JavaScript\n  Each student has to enter respective subject marks and see all output.\n  Features: Find Total, Find Percentage, Find Grade, Check Pass or Fail.\nTic Tac Toe  | HTML, CSS, JavaScript\n  About Project Tic Tac Toe , Xs and Os is a paper-and-pencil game for two players, X and O, who\ntake turns marking the spaces in a 3\u00d73 grid. The player who succeeds in placing three of their\nmarks in a horizontal, vertical, or diagonal row is the winner.",
+    "certifications": "SQL - Udemy\n  Java - Great Learning\n \nC++ - Great Learning\nLINKS\n  Portfolio\n  LeetCode\n  GitHub",
+    "extra": "Award for Academic Excellence: Got first rank in B.Tech first year\n  Workshop on Web Development: Attend Web Development Workshop organized by Apponix\n",
+    "skills": "\nLanguages: Java, C, C++, C#, Python, SQL\nWeb Technologies: HTML, CSS, Bootstrap, JavaScript, PHP\nDatabases: MySQL, PostgreSQL\nTools: VS Code, Apache NetBeans, Intellij, Xampp, Git, GitHub\nCourse Work: Data Structures & Algorithms, OOPs, DBMS, Excel"
 }

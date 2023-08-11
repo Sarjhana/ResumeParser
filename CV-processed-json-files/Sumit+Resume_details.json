@@ -4,9 +4,18 @@
     "phone": "+916351004500",
     "education": [
         {
-            "university_name": "2018\nBACHELOR OF COMPUTER\nAPPLICATIONS\nJaipur National University",
+            "university_name": "Zee Institute",
             "course_name": "",
             "dates_attended": "2016 - 2018",
+            "marks_or_percentage": "",
+            "additional_info": [
+                "of Creative Arts)\n2016 -"
+            ]
+        },
+        {
+            "university_name": "2018\nBACHELOR OF COMPUTER\nAPPLICATIONS\nJaipur National University",
+            "course_name": "",
+            "dates_attended": "",
             "marks_or_percentage": "",
             "additional_info": [
                 "2020 - Present\nTravel\nMusic\nFilming\nPhotography"
@@ -16,13 +25,14 @@
     "work_experience": [
         {
             "company_name": "Video Editor & Graphics Designer",
-            "job_title": "3D Edtech Pvt. Ltd.",
-            "dates_worked": "",
+            "job_title": "",
+            "dates_worked": "2019 - 2021",
             "additional_info": [
+                "Present",
+                "3D Edtech Pvt. Ltd.",
                 "Windowmaker Software",
                 "Video creator and editor for digital marketing campaigns,",
                 "tutorials, social media posts and the likes.",
-                "2019 - 2021",
                 "Video Editor",
                 "Worked in the marketing team to record, edit and create",
                 "product-related videos, software demo videos, and company",

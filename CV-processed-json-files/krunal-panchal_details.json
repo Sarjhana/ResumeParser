@@ -13,9 +13,16 @@
             ]
         },
         {
-            "university_name": "2017\u00a0\nPROJECTS\u00a0\n\u00a0\nMG Sci Institute\u00a0\nSME String\u00a0\u00a0\nUniversal Medicap\u00a0\nMavenvista Webinar\u00a0\nGujarat Liver Foundation\u00a0\nDharmadev Infrastructure\u00a0\nAquatics\u00a0\nLuzon University",
+            "university_name": "2017\u00a0\nPROJECTS\u00a0\n\u00a0\nMG Sci Institute",
             "course_name": "",
             "dates_attended": "2017 - 2018",
+            "marks_or_percentage": "",
+            "additional_info": []
+        },
+        {
+            "university_name": "SME String\u00a0\u00a0\nUniversal Medicap\u00a0\nMavenvista Webinar\u00a0\nGujarat Liver Foundation\u00a0\nDharmadev Infrastructure\u00a0\nAquatics\u00a0\nLuzon University",
+            "course_name": "",
+            "dates_attended": "2nd",
             "marks_or_percentage": "",
             "additional_info": [
                 "Swaminarayan Dham School"

@@ -17,7 +17,7 @@ Personal Details
  
 Date of Birth: 2020-01-31  
 Eligible to work in: India  
-Highest Career Level: 1-2 years’ experience  
+Highest Career Level: 1-2 years' experience  
 Industry: Software Development (IT) 
 Total years of experience: 2 
  
@@ -27,65 +27,65 @@ Work Experience
 Data Analyst  
 Netlink Software Pvt. Ltd - Mandideep, Madhya Pradesh  
 November 2022 to Present 
-• Analytical understanding of data.  
-• Generation of reports, data Modelling, Data Migration, Data Analysis, and manipulation.  
-• Analytical dashboard and functional testing, manual testing.  
-• Dashboard development  
-• SQL, database (vertica), azure, AWS, RDBMs. 
-• Advanced Excel (VLOOKUP, lookup). 
-• Project management, business requirements (BRD) and KPI Mapping documents. 
-• Fresher Interviews, Project Presentation, Client handling etc. 
+  Analytical understanding of data.  
+  Generation of reports, data Modelling, Data Migration, Data Analysis, and manipulation.  
+  Analytical dashboard and functional testing, manual testing.  
+  Dashboard development  
+  SQL, database (vertica), azure, AWS, RDBMs. 
+  Advanced Excel (VLOOKUP, lookup). 
+  Project management, business requirements (BRD) and KPI Mapping documents. 
+  Fresher Interviews, Project Presentation, Client handling etc. 
  
 Trainee Python Developer  
 Rack AI Pvt. Ltd - Bhopal, Madhya Pradesh  
 March 2022 to October 2022 
-• I was responsible for developing and implementing functional programs in Python language with 
+  I was responsible for developing and implementing functional programs in Python language with 
 its libraries like pandas, NumPy, skit-learn, (keras, TensorFlow).  
-• In this role, I had to do teamwork with developers to design algorithms and flowcharts.  
-• Along with this, I integrate several software components and third-party modifications in the 
+  In this role, I had to do teamwork with developers to design algorithms and flowcharts.  
+  Along with this, I integrate several software components and third-party modifications in the 
 existing program are also observed by me.  
-• I had to create technical documentation for reference and reporting. 
+  I had to create technical documentation for reference and reporting. 
  
-• Data visualization with JustPy 
+  Data visualization with JustPy 
  
 Internship  
 NRI Institute of Technology - Bhopal, Madhya Pradesh  
 July 2021 to December 2021 
 Project work based on Data Analytics and Visualization.  
-• Skill: SQL, python, data visualization and analytics, excel, Functional testing etc 
-• Interview Preparation, Presentation skills, et 
+  Skill: SQL, python, data visualization and analytics, excel, Functional testing etc 
+  Interview Preparation, Presentation skills, et 
  
  
  
 Skills / IT Skills 
  
-• Communication Skills, Presentations, Client Handling 
-• SQL, Microsoft Excel Advances Analysis skills  
-• Python  
-• Pandas, NumPy, Skit-learn Lib   
-• Django 
-• Rest API, Keras, TensorFlow 
-• Data mining  
-• Communication skills  
-• Tableau, Power BI tools 
-• Machine learning  
-• Natural language processing  
-• Computer vision  
-• Big data, Hadoop  
-• Interview Scheduling, Project Management 
-• Functional testing 
-• Data analytics  
-• Artificial Intelligence  
-• Simple Chatbot  
-• Data analysis skills: Data Modelling, Data Migration 
-• Data Manipulation 
+  Communication Skills, Presentations, Client Handling 
+  SQL, Microsoft Excel Advances Analysis skills  
+  Python  
+  Pandas, NumPy, Skit-learn Lib   
+  Django 
+  Rest API, Keras, TensorFlow 
+  Data mining  
+  Communication skills  
+  Tableau, Power BI tools 
+  Machine learning  
+  Natural language processing  
+  Computer vision  
+  Big data, Hadoop  
+  Interview Scheduling, Project Management 
+  Functional testing 
+  Data analytics  
+  Artificial Intelligence  
+  Simple Chatbot  
+  Data analysis skills: Data Modelling, Data Migration 
+  Data Manipulation 
  
  
 Languages 
  
-• English - Fluent  
-• Hindi - Fluent  
-• Bengali – Fluent 
+  English - Fluent  
+  Hindi - Fluent  
+  Bengali - Fluent 
  
 Online Profile 
  
@@ -95,8 +95,8 @@ LinkedIn: https://www.linkedin.com/in/anupama-ojha-12b055199
 Certifications and Licenses 
  
 Sentimental Analysis  
-October 2022 – Feb 2023 
-(Client- Netlink Software’s) 
+October 2022 - Feb 2023 
+(Client- Netlink Software's) 
 Sentiment analysis projects involve using natural language processing (NLP) and machine learning 
 to analyse and categorize text based on sentiment. The goal is to gain insights from data like social 
 media posts or customer reviews. Steps include data collection, pre-processing, feature extraction, 
@@ -105,8 +105,8 @@ choice of algorithms. Applications include social media monitoring, brand manage
 research. 
  
 Data Analytics and visualization  
-February 2023 – April 2023  
-(Client- Netlink Software’s) 
+February 2023 - April 2023  
+(Client- Netlink Software's) 
 Data visualization is the graphical representation of information and data. By using visual elements 
 like charts, graphs, and maps. 
 The Data analysis and visualization project using Python and JustPy involves using Python and the 
@@ -117,7 +117,7 @@ application. This project enables the exploration and communication of data insi
 interactive and visually appealing web-based visualizations. 
  
 Web Scraping  
-March 2022 – September 2022 
+March 2022 - September 2022 
 (Client- Rack AI Pvt. Ltd.) 
 Web scraping is a process of automating the extraction of data in an efficient and fast way. With the 
 help of web scraping.  
@@ -129,7 +129,7 @@ can be stored and managed for various purposes, such as building datasets or cre
 galleries. Legal and ethical considerations should be considered during the process. 
  
 Communication Skills  
-October 2020 – Feb 2021 
+October 2020 - Feb 2021 
 (Client- LinkedIn) 
  
 It recognizes successful completion of a comprehensive program designed to enhance and refine 

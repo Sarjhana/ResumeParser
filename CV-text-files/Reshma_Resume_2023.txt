@@ -12,7 +12,7 @@ Python Developer
  
 1. Rapid Trance(29th july to 5th Oct  2022) 
  
-Worked on Python API’s and used Flask framework for 
+Worked on Python API's and used Flask framework for 
 implementation of APIS. 
  
 Understanding python files in Rapid Trance environment and 
@@ -66,10 +66,10 @@ MongoDB, Jira, GitHub,
 Docker, AWS, Gitlab, Power  
 Bi Dektop,  
 Technical Skills 
-• Python Programming 
-• MongoDB Database 
-• Flask Framework 
-• API development 
+  Python Programming 
+  MongoDB Database 
+  Flask Framework 
+  API development 
  AWS 
  Lambda 
  Numpy 
@@ -81,7 +81,7 @@ Technical Skills
  
   Accomplishments 
  Got appreciation for quality deliverables from Techlead 
- Completed Python Certification from Ethan’s 
+ Completed Python Certification from Ethan's 
  Completed Microsoft Global Python Certification. 
  Completed Microsoft Power BI Desktop for Business 
 Intelligence on Udemy 

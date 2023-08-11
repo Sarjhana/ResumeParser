@@ -29,7 +29,7 @@ Calibration Techniques for Robot
 Sketch Drawing
 An Empirical Review of Calibration
 Techniques for the Pepper
-Humanoid Robot’s RGB and Depth
+Humanoid Robot's RGB and Depth
 Camera
 Visual Perception based Criminal
 Identification- a query based
@@ -179,7 +179,7 @@ with our proposed component based fragmented face recognition framework.
 The proposed
 framework uses only a subset of the full face such as eyes, nose and mouth to
 recognize a
-person. It’s less searching cost, encouraging accuracy and ability to handle
+person. It's less searching cost, encouraging accuracy and ability to handle
 various challenges
 of face recognition offers its applicability on humanoid robots. The second
 problem in face

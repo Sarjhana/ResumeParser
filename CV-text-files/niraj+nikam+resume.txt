@@ -28,7 +28,7 @@ zeroes and ones on the internet superhighway.
  Roles and Responsibilities: 
  Design engaging and effective category and marketing landing pages based on creative 
 direction from Management. 
- Establish a scalable and reusable template(s) for our clients’ category and marketing 
+ Establish a scalable and reusable template(s) for our clients' category and marketing 
 landing pages. 
  Utilize insights from research and analytics to form new design solutions. 
                See through a project from conception to finished product.  
@@ -53,7 +53,7 @@ PERSONAL DETAILS
  
 2. Project Name: Hospital Management System. 
  Description: Hospital Management System is a system enabling hospitals to 
-manage information and data related to all aspects of healthcare – processes, 
+manage information and data related to all aspects of healthcare - processes, 
 providers, patients, and more, which in turn ensures that processes are 
 completed swiftly and effectively. 
  Roles and Responsibilities: 

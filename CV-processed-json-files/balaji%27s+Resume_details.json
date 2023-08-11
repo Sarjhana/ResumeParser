@@ -6,18 +6,20 @@
     "work_experience": [
         {
             "company_name": "PRODUCT DEVELOPMENT ENGINEER (PDE) -1",
-            "job_title": "sri tech,intern (10/2021 - 02/2022)",
-            "dates_worked": "",
+            "job_title": "full stack developer",
+            "dates_worked": "Phenom People (02/2022 - Present)",
             "additional_info": [
-                "full stack developer",
-                "edyst, hyderabad (08/2021 - 10/2021)",
+                "sri tech,intern (10/2021 - 02/2022)"
+            ]
+        },
+        {
+            "company_name": "examly.io (05/2021 - 06/2021)",
+            "job_title": "full stack developer",
+            "dates_worked": "edyst, hyderabad (08/2021 - 10/2021)",
+            "additional_info": [
                 "web mentor",
                 "WE FOR YOU (05/2020 - 07/2021)",
-                "full stack developer",
-                "CERTIFICATES",
-                "examly.io (05/2021 - 06/2021)",
-                "certi\ufb01ed for better performance in coding competition conducted by the examly.io",
-                "PERSONAL"
+                "CERTIFICATES"
             ]
         }
     ],

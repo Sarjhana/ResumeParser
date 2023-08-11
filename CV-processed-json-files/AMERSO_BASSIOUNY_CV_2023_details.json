@@ -9,7 +9,7 @@
             "dates_attended": "Second Year",
             "marks_or_percentage": "",
             "additional_info": [
-                "London \n09/20- 06/23 \n\u2022 \n, English Language and Literature \n\u2022 \nReceived a commendation from the English Department for excellent performance in First- \nYear Sessional Examinations. Obtained a 2:1 in Second Year. \n \nDurham Johnston Comprehensive School \n9/17-7/20 \n\u2022 \nA Level: English Literature (B) English Literature (A* retaken), History (A), Geography (A). \n\u2022 \nAS Level: English Language (A), Modern Greek (A)."
+                "London \n09/20- 06/23 \n  \n, English Language and Literature \n  \nReceived a commendation from the English Department for excellent performance in First- \nYear Sessional Examinations. Obtained a 2:1 in Second Year. \n \nDurham Johnston Comprehensive School \n9/17-7/20 \n  \nA Level: English Literature (B) English Literature (A* retaken), History (A), Geography (A). \n  \nAS Level: English Language (A), Modern Greek (A)."
             ]
         },
         {
@@ -18,110 +18,98 @@
             "dates_attended": "",
             "marks_or_percentage": "",
             "additional_info": [
-                "9/16-6/17 \n\u2022 \n7 GCSEs A*-A, 3 GCSEs 9-6 including"
+                "9/16-6/17 \n  \n7 GCSEs A*-A, 3 GCSEs 9-6 including"
             ]
         }
     ],
     "work_experience": [
         {
             "company_name": "Shadowed a range of professionals across the Client Services division including a Solutions",
-            "job_title": "Engineer, Success Analysts, Success Strategist, Investors Analyst and Account Manager.",
-            "dates_worked": "",
+            "job_title": "Client Services Analyst Intern, Similarweb",
+            "dates_worked": "Delivered insights for 2 Blitz days in which over 50 insight emails and decks were created,",
             "additional_info": [
-                "\u2022",
-                "Crafted press kits for distribution to Similarweb\u2019s clients (e.g. Nestle, Carrefour etc.) and",
+                "06/22-09/22",
+                "Engineer, Success Analysts, Success Strategist, Investors Analyst and Account Manager.",
+                "Crafted press kits for distribution to Similarweb's clients (e.g. Nestle, Carrefour etc.) and",
                 "delivered press coverage summaries to the Marketing Department in relation to",
-                "Similarweb\u2019s acquirement of Rank Ranger.",
-                "\u2022",
+                "Similarweb's acquirement of Rank Ranger.",
                 "Analysed a range of segment, traffic and channel data using the Similarweb platform and",
                 "identified strategic and tactical opportunities for over 20 clients.",
-                "\u2022",
                 "Devised 2 bespoke training decks for Phillips DA Netherlands which were used in",
-                "Similarweb\u2019s upselling negotiations. Phillips was upsold by 50 users bringing in an additional",
+                "Similarweb's upselling negotiations. Phillips was upsold by 50 users bringing in an additional",
                 "$90k ARR.",
-                "\u2022",
-                "Created insight emails, decks, and vidyards to promote strong account health and satisfaction.",
-                "\u2022",
-                "Delivered insights for 2 Blitz days in which over 50 insight emails and decks were created,",
-                "and increased client engagement by 20% for the month of July.",
-                "\u2022",
-                "Investigated and evaluated Similarweb\u2019s client engagement strategy as part of my final",
-                "internship project. The project was deemed to be of \u2018great KPI value\u2019 by the Principal Client",
-                "Success Analyst and was requested as a recording to be presented to central management.",
-                "",
+                "Created insight emails, decks, and vidyards to promote strong account health and satisfaction."
+            ]
+        },
+        {
+            "company_name": "Investigated and evaluated Similarweb's client engagement strategy as part of my final",
+            "job_title": "internship project. The project was deemed to be of \u2018great KPI value' by the Principal Client",
+            "dates_worked": "and increased client engagement by 20% for the month of July.",
+            "additional_info": []
+        },
+        {
+            "company_name": "Success Analyst and was requested as a recording to be presented to central management.",
+            "job_title": "Head of Research and Welfare, Bentham Brooks Institute",
+            "dates_worked": "Reviewed the research papers monthly and conducted bi-monthly meetings with each team in",
+            "additional_info": [
                 "Part-time Content Creator, StudySmarter",
                 "09/21-02/22",
-                "\u2022",
                 "Researched, edited, and formatted over 80 educational articles for the History and English (A-",
                 "Level and GCSE) curriculum.",
-                "\u2022",
                 "Peer-reviewed the articles of other content creators and employed Ryte to optimise the",
                 "searchability of the articles.",
-                "\u2022",
-                "Navigated advanced software including GatherContent and StudySmarter\u2019s creators\u2019",
+                "Navigated advanced software including GatherContent and StudySmarter's creators'",
                 "platform.",
-                "\u2022",
                 "Awarded \u20ac100 bonus payment as recognition of excellent content production.",
-                "",
                 "Global FinTech Intern, Centre for Finance, Technology and Entrepreneurship",
                 "08/21",
-                "\u2022",
                 "Selected from a pool of 4000+ candidates across the world to be part of a 1,000-student",
                 "cohort.",
-                "\u2022",
                 "Conducted intensive research into the best business model for PayPal to adopt in order to",
                 "remain dominant in digital payments on its way to Super App status. Analysed 10 data sets on",
                 "key markets, competitors and best position regarding merchants.",
-                "\u2022",
                 "Completed 8 masterclasses on AI in finance, Blockchain, Cryptocurrencies, and Open",
                 "Banking.",
-                "\u2022",
                 "Participated in 5 Panel discussions with world-class banks, platforms, and companies such as",
                 "Mastercard, PayPal, Onfido, R3, Grayce etc.",
-                "Head of Research and Welfare, Bentham Brooks Institute",
                 "04/21-04/22",
-                "\u2022",
-                "Supervised 5 research teams to ensure a harmonised research process at UCL\u2019s student-led",
-                "think-tank.",
-                "\u2022",
-                "Reviewed the research papers monthly and conducted bi-monthly meetings with each team in",
-                "order to assess their progress in regard to the research timeline.",
-                "\u2022",
-                "Restructured the selection process for Methodological and Topical advisors. They were",
-                "chosen and contacted before the start of term which saved 2 months in the research timeline.",
-                "\u2022",
-                "Democratised the topic selection process. The active participation of junior researchers",
+                "Supervised 5 research teams to ensure a harmonised research process at UCL's student-led",
+                "think-tank."
+            ]
+        },
+        {
+            "company_name": "Restructured the selection process for Methodological and Topical advisors. They were",
+            "job_title": "Democratised the topic selection process. The active participation of junior researchers",
+            "dates_worked": "chosen and contacted before the start of term which saved 2 months in the research timeline.",
+            "additional_info": [
+                "order to assess their progress in regard to the research timeline."
+            ]
+        },
+        {
+            "company_name": "Associate Editor, Cambridge Journal of Law, Politics and Art",
+            "job_title": "Circl Future Leader",
+            "dates_worked": "Participated in bi-weekly 1-to-1 coaching sessions with a professional where coaching",
+            "additional_info": [
                 "increased satisfaction ratings by 35%.",
-                "",
-                "Associate Editor, Cambridge Journal of Law, Politics and Art",
                 "02/21-08/21",
-                "\u2022",
                 "Edited over 20 articles (Over 10,000 words long) related to the Arts section and made sure",
                 "they adhere to the Cambridge Editorial Handbook.",
-                "\u2022",
                 "Collaborated with other Editors to ensure articles by external contributors remain faithful to",
-                "an intersectional view of the \u2018Arts\u2019.",
-                "\u2022",
+                "an intersectional view of the \u2018Arts'.",
                 "Edited the content of submissions where this requirement was not met. As a whole, we",
                 "produced over 440 pages. The Journal is available in bookshops across London and",
                 "Cambridge.",
-                "",
-                "Circl Future Leader",
                 "9/20-02/21",
-                "\u2022",
                 "Completed a 6-week coaching internship and attained proficiency in the TGROW and",
                 "CLEAR models.",
-                "\u2022",
-                "Attained a coaching certification recognised by the British Association for Coaching.",
-                "\u2022",
-                "Participated in bi-weekly 1-to-1 coaching sessions with a professional where coaching"
+                "Attained a coaching certification recognised by the British Association for Coaching."
             ]
         }
     ],
     "linkedin": "https://www.linkedin.com/in/amerso-bassiouny-b34231213/",
     "github": "",
     "projects": null,
-    "certifications": "Samsung Electronics Tech500 Hackathon Participant \n04/22 \n\u2022 \nDesigned an innovative idea to help local businesses attract more customers. \n\u2022 \nTook ownership of the brand-building of our app which I named \u2018SimplyLocal\u2019. As it was \naimed towards the Bangladeshi community of Brick Lane, I made sure to use green and red \nto reflect commitment towards Bangladeshi identity. I also created the company\u2019s motto: \n\u2018Thinking Local, Thinking of You\u2019.  \n\u2022 \nTook initiative to propose and direct the team\u2019s dramatic skit to introduce our presentation, \nwhich was unique among the nine teams. \n\u2022 \nTeam came third out of nine teams and was especially praised for creativity. \n \nDigital Marketing Intern, Learning Curve Group \n09/21-10/21 \n\u2022 \nCompleted a six-week introduction to digital marketing and mastered SMART goals, brand \nawareness, ROI measurement, HCI etc. \n\u2022 \nIntroduced to front-end coding. Included training in HTML, CSS and JavaScript. Progress \nwas assessed through weekly digital labs on uCertify. \n\u2022 \nCurated the front-end part of a website as proof of competency. \n\u2022 \nAchieved a Level 3 certification in digital marketing \n \nWinner of the Euroscola Languages competition \n02/18 \n\u2022 \nWorked in a team to craft a short film script in several European languages advocating the \ncontinuation of freedom of movement after Brexit. Performed the second leading role in the \nshort film. \n\u2022 \nActed as Representative of Britain at the European Parliament where I debated future EU \npolicy (e.g., the prospect of a European army, European identity, trade etc.).",
+    "certifications": "Samsung Electronics Tech500 Hackathon Participant \n04/22 \n  \nDesigned an innovative idea to help local businesses attract more customers. \n  \nTook ownership of the brand-building of our app which I named \u2018SimplyLocal'. As it was \naimed towards the Bangladeshi community of Brick Lane, I made sure to use green and red \nto reflect commitment towards Bangladeshi identity. I also created the company's motto: \n\u2018Thinking Local, Thinking of You'.  \n  \nTook initiative to propose and direct the team's dramatic skit to introduce our presentation, \nwhich was unique among the nine teams. \n  \nTeam came third out of nine teams and was especially praised for creativity. \n \nDigital Marketing Intern, Learning Curve Group \n09/21-10/21 \n  \nCompleted a six-week introduction to digital marketing and mastered SMART goals, brand \nawareness, ROI measurement, HCI etc. \n  \nIntroduced to front-end coding. Included training in HTML, CSS and JavaScript. Progress \nwas assessed through weekly digital labs on uCertify. \n  \nCurated the front-end part of a website as proof of competency. \n  \nAchieved a Level 3 certification in digital marketing \n \nWinner of the Euroscola Languages competition \n02/18 \n  \nWorked in a team to craft a short film script in several European languages advocating the \ncontinuation of freedom of movement after Brexit. Performed the second leading role in the \nshort film. \n  \nActed as Representative of Britain at the European Parliament where I debated future EU \npolicy (e.g., the prospect of a European army, European identity, trade etc.).",
     "extra": null,
-    "skills": "were applied to real-life business examples. \n\u2022 \nCoached and was coached by professionals of different positions within the marketing \nindustry (e.g. \u2018Mention Me\u2019, a referral marketing start-up). \n HONOURS and"
+    "skills": "were applied to real-life business examples. \n  \nCoached and was coached by professionals of different positions within the marketing \nindustry (e.g. \u2018Mention Me', a referral marketing start-up). \n HONOURS and"
 }

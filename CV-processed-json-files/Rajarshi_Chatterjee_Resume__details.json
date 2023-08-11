@@ -5,38 +5,48 @@
     "education": [],
     "work_experience": [
         {
-            "company_name": "\u2013 Worked alongside the front-end and back-end engineers to integrate Generative AI features in the website from",
-            "job_title": "AWS lambda.",
-            "dates_worked": "",
+            "company_name": "- Worked alongside the front-end and back-end engineers to integrate Generative AI features in the website from",
+            "job_title": "- Working on prompt engineering for automated content generation for several usecases using LLMs like GPT-",
+            "dates_worked": "March, 2023 - Present",
             "additional_info": [
-                "\u2022 Techolution",
-                "Jan. 2023 - Feb. 2023",
+                "Writingo",
                 "AI Intern",
                 "India-Remote",
-                "\u2013 Contributed to model building and model testing phase for the project involving ASR and speech data processing.",
-                "\u2013 Worked on improvement of performance of ASR models and model fine-tuning hosted on GCP.",
-                "\u2022 BITS Pilani, Pilani",
+                "3/GPT-3.5/GPT-4, LLaMA, Claude, and image generation using DALLE-2, Stable Diffusion."
+            ]
+        },
+        {
+            "company_name": "- Contributed to model building and model testing phase for the project involving ASR and speech data processing.",
+            "job_title": "",
+            "dates_worked": "Jan. 2023 - Feb. 2023",
+            "additional_info": [
+                "AWS lambda.",
+                "Techolution",
+                "AI Intern",
+                "India-Remote",
+                "- Worked on improvement of performance of ASR models and model fine-tuning hosted on GCP.",
+                "BITS Pilani, Pilani",
                 "Jun. 2022 - Jul. 2022",
                 "Summer Research Intern",
                 "Pilani, Rajasthan, India",
-                "\u2013 Contributed to data collection for low-resource Indian tribal languages.",
-                "\u2013 Contributed to development of custom data augmentation for low-resource Indian tribal languages",
-                "\u2013 Contributed to data collection, annotation, of parallel corpora for NMT between English and low-resource Indian",
+                "- Contributed to data collection for low-resource Indian tribal languages.",
+                "- Contributed to development of custom data augmentation for low-resource Indian tribal languages",
+                "- Contributed to data collection, annotation, of parallel corpora for NMT between English and low-resource Indian",
                 "tribal languages",
-                "\u2022 ZeonAI Labs",
+                "ZeonAI Labs",
                 "May 2022 - Jun 2022",
                 "DS Intern",
                 "India-Remote",
-                "\u2013 Worked on Document-Level Semantic Search.",
-                "\u2013 Performed experiments on elasticsearch with milvus and faiss to test their performance with embeddings.",
-                "\u2013 Performed experiments on BERT and LinkBERT to test performance on custom QA tasks."
+                "- Worked on Document-Level Semantic Search.",
+                "- Performed experiments on elasticsearch with milvus and faiss to test their performance with embeddings.",
+                "- Performed experiments on BERT and LinkBERT to test performance on custom QA tasks."
             ]
         }
     ],
     "linkedin": "",
     "github": "",
-    "projects": "\u2022 Car Price Prediction\nDec. 2021\nDeveloped a simple Flask web app which predicts the after-market price of a car with 88 % accuracy\n\u2013 Data used: scraped from cardekho.com\n\u2013 Model used: RandomForrestRegressor\n\u2013 Tools & technologies used: BeautifulSoup, Python, Pandas, Scikit-learn, Flask\n\u2022 Wheat-head detection, on Kaggle\nJan. 2022\nDeveloped yolov5 model with yolov5s architecture on pre-annotated images that detects wheat heads\n\u2022 AI Presentation maker\nFeb. 2023\nDeveloped using GPT-3 and Stable diffusion for automated custom slides generation\nKey Courses Taken\n\u2022 Data Structures, Algorithms, DBMS, Operating System, Computer Networks, Pattern Recognition, Natural\nLanguage Processing, Deep Learning, Artificial Intelligence",
-    "certifications": "\u2022\nNPTEL Certification on Data Analysis with Python, IIT Roorkee\n\u2022\nDeep Learning Specialisation, DeepLearning.ai\n\u2022\nNatural Language Processing Specialisation, DeepLearning.ai",
+    "projects": "Car Price Prediction\nDec. 2021\nDeveloped a simple Flask web app which predicts the after-market price of a car with 88 % accuracy\n- Data used: scraped from cardekho.com\n- Model used: RandomForrestRegressor\n- Tools & technologies used: BeautifulSoup, Python, Pandas, Scikit-learn, Flask\n  Wheat-head detection, on Kaggle\nJan. 2022\nDeveloped yolov5 model with yolov5s architecture on pre-annotated images that detects wheat heads\n  AI Presentation maker\nFeb. 2023\nDeveloped using GPT-3 and Stable diffusion for automated custom slides generation\nKey Courses Taken\n  Data Structures, Algorithms, DBMS, Operating System, Computer Networks, Pattern Recognition, Natural\nLanguage Processing, Deep Learning, Artificial Intelligence",
+    "certifications": "NPTEL Certification on Data Analysis with Python, IIT Roorkee\n \nDeep Learning Specialisation, DeepLearning.ai\n \nNatural Language Processing Specialisation, DeepLearning.ai",
     "extra": null,
-    "skills": "\u2022 Programming:\nC/C++, Python, SQL\n\u2022 Tools & OS: Git, Jupyter Notebook, Google Colab, PyCharm, VSCode, Linux, Windows\n\u2022 Libraries/Frameworks: Pandas, Numpy, Scikit-learn, PyTorch, NLTK, spaCy, Hugginface\n\u2022 Web Skills & DB: HTML/CSS, Flask, FastAPI, PostgresSQL, MySQL, MongoDB\nPositions of Responsibility\n\u2022 Teaching Assistant,Fundamentals of Data Science, BITS Goa\nJanuary 2022 - May 2022\n\u2022 Research Practice,Biologically-Inspired Neural Nets, BITS Goa\nSeptember 2021 - December 2021\nAchievements\n\u2022 Secured AWS AI & ML Scholarship\n2022"
+    "skills": "\nProgramming:\nC/C++, Python, SQL\n  Tools & OS: Git, Jupyter Notebook, Google Colab, PyCharm, VSCode, Linux, Windows\n  Libraries/Frameworks: Pandas, Numpy, Scikit-learn, PyTorch, NLTK, spaCy, Hugginface\n  Web Skills & DB: HTML/CSS, Flask, FastAPI, PostgresSQL, MySQL, MongoDB\nPositions of Responsibility\n  Teaching Assistant,Fundamentals of Data Science, BITS Goa\nJanuary 2022 - May 2022\n  Research Practice,Biologically-Inspired Neural Nets, BITS Goa\nSeptember 2021 - December 2021\nAchievements\n  Secured AWS AI & ML Scholarship\n2022"
 }

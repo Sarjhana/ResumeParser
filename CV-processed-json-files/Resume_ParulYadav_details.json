@@ -6,41 +6,25 @@
         {
             "university_name": "2 CGPA\nGalgotias College",
             "course_name": "",
-            "dates_attended": "July 2015",
+            "dates_attended": "July 2015 - July 2019",
             "marks_or_percentage": "80%",
             "additional_info": [
-                "of Engineering and Tech-\nnology\n\ufffd July 2015 \u2013 July 2019\nHigher Secondary - 89.80%\nCentral Board of Secondary Education\n\ufffd 2014\nSecondary - 10 CGPA\nCentral Board of Secondary Education\n\ufffd 2012"
+                "of Engineering and Tech-\nnology\n July 2015 - July 2019\nHigher Secondary - 89.80%\nCentral Board of Secondary Education\n 2014\nSecondary - 10 CGPA\nCentral Board of Secondary Education\n 2012"
             ]
         }
     ],
     "work_experience": [
         {
             "company_name": "Tata Consultancy Services",
-            "job_title": "\ufffd Jan 2020 - May 2021",
-            "dates_worked": "",
-            "additional_info": [
-                "\ufffd Gandhinagar,India",
-                "\u2022 Worked as a Full Stack Developer(Java, Hibernate and Jsp-",
-                "Servlet) to develop new features in the existing system and",
-                "solve production issues. Involved in the back-end as well as",
-                "front-end development of web applications.",
-                "\u2022 Part of the TCS PSU-International project, Worked on two dif-",
-                "ferent portals for Scotland Government YoungScot and NEC-",
-                "online, also worked as a shared resource with DGFT Team.",
-                "\u2022 Responsible for developing Refund Screens in PFML Project",
-                "(Paid Family and Medical Leave- US Govt based policy). Devel-",
-                "oped and Integrated REST APIs for Refund module.",
-                "\u2022 Used SonarQube to maintain code Quality and bug resolution.",
-                "ACHIEVEMENTS",
-                "\u2022 Achieved 5 stars on HackerRank in Python",
-                "\u2022 Achieved 5 stars on HackerRank in Problem Solving"
-            ]
+            "job_title": "Assistant Systems Engineer",
+            "dates_worked": "Jan 2020 - May 2021",
+            "additional_info": []
         }
     ],
     "linkedin": "",
     "github": "",
-    "projects": "Net\ufb02ix Clone\n\u2022 Built a clone of Net\ufb02ix website using React.JS\nas a Front-end Firebase as Back-end. Inte-\ngrated TMDB API key to list down the movies.\nCreated Trailer pop-ups, integrated with You\nTube Trailer API key.\n\u2022 Tech Stack - ReactJs, Firebase\nPmail\n\u2022 Pmail is the email exchanging website. It\u2019s a\ncloned version of Gmail with my own design\ntouch, It supports login through Google Ac-\ncount, and has compose message feature.\n\u2022 Tech Stack - ReactJs, Firebase\nSmaCOM\n\u2022 SmaCOM-Smart Contact Manager is the desk-\ntop web application that simply allows one to\nquickly add contact details, e\ufb00ortlessly orga-\nnize them by contactId just like a real folder,\nand search them away for ease of retrieval\nwhenever needed. Users, in SmaCOM, can\nsign up and log in to their accounts and have\naccess to di\ufb00erent features such as adding\nnew contacts, can view previously added con-\ntacts, and can also update them.\n\u2022 Tech Stack - Java, SpringBoot, JPA, Thymeleaf,\nMYSQL\nSpam Classi\ufb01er\n\u2022 Built a Spam Classi\ufb01er Model using the Naive\nBayes algorithm which predicts whether the\nmessage is spam or not.\n\u2022 Tech Stack - Python\nMovie Recommender System\n\u2022 I have made a content-based Movie Recom-\nmender System using the concept of cosine\nsimilarity.\n\u2022 Tech Stack - Python",
-    "certifications": "\u2022 SQL(Advanced)-HackerRank Link\n\u2022 Python-HackerRank Link",
+    "projects": "Net\ufb02ix Clone\n  Built a clone of Net\ufb02ix website using React.JS\nas a Front-end Firebase as Back-end. Inte-\ngrated TMDB API key to list down the movies.\nCreated Trailer pop-ups, integrated with You\nTube Trailer API key.\n  Tech Stack - ReactJs, Firebase\nPmail\n  Pmail is the email exchanging website. It's a\ncloned version of Gmail with my own design\ntouch, It supports login through Google Ac-\ncount, and has compose message feature.\n  Tech Stack - ReactJs, Firebase\nSmaCOM\n  SmaCOM-Smart Contact Manager is the desk-\ntop web application that simply allows one to\nquickly add contact details, e\ufb00ortlessly orga-\nnize them by contactId just like a real folder,\nand search them away for ease of retrieval\nwhenever needed. Users, in SmaCOM, can\nsign up and log in to their accounts and have\naccess to di\ufb00erent features such as adding\nnew contacts, can view previously added con-\ntacts, and can also update them.\n  Tech Stack - Java, SpringBoot, JPA, Thymeleaf,\nMYSQL\nSpam Classi\ufb01er\n  Built a Spam Classi\ufb01er Model using the Naive\nBayes algorithm which predicts whether the\nmessage is spam or not.\n  Tech Stack - Python\nMovie Recommender System\n  I have made a content-based Movie Recom-\nmender System using the concept of cosine\nsimilarity.\n  Tech Stack - Python",
+    "certifications": "SQL(Advanced)-HackerRank Link\n  Python-HackerRank Link",
     "extra": null,
-    "skills": "Programming Languages\n\u2022 Java\n\u2022 Python\nFrameworks Libraries\n\u2022 Springboot\n\u2022 Hibernate\n\u2022 jQuery\n\u2022 HTML5 CSS\n\u2022 ReactJS\n\u2022 JSPs\nDatabase\n\u2022 MySQL\nTools\n\u2022 Postman\n\u2022 Git, Github\n\u2022 Firebase\n\u2022 SonarQube"
+    "skills": "\nProgramming Languages\n  Java\n  Python\nFrameworks Libraries\n  Springboot\n  Hibernate\n  jQuery\n  HTML5 CSS\n  ReactJS\n  JSPs\nDatabase\n  MySQL\nTools\n  Postman\n  Git, Github\n  Firebase\n  SonarQube"
 }

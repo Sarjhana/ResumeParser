@@ -61,7 +61,7 @@ the phd degree and bachelor's degree.
 marketing, machine learning, deep
 learning, image processing, and related courses. 
 5. Worked with more than 100 learners in guiding/mentoring their
-thesis and projects in collaboration with Liverpool John Moore’s
+thesis and projects in collaboration with Liverpool John Moore's
 University, UK and IIT Madras.
 6. Collaborated and shared 800+ GitHub repositories.
 7. Technical reviewer of 50 plus international journals and books.
@@ -102,7 +102,7 @@ upGrad
 Thesis Supervisor/Subject Matter Expert and Instructor
 December 2021 - Present (1 year 8 months)
 o Worked with more than 100 learners in guiding/mentoring their thesis and
-projects in collaboration with Liverpool John Moore’s University, UK and IIT
+projects in collaboration with Liverpool John Moore's University, UK and IIT
 Madras.
 SonyAI
 Researcher

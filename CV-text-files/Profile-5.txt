@@ -166,7 +166,7 @@ education company.
 -- Build custom Web applications using WordPress CMS. 
 https://horizontech.in/
 Education
-International Institute of Information Technology – Bangalore
+International Institute of Information Technology - Bangalore
 Master of Technology - MTech, Data Science · (2016 - 2018)
 Dr.Babasaheb Ambedkar Technological University, Lonere - Raigad
 Bachelor of Technology (B.Tech.), Information Technology · (2009 - 2013)

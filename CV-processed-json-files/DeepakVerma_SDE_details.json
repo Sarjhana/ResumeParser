@@ -6,42 +6,17 @@
     "work_experience": [
         {
             "company_name": "Grynow Media Pvt. Ltd.(Faym)\ud83d\udd17",
-            "job_title": "Remote",
-            "dates_worked": "",
+            "job_title": "Software Developer Engineer( Nest.js, Typescript, AWS, Firebase)",
+            "dates_worked": "May/2022 - Present",
             "additional_info": [
-                "Software Developer Engineer( Nest.js, Typescript, AWS, Firebase)",
-                "May/2022 - Present",
-                "\u25cf",
-                "Developed multiple Faym-wall\u2019s for influencers to boost online presence and engagement.",
-                "\u25cf",
-                "Built a dashboard using Google Analytics APIs to monitor and summarize website clicks and views, enabling effective",
-                "measurement of the Faym-walls' impact on achieving influencer goals.",
-                "\u25cf",
-                "Developed and integrated various modules, including order tracking, influencer dashboard, and wallet, while utilizing",
-                "third-party APIs like Admitad, Razorpay, and Google Spreadsheet to meet business requirements.",
-                "\u25cf",
-                "Worked closely with the founder to understand product requirements and provided scalable, efficient solutions that",
-                "optimized performance. Utilized AWS services such as S3, EC2, and IAM to deploy and host websites and APIs.",
-                "Fly0kart\ud83d\udd17",
-                "Remote",
-                "Fullstack Developer (React.js, Node.js, MongoDB, JavaScript)",
-                "Oct/2021 - May/2022",
-                "\u25cf",
-                "Developed and maintained a flight booking portal, fixing existing bugs and adding new features to meet requirements.",
-                "Achieved zero errors and a seamless user experience.",
-                "\u25cf",
-                "Managed development and deployment of HRMS, ticketing tool, Zoho, and the official website on various platforms",
-                "like Bluehost, Netlify, and Render. Also, performed domain configuration and email service setup for efficient operation.",
-                "\u25cf",
-                "Collaborated closely with the founder, led a team of 7 developers, and interviewed 20+ candidates for respective",
-                "roles, gaining valuable"
+                "Remote"
             ]
         }
     ],
     "linkedin": "",
     "github": "",
-    "projects": "MENTOR( Git, Github, MERN stack, Data Structures & Algorithm)\nJune/2021 - June/2022\n\u25cf\nMentored 500+ folks at various open-source programs like GWOC\u201921, GSSoC\u201922, DevIncept\u201921 and LGMSoC\u201921.\n\u25cf\nGuided and cleared doubts of 300+ Contributors regarding React.js, Js, HTML, CSS via One-to-One interaction.\n\u25cf\nProjects worked with: LearnZania\ud83d\udd17, DevEmpire\ud83d\udd17, EmpowHer\ud83d\udd17 and Awesome-portfolio-websites\ud83d\udd17.\nGet Me Therapy\ud83d\udd17\nHTML, CSS, Bootstrap, Zoho CRM & Javascript\n\u25cf Developed User-friendly, Responsive pages i.e. Landing Page, Pricing Page, Client Page and T&C Page from scratch.\n\u25cf Integrated Zoho Webforms where the user can put his query, which gets mapped in the Zoho CRM.\n\u25cf Worked with Domain Management, WordPress Dashboard and Hosting as well.\nAmazing CSS Projects\ud83d\udd17\nHTML, CSS, Javascript\nImplemented 50 unique projects using Javascript & CSS, gaining practical experience and expertise.",
+    "projects": "MENTOR( Git, Github, MERN stack, Data Structures & Algorithm)\nJune/2021 - June/2022\n \nMentored 500+ folks at various open-source programs like GWOC'21, GSSoC'22, DevIncept'21 and LGMSoC'21.\n \nGuided and cleared doubts of 300+ Contributors regarding React.js, Js, HTML, CSS via One-to-One interaction.\n \nProjects worked with: LearnZania\ud83d\udd17, DevEmpire\ud83d\udd17, EmpowHer\ud83d\udd17 and Awesome-portfolio-websites\ud83d\udd17.\nGet Me Therapy\ud83d\udd17\nHTML, CSS, Bootstrap, Zoho CRM & Javascript\n  Developed User-friendly, Responsive pages i.e. Landing Page, Pricing Page, Client Page and T&C Page from scratch.\n  Integrated Zoho Webforms where the user can put his query, which gets mapped in the Zoho CRM.\n  Worked with Domain Management, WordPress Dashboard and Hosting as well.\nAmazing CSS Projects\ud83d\udd17\nHTML, CSS, Javascript\nImplemented 50 unique projects using Javascript & CSS, gaining practical experience and expertise.",
     "certifications": null,
-    "extra": "Ranjan Technologies Pvt. Ltd.\ud83d\udd17\nRemote\nFullStack Developer(HTML, CSS, Javascript, Bootstrap, Node.js, MongoDB)\nSep/2021 - Nov/2021\n\u25cf\nCreated user-friendly dashboards for teachers, students, and admins. The new UI streamlined interactions between all\nparties, resulting in improved communication and greater efficiency.\n\u25cf\nIntegrated Twilio, Google Maps, AWS storage, and RazorPay APIs for payment and other features, improving the\nfunctionality and usability of the application.\n\u25cf\nDeveloped a Node.js-based API for efficient request handling and transaction management between frontend and\nbackend, improving application functionality and performance.\nOPEN-SOURCE &",
-    "skills": "\u25cf\nLanguages: C++, C, JavaScript, Typescript, Data Structures & Algorithm\n\u25cf\nFrontend: React.js, Redux,BootStrap, EJS, HTML, CSS, JQuery, SCSS\n\u25cf\nBackend: Nodejs, Mongoose, Express.js, MongoDB, RESTful API, OAuth 2.0, MySQL, Nest.js"
+    "extra": "Ranjan Technologies Pvt. Ltd.\ud83d\udd17\nRemote\nFullStack Developer(HTML, CSS, Javascript, Bootstrap, Node.js, MongoDB)\nSep/2021 - Nov/2021\n \nCreated user-friendly dashboards for teachers, students, and admins. The new UI streamlined interactions between all\nparties, resulting in improved communication and greater efficiency.\n \nIntegrated Twilio, Google Maps, AWS storage, and RazorPay APIs for payment and other features, improving the\nfunctionality and usability of the application.\n \nDeveloped a Node.js-based API for efficient request handling and transaction management between frontend and\nbackend, improving application functionality and performance.\nOPEN-SOURCE &",
+    "skills": "Languages: C++, C, JavaScript, Typescript, Data Structures & Algorithm\n \nFrontend: React.js, Redux,BootStrap, EJS, HTML, CSS, JQuery, SCSS\n \nBackend: Nodejs, Mongoose, Express.js, MongoDB, RESTful API, OAuth 2.0, MySQL, Nest.js"
 }

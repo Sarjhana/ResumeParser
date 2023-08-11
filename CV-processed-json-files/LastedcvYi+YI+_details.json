@@ -55,11 +55,18 @@
         },
         {
             "university_name": "of Oxford\nUnderstanding finance in organisations University",
+            "course_name": "",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": []
+        },
+        {
+            "university_name": "of Cambridge Institute",
             "course_name": "man rights",
             "dates_attended": "",
             "marks_or_percentage": "",
             "additional_info": [
-                "of Cambridge Institute of Continuing\nEducation\nInternational hu: war,"
+                "of Continuing\nEducation\nInternational hu: war,"
             ]
         },
         {
@@ -70,7 +77,14 @@
             "additional_info": []
         },
         {
-            "university_name": "of\nCambridge Institute of Continuing Education\nImproving Food Production with Agricultural Technology and Plant Biotechnology EIT Food\nand University",
+            "university_name": "of\nCambridge Institute",
+            "course_name": "",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": []
+        },
+        {
+            "university_name": "of Continuing Education\nImproving Food Production with Agricultural Technology and Plant Biotechnology EIT Food\nand University",
             "course_name": "betes",
             "dates_attended": "",
             "marks_or_percentage": "",

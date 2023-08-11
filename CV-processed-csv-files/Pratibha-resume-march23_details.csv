@@ -1,17 +1,17 @@
 name,email,phone,education,work_experience,linkedin,github,projects,certifications,extra,skills
-Bihar,ranipratibha@gmail.com,+19347324583,,[],,,"● Oct'18 – March’21: Research Assistant, Data Sciences and Analytics Center, IIIT-H 
+Bihar,ranipratibha@gmail.com,+19347324583,,[],,,"Oct'18 - March'21: Research Assistant, Data Sciences and Analytics Center, IIIT-H 
 Task: Mentoring the project students on various Data Mining topics. 
-● Jan’16 – Sep'18: Research Assistant in Computational Core for Plant Metabolomics project, Data 
+  Jan'16 - Sep'18: Research Assistant in Computational Core for Plant Metabolomics project, Data 
 Sciences and Analytics Center, IIIT-H 
 Task: Mentored the project development team. 
-● Jan’11 – Dec'15: Research Assistant, Language Technologies Research Center, IIIT-H 
+  Jan'11 - Dec'15: Research Assistant, Language Technologies Research Center, IIIT-H 
 Task: Worked in ILMT Treebank project with data preparation and data validation team. 
-● Dec’09 – Dec’10: Research Assistant, Infosys SETLabs project, Center for Data Engineering, IIIT-H 
+  Dec'09 - Dec'10: Research Assistant, Infosys SETLabs project, Center for Data Engineering, IIIT-H 
 Task: Worked with the development team for healthcare document mining. 
-● Aug’09 - Dec’09: Teaching Assistant, Database Systems course, IIIT-H 
-● Dec’06 - March’09: Research Assistant, Center for Data Engineering, IIIT-H 
+  Aug'09 - Dec'09: Teaching Assistant, Database Systems course, IIIT-H 
+  Dec'06 - March'09: Research Assistant, Center for Data Engineering, IIIT-H 
 Task: Worked in Data Mining for Bioinformatics application group. 
-● July’07 - Dec’07: Teaching Assistant, Numerical Analysis course, IIIT-H 
+  July'07 - Dec'07: Teaching Assistant, Numerical Analysis course, IIIT-H 
 PROJECTS 
 ➢ Road Sign Detection (Blaize): In this project a Deep Learning based detection model was created 
 using PyTorch, LabelImg and Python Image libraries as the working tools for detecting road signs 
@@ -98,28 +98,28 @@ These supervised classifiers did not use domain knowledge but performed comparab
 probabilistic bio-sequence classifiers and can be applied to other domains. Thesis tasks were 
 implemented in Perl language. 
 ADVANCED COURSES TAKEN 
-● Data Warehousing & Data Mining, Web Data & Knowledge Management, 
-● Information Retrieval & Extraction, Cloud Computing, Data Compression 
-● Pattern Recognition, Machine Learning, Artificial Neural Networks 
-● Coursera Deep Learning Specialization courses on Convolutional Neural Networks 
-● Coursera Deep Learning Specialization courses on Sequence Models 
-● Python for Data Science, AI & Development course of Coursera 
-● Git Essential Training course on LinkedIn Learning 
-● Advanced AI: Transformers for Computer Vision course on LinkedIn Learning 
-● Natural Language Processing with PyTorch course on LinkedIn Learning 
-● TensorFlow: working with NLP course on LinkedIn Learning 
+  Data Warehousing & Data Mining, Web Data & Knowledge Management, 
+  Information Retrieval & Extraction, Cloud Computing, Data Compression 
+  Pattern Recognition, Machine Learning, Artificial Neural Networks 
+  Coursera Deep Learning Specialization courses on Convolutional Neural Networks 
+  Coursera Deep Learning Specialization courses on Sequence Models 
+  Python for Data Science, AI & Development course of Coursera 
+  Git Essential Training course on LinkedIn Learning 
+  Advanced AI: Transformers for Computer Vision course on LinkedIn Learning 
+  Natural Language Processing with PyTorch course on LinkedIn Learning 
+  TensorFlow: working with NLP course on LinkedIn Learning 
 OTHER ACADEMIC ACHIEVEMENTS 
 4 
-● Participated and volunteered in organizing BDA 2017 conference at IIIT Hyderabad. 
-● Presented research papers in COMAD 2008, DSAA 2014 and ICON 2017 conferences. 
-● Attended COMAD 2006, PAKDD 2010, ICON 2014 and VLDB 2016 conferences. 
-● Conducted workshop on Data Mining for final year BTech (CSE) students in SVIT College, 
+  Participated and volunteered in organizing BDA 2017 conference at IIIT Hyderabad. 
+  Presented research papers in COMAD 2008, DSAA 2014 and ICON 2017 conferences. 
+  Attended COMAD 2006, PAKDD 2010, ICON 2014 and VLDB 2016 conferences. 
+  Conducted workshop on Data Mining for final year BTech (CSE) students in SVIT College, 
 Secunderabad on 28 October 2016. 
-● Received travel and registration grant from VLDB’16 conference organizing committee for attending 
+  Received travel and registration grant from VLDB'16 conference organizing committee for attending 
 VLDB'16 conference at Delhi, India in September 2016. 
-● Received Google Travel Grant of RS 90,000 in September 2014 to present paper in DSAA’14 
+  Received Google Travel Grant of RS 90,000 in September 2014 to present paper in DSAA'14 
 conference in Shanghai, China. 
-● Participated in R&D showcase 2008-2010 and 2015-2019 at IIIT Hyderabad. 
+  Participated in R&D showcase 2008-2010 and 2015-2019 at IIIT Hyderabad. 
 Ranked 1st among girls in the state in 10th board exam. 
 PUBLICATIONS 
 1. Pratibha Rani, Vikram Pudi. RBNBC: Repeat Based Naïve Bayes Classifier for Biological Sequences. In 
@@ -143,7 +143,7 @@ for POS Tagging. In proc. of 2014 International Conference on Data Science and A
 Analytics (DSAA 2014), pp 156-162, October 2014. 
 7. Pratibha Rani, Vikram Pudi, Dipti Misra Sharma. A semi-supervised associative classification method 
 for POS tagging. International Journal of Data Science and Analytics, Volume 1, Issue 2, pp 
-123–136, doi:10.1007/s41060-016-0010-5, Springer International Publishing, July 2016. 
+123-136, doi:10.1007/s41060-016-0010-5, Springer International Publishing, July 2016. 
 8. Pratibha Rani, Vikram Pudi, Dipti Misra Sharma. Semisupervised Data Driven Word Sense 
 Disambiguation for Resource-poor Languages. In proc. of the 14th International Conference on 
 Natural Language Processing (ICON 2017), pp 503-512, December 2017. 
@@ -159,10 +159,10 @@ Induction for the Russian Language@DIALOGUE 2018, June 2018.
 Ensemble for Parts-of-Speech Tagging of Resource-poor Languages. In proc. of Forum for 
 Information Retrieval Evaluation 2018 (FIRE 2018), December 2018. 
 REFERENCES 
-● Dr. Vikram Pudi, Data Sciences and Analytics Center, IIIT Hyderabad, vikram@iiit.ac.in 
-● Dr. Dipti Misra Sharma, Language Technologies Research Center, IIIT Hyderabad, dipti@iiit.ac.in 
-● Dr. Kamlakar Karlapalem, Data Sciences and Analytics Center, IIIT Hyderabad, kamal@iiit.ac.in 
-● Deepak Bijalwan, Blaize, Hyderabad, deepak.bijalwan@blaize.com 
-● Arun Kumar Nagisetty, Blaize, Hyderabad, ArunKumar.Nagisetty@blaize.com",,,"C, C++, Git, HTML, Jenkins, Jupyter Notebook, Kubernetes, LabelImg, Latex, Linux, Matlab, Matplotlib, 
+  Dr. Vikram Pudi, Data Sciences and Analytics Center, IIIT Hyderabad, vikram@iiit.ac.in 
+  Dr. Dipti Misra Sharma, Language Technologies Research Center, IIIT Hyderabad, dipti@iiit.ac.in 
+  Dr. Kamlakar Karlapalem, Data Sciences and Analytics Center, IIIT Hyderabad, kamal@iiit.ac.in 
+  Deepak Bijalwan, Blaize, Hyderabad, deepak.bijalwan@blaize.com 
+  Arun Kumar Nagisetty, Blaize, Hyderabad, ArunKumar.Nagisetty@blaize.com",,,"C, C++, Git, HTML, Jenkins, Jupyter Notebook, Kubernetes, LabelImg, Latex, Linux, Matlab, Matplotlib, 
 MongoDB, MySQL, NLTK, NumPy, OpenCV, Pandas, Perl, PHP, PIL, Pycharm, Pytest, Python, Scikit-
 learn, Shell, SQL, StanfordNLP, Visual Studio Code, Weka"

@@ -1,25 +1,13 @@
 {
-    "name": "Veri\ufb01ed",
+    "name": "Linux",
     "email": "athignath1999@gmail.com",
     "phone": "+918078407084",
     "education": [],
-    "work_experience": [
-        {
-            "company_name": "Tata Technologies",
-            "job_title": "City: Pune",
-            "dates_worked": "",
-            "additional_info": [
-                "Country: India",
-                "\u2022 Designed, developed, and tested software solutions for clients using Java",
-                "programming language.",
-                "\u2022 Worked on multiple"
-            ]
-        }
-    ],
+    "work_experience": [],
     "linkedin": "",
     "github": "",
-    "projects": "solutions\n\u2022 Troubleshot and resolved technical issues reported by clients\n\u2022 Wrote clean, clear and well-texted code for various projects\n\u2022 Veri\ufb01ed and resolved bug reports and issues.",
+    "projects": "solutions\n  Troubleshot and resolved technical issues reported by clients\n  Wrote clean, clear and well-texted code for various projects\n  Veri\ufb01ed and resolved bug reports and issues.",
     "certifications": null,
     "extra": null,
-    "skills": "\u2022 Programming Languages: Java, Python, JavaScript, C \n \u2022 Framework: Springboot \n \u2022 Platforms: Windows, Linux \n \u2022 Databases: Oracle, SQL Server, MySQL \n \u2022 Tools: Git, ,Eclipse, Visual Studio, IntelliJ IDEA \n \u2022 Web Technologies: AngularJS, ReactJS"
+    "skills": "\nProgramming Languages: Java, Python, JavaScript, C \n   Framework: Springboot \n   Platforms: Windows, Linux \n   Databases: Oracle, SQL Server, MySQL \n   Tools: Git, ,Eclipse, Visual Studio, IntelliJ IDEA \n   Web Technologies: AngularJS, ReactJS"
 }

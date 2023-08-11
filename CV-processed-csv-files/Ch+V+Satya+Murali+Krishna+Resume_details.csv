@@ -1,33 +1,13 @@
 name,email,phone,education,work_experience,linkedin,github,projects,certifications,extra,skills
-Firebase FireStore,satyamuralikrishna13@gmail.com,+917386855669,[],[],,,"and teams I work with. 
-TECHNICAL SKILLS 
-▪ Python – Flask, FASTAPI, Web Scrapping 
-▪ MongoDB, MS SQL, Firebase FireStore, Azure Datalake 
-▪ GCP - IAM, Cloud Functions, Cloud Storage, Compute Engine, Databricks 
-▪ Docker, Git, Postman 
-▪ Flutter, HTML, CSS, JS 
-▪ Google Analytics, Firebase Analytics, Big Query, Data Studio, Tableau 
-WORK EXPERIENCE                                                   
-Abzooba - Data Scientist (1 Year 11 Months)                                                    May ’21 – Ongoing 
-▪ Developed and deployed multiple Python services with FASTAPI & FLASK frameworks 
-▪ Experienced in working with various database technologies, including both relational and non-
-relational databases, enabling efficient data storage, retrieval, and analysis 
-▪ Leveraged Flutter's advanced development capabilities to create a robust and user-friendly 
-mobile application for iOS and Android platforms. 
-▪ Managed Firebase, Google Cloud Platform, and user analytics to enable efficient data tracking 
-and dashboarding 
-▪ Extended the support to feature research, developing service architectures 
-▪ Created numerous ETL pipelines and MLDL models to fulfill various business requirements 
-Learn AR - Core Developer (8 Months)                                                              Aug ’20 – Mar ’21 
-▪ Developed mobile app to enhance AR based learning using Flutter with Unity Integration 
-▪ Managed Firebase, Google Cloud Platform, User Analytics, UIUX design, User Onboarding 
-▪ Created & implemented architecture for dynamic model loading 
-▪ Created user analytics dashboard to check user activity and stickiness 
-Lagaland LLP - Software Developer Intern (2 Months)                                        May ’20 – Jun ’20 
-▪ Designed and developed a responsive Frontend with of an online real estate website using 
-VueJS Framework",,"▪ Managed a team of three developers in building a new mobile app, leveraging the existing 
+Web Scrapping,satyamuralikrishna13@gmail.com,+917386855669,[],"[{'company_name': '▪ Developed and deployed multiple Python services with FASTAPI & FLASK frameworks', 'job_title': ""Learn AR - Core Developer (8 Months)                                                              Aug '20 - Mar '21"", 'dates_worked': ""Abzooba - Data Scientist (1 Year 11 Months)                                                    May '21 - Ongoing"", 'additional_info': ['dashboards, I approach every project with a problem-solving attitude and a strong desire to learn', 'and expand my', '▪ Experienced in working with various database technologies, including both relational and non-', 'relational databases, enabling efficient data storage, retrieval, and analysis', ""▪ Leveraged Flutter's advanced development capabilities to create a robust and user-friendly"", 'mobile application for iOS and Android platforms.', '▪ Managed Firebase, Google Cloud Platform, and user analytics to enable efficient data tracking', 'and dashboarding', '▪ Extended the support to feature research, developing service architectures', '▪ Created numerous ETL pipelines and MLDL models to fulfill various business requirements']}]",,,and teams I work with.,,"▪ Managed a team of three developers in building a new mobile app, leveraging the existing 
 architecture 
 ▪ Took initiative to convert revamp architectures of services from Monolithic to Microservice 
 Initiated and led the conversion of service architectures from monolithic to microservices 
 ▪ Conducted user research and gathered feedback to inform product feature development","taking on multiple roles to contribute to the team's success. With excellent communication skills and 
-attention to detail, I strive to deliver high-quality results and contribute to the success of the"
+attention to detail, I strive to deliver high-quality results and contribute to the success of the
+▪ Python - Flask, FASTAPI, Web Scrapping 
+▪ MongoDB, MS SQL, Firebase FireStore, Azure Datalake 
+▪ GCP - IAM, Cloud Functions, Cloud Storage, Compute Engine, Databricks 
+▪ Docker, Git, Postman 
+▪ Flutter, HTML, CSS, JS 
+▪ Google Analytics, Firebase Analytics, Big Query, Data Studio, Tableau"

@@ -16,7 +16,7 @@ creating survey questions, tools for distributing your survey via email or your 
 your results.
 1.
 Developed a user-friendly dashboard for managing survey responses, incorporating ﬁlter
-options for e�cient data management.
+options for ecient data management.
 2.
 Developed an API that allowed clients to submit responses for Customer Experience
 surveys, streamlining data collection.
@@ -28,7 +28,7 @@ testing and evaluation.
 5.
 Resolved UI bugs in the React codebase, ensuring a smooth user experience.
 6.
-Documented new code and maintained legacy code, fostering an organized and e�cient
+Documented new code and maintained legacy code, fostering an organized and ecient
 development environment.
 7.
 Applied Agile methodology in software development, promoting collaboration,
@@ -67,9 +67,9 @@ EDUCATION
 Jaypee University of Information Technology, Solan — Bachelors in Technology (Computer
 Science and Engineering) - 2017 - 2021
 University Projects:
-●
+ 
 Reﬂex Test (3rd year) Source Code
-●
+ 
 Jarvis-AI (4th year) Source Code
 SKILLS
 1.
@@ -84,25 +84,25 @@ REST APIs, Distributed Systems,
 Micro-service Architecture, Basic
 High Level Design.
 4.
-Databases – MySQL
+Databases - MySQL
 5.
 FrontEnd Frameworks - React, Redux
 6.
 BackEnd Frameworks -
-●
-Spring – Boot /Security / Data
+ 
+Spring - Boot /Security / Data
 JPA / MVC
-●
+ 
 Struts
-●
+ 
 Express.js
 7.
 Testing Frameworks - Junit 5,
 Mockito
 8.
-Build Tools – Maven
+Build Tools - Maven
 9.
-Repository Management tools – Git
+Repository Management tools - Git
 and Github
 10.
 OS - Windows10/11, MacOS, Fedora34

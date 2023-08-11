@@ -4,42 +4,61 @@
     "phone": "",
     "education": [
         {
-            "university_name": "Paul\u2019s Church College",
-            "course_name": "May 2018\nSenior Secondary",
+            "university_name": "Vellore Institute",
+            "course_name": "Madhya Pradesh\nSt.",
             "dates_attended": "Jul. 2019",
+            "marks_or_percentage": "8.64/10",
+            "additional_info": [
+                "of Technology\nJul. 2019 - Ongoing\nElectronics and Communication Engineering - 8.64/10\nBhopal,"
+            ]
+        },
+        {
+            "university_name": "Paul's Church College",
+            "course_name": "May 2018\nSenior Secondary",
+            "dates_attended": "May 2018",
             "marks_or_percentage": "",
             "additional_info": [
-                "\u2013 81/100\nAgra, Uttar Pradesh"
+                "- 81/100\nAgra, Uttar Pradesh"
             ]
         }
     ],
     "work_experience": [
         {
             "company_name": "app that facilitates effortless communication and collaboration between hospitals, doctors, and patients.",
-            "job_title": "\u2022 Constructed the frontend utilizing cutting-edge technologies such as React, Next.js, and Tailwind CSS, and",
-            "dates_worked": "",
+            "job_title": "Spearheaded a cross-functional team of 8 members to successfully develop and launch Health+, an innovative",
+            "dates_worked": "Apr. 2022",
             "additional_info": [
+                "Health Plus | Github Live",
+                "A complete health app that connects hospitals, doctors, and patients and helps you to keep track of your health",
+                "and fitness.",
+                "Stack: Next.js, React, Tailwind, MongoDB, Vercel"
+            ]
+        },
+        {
+            "company_name": "Demonstrated the app to the reviewers and received positive feedback and recognition for its functionality and",
+            "job_title": "",
+            "dates_worked": "Jan. 2022",
+            "additional_info": [
+                "Constructed the frontend utilizing cutting-edge technologies such as React, Next.js, and Tailwind CSS, and",
                 "seamlessly integrated it with backend services.",
-                "\u2022 Demonstrated the app to the reviewers and received positive feedback and recognition for its functionality and",
                 "usability.",
                 "Home Defender | Github",
-                "Jan. 2022",
                 "HomeDefender is a project that utilizes cutting-edge technology to process video feeds from a camera module",
                 "and accurately classify objects in real-time, all while transmitting the feed seamlessly over WiFi.",
-                "\u2022 Stack: OpenCV, Tensorflow, Google Colab, Arduino and ESP32 camera.",
-                "\u2022 Created a low-cost system that can easily detect and classify objects, providing users with an affordable and",
+                "Stack: OpenCV, Tensorflow, Google Colab, Arduino and ESP32 camera.",
+                "Created a low-cost system that can easily detect and classify objects, providing users with an affordable and",
                 "effective home security solution, even cheaper than current market offerings.",
-                "\u2022 Implemented seamless transmission of the video feed over WiFi, providing users with real-time updates on",
+                "Implemented seamless transmission of the video feed over WiFi, providing users with real-time updates on",
                 "detected objects.",
-                "\u2022 Demonstrated the app to the reviewers and received positive feedback and recognition for its functionality and",
+                "Demonstrated the app to the reviewers and received positive feedback and recognition for its functionality and",
                 "usability."
             ]
         }
     ],
     "linkedin": "",
     "github": "",
-    "projects": "Clear Vision | Github\nApr. 2023\nClearVision is a project that uses advanced machine learning techniques, implemented with TensorFlow and\nGoogle Colab, to improve the visibility of images taken in extreme weather conditions such as rain, fog, and\nunderwater. The project also utilizes React for its front-end interface\n\u2022 Stack: Python, TensorFlow, Raspberry Pi, Google Colab, React\n\u2022 Led a team of 3 members in the development of the ClearVision project as part of your final year project.\n\u2022 Trained machine learning models using TensorFlow and Google Colab to improve the visibility of images taken in\nextreme weather conditions, which works 40% more efficient than researched AOD networks.\n\u2022 Contributed to the front-end development of the project.\nJob Hunt | Github Live\nMar. 2023\nThe application allows users to search for jobs, view popular and nearby job listings, and filter results by job type\nand provides a convenient and user-friendly way for job seekers to find and apply for jobs.\n\u2022 Stack: React Native, Rapid API, Expo, Metro\n\u2022 Single-handedly developed the Job Hunt mobile application, utilizing skills in React Native and the Rapid API.\n\u2022 Published the application on Expo, making it available for users to download and use in their job search.\nNPM Package \u2013 @yugant-hooks | Github Live\nOct. 2022\nA collection of custom React Hooks that can be used to manage state in your React Applications.\n\u2022 Stack: React, JavaScript, NPM\n\u2022 Successfully developed yugant-hooks, a custom hooks library for React that includes a collection of hooks for\nmanaging state in React applications, such as use-title, use-click, and use-network.\n\u2022 Published the package on the NPM public repository, making it available for other developers to use in their own\nreact projects.\nLeafy Lane | Github Live\nSep. 2022\nA fully functional Plant based E-commerce website, with add to cart and checkout functionality powered by Stripe\npayments.\n\u2022 Stack: Next.js, Sanity.io, Stripe, Vercel\n\u2022 Developed a fully functional e-commerce website using Next.js, Sanity.io, and Stripe Payments.\n\u2022 Implemented features such as dynamic product addition through Sanity, real-time updates, and a Stripe\nPayments checkout with multiple shipping rate options.\n\u2022 Utilized the Next.js routing system to create an intuitive and user-friendly shopping",
-    "certifications": "IT Automation With Python Professional Certificate, Google | Coursera\nSep. 2022\n\u2022 Professional Six-course certificate, developed by Google.\n\u2022 Managing IT resources at scale for physical machines and virtual machines in the cloud\n\u2022 Automating tasks by writing Python scripts to speed up workflow by 80%\n\u2022 Using Git and GitHub for version control.\nTensorFlow Developer Professional Certificate, DeepLearning.AI | Coursera\nJul. 2022\n\u2022 Professional Four-course certificate, developed by DeepLearning.AI.\n\u2022 Best practices for TensorFlow, a popular open-source machine learning framework.\n\u2022 Handling real-world image data and exploring strategies to prevent overfitting, including augmentation and\ndropout to increase efficiency of models by 30%\n\u2022 Building natural language processing systems using TensorFlow.\nFull-Stack With React Specialization, Hong Kong University | Coursera\nNov. 2020\n\u2022 Four-course specialization certificate by Hong Kong University of Science and Technology\n\u2022 Designing a full-fledged Web client application using Bootstrap 4 and React.\n\u2022 Designing a hybrid mobile application using React Native.\n\u2022 Developing server-side support for the web application using Node.js, ExpressJS together with database support\nusing MongoDB.\nAchievements\nLeetcode\nLeetcode\n\u2022 Mastered over 400 challenging questions on Leetcode and enhanced my problem-solving skills.\nGFG Club\n2020 \u2013 2021\nVideo Editing Head\n\u2022 Held a pivotal role as the Video Editing Head and a key member of the Web Development Team for the GFG club.\n\u2022 Expertly crafted UI/UX mockups and prototypes for the club\u2019s projects utilizing industry-leading tools such as\nFigma and Adobe XD\n\u2022 Mentored and delivered engaging seminars and workshops on web development and video editing for club\nmembers and fellow students.\nGlobal Hack Week\nSept. 2022\nMajor League Hacking\n\u2022 Successfully participated in and completed the prestigious Global Hack Week organized by MLH, demonstrating\nmy technical skills and collaborative abilities.\n\u2022 Won the award for the best front-end website for community.",
+    "projects": "Clear Vision | Github\nApr. 2023\nClearVision is a project that uses advanced machine learning techniques, implemented with TensorFlow and\nGoogle Colab, to improve the visibility of images taken in extreme weather conditions such as rain, fog, and\nunderwater. The project also utilizes React for its front-end interface\n  Stack: Python, TensorFlow, Raspberry Pi, Google Colab, React\n  Led a team of 3 members in the development of the ClearVision project as part of your final year project.\n  Trained machine learning models using TensorFlow and Google Colab to improve the visibility of images taken in\nextreme weather conditions, which works 40% more efficient than researched AOD networks.\n  Contributed to the front-end development of the project.\nJob Hunt | Github Live\nMar. 2023\nThe application allows users to search for jobs, view popular and nearby job listings, and filter results by job type\nand provides a convenient and user-friendly way for job seekers to find and apply for jobs.\n  Stack: React Native, Rapid API, Expo, Metro\n  Single-handedly developed the Job Hunt mobile application, utilizing skills in React Native and the Rapid API.\n  Published the application on Expo, making it available for users to download and use in their job search.\nNPM Package - @yugant-hooks | Github Live\nOct. 2022\nA collection of custom React Hooks that can be used to manage state in your React Applications.\n  Stack: React, JavaScript, NPM\n  Successfully developed yugant-hooks, a custom hooks library for React that includes a collection of hooks for\nmanaging state in React applications, such as use-title, use-click, and use-network.\n  Published the package on the NPM public repository, making it available for other developers to use in their own\nreact projects.\nLeafy Lane | Github Live\nSep. 2022\nA fully functional Plant based E-commerce website, with add to cart and checkout functionality powered by Stripe\npayments.\n  Stack: Next.js, Sanity.io, Stripe, Vercel\n  Developed a fully functional e-commerce website using Next.js, Sanity.io, and Stripe Payments.\n  Implemented features such as dynamic product addition through Sanity, real-time updates, and a Stripe\nPayments checkout with multiple shipping rate options.\n  Utilized the Next.js routing system to create an intuitive and user-friendly shopping",
+    "certifications": "IT Automation With Python Professional Certificate, Google | Coursera\nSep. 2022\n  Professional Six-course certificate, developed by Google.\n  Managing IT resources at scale for physical machines and virtual machines in the cloud\n  Automating tasks by writing Python scripts to speed up workflow by 80%\n  Using Git and GitHub for version control.\nTensorFlow Developer Professional Certificate, DeepLearning.AI | Coursera\nJul. 2022\n  Professional Four-course certificate, developed by DeepLearning.AI.\n  Best practices for TensorFlow, a popular open-source machine learning framework.\n  Handling real-world image data and exploring strategies to prevent overfitting, including augmentation and\ndropout to increase efficiency of models by 30%\n  Building natural language processing systems using TensorFlow.\nFull-Stack With React Specialization, Hong Kong University | Coursera\nNov. 2020\n  Four-course specialization certificate by Hong Kong University of Science and Technology\n  Designing a full-fledged Web client application using Bootstrap 4 and React.\n  Designing a hybrid mobile application using React Native.\n  Developing server-side support for the web application using Node.js, ExpressJS together with database support\nusing MongoDB.\nAchievements\nLeetcode\nLeetcode\n  Mastered over 400 challenging questions on Leetcode and enhanced my problem-solving skills.\nGFG Club\n2020 - 2021\nVideo Editing Head\n  Held a pivotal role as the Video Editing Head and a key member of the Web Development Team for the GFG club.\n  Expertly crafted UI/UX mockups and prototypes for the club's projects utilizing industry-leading tools such as\nFigma and Adobe XD\n  Mentored and delivered engaging seminars and workshops on web development and video editing for club\nmembers and fellow students.\nGlobal Hack Week\nSept. 2022\nMajor League Hacking\n  Successfully participated in and completed the prestigious Global Hack Week organized by MLH, demonstrating\nmy technical skills and collaborative abilities.\n  Won the award for the best front-end website for community.",
     "extra": null,
-    "skills": "Languages: JavaScipt, Python, Java, SQL\nDeveloper Tools: VS Code, Google Colab, Jupyter Notebook\nTechnologies/Frameworks: React.js, Next.js, Tensorflow, Bash, Linux, Github"
+    "skills": "\nLanguages: JavaScipt, Python, Java, SQL\nDeveloper Tools: VS Code, Google Colab, Jupyter Notebook\nTechnologies/Frameworks: React.js, Next.js, Tensorflow, Bash, Linux, Github"
 }

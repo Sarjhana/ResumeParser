@@ -2,68 +2,95 @@
     "name": "Query Labelling for Indic Languages",
     "email": "bhargava.rupal@gmail.com",
     "phone": "",
-    "education": [],
+    "education": [
+        {
+            "university_name": "Birla Institute",
+            "course_name": "Banasthali Vidyapith\nMaster of Technology",
+            "dates_attended": "2013\u00a0-\u00a02019",
+            "marks_or_percentage": "",
+            "additional_info": [
+                "of Technology and Science, Pilani\nDoctor of Philosophy - PhD,\u00a0Computer Science Engineering\u00a0\u00b7\u00a0(2013\u00a0-\u00a02019)\n - MTech,\u00a0Computer Science Engineering\u00a0\u00b7\u00a0(2011\u00a0-\u00a02013)"
+            ]
+        },
+        {
+            "university_name": "Compucom Institute",
+            "course_name": "mation Technology &\nManagement",
+            "dates_attended": "2011\u00a0-\u00a02013",
+            "marks_or_percentage": "",
+            "additional_info": [
+                "of Infor(Engg. College)\nBachelor of Technology - BTech,\u00a0Computer Science\u00a0\u00b7\u00a0(2007\u00a0-\u00a02011)\n\u00a0\nPage 3 of 3"
+            ]
+        }
+    ],
     "work_experience": [
         {
             "company_name": "UK and WiSoc Lab, BITS Pilani, India. In addition to this she also",
             "job_title": "headed the R&D team of Towards Vision Technologies Pvt. Ltd for",
-            "dates_worked": "",
+            "dates_worked": "she's made sure to keep a part of her daily routine dedicated to",
             "additional_info": [
+                "worked with more than 100 learners in guiding/mentoring their thesis",
+                "and projects in collaboration with Liverpool John Moore's University,",
                 "their NLP and Machine learning related industrial projects.",
                 "\u2042 She readily brings positivity and ideas to teams and challenges",
                 "alike, keeping people focused on tasks and priorities and ensuring",
                 "the highest levels of service delivery are met. She facilitates and",
-                "",
                 "Page 1 of 3",
-                "",
-                "",
                 "builds responsive and cohesive relations that are able to drive",
                 "issues/solutions to achieve positive outcomes.",
-                "\u2042 She's a creativity enthusiast. During her entire research journey,",
-                "she's made sure to keep a part of her daily routine dedicated to",
+                "\u2042 She's a creativity enthusiast. During her entire research journey,"
+            ]
+        },
+        {
+            "company_name": "assistance with Natural Language Processing, Machine learning,",
+            "job_title": "Senior Delivery Manager",
+            "dates_worked": "February 2023\u00a0-\u00a0Present\u00a0(6 months)",
+            "additional_info": [
                 "learning new skills outside of her expertise, be it subject matter",
                 "expertise, communication ethics or research methodologies.",
                 "\u2042 Feel free to reach out to her at bhargava.rupal@gmail.com for any",
-                "assistance with Natural Language Processing, Machine learning,",
                 "Data Science, Image Processing or Speech Processing, etc.",
                 "Experience",
                 "Hero Vired",
                 "Faculty data science",
-                "February 2023\u00a0-\u00a0Present\u00a0(6 months)",
                 "Delhi, India",
                 "upGrad",
                 "4 years",
                 "Subject Matter Expert |Academic consultation",
                 "January 2023\u00a0-\u00a0February 2023\u00a0(2 months)",
-                "Delhi, India",
-                "Senior Delivery Manager",
-                "March 2021\u00a0-\u00a0December 2022\u00a0(1 year 10 months)",
+                "Delhi, India"
+            ]
+        },
+        {
+            "company_name": "C-Zentrix (Towards Vision Technologies Pvt. Ltd.)",
+            "job_title": "Lead Research Scientist",
+            "dates_worked": "March 2021\u00a0-\u00a0December 2022\u00a0(1 year 10 months)",
+            "additional_info": [
                 "New Delhi, Delhi, India",
                 "Subject Matter Expert | Thesis Supervisor",
-                "March 2019\u00a0-\u00a0March 2021\u00a0(2 years 1 month)",
-                "C-Zentrix (Towards Vision Technologies Pvt. Ltd.)",
-                "Lead Research Scientist",
-                "March 2019\u00a0-\u00a0March 2021\u00a0(2 years 1 month)",
+                "March 2019\u00a0-\u00a0March 2021\u00a0(2 years 1 month)"
+            ]
+        },
+        {
+            "company_name": "Birla Institute of Technology and Science, Pilani",
+            "job_title": "Information System. Pursued Ph.D being associated with DST funded project",
+            "dates_worked": "March 2019\u00a0-\u00a0March 2021\u00a0(2 years 1 month)",
+            "additional_info": [
                 "Gurgaon, India",
-                "Birla Institute of Technology and Science, Pilani",
                 "Research Scholar",
                 "August 2013\u00a0-\u00a0February 2019\u00a0(5 years 7 months)",
                 "Pilani, Rajasthan, India",
-                "",
                 "Page 2 of 3",
-                "",
-                "",
-                "Worked as a Research Scholar in Department of Computer Science &",
-                "Information System. Pursued Ph.D being associated with DST funded project",
+                "Worked as a Research Scholar in Department of Computer Science &"
+            ]
+        },
+        {
+            "company_name": "research includes Natural Language Processing, Machine Learning, Data",
+            "job_title": "Junior Research Fellow",
+            "dates_worked": "August 2013\u00a0-\u00a0January 2017\u00a0(3 years 6 months)",
+            "additional_info": [
                 "- \u201cDesign and Development of Opinion Mining Framework \u201c.  Her area of",
-                "research includes Natural Language Processing, Machine Learning, Data",
                 "Mining and Information Retrieval.",
-                "Department of Science and Technology",
-                "Junior Research Fellow",
-                "August 2013\u00a0-\u00a0January 2017\u00a0(3 years 6 months)",
-                "Delhi, India",
-                "Worked as Junior Research Fellow for DST-SERB Project Titled, \u201cDesign and",
-                "Development of Opinion Mining Framework\u201d, part of PhD Thesis."
+                "Department of Science and Technology"
             ]
         }
     ],

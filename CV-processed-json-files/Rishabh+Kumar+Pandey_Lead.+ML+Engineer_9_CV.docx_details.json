@@ -2,29 +2,33 @@
     "name": "https://www.linkedin.com/in/rishabh-kumar-35690533/",
     "email": "rishabh.hit@gmail.com",
     "phone": "+918892430039",
-    "education": [],
+    "education": [
+        {
+            "university_name": "2011\n \nMaster of Technology in Data Science from International Institute",
+            "course_name": "mation Technology",
+            "dates_attended": "2014-2016",
+            "marks_or_percentage": "",
+            "additional_info": [
+                "of Infor,\nIndia\n \nBachelor of Engineering in Computer Science Engineering from Maulana Abul Kalam Azad\nUniversity of Technology, India\nINTERNSHIP\nCisco System, India | Intern | Jan 2016 - Jun 2016 |"
+            ]
+        }
+    ],
     "work_experience": [
         {
             "company_name": "Software Development in IT Industry",
-            "job_title": "\u25cf",
-            "dates_worked": "",
+            "job_title": "Senior Machine Learning Engineer",
+            "dates_worked": "Jan 2019 - Present",
             "additional_info": [
                 "Strong exposure to data science and analytics including statistical analysis, predictive modelling,",
                 "machine-learning, clustering/classi\ufb01cation techniques and algorithms as well as analysis",
                 "/manipulation of large data sets",
-                "\u25cf",
                 "Expertise in Natural Language Processing for extracting content from discussions and messages",
-                "\u25cf",
                 "End2end development of ML/DL models, starting with data tagging to deploying to model in live",
                 "product using docker.",
-                "\u25cf",
                 "Attained pro\ufb01ciency at Data pre-processing and text extraction, building robust Machine",
                 "learning, Deep learning models, Neural Networks using Tensor Flow, Pytorch",
-                "\u25cf",
                 "Deep knowledge of math, probability, statistics and algorithms",
-                "\u25cf",
                 "Familiarity with AWS services like S3, DynamoDB, EC2",
-                "\u25cf",
                 "Adroit in E2E SDLC with using languages, tools, and technologies like Node.js, C, Python, Mat",
                 "Lab, Octave, Java, SQL, etc.",
                 "TECHNICAL FORTE",
@@ -45,46 +49,28 @@
                 "Techniques | Deep Learning | Arti\ufb01cial Intelligence | Neural Networks | Software Development Life",
                 "Cycle | Team coordination | Query Management",
                 "| Requirement Gathering & Analysis | Project",
-                "Management |",
-                "WORK EXPERIENCE",
-                "Jan 2019 - Present",
-                "Senior Machine Learning Engineer",
+                "Management |"
+            ]
+        },
+        {
+            "company_name": "Bert model, BRAT, light tag, neo4j, Attention Networks, Flair model, Flair word embedding,",
+            "job_title": "Machine Learning Engineer",
+            "dates_worked": "Aug 2016 - Jan 2019",
+            "additional_info": [
                 "Organization",
                 "CloudSEK, India",
                 "Technologies used",
-                "Bert model, BRAT, light tag, neo4j, Attention Networks, Flair model, Flair word embedding,",
                 "Attention Networks, glove word embedding, Keras, tensor board, gpt3",
                 "Key Result Area",
-                "\u25cf",
                 "Created a model from scratch to extract custom entities related to our use case. The model can",
                 "extract 8 key entities from text and is deployed and working in the live product.",
-                "\u25cf",
                 "Create a model to detect Fraud and hacks mentioned in open world discussion and message",
                 "data. The role of the model is to identify impactful cases for our clients and bring them to their",
                 "knowledge.",
-                "\u25cf",
                 "Created a model to segregate di\ufb00erent text into di\ufb00erent buckets and provide them as a tag for",
                 "user to easily identify di\ufb00erent categories of threat impacting them.",
-                "\u25cf",
                 "Created models for social media monitoring, checking and reporting pro\ufb01les that are try to",
-                "impersonate our clients on social media platforms.",
-                "Aug 2016 \u2013 Jan 2019",
-                "Machine Learning Engineer",
-                "Organization",
-                "CISCO Systems, India",
-                "Techniques &",
-                "Technologies",
-                "Machine Learning, Neural Networks, tf-idf, Na\u00efve Bayes, Python, Mongo DB, Tag generator, BOW,",
-                "node.js, Cross-Validation, Grid Search, Randomized Grid Search, Bayes Optimization, XGBoost,",
-                "perceptron, Random Forest",
-                "Key Result Area",
-                "\u25cf",
-                "Signi\ufb01cant in wide gamut of tasks entailing \u2013 Changed Based Testing which involves resolving",
-                "industry problems in Networking, mapping the relevant test cases went into the release based",
-                "on the bug \ufb01xes, extracting useful data from logs / release description and mapping the closely",
-                "related documents as well",
-                "\u25cf",
-                "Deft at recommending feeds to the users based on their"
+                "impersonate our clients on social media platforms."
             ]
         }
     ],
@@ -92,6 +78,6 @@
     "github": "",
     "projects": null,
     "certifications": null,
-    "extra": "\u25cf\nAssisted for a recommendation system in an Idea submission portal where the industrial\nproblems are given solutions, idea is built into a product, users can post and follow other\nideators, etc.\n\u25cf\nPredicted potential client data to renew licenses for Cisco Products, de-normalized data from\ndi\ufb00erent systems, cleaned and pre-processed for applying Machine Learning algorithms\nFeb 2012 - Jun 2014\nSoftware Engineer | Technologies used: SQL, shell script\nOrganization\nTCS, India\nKey Result Area\n\u25cf\nWorked for Deutsche Bank Support Project in the Testing Environment Service (TES) team\n\u25cf\nWorked on the product which was helpful to analyse Market data, and make future predictions\n\u25cf\nCon\ufb01gured application data to be used by Volumetrix application to showcase categorized data\nbased on various parameters, and user requirement standards\n\u25cf\nAutomated manual application tasks through batch and PL/SQL scripts for reduction in manual\nerrors, and decrease in work load\n\u25cf\nAutomated the Web Logic environment setup by using Web Logic Scripting Tool (WLST)",
+    "extra": "Assisted for a recommendation system in an Idea submission portal where the industrial\nproblems are given solutions, idea is built into a product, users can post and follow other\nideators, etc.\n \nPredicted potential client data to renew licenses for Cisco Products, de-normalized data from\ndi\ufb00erent systems, cleaned and pre-processed for applying Machine Learning algorithms\nFeb 2012 - Jun 2014\nSoftware Engineer | Technologies used: SQL, shell script\nOrganization\nTCS, India\nKey Result Area\n \nWorked for Deutsche Bank Support Project in the Testing Environment Service (TES) team\n \nWorked on the product which was helpful to analyse Market data, and make future predictions\n \nCon\ufb01gured application data to be used by Volumetrix application to showcase categorized data\nbased on various parameters, and user requirement standards\n \nAutomated manual application tasks through batch and PL/SQL scripts for reduction in manual\nerrors, and decrease in work load\n \nAutomated the Web Logic environment setup by using Web Logic Scripting Tool (WLST)",
     "skills": null
 }

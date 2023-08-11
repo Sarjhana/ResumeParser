@@ -9,7 +9,7 @@ Burger(site):
 Burger Landingy Pages From Scratch used  pure
 Tailwind Css Created API and and get data from
 that APP. And Some Sorting Function like Pricing  
-�દ And  Catagory so user can quickly pick their
+દ And  Catagory so user can quickly pick their
 Choise 
 Data Analytics:
 Next-js Tailwind-css project And  using react-

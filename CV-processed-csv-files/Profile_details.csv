@@ -1,5 +1,5 @@
 name,email,phone,education,work_experience,linkedin,github,projects,certifications,extra,skills
-Stuti Verma,,,[],[],,,,,"degree in Computational and Data Sciences from Indian Institute of
+Stuti Verma,,,"[{'university_name': 'Indian Institute', 'course_name': 'Master of Technology', 'dates_attended': '2017\xa0-', 'marks_or_percentage': '', 'additional_info': [""of Science (IISc)\n - MTech,\xa0Computational and Data\nSciences\xa0·\xa0(2017\xa0-\xa02019)\nNIT RAIPUR\nBachelor's degree,\xa0Biotechnology\xa0·\xa0(2013\xa0-\xa02017)\n\xa0\nPage 1 of 1""]}]","[{'company_name': '', 'job_title': 'Software Engineer 2', 'dates_worked': '4 years 1 month', 'additional_info': ['Blaize', 'May 2020\xa0-\xa0Present\xa0(3 years 3 months)', 'Hyderabad, Telangana', 'Software Engineer 1', 'July 2019\xa0-\xa0May 2020\xa0(11 months)', 'Hyderabad Area, India']}]",,,,,"degree in Computational and Data Sciences from Indian Institute of
 Science (IISc).","C++
 Matlab
 Python (Programming Language)

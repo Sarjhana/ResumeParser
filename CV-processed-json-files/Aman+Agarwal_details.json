@@ -3,11 +3,110 @@
     "email": "amanag029@gmail.com",
     "phone": "+919897316171",
     "education": [],
-    "work_experience": [],
+    "work_experience": [
+        {
+            "company_name": "TCS Research and Innovation Labs",
+            "job_title": "Senior Python Developer",
+            "dates_worked": "Noida | July 2022 - Present",
+            "additional_info": [
+                "software development life",
+                "cycle, chat bot development",
+                "and delivery of next-",
+                "generation applications and",
+                "customizable solutions.",
+                "I am seeking a company",
+                "where I can use my",
+                "experience and",
+                "Project - Intelligent Onboarding Solution ( TCS iOB )"
+            ]
+        },
+        {
+            "company_name": "- Contribution to SoP document creation from mht and",
+            "job_title": "- Involves in iOB virtual assistant  development,",
+            "dates_worked": "Noida | Jun 2021 - June 2022",
+            "additional_info": [
+                "- Developed Minutes of Meeting ( MoM ) Generator",
+                "deployment and support phases.",
+                "video file.",
+                "Senior Python Developer",
+                "TCS Research and Innovation Labs",
+                "Project - Artificial Intelligence for Contextual Master (SSA)"
+            ]
+        },
+        {
+            "company_name": "- AI Recommendations to address imbalances in narrative",
+            "job_title": "Python Developer",
+            "dates_worked": "Noida | May 2019 - May 2021",
+            "additional_info": [
+                "- Auto extraction of entity concepts",
+                "- Compute 'Application Score Index' for each CM story",
+                "- Document pre-processing script",
+                "- Parallelization of pipeline execution",
+                "- Clustering the CM stories based on pre-defined themes",
+                "- Visualization of datasets using Fusion Charts",
+                "TCS Research and Innovation Labs",
+                "Project - Semantics System and Knowledge Synthesis (SSA)"
+            ]
+        },
+        {
+            "company_name": "assisted QA engine.",
+            "job_title": "Release Engineer",
+            "dates_worked": "2014 - 2018",
+            "additional_info": [
+                "- Development of chatbot framework i.e. conversational",
+                "dialogue system that uses concepts of Knowledge",
+                "Synthesis for intra-enterprise use to provide knowledge",
+                "- Data Harvesting for Knowledge Synthesis Framework.",
+                "-  Create various training console commands.",
+                "Specializations",
+                "- Python",
+                "- Flask",
+                "- Django",
+                "- OOPS",
+                "- ORM Experience",
+                "- SQL",
+                "- SQLAlchemy",
+                "- PostgreSQL",
+                "- Knowledge Synthesis",
+                "- Git",
+                "- Pandas",
+                "- Fast API",
+                "- REST API",
+                "- Redis",
+                "- AWS",
+                "- JAVA",
+                "- Linux",
+                "- Chatbot Frameworks",
+                "(Google Dialogflow,",
+                "Knadia - TCS Internal)",
+                "TCS Research and Innovation Labs",
+                "Project - Semantics System and Knowledge Synthesis (SSA)",
+                "Noida | Sept 2018 - Apr 2019",
+                "- Developed shell scripts and Python programs for",
+                "automation",
+                "- Manage source code control system and  maintain",
+                "documentation.",
+                "- Resolve software issues and develop an efficient",
+                "deployment process.",
+                "- Support globally distributed teams.",
+                "- Maintain complete IP Safe activity for the product.",
+                "- Communicate releases related activities to all the",
+                "stakeholders.",
+                "- Deployment and management was done for production",
+                "environment of various clients like Landmark Group,",
+                "McKinsey, MTN Group, Cainz, DGFT(GoI),etc. and",
+                "TCS internal production environment.",
+                "Academic Attainment",
+                "Bachelor of Technology,",
+                "(Computer Science & Engineering)",
+                "KIET Group of Institutions, AKTU"
+            ]
+        }
+    ],
     "linkedin": "",
     "github": "",
     "projects": null,
     "certifications": "Received ON THE SPOT AWARD from TCS HR \n     Digitization Unit for supporting throughout all releases.\n     Received Technical Excellence Award from TCS MEA\n     R&I for providing technical assitance during various  \n     events displaying KNADIA chatbot framework. \n     Received ON THE SPOT AWARD from TCS R&I for\n     successful completion of IP Safe for TCS internal chatbot \n     framework. \n     Microsoft Certified Azure Fundamentals Certification",
     "extra": null,
-    "skills": "learn new technologies.\nMobile:  +91 - 9897316171\nEmail:\namanag029@gmail.com\nEmployment History\nSenior Python Developer\nTCS Research and Innovation Labs\nProject - Intelligent Onboarding Solution ( TCS iOB )\nNoida | July 2022 - Present\n- Developed Minutes of Meeting ( MoM ) Generator\n- Involves in iOB virtual assistant  development,  \n   deployment and support phases.    \n- Contribution to SoP document creation from mht and\n   video file.\nSenior Python Developer\nTCS Research and Innovation Labs\nProject - Artificial Intelligence for Contextual Master (SSA)\nNoida | Jun 2021 - June 2022\n- Auto extraction of entity concepts\n- AI Recommendations to address imbalances in narrative\n- Compute 'Application Score Index' for each CM story\n- Document pre-processing script\n- Parallelization of pipeline execution\n- Clustering the CM stories based on pre-defined themes\n- Visualization of datasets using Fusion Charts\nPython Developer\nTCS Research and Innovation Labs\nProject - Semantics System and Knowledge Synthesis (SSA)\nNoida | May 2019 - May 2021 \n- Development of chatbot framework i.e. conversational\n  dialogue system that uses concepts of Knowledge \n  Synthesis for intra-enterprise use to provide knowledge \n  assisted QA engine.\n- Data Harvesting for Knowledge Synthesis Framework.\n-  Create various training console commands.\nSpecializations\n- Python\n- Flask\n- Django\n- OOPS\n- ORM Experience\n- SQL\n- SQLAlchemy\n- PostgreSQL\n- Knowledge Synthesis\n- Git\n- Pandas\n- Fast API\n- REST API\n- Redis\n- AWS\n- JAVA\n- Linux\n- Chatbot Frameworks\n   (Google Dialogflow,\n     Knadia - TCS Internal)\nRelease Engineer\nTCS Research and Innovation Labs\nProject - Semantics System and Knowledge Synthesis (SSA)\nNoida | Sept 2018 - Apr 2019 \n- Developed shell scripts and Python programs for \n  automation\n- Manage source code control system and  maintain \n  documentation.\n- Resolve software issues and develop an efficient \n  deployment process.\n- Support globally distributed teams.\n- Maintain complete IP Safe activity for the product.\n- Communicate releases related activities to all the \n  stakeholders.\n- Deployment and management was done for production \n  environment of various clients like Landmark Group,     \n  McKinsey, MTN Group, Cainz, DGFT(GoI),etc. and \n  TCS internal production environment.\nAcademic Attainment\nBachelor of Technology, \n(Computer Science & Engineering)\nKIET Group of Institutions, AKTU\n2014 - 2018\n- Developed components like Data Housekeeping for \n  chatbot, dialogue driven through Knowledge Graph.\n- Implemented Data Ingestion in Knowledge Graph\n   using Audit Logs , File upload, APIs, etc.\n- Developed Bot Driven Dialogue for various entity \n   types of Knowledge Graph to resolve inconsistency   \n   among instances.\n- Involved in various PoCs of clients like McKinsey, \n   DGFT (GoI), LandMark Group,etc.\n \nAwards &"
+    "skills": "learn new technologies.\nMobile:  +91 - 9897316171\nEmail:\namanag029@gmail.com"
 }

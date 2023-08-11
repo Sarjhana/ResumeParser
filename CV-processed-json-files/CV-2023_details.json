@@ -3,44 +3,11 @@
     "email": "professional.sid13@gmail.com",
     "phone": "+12018082020",
     "education": [],
-    "work_experience": [
-        {
-            "company_name": "IBM India Pvt Ltd",
-            "job_title": "~  04/2021 - Working, Bangalore",
-            "dates_worked": "",
-            "additional_info": [
-                "Developing in \u201cVinturas\u201d project with Agile approach. The project is",
-                "based on Hyperledger-fabric, IBP. Responsible for Developing best",
-                "solution to meet the client needs in NestJS framework with VS Code IDE.",
-                "Creating/modifying microservices and containerizing it using Docker.",
-                "Modifying configurations and updating dependencies of Hyperledger-fabric",
-                "network and microservices whenever necessary. Unit testing with Jest",
-                "framework and e2e testing with postman. Managing bit-bucket repository of",
-                "the project and using it for code review. Deploying the code to dev while",
-                "monitoring CI/CD pipeline in concourse. Process Automation using n8n.io.",
-                "Writing deployments for Kubernetes and managing k9s.",
-                "Blockchain Training Alliance \u2013 Certified Blockchain Developer Ethereum",
-                "Developing and testing D-apps on EVM using Solidity, Remix IDE,",
-                "Truffle, Hardhat, MetaMask wallet, testing on mainnet/testnet, Ganache,",
-                "geth, Ether Scan, Web3JS.",
-                "Certified IBM full-stack JAVA developer.",
-                "Microsoft Azure - AZ-900 certified.",
-                "Research Assistant",
-                "NIT Kurukshetra",
-                "~  07/2018 - 08/2020, Haryana",
-                "SUMMARY",
-                "",
-                "",
-                "Highly driven professional with extensive",
-                "experience in conducting research, contributing",
-                "to open-source"
-            ]
-        }
-    ],
+    "work_experience": [],
     "linkedin": "",
     "github": "https://github.com/demigod-ares",
     "projects": "solutions leveraging AI, IoT, and blockchain \ntechnologies. Delivering impactful solutions that \nsolve complex business problems. Passionate \nabout the ever-evolving tech industry and \ncommitted to staying up-to-date with the latest \ntrends and technologies. Skilled at building \nrelationships and collaborating with cross-\nfunctional teams, clients, and stakeholders to \ndrive successful outcomes.",
     "certifications": null,
     "extra": "",
-    "skills": "Client-Side: HTML, CSS, Bootstrap, JS, \nTypeScript, Angular, React \nServer-side: Typescript, NodeJS, NestJS, \nJest, JAVA, Spring Boot, JUnit, Docker, \nDocker-compose, Kubernetes, k9s, REST \nBlockchain: Hyperledger Fabric, IBP, \nEthereum. \nML, DL & AI: Python, NumPy, SciPy, Scikit-\nlearn, Keras, Eli5, TensorFlow, PyTorch \nData Visualization & Processing: \nTableau, MS Excel, matplotlib \nCloud: AWS, MS Azure, IBM Cloud \nDatabase: MySQL, Couch DB, Mongo DB \nManagement Frameworks: Scaled Agile \n(SAFE), LEAN, Agile, Scrum, Fast Works \nOthers: Postman scripting & testing, n8n.io \nautomation. \nAWARDS \n \nManager choice & Event awards at IBM \nGold Medal 2020 \u2013 NIT  Kurukshetra \nGold Medal 2015 - NPTI   Badarpur \n B \n C \n A \n D \n F \n E \nSiddharth Singh \nFull-stack Development (Blockchain / AI & ML) \nSoftware Developer \nWebPro Technologies \n~  02/2016 - 05/2018,  Faizabad \nFaculty - Industrial Automation \nProlific Systems & Technology \n~  07/2015 - 01/2016,  Noida \nManish Thaper \nEngineering Manager, [XX] -A fortune 500 Organization \nREFERENCES (ON REQUEST) \n \nSharvil Singh \nDigital Technology"
+    "skills": "Client-Side: HTML, CSS, Bootstrap, JS, \nTypeScript, Angular, React \nServer-side: Typescript, NodeJS, NestJS, \nJest, JAVA, Spring Boot, JUnit, Docker, \nDocker-compose, Kubernetes, k9s, REST \nBlockchain: Hyperledger Fabric, IBP, \nEthereum. \nML, DL & AI: Python, NumPy, SciPy, Scikit-\nlearn, Keras, Eli5, TensorFlow, PyTorch \nData Visualization & Processing: \nTableau, MS Excel, matplotlib \nCloud: AWS, MS Azure, IBM Cloud \nDatabase: MySQL, Couch DB, Mongo DB \nManagement Frameworks: Scaled Agile \n(SAFE), LEAN, Agile, Scrum, Fast Works \nOthers: Postman scripting & testing, n8n.io \nautomation. \nAWARDS \n \nManager choice & Event awards at IBM \nGold Medal 2020 - NIT  Kurukshetra \nGold Medal 2015 - NPTI   Badarpur \n B \n C \n A \n D \n F \n E \nSiddharth Singh \nFull-stack Development (Blockchain / AI & ML) \nSoftware Developer \nWebPro Technologies \n~  02/2016 - 05/2018,  Faizabad \nFaculty - Industrial Automation \nProlific Systems & Technology \n~  07/2015 - 01/2016,  Noida \nManish Thaper \nEngineering Manager, [XX] -A fortune 500 Organization \nREFERENCES (ON REQUEST) \n \nSharvil Singh \nDigital Technology"
 }

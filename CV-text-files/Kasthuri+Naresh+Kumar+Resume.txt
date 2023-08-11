@@ -16,7 +16,7 @@ University/College
 Duration 
 Percentage 
 1 
-Master’s in Advance Computer 
+Master's in Advance Computer 
 Science 
 Cardiff Metropolitan 
 University, United Kingdom 
@@ -56,58 +56,58 @@ PowerBi
 Version Control                 
 Github 
  
-• 
+  
 Object Oriented Programming Knowledge on Inheritance, Encapsulation, Polymorphism, Data Abstraction. 
-• 
+  
 Knowledge on Python Libraries like NumPy, Pandas, Matplotlib and Beautiful Soup. 
-• 
+  
 Knowledge on Web scraping. 
-• 
+  
 Knowledge on Regular Expression. 
-• 
+  
 Knowledge on Multithreading. 
-• 
+  
 Knowledge on Advanced Functions on Python such as Lambda, Filter, Map, Generator. 
  
 Work Experience: 
                      Associate System Engineer 
                                                                                            FEB  2022-Present 
                           Tata Consultancy Services, Hyderabad                                                                   
-• 
+  
 Identified possible system enhancements to improving functionality and streamline administration. 
-• 
+  
 Collaborated with quality assurance team to verify correct implementation of software development changes. 
-• 
+  
 Provided advice on project costs, design concepts, or design changes. 
-• 
+  
 Worked with software development and testing team members to design and develop robust solutions to meet 
 client requirements for functionality, scalability, and performance. 
  
 Training and Certification: 
-• 
-PythonLife – Certified Professional in Python Language 
-• 
+  
+PythonLife - Certified Professional in Python Language 
+  
 Certified as Microsoft Technical Associate (MTA) for Networking fundamental 
-• 
+  
 Trained on Web Development and designing using WordPress. 
-• 
+  
 Runner-up in Debugging competition held at CVSR college 
 Projects: 
  
 Key Strengths 
-● Analytical Thinking. 
-● Problem solving 
-● Detail- Oriented. 
-● Team work 
-● Effective communication skills. 
+  Analytical Thinking. 
+  Problem solving 
+  Detail- Oriented. 
+  Team work 
+  Effective communication skills. 
 Personal Information 
-• 
+  
 Date of Birth         :        Aug 06, 1997. 
-• 
+  
 Languages known :        English, Telugu, Hindi. 
-• 
+  
 Marital Status        :        Unmarried. 
-• 
+  
 Nationality            :        Indian. 
 Declaration 
  I do declare that all the information enclosed is true and I thank you in advance for considering my application. I 
@@ -157,7 +157,7 @@ notebook.
 Django E-Commerce 
 Requirements: Python3, Django Framework, MySQL 
 1)This project deals with developing a Virtual website ‘E-
-commerce Website’. User must create username and login to 
+commerce Website'. User must create username and login to 
 authenticate login. 
 2)list of the various products available for purchase in the 
 store will be shown, a shopping cart is provided to the user 

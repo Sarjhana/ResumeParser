@@ -4,9 +4,18 @@
     "phone": "+918150005306",
     "education": [
         {
+            "university_name": "Computer Applications 'Data Science'\nSymbiosis Institute",
+            "course_name": "Machine Learning Algorithms",
+            "dates_attended": "| 3 Months",
+            "marks_or_percentage": "",
+            "additional_info": [
+                "of Computer Studies and Research (SICSR) \nData Analysis using Python|ERD; |Computer Vision, Image Processing\nCPA: 7."
+            ]
+        },
+        {
             "university_name": "5\nGarden City University",
             "course_name": "ment",
-            "dates_attended": "| 3 Months",
+            "dates_attended": "3 Months",
             "marks_or_percentage": "",
             "additional_info": [
                 "Organized Team Lead at ICAIML - 2019, Core Web Develop | Python\nWeb Developer intern | 3 Months; Relationship Manager | 3 Months\nCGPA: 8.45\nJune 2021 - June 2023\nBangalore, Karnataka\nJuly 2018 - June 2021\nPune, Maharashtra\nBCA  - Computer Applications\nAugment Systems Pvt Ltd |Research Analyst                                    Mar 2023- \n April 2023\nConducting research: Conducting research on various topics related to the business using primary and secondary sources, \nData collection and analysis: Collecting and analyzing data from various sources using statistical and analytical tools.\nPreparing reports: Preparing reports summarizing research findings, insights, and recommendations clearly and concisely \nthat is easily understandable by business stakeholders.\nQuality assurance: Ensuring research data and analysis accuracy and reliability through quality assurance and testing.\nResearch & POC: Heart Diseases Prediction using Machine Learning\nPOC for Heart Diseases predictions Analysis can detect whether a patient is having the positive symptoms of diseases or not \nand comparison done after getting 4 different accuracy result.\nAnalyze the requirement of an Independent Variable to perform the analysis. The database is taken from CDC Official \nSurvey Data.\nPerformed EDA (Exploratory data analysis) on the entire data. Performed 4 Major Classifiers of ML Algorithms to \ncompare the result better.\nApplied more than three different ML accuracy Boosters & Confusion Matrics as well.\nRoles & Responsibilities\nJune '22 - Dec'22"
@@ -16,12 +25,12 @@
     "work_experience": [
         {
             "company_name": "Ibrix Pvt Ltd |Data Analyst Intern                                                          Oct 2021-  Apr 2022",
-            "job_title": "ROHIT RAI",
-            "dates_worked": "",
+            "job_title": "Completing other tasks as assigned by the manager.",
+            "dates_worked": "intern for 6 Months, and 6 Months in academic Data Visualization & ETL Tools, with Over 1 Year",
             "additional_info": [
+                "ROHIT RAI",
                 "DATA SCIENCE|ML AND ALGORITHMS| AZURE|GCP BIG QUERY|ADVANCE EXCEL",
                 "An ambitious and skilled Data Science student with Diverse Experience in Data Analysis as an",
-                "intern for 6 Months, and 6 Months in academic Data Visualization & ETL Tools, with Over 1 Year",
                 "in Machine Learning and AI-ANN during Academics career and SQL.",
                 "NCR, India",
                 "rai13042000@gmail.com",
@@ -30,10 +39,14 @@
                 "Assisting with the collection, organization, and cleaning of data from a variety of sources.",
                 "Using tools such as SQL Workbench, Power BI, and Excel to analyze and interpret data.",
                 "Creating reports, charts, and visualizations to communicate findings to stakeholders.",
-                "Collaborating with team members to identify trends, patterns, and insights in the data.",
-                "Completing other tasks as assigned by the manager.",
-                "DocVita Inc |Web Developer                                                                  Oct 2020- Jan 2021",
-                "WordPress total admin management of Docvita.com  with Google AdWords campaign and Google Analytics.",
+                "Collaborating with team members to identify trends, patterns, and insights in the data."
+            ]
+        },
+        {
+            "company_name": "WordPress total admin management of Docvita.com  with Google AdWords campaign and Google Analytics.",
+            "job_title": "DocVita Inc |Web Developer                                                                  Oct 2020- Jan 2021",
+            "dates_worked": "Dec 2021 - Feb 2022",
+            "additional_info": [
                 "Assisting with the development and maintenance of WordPress websites and applications.",
                 "Writing, testing, and debugging code using languages such as XML, HTML5, and CSS3.",
                 "Implementing features and functionality according to project specifications.",
@@ -41,9 +54,7 @@
                 "Analyze the requirement of the Stack Holder's, Database import into MySQL Workbench, which contains 12000+ rows",
                 "Performed ETL (Extract Transformation Load) using Power BI, Done Data Modeling like Star and Snowflakes Schema",
                 "Performed and cross-checked the values in MySQL Workbench. Created BI reports presenting the data visualization.",
-                "Roles & Responsibilities",
-                "Dec 2021 - Feb 2022",
-                "PROJECT AND RESEARCH"
+                "Roles & Responsibilities"
             ]
         }
     ],

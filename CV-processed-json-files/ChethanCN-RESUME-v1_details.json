@@ -15,10 +15,10 @@
         {
             "university_name": "10 \n \n \nScore \n \n \n \n \nDatabase \nMySQL \nOracle \nJPA \nHibernate \nJDBC \nJain University",
             "course_name": "Bangalore",
-            "dates_attended": "a single day",
+            "dates_attended": "",
             "marks_or_percentage": "",
             "additional_info": [
-                "e , Karnataka \n10th Grade \n83 / 100 \n \n \nOther \nScore \nVET High School \ne Bangalore, Karnataka \n94 / 100 \nAWS \nMicroservices \n \n \n \n \nLinux Scripting \nGit \nDocker \nEXPERIENCE \n \nJava Developer \nCognizant Technology Solutions \n 10/2021 - Ongoing  Bengaluru, Karnataka \n \no  \n Used Java EE technologies like Spring Boot, Struts to \ndevelop web applications for client server environments. \no \n Diversified skillsets such as AWS services, \nMicroservices, Docker, Kubernetes, React JS, \nHibernate, REST. \no \n \nWorked with Java, SQL, JSP, XML, HTML, CSS3, Jira, \nWebLogic,Putty and SVN \no \n Collaborated in team-based, Agile environment to \naccomplish objectives by deadlines. Worked with SVN and Git \nas the Version Control Systems. Managed the WebLogic \nserver through Putty. Testing using JUnit and Mockito \nWebLogic  \nJira \nJSP \nSVN \nJSON \nKubernetes \n \n \nSOFT SKILLS \nCommunication \n Through my work experience and formal \neducation, \nI have developed strong \ncommunication skills, and I\u2019m able to \nclearly \nconvey \npoints \nto \ndifferent \naudience. I\u2019m also a good listener which \naids in my ability to understand a situation \nand prepare an appropriate response.\nInternship - Java Intern \nCognizant Technology Solutions \n03/2021 - 06/2021 \nTime management \nAble to prioritize tasks and manage my \ntime so that I can focus on my work and \nwell-being in a single day\n \no \nDeveloped Spring Boot Applications such as forms, Registration \nWith Login/Logout feature using Thymeleaf, Bootstrap, Lombok \nH2/MySQL. Used SQL to generate Web Reports and customizations."
+                "e , Karnataka \n10th Grade \n83 / 100 \n \n \nOther \nScore \nVET High School \ne Bangalore, Karnataka \n94 / 100 \nAWS \nMicroservices \n \n \n \n \nLinux Scripting \nGit \nDocker \nEXPERIENCE \n \nJava Developer \nCognizant Technology Solutions \n 10/2021 - Ongoing  Bengaluru, Karnataka \n \no  \n Used Java EE technologies like Spring Boot, Struts to \ndevelop web applications for client server environments. \no \n Diversified skillsets such as AWS services, \nMicroservices, Docker, Kubernetes, React JS, \nHibernate, REST. \no \n \nWorked with Java, SQL, JSP, XML, HTML, CSS3, Jira, \nWebLogic,Putty and SVN \no \n Collaborated in team-based, Agile environment to \naccomplish objectives by deadlines. Worked with SVN and Git \nas the Version Control Systems. Managed the WebLogic \nserver through Putty. Testing using JUnit and Mockito \nWebLogic  \nJira \nJSP \nSVN \nJSON \nKubernetes \n \n \nSOFT SKILLS \nCommunication \n Through my"
             ]
         }
     ],
@@ -26,9 +26,29 @@
         {
             "company_name": "SQL, Hibernate, Microservices, AWS Services, Docker, JSP",
             "job_title": "",
-            "dates_worked": "",
+            "dates_worked": "well-being in a single day",
             "additional_info": [
-                "SQL, Hibernate, Microservices, AWS Services, Docker, JSP"
+                "education,",
+                "I have developed strong",
+                "communication skills, and I'm able to",
+                "clearly",
+                "convey",
+                "points",
+                "to",
+                "different",
+                "audience. I'm also a good listener which",
+                "aids in my ability to understand a situation",
+                "and prepare an appropriate response.",
+                "Internship - Java Intern",
+                "Cognizant Technology Solutions",
+                "03/2021 - 06/2021",
+                "Time management",
+                "Able to prioritize tasks and manage my",
+                "time so that I can focus on my work and",
+                "o",
+                "Developed Spring Boot Applications such as forms, Registration",
+                "With Login/Logout feature using Thymeleaf, Bootstrap, Lombok",
+                "H2/MySQL. Used SQL to generate Web Reports and customizations."
             ]
         }
     ],
@@ -37,5 +57,5 @@
     "projects": null,
     "certifications": null,
     "extra": null,
-    "skills": "Languages \n \nJava \nJavaScript \nPython \nHTML \nReact JS, Junit, SVN."
+    "skills": "\nLanguages \n \nJava \nJavaScript \nPython \nHTML \nReact JS, Junit, SVN."
 }

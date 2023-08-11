@@ -9,15 +9,24 @@
             "dates_attended": "June 2014",
             "marks_or_percentage": "",
             "additional_info": [
-                "- B. Tech.\n\n\u2013 Noida"
+                "- B. Tech.\n\n- Noida"
             ]
         }
     ],
     "work_experience": [
         {
             "company_name": "Features and Support for CoCreate Product - React Frontend, Node and Django",
-            "job_title": "Microservices.",
-            "dates_worked": "Senior Software Engineer (Full Stack) at Clipboard Health (Feb \u201822 - May \u201822)",
+            "job_title": "Senior Software Engineer (Full Stack) at Clipboard Health (Feb \u201822 - May \u201822)",
+            "dates_worked": "Freelance at Pixis (May \u201822 - Present)",
+            "additional_info": [
+                "\u25aa",
+                "Microservices."
+            ]
+        },
+        {
+            "company_name": "Senior Software Engineer at Pyxis one (Sep \u201820 - Dec \u201821)",
+            "job_title": "Technical Lead (Front-End) at Cerebry (Jan '22 - Feb \u201822)",
+            "dates_worked": "Contract Software Engineer at Homelane (May \u201819 - Jun \u201820)",
             "additional_info": [
                 "\u25aa",
                 "Migrated Ionic-Capacitor-React Frontend to capacitor upgrade and",
@@ -25,10 +34,8 @@
                 "\u25aa",
                 "Worked on features and migration of monolith node services to Nest Js",
                 "microservices.",
-                "Technical Lead (Front-End) at Cerebry (Jan \u201922 - Feb \u201822)",
                 "\u25aa",
                 "Worked on the Preact (server side React) framework front-end.",
-                "Senior Software Engineer at Pyxis one (Sep \u201820 - Dec \u201821)",
                 "\u25aa",
                 "Single handedly Architected, Planned and Executed Scalable, Flexible and",
                 "Modular Solution to DAM (Data & Asset Management) of Brands and Resizing",
@@ -55,18 +62,19 @@
                 "Performance Marketing.",
                 "\u25aa",
                 "Architect and Delivered POC Solution to Image Editor as Web App and",
-                "Resizing/Editing of Creatives made by same.",
-                "Contract Software Engineer at Homelane (May \u201819 - Jun \u201820)",
+                "Resizing/Editing of Creatives made by same."
+            ]
+        },
+        {
+            "company_name": "Architect and Executed Solution to Migrate Internal Web App to Manage Order",
+            "job_title": "Worked with Lead 3D Engineer to Architect POC Solution to Export Automated",
+            "dates_worked": "Trainee at MountBlue Technologies (Mar \u201819 - May \u201819)",
+            "additional_info": [
                 "\u25aa",
-                "Architect and Executed Solution to Migrate Internal Web App to Manage Order",
                 "and Finances from Rigid PHP Frontend to Flexible and Modular React/Redux",
                 "Frontend to integrate with existing PHP Frontend.",
                 "\u25aa",
-                "Worked with Lead 3D Engineer to Architect POC Solution to Export Automated",
-                "PDF Floor Plan for vendors from 3D Plan of Spacecraft App.",
-                "Trainee at MountBlue Technologies (Mar \u201819 - May \u201819)",
-                "\u25aa",
-                "Completed and helped colleagues complete high paced MERN Stack training and"
+                "PDF Floor Plan for vendors from 3D Plan of Spacecraft App."
             ]
         }
     ],
@@ -74,6 +82,6 @@
     "github": "",
     "projects": "Associate Software Engineer - Trainee at TCS (Mar \u201815 - Jun \u201815)\n\u25aa\nWas rated 5 out of 5 at the end of Training, Also Rewarded Star of the Batch\nAward.\n\u25aa\nCompleted and Excelled at Training in Java.",
     "certifications": null,
-    "extra": "Movies & TV\nTravel\nSports & Games\nComedy\nProfile\nNon-Conformist, Distinguished Software Engineer, with passion for Problem\nSolving & Psychology and a great sense of humor as surprise addition. Excels\nat Leadership and Management. Thrives for challenging tasks. Being an\nassertive empath (INFJ-A) gives knack for insights into pro\ufb01ling and prediction.",
-    "skills": "FrontEnd (React/Redux/Next)\nTypeScript/JavaScript\nNode (Express/Nest)\nDevOps\nPython (Django)"
+    "extra": "Movies & TV\nTravel\nSports & Games\nComedy\nProfile\nNon-Conformist, Distinguished Software Engineer, with passion for Problem\nSolving & Psychology and a great sense of humor as surprise addition. Excels\nat\nassertive empath (INFJ-A) gives knack for insights into pro\ufb01ling and prediction.",
+    "skills": "\nFrontEnd (React/Redux/Next)\nTypeScript/JavaScript\nNode (Express/Nest)\nDevOps\nPython (Django)"
 }

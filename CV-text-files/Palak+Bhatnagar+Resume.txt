@@ -19,7 +19,7 @@ which the device was connected. Data Analysis project made using Microsoft Power
 03/2022 - 06/2022  
 Android Developer | SSJ IT Solutions Pvt. Ltd | Ghaziabad 
 Made a live android application named MyNaav- A boat booking App. This application was made on 
-company’s demand and was made for booking boats on the Varanasi ghats. The application was made using 
+company's demand and was made for booking boats on the Varanasi ghats. The application was made using 
 JAVA. 
  
 06/2021 - 09/2021  
@@ -102,7 +102,7 @@ Predictive Maintenance of HVAC System
  
 This is a sponsored project by Auto test mechanism. 
  
-It’s a part of industry 4.0 and helps to predict the health of system using Hardware and software 
+It's a part of industry 4.0 and helps to predict the health of system using Hardware and software 
 simultaneously. 
 Driver Drowsiness Detection Using Machine Learning 
  

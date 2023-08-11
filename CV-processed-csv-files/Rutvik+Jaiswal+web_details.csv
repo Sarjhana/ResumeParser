@@ -1,5 +1,5 @@
 name,email,phone,education,work_experience,linkedin,github,projects,certifications,extra,skills
-React JS,rutvikjaiswal195@gmail.com,+919673062604,[],[],,https://github.com/sunnyar,Python programming,,,"Summary
+React JS,rutvikjaiswal195@gmail.com,+919673062604,"[{'university_name': 'AISSMS Institute', 'course_name': 'mation technology', 'dates_attended': '', 'marks_or_percentage': '', 'additional_info': ['of infor ,Pune  \n   BE In Electrical Engineering (CGPA  8.85)\n 9. React JS']}]",[],,https://github.com/sunnyar,Python programming,,,"Summary
 Rutvik S Jaiswal
 Python Developer
 rutvik_jaiswal
@@ -35,7 +35,7 @@ members.
 Participated in code reviews and peer programming sessions to share knowledge and learn new skills
 Responsibilities:
 As part of Smart Airport, Airport Authorities trying to predict the number of people entering/leaving
-the airport for next 24 hours. By using the historical passenger’s data, travelled through the Airport.
+the airport for next 24 hours. By using the historical passenger's data, travelled through the Airport.
 Open Source Contribution
 Github Link : https://github.com/sunnyar/indian_festivals
 PyPi : https://pypi.org/project/indian-festivals

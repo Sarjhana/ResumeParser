@@ -6,9 +6,10 @@
     "work_experience": [
         {
             "company_name": "AVID Media Composer editing software among other specialist roles.",
-            "job_title": "Certificate in Filmmaking, National Film and Television School (NFTS), Beaconsfield",
+            "job_title": "Arts, and Engineering - together to form teams and create innovative ideas that will help",
             "dates_worked": "October 2021 \u2014 April 2022",
             "additional_info": [
+                "Certificate in Filmmaking, National Film and Television School (NFTS), Beaconsfield",
                 "Selected for an annual certificate program in Filmmaking at the NFTS, Beaconsfield,",
                 "United Kingdom.",
                 "Bachelor of the Arts - Creative Studies BA (Hons), Bangor University, Bangor, Wales",
@@ -16,7 +17,6 @@
                 "Obtained a First-Class Honours degree classification in Creative Studies, a bachelor's",
                 "degree consisting of modules in Practical Filmmaking, Animation, Film Distribution &",
                 "Marketing, Video Game Design and Contemporary Theatre Practice.",
-                "EMPLOYMENT HISTORY",
                 "Video Production Intern at Price Waterhouse Coopers, Luxembourg",
                 "November 2021 \u2014 April 2022",
                 "Part of the core video production team at PwC Luxembourg, specializing in",
@@ -44,14 +44,18 @@
                 "January 2020 \u2014 April 2020",
                 "Part of Enterprise by Design, a 10-week long annual event, organised by Bangor",
                 "University and Pontio Arts and Innovation Centre in conjunction with local businesses",
-                "in North Wales, bringing students from four different disciplines - Business, Science,",
-                "Arts, and Engineering - together to form teams and create innovative ideas that will help",
+                "in North Wales, bringing students from four different disciplines - Business, Science,"
+            ]
+        },
+        {
+            "company_name": "Dr. Dyfrig Jones  from  Bangor University",
+            "job_title": "",
+            "dates_worked": "dyfrig.jones@bangor.ac.uk \u00b7 +44 1248388456",
+            "additional_info": [
                 "enhance the local economy.",
                 "REFERENCES",
                 "Jean-Francois Lens  from  PwC Luxembourg",
                 "jean-francois.lens@pwc.com \u00b7 +352 621 336 005",
-                "Dr. Dyfrig Jones  from  Bangor University",
-                "dyfrig.jones@bangor.ac.uk \u00b7 +44 1248388456",
                 "Dr. Eben Muse  from  Bangor University",
                 "e.muse@bangor.ac.uk \u00b7 +44 1248388628",
                 "Dr. Steffan Thomas  from  Bangor University",
@@ -63,6 +67,6 @@
     "github": "",
     "projects": null,
     "certifications": null,
-    "extra": "Communication Skills\nCreativity\nFast Learner\nLANGUAGES\nEnglish\nSlovak\nCzech\nGerman\nHOBBIES AND INTERESTS\nPROFILE\nHard-working and eager to learn young filmmaker, currently enrolled in an MA \nFilmmaking degree at the world renowned London Film School. Prior to this, Peter has \nworked as a key asset in the video production sector for audit giant PwC, as well as \nstudying at the prestigious National Film and Television School, Beaconsfield, United \nKingdom. He was also a part of the esteemed \"Enterprise by Design\" internship organized \nby Pontio Arts and Innovation Centre, in partnership with Bangor University, in 2020.",
+    "extra": "Communication Skills\nCreativity\nFast Learner\nLANGUAGES\nEnglish\nSlovak\nCzech\nGerman\n\nPROFILE\nHard-working and eager to learn young filmmaker, currently enrolled in an MA \nFilmmaking degree at the world renowned London Film School. Prior to this, Peter has \nworked as a key asset in the video production sector for audit giant PwC, as well as \nstudying at the prestigious National Film and Television School, Beaconsfield, United \nKingdom. He was also a part of the esteemed \"Enterprise by Design\" internship organized \nby Pontio Arts and Innovation Centre, in partnership with Bangor University, in 2020.",
     "skills": "Video Editing\nAdobe Premiere Pro\nAdobe After Effects\nAvid Media Composer\nFinal Cut Pro X\nCinematography\nAdaptability\nTeamwork\nAbility to Work Under Pressure"
 }

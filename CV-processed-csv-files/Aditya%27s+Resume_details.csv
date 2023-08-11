@@ -1,5 +1,5 @@
 name,email,phone,education,work_experience,linkedin,github,projects,certifications,extra,skills
-Aditya Sharma,adityasharma07281@gmail.com,+12017062021,[],"[{'company_name': 'ThirdEye Data', 'job_title': '', 'dates_worked': '12/2022 - Present,', 'additional_info': ['My role is to write API, update DB and creating changes in', 'both Android and IOS apps', 'My Tech Stack :- Django, React, Cordova, JS, HTML, CSS', 'Full Stack Developer', 'Mahindra Logistics', '07/2021 - 12/2022,', 'Working on 3rd party payroll of Appture Technology.', 'Worked on React, Node.js, Django']}]",,,"3 projects with Mahindra Logistics. 
+Aditya Sharma,adityasharma07281@gmail.com,+12017062021,[],"[{'company_name': 'ThirdEye Data', 'job_title': 'Full Stack Developer', 'dates_worked': '12/2022 - Present,', 'additional_info': []}]",,,"3 projects with Mahindra Logistics. 
 1. BA Portal (Backend was in Node.js and I have created API
 and made changes in backend) 2. Complaints Management
 (A portal for users complaints frontend was in react and

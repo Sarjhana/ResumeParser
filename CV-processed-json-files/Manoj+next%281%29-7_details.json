@@ -6,11 +6,13 @@
     "work_experience": [
         {
             "company_name": "Burger Landingy Pages From Scratch used  pure",
-            "job_title": "Tailwind Css Created API and and get data from",
-            "dates_worked": "",
+            "job_title": "web developer",
+            "dates_worked": "Week Away:",
             "additional_info": [
+                "Burger(site):",
+                "Tailwind Css Created API and and get data from",
                 "that APP. And Some Sorting Function like Pricing",
-                "\ufffd\u0aa6 And  Catagory so user can quickly pick their",
+                "\u0aa6 And  Catagory so user can quickly pick their",
                 "Choise",
                 "Data Analytics:",
                 "Next-js Tailwind-css project And  using react-",
@@ -19,18 +21,21 @@
                 "Next-js Project with Tailwind-css Created",
                 "awesome User Interface to attractive.And",
                 "ensure that app was fast and user friendly",
-                "Week Away:",
                 "Build a website from scratch using Next-js",
                 "Tailwind-css And react-icons",
                 "Protfolio:",
                 "Create portfolio using Next-js, Tailwind-css,",
                 "React-icons And add all of my real time project",
-                "look so attractive and Fast",
-                "web developer",
-                "web developer",
+                "look so attractive and Fast"
+            ]
+        },
+        {
+            "company_name": "Data Analytics",
+            "job_title": "web developer",
+            "dates_worked": "July 2022 - Present",
+            "additional_info": [
                 "Portfolio link : https://portfolio-",
                 "1-rho-fawn.vercel.app/",
-                "July 2022 - Present",
                 "Dec 2021 - July 2022",
                 "Here are some projects on which I have worked",
                 "Here are some Project which I have worked",
@@ -39,20 +44,7 @@
                 "JavaScript",
                 "Week away",
                 "Portfolio",
-                "Burger(site)",
-                "Data Analytics",
-                "Photography",
-                "HTML",
-                "CSS",
-                "Redux",
-                "TypeScript",
-                "Material UI , AntD",
-                "Tailwind CSS",
-                "Git, GitHub",
-                "Web pack , vite",
-                "REST API",
-                "S K I L L S",
-                "ABOUT ME"
+                "Burger(site)"
             ]
         }
     ],

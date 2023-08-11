@@ -1,5 +1,5 @@
 name,email,phone,education,work_experience,linkedin,github,projects,certifications,extra,skills
-Watches,shubhamdambale123@gmail.com,+918999949450,"[{'university_name': 'Chatrapati College', 'course_name': 'bad', 'dates_attended': '', 'marks_or_percentage': '', 'additional_info': ['10/2019 – 25/2022 | Auranga, India \nCertificates\nJava Backend Developer (Masai School) \nProblem Solving (hackerrank)\nSoft Skills\nCommunication | Team Work Team\nCollaboration | Remote Work Problem\nSolving | Self Learning']}]","[{'company_name': 'JavaScript. I am a highly passionate Backend', 'job_title': 'developer who loves, creating APIs, and', 'dates_worked': '', 'additional_info': ['working with databases.']}]",,,"To Book a cab based on cab availability
+Watches,shubhamdambale123@gmail.com,+918999949450,"[{'university_name': 'Chatrapati College', 'course_name': 'bad', 'dates_attended': '', 'marks_or_percentage': '', 'additional_info': ['10/2019 - 25/2022 | Auranga, India \nCertificates\nJava Backend Developer (Masai School) \nProblem Solving (hackerrank)\nSoft Skills\nCommunication | Team Work Team\nCollaboration | Remote Work Problem\nSolving | Self Learning']}]",[],,,"To Book a cab based on cab availability
 Able to view trip history
 Driver can update status i.e. Offline or Online
 Admin can modify user/driver details
@@ -15,6 +15,7 @@ Tech Stack: SpringBoot | JAVA | Hibernate |
 MySQL | Swagger
 Areas of responsibility:
 A collaborative project built by a team of 
-5 executed in 4 days.",,,"Java | JavaScript | HTML | CSS
+5 executed in 4 days.",,,"
+Java | JavaScript | HTML | CSS
 Spring Boot | Hibernate | MySQL | Rest API
 Data Structures and Algorithms"

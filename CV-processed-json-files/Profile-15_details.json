@@ -6,13 +6,13 @@
     "work_experience": [
         {
             "company_name": "as Scikit-Learn, TensorFlow, NumPy, Pandas, Matplotlib, and",
-            "job_title": "Seaborn. These powerful tools have allowed me to develop machine",
-            "dates_worked": "",
+            "job_title": "Data Analyst intern",
+            "dates_worked": "June 2023\u00a0-\u00a0Present\u00a0(2 months)",
             "additional_info": [
-                "",
+                "ensuring efficient data management and retrieval.",
+                "My proficiency extends to the utilization of Python libraries such",
+                "Seaborn. These powerful tools have allowed me to develop machine",
                 "Page 1 of 5",
-                "",
-                "",
                 "learning models and perform in-depth data analysis. I believe in the",
                 "significance of continuous learning and professional development,",
                 "as evidenced by my acquisition of 15+ verified badges from IBM and",
@@ -26,28 +26,28 @@
                 "engaging with you and exploring potential opportunities in the",
                 "exciting world of data science!",
                 "Experience",
-                "AtliQ Technologies",
-                "Data Analyst intern",
-                "June 2023\u00a0-\u00a0Present\u00a0(2 months)",
+                "AtliQ Technologies"
+            ]
+        },
+        {
+            "company_name": "is a Newsletter created by  \ufe0f with  +  . It features useful articles, videos,",
+            "job_title": "Machine Learning Engineer",
+            "dates_worked": "1 year",
+            "additional_info": [
                 "India",
                 "ShapeAI",
-                "1 year",
                 "Founder",
                 "October 2022\u00a0-\u00a0Present\u00a0(10 months)",
                 "Hyderabad, Telangana, India",
                 "Data Science Career Newsletter Owner & Publisher",
                 "September 2022\u00a0-\u00a0Present\u00a0(11 months)",
-                "is a Newsletter created by  \ufe0f with  +  . It features useful articles, videos,",
                 "guides, and jobs in the field of data science. For someone who is new to the",
                 "data ecosystem and wants to know more, this newsletter can be a very",
                 "good starting point.",
                 "Feel free to  our Newsletter.",
                 "Data Science Enthusiasts (Moderated) Group Owner",
                 "August 2022\u00a0-\u00a0Present\u00a0(1 year)",
-                "",
                 "Page 2 of 5",
-                "",
-                "",
                 "() is a LinkedIn Group created by  \ufe0f with +  . We're applying rigorous scientific",
                 "research methodologies and innovative AI software to solve real-life problems.",
                 "Our vision is to remove the ivory tower around scientific research and make it",
@@ -70,53 +70,58 @@
                 "Data Science with Python Internship",
                 "September 2022\u00a0-\u00a0October 2022\u00a0(2 months)",
                 "Hyderabad, Telangana, India",
-                "iNeuron.ai",
-                "Machine Learning Engineer",
-                "May 2022\u00a0-\u00a0October 2022\u00a0(6 months)",
+                "iNeuron.ai"
+            ]
+        },
+        {
+            "company_name": "recall >85%.",
+            "job_title": "Web Developer",
+            "dates_worked": "May 2022\u00a0-\u00a0October 2022\u00a0(6 months)",
+            "additional_info": [
                 "India",
                 ": To find an effective way of predicting whether a potential borrower will repay",
                 "a loan or not and label them as 0 or 1 based on the repayment status of the",
                 "customer using classification.",
-                "",
                 "Page 3 of 5",
-                "",
-                "",
                 ": Past 15 years Data of 4000+ customers was collected from",
                 "DeutscheBank.com through web scrapping. Developed a ML model and",
                 "trained that model with the structured data set. Deployed and tested entire",
                 "source code which is written in modular fashion.",
                 ": Improved the accuracy of the model from 76.2% to 86.61% and obtained",
-                "recall >85%.",
-                "The Sparks Foundation",
-                "Web Developer",
-                "April 2022\u00a0-\u00a0May 2022\u00a0(2 months)",
+                "The Sparks Foundation"
+            ]
+        },
+        {
+            "company_name": "\ufe0f Used HTML for layout and CSS for styling the web application.",
+            "job_title": "Malla Reddy Engineering College",
+            "dates_worked": "April 2022\u00a0-\u00a0May 2022\u00a0(2 months)",
+            "additional_info": [
                 "India",
                 "(   )",
                 "\ufe0f Developed a Basic Banking system which is a Web application that used to",
                 "transfer money between multiple users (Project Consists of 25 Dummy Users).",
                 "A dummy user can also be created.",
-                "\ufe0f Used HTML for layout and CSS for styling the web application.",
                 "\ufe0f Performed Transactions between different users will be stored and displayed",
                 "at History Section.",
-                "Education",
-                "Malla Reddy Engineering College",
+                "Education"
+            ]
+        },
+        {
+            "company_name": "Engineering (ECE)\u00a0\u00b7\u00a0(June 2019\u00a0-\u00a0July 2023)",
+            "job_title": "",
+            "dates_worked": "Processing Technology/Technician\u00a0\u00b7\u00a0(April 2022\u00a0-\u00a0October 2022)",
+            "additional_info": [
                 "Bachelor of Technology - BTech,\u00a0Electronics and Communications",
-                "Engineering (ECE)\u00a0\u00b7\u00a0(June 2019\u00a0-\u00a0July 2023)",
                 "Coursera",
                 "Google Data Analytics Professional Certificate ,\u00a0Data Processing and Data",
-                "Processing Technology/Technician\u00a0\u00b7\u00a0(April 2022\u00a0-\u00a0October 2022)",
                 "Cognitive Class",
                 "Deep Learning with TensorFlow,\u00a0Computer and Information Sciences and",
                 "Support Services\u00a0\u00b7\u00a0(July 2022\u00a0-\u00a0August 2022)",
                 "Sri Chaitanya College of Education",
                 "Class - XII,\u00a0MPC\u00a0\u00b7\u00a0(June 2017\u00a0-\u00a0April 2019)",
-                "",
                 "Page 4 of 5",
-                "",
-                "",
                 "Sri Chaitanya Techno School, Bangalore",
                 "Class - X\u00a0\u00a0\u00b7\u00a0(February 2016\u00a0-\u00a0March 2017)",
-                "",
                 "Page 5 of 5"
             ]
         }
@@ -124,7 +129,7 @@
     "linkedin": "",
     "github": "",
     "projects": null,
-    "certifications": "Student Learning Assesment Report \nGoogle Data Analytics Capstone:\nComplete a Case Study\nMicrosoft Learn Student\nAmbassador \nGet Job Ready: Power BI Data\nAnalytics for All Levels\nR for Data Science (RP0101EN)\nHonors-Awards\nStatistics 101 Badge \ufe0f\nData Science Methodologies Badge\ufe0f\nData Science tools Badge\ufe0f\nData Analysis using Python Badge \ufe0f\nR - Programming Essentials Badge\ufe0f\nPublications\n-           \ufe0f\n-    -       \ufe0f\n-     :             \ufe0f\n-       \u2013       \ufe0f\n-           \ufe0f\nPatents\nAbhinavan Sarikonda \ufe0f\n+ | Founder @ ShapeAI | \u2776\u277a+ Verified Badges @ IBM\ufe0f | Google\ncertified Data Analyst \ufe0f | Python | R | PowerBI | MySQL | Excel |\nTableau | Statistics\nHyderabad, Telangana, India\nSummary\nHello! . I'm a dedicated Data Science enthusiast with a profound\npassion for leveraging data analytics and statistics to drive\nmeaningful insights and enable data-driven decision-making. \nHaving recently graduated from Malla Reddy Engineering\nCollege (MREC) in Hyderabad, I had the privilege of receiving\na comprehensive",
+    "certifications": "Student Learning Assesment Report \nGoogle Data Analytics Capstone:\nComplete a Case Study\nMicrosoft Learn Student\nAmbassador \nGet Job Ready: Power BI Data\nAnalytics for All Levels\nR for Data Science (RP0101EN)\nHonors-Awards\nStatistics 101 Badge \ufe0f\nData Science Methodologies Badge\ufe0f\nData Science tools Badge\ufe0f\nData Analysis using Python Badge \ufe0f\nR - Programming Essentials Badge\ufe0f\nPublications\n-           \ufe0f\n-    -       \ufe0f\n-     :             \ufe0f\n-       -       \ufe0f\n-           \ufe0f\nPatents\nAbhinavan Sarikonda \ufe0f\n+ | Founder @ ShapeAI | \u2776\u277a+ Verified Badges @ IBM\ufe0f | Google\ncertified Data Analyst \ufe0f | Python | R | PowerBI | MySQL | Excel |\nTableau | Statistics\nHyderabad, Telangana, India\nSummary\nHello! . I'm a dedicated Data Science enthusiast with a profound\npassion for leveraging data analytics and statistics to drive\nmeaningful insights and enable data-driven decision-making. \nHaving recently graduated from Malla Reddy Engineering\nCollege (MREC) in Hyderabad, I had the privilege of receiving\na comprehensive",
     "extra": null,
     "skills": "MySQL\nMicrosoft Excel\nREST APIs\nLanguages\nHindi (Professional Working)\nEnglish (Professional Working)\nTelugu (Native or Bilingual)"
 }

@@ -1,19 +1,19 @@
 name,email,phone,education,work_experience,linkedin,github,projects,certifications,extra,skills
-Netﬂix Clone,parul8yadav8@gmail.com,+917054246278,"[{'university_name': '2 CGPA\nGalgotias College', 'course_name': '', 'dates_attended': 'July 2015', 'marks_or_percentage': '80%', 'additional_info': ['of Engineering and Tech-\nnology\n� July 2015 – July 2019\nHigher Secondary - 89.80%\nCentral Board of Secondary Education\n� 2014\nSecondary - 10 CGPA\nCentral Board of Secondary Education\n� 2012']}]","[{'company_name': 'Tata Consultancy Services', 'job_title': '� Jan 2020 - May 2021', 'dates_worked': '', 'additional_info': ['� Gandhinagar,India', '• Worked as a Full Stack Developer(Java, Hibernate and Jsp-', 'Servlet) to develop new features in the existing system and', 'solve production issues. Involved in the back-end as well as', 'front-end development of web applications.', '• Part of the TCS PSU-International project, Worked on two dif-', 'ferent portals for Scotland Government YoungScot and NEC-', 'online, also worked as a shared resource with DGFT Team.', '• Responsible for developing Refund Screens in PFML Project', '(Paid Family and Medical Leave- US Govt based policy). Devel-', 'oped and Integrated REST APIs for Refund module.', '• Used SonarQube to maintain code Quality and bug resolution.', 'ACHIEVEMENTS', '• Achieved 5 stars on HackerRank in Python', '• Achieved 5 stars on HackerRank in Problem Solving']}]",,,"Netﬂix Clone
-• Built a clone of Netﬂix website using React.JS
+Netﬂix Clone,parul8yadav8@gmail.com,+917054246278,"[{'university_name': '2 CGPA\nGalgotias College', 'course_name': '', 'dates_attended': 'July 2015 - July 2019', 'marks_or_percentage': '80%', 'additional_info': ['of Engineering and Tech-\nnology\n July 2015 - July 2019\nHigher Secondary - 89.80%\nCentral Board of Secondary Education\n 2014\nSecondary - 10 CGPA\nCentral Board of Secondary Education\n 2012']}]","[{'company_name': 'Tata Consultancy Services', 'job_title': 'Assistant Systems Engineer', 'dates_worked': 'Jan 2020 - May 2021', 'additional_info': []}]",,,"Netﬂix Clone
+  Built a clone of Netﬂix website using React.JS
 as a Front-end Firebase as Back-end. Inte-
 grated TMDB API key to list down the movies.
 Created Trailer pop-ups, integrated with You
 Tube Trailer API key.
-• Tech Stack - ReactJs, Firebase
+  Tech Stack - ReactJs, Firebase
 Pmail
-• Pmail is the email exchanging website. It’s a
+  Pmail is the email exchanging website. It's a
 cloned version of Gmail with my own design
 touch, It supports login through Google Ac-
 count, and has compose message feature.
-• Tech Stack - ReactJs, Firebase
+  Tech Stack - ReactJs, Firebase
 SmaCOM
-• SmaCOM-Smart Contact Manager is the desk-
+  SmaCOM-Smart Contact Manager is the desk-
 top web application that simply allows one to
 quickly add contact details, eﬀortlessly orga-
 nize them by contactId just like a real folder,
@@ -23,32 +23,33 @@ sign up and log in to their accounts and have
 access to diﬀerent features such as adding
 new contacts, can view previously added con-
 tacts, and can also update them.
-• Tech Stack - Java, SpringBoot, JPA, Thymeleaf,
+  Tech Stack - Java, SpringBoot, JPA, Thymeleaf,
 MYSQL
 Spam Classiﬁer
-• Built a Spam Classiﬁer Model using the Naive
+  Built a Spam Classiﬁer Model using the Naive
 Bayes algorithm which predicts whether the
 message is spam or not.
-• Tech Stack - Python
+  Tech Stack - Python
 Movie Recommender System
-• I have made a content-based Movie Recom-
+  I have made a content-based Movie Recom-
 mender System using the concept of cosine
 similarity.
-• Tech Stack - Python","• SQL(Advanced)-HackerRank Link
-• Python-HackerRank Link",,"Programming Languages
-• Java
-• Python
+  Tech Stack - Python","SQL(Advanced)-HackerRank Link
+  Python-HackerRank Link",,"
+Programming Languages
+  Java
+  Python
 Frameworks Libraries
-• Springboot
-• Hibernate
-• jQuery
-• HTML5 CSS
-• ReactJS
-• JSPs
+  Springboot
+  Hibernate
+  jQuery
+  HTML5 CSS
+  ReactJS
+  JSPs
 Database
-• MySQL
+  MySQL
 Tools
-• Postman
-• Git, Github
-• Firebase
-• SonarQube"
+  Postman
+  Git, Github
+  Firebase
+  SonarQube"

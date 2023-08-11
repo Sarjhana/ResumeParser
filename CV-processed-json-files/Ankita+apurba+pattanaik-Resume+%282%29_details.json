@@ -1,5 +1,5 @@
 {
-    "name": "Javascript",
+    "name": "javascript",
     "email": "ankitaapurbapattanaik99@gmail.com",
     "phone": "+917064692383",
     "education": [
@@ -9,7 +9,7 @@
             "dates_attended": "",
             "marks_or_percentage": "",
             "additional_info": [
-                "07/2017 \u2013 07/"
+                "07/2017 - 07/"
             ]
         },
         {
@@ -18,23 +18,14 @@
             "dates_attended": "",
             "marks_or_percentage": "",
             "additional_info": [
-                "07/2015 \u2013 06/2017\nLanguages\nHindi,Odia,English\nCertificates\nJava Certification  completed\nLevel 1\nPython\nLevel 1\nWeb Develop"
+                "07/2015 - 06/2017\nLanguages\nHindi,Odia,English\nCertificates\nJava Certification  completed\nLevel 1\nPython\nLevel 1\nWeb Develop"
             ]
         }
     ],
-    "work_experience": [
-        {
-            "company_name": "At Cozentus",
-            "job_title": "worked with dotnet technology, database-pl/sql,sql and angular to make several",
-            "dates_worked": "",
-            "additional_info": [
-                "web application"
-            ]
-        }
-    ],
+    "work_experience": [],
     "linkedin": "",
     "github": "",
-    "projects": "01/2022 \u2013 07/2022\nFull Stack developer\nAt Cozentus\nI was working on the technologies like dotnet, sql server and html, css, bootstrap , \nangular. \n07/2022 \u2013 12/2022\nCreating web application projects for the use of customers using the above \nmentioned technologies.\nSkills\nAngular\ndotnet\nJavascript\ndevops\npl/sql\nFigma\nSQl\nhtml,css\nphp\nRestful Api\nReact Native\npython\nProjects\nAsset Management system\nworked in technology - html,css,bootstrap,angular,dotnet using ado.net library , \nsql server, pl/sql .\n03/2022 \u2013 05/2022\nServiceDesk\nTicket management Tool\nworked in the technology- html,css,bootstrap,angular,popper js,dotnet using \nado.net library,sql server\n06/2022 \u2013 09/2022\nByb Application\nBring Your Buddies\nworked in the technologies-html,css,bootstrap,angular,popperjs,javascript, \n10/2022 \u2013 12/2022\njquery,dotnet using ado.net library and sql server\nPayment Gateway Integration\nworked with the technologies using html,angular,css,dotnet,javascript and mysql\n05/2021 \u2013 09/2021",
+    "projects": "01/2022 - 07/2022\nFull Stack developer\nAt Cozentus\nI was working on the technologies like dotnet, sql server and html, css, bootstrap , \nangular. \n07/2022 - 12/2022\nCreating web application projects for the use of customers using the above \nmentioned technologies.\nSkills\nAngular\ndotnet\nJavascript\ndevops\npl/sql\nFigma\nSQl\nhtml,css\nphp\nRestful Api\nReact Native\npython\nProjects\nAsset Management system\nworked in technology - html,css,bootstrap,angular,dotnet using ado.net library , \nsql server, pl/sql .\n03/2022 - 05/2022\nServiceDesk\nTicket management Tool\nworked in the technology- html,css,bootstrap,angular,popper js,dotnet using \nado.net library,sql server\n06/2022 - 09/2022\nByb Application\nBring Your Buddies\nworked in the technologies-html,css,bootstrap,angular,popperjs,javascript, \n10/2022 - 12/2022\njquery,dotnet using ado.net library and sql server\nPayment Gateway Integration\nworked with the technologies using html,angular,css,dotnet,javascript and mysql\n05/2021 - 09/2021",
     "certifications": null,
     "extra": null,
     "skills": "level professional with a reputed IT company."

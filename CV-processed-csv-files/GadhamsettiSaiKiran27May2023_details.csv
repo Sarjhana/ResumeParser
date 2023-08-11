@@ -1,5 +1,5 @@
 name,email,phone,education,work_experience,linkedin,github,projects,certifications,extra,skills
-rjy,saikirangadhamsetti@gmail.com,+16309609226,"[{'university_name': 'Andhra University', 'course_name': 'mediate Education \nA.P. \nSASI junior college \n \n2016', 'dates_attended': '2021-2022', 'marks_or_percentage': '', 'additional_info': ['Anil Neerukonda \nInstitute of \nTechnology and \nSciences \n2021-2022 \n82.3 \n2020-2021 \n81.4 \n2019-2020 \n79.6 \n2018-2019 \n78.9 \nBoard of Inter-2018 \n \n96.3 \nBoard of Secondary Education A.P. \nBHASHYAM \nTalent School \n \n2015-2016 \n \n95.0 \n \n \nComputer']}]",[],,,"Project-1:-Website for shortening the given url and keep it save and be retrieved whenever it is  
+rjy,saikirangadhamsetti@gmail.com,+16309609226,"[{'university_name': 'Andhra University', 'course_name': 'mediate\nA.P. \nSASI junior college \n \n2016', 'dates_attended': '2021-2022', 'marks_or_percentage': '', 'additional_info': ['Anil Neerukonda \nInstitute of \nTechnology and \nSciences \n2021-2022 \n82.3 \n2020-2021 \n81.4 \n2019-2020 \n79.6 \n2018-2019 \n78.9 \nBoard of Inter-2018 \n \n96.3 \nBoard of Secondary Education A.P. \nBHASHYAM \nTalent School \n \n2015-2016 \n \n95.0 \n \n \nComputer']}]",[],,,"Project-1:-Website for shortening the given url and keep it save and be retrieved whenever it is  
 needed using Django and html,css,Sqlite. 
 Project-2:-Website for a library to enter data of each book with description and retrieve data of each  
 book and update it done using Django rest framework,MySql 
@@ -24,8 +24,7 @@ college,nandyal.
 PROGRAMMING”. 
  Successfully completed and Achieved a certificate from “UDEMY” in “DJANGO”. 
  Successfully completed and Achieved a certificate from “COURSERA”in “DATABASE 
-MANAGEMENT ESSENTIALS”. 
-Hobbies and Interest:- 
+MANAGEMENT ESSENTIALS”.
  Dancing and Fitness. 
 STRENGTHS:- 
  Creativity and Adaptibility 

@@ -6,17 +6,23 @@
     "work_experience": [
         {
             "company_name": "Digital Marketing Manager",
-            "job_title": "Creating and implementing a digital marketing",
-            "dates_worked": "",
+            "job_title": "Generating leads based on customer requirements,",
+            "dates_worked": "2018-2022",
             "additional_info": [
-                "campaign for client brand products",
-                "Generating leads based on customer requirements,",
+                "Creating and implementing a digital marketing",
+                "campaign for client brand products"
+            ]
+        },
+        {
+            "company_name": "India - MuscleBar. Cupid Pune, ProCaf, Rerore Cafe,",
+            "job_title": "General Manager",
+            "dates_worked": "Conduct day-to-day project coordination, planning,",
+            "additional_info": [
                 "identifying campaign qualifiers, and verifying them",
                 "Source and develop new strategic partnerships,",
                 "social engagements, and advertising opportunities",
                 "that generate new revenue streams",
                 "Accounts Handled -",
-                "India - MuscleBar. Cupid Pune, ProCaf, Rerore Cafe,",
                 "Spiritual Fitness, Pooja Dembla The Design Studio,",
                 "Milestone Adventures, Thaal me up, Big Foodz, Bored",
                 "Game Company, Spaces Alive, The Bar Concept, The",
@@ -24,7 +30,6 @@
                 "Ridas.",
                 "Kuwait - Alifiya Fitness",
                 "London - Kash KInd, Cook myGrub",
-                "",
                 "Dubai - Team Meraki",
                 "INTERPERSONAL SKILL SET",
                 "O P E R A T I O N S  M A N A G E R",
@@ -45,12 +50,15 @@
                 "2021 / Present -  MuscleBar, Pune",
                 "Developed highly accurate analysis of competitor",
                 "market share,",
-                "Conduct day-to-day project coordination, planning,",
-                "and implementation across multiple teams",
-                "General Manager",
-                "20220- 20222",
+                "and implementation across multiple teams"
+            ]
+        },
+        {
+            "company_name": "Sales & Customer Service Executive",
+            "job_title": "Sales Executive",
+            "dates_worked": "20220- 20222",
+            "additional_info": [
                 "2019-2020",
-                "Sales & Customer Service Executive",
                 "Developed highly accurate analysis of competitor",
                 "Equal But Different Fitness market share, Conduct",
                 "day-to-day project coordination, planning,",
@@ -70,9 +78,14 @@
                 "CPD Accredited",
                 "Nutrition Workshop",
                 "TeaMeraki",
-                "CPD Accredited",
-                "Sales Executive",
-                "2018-2019",
+                "CPD Accredited"
+            ]
+        },
+        {
+            "company_name": "Digital Marketing Manager",
+            "job_title": "",
+            "dates_worked": "2018-2019",
+            "additional_info": [
                 "2018 -  Vigour Kart, Pune",
                 "Provided assistance in maintaining customer",
                 "relationships with clients through cold calling and",
@@ -89,7 +102,7 @@
                 "Responsible for their physical and mental",
                 "development.",
                 "Coordinating with the parents and updating about",
-                "their child\u2019s development and performance",
+                "their child's development and performance",
                 "OTHER",
                 "ACCOMPISHMENTS",
                 "That One Time In",
@@ -97,7 +110,6 @@
                 "Creative Writer",
                 "EXTRA-",
                 "CURRICULARS",
-                "Digital Marketing Manager",
                 "The Rising People welfare society",
                 "Mar 2015 - May 2015 \u00b7 3 mos",
                 "Volunteer",
@@ -125,5 +137,5 @@
     "projects": null,
     "certifications": null,
     "extra": null,
-    "skills": "Tableau, SPSS and Excel and PowerPoint\nResearch Methodologies\n\u2022 Project Management\n\u2022Excellent verbal and written\ncommunication skills"
+    "skills": "Tableau, SPSS and Excel and PowerPoint\nResearch Methodologies\n  Project Management\n Excellent verbal and written\ncommunication skills"
 }

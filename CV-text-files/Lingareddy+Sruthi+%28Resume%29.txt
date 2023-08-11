@@ -31,37 +31,37 @@ Sri Chaitanya
 Techno School
 9.7 CGPA
 Extracurricular Activities:
-● I have been House captain for 1 year and assistant house captain
+  I have been House captain for 1 year and assistant house captain
 for 1 year.
-● Have actively taken part in sports and games at school level.
-● Volunteered in Robinhood Army for 1 year.
-● Participated as a volunteer for college fests.
+  Have actively taken part in sports and games at school level.
+  Volunteered in Robinhood Army for 1 year.
+  Participated as a volunteer for college fests.
 Skills:
-● Python
-● HTML
-● CSS
-● Java Script
+  Python
+  HTML
+  CSS
+  Java Script
 Projects:
-● Online Medical Booking.
-● Performing Arts Studio Website.
-● IOT based health monitoring system for pregnant ladies.
-● Currently working on outlier detection in high dimensional data.
+  Online Medical Booking.
+  Performing Arts Studio Website.
+  IOT based health monitoring system for pregnant ladies.
+  Currently working on outlier detection in high dimensional data.
 Certificates:
-● Python(Basic) - HackerRank Certificate
-● Problem Solving(Intermediate) - HackerRank Certificate
-● JavaScript(Intermediate) - HackerRank Certificate
-● CSS - HackerRank Certificate
+  Python(Basic) - HackerRank Certificate
+  Problem Solving(Intermediate) - HackerRank Certificate
+  JavaScript(Intermediate) - HackerRank Certificate
+  CSS - HackerRank Certificate
 Other courses:
-● Crash course on Python - Coursera - Google
-● Programming for Everybody (Getting started with Python) -
+  Crash course on Python - Coursera - Google
+  Programming for Everybody (Getting started with Python) -
 Coursera - University of Michigan
-● Python Data structures - Coursera - University of Michigan
-● Divide and Conquer, Sorting and Searching, and Randomized
+  Python Data structures - Coursera - University of Michigan
+  Divide and Conquer, Sorting and Searching, and Randomized
 Algorithms - Coursera-Stanford University
-● Introduction to Back-End Development - Coursera - Meta
-● Introduction to Front-End Development - Coursera - Meta
-● Programming in Python - Coursera - Meta
-● Version Control - Coursera - Meta
+  Introduction to Back-End Development - Coursera - Meta
+  Introduction to Front-End Development - Coursera - Meta
+  Programming in Python - Coursera - Meta
+  Version Control - Coursera - Meta
 Personal Information:
 Date of Birth : 03-10-2002
 Gender

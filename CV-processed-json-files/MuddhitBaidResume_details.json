@@ -6,29 +6,28 @@
     "work_experience": [
         {
             "company_name": "TAT.",
-            "job_title": "\u2022 Developed a user-friendly flow for workspace management, including inviting new members and managing member",
-            "dates_worked": "",
+            "job_title": "Software Engineer - II",
+            "dates_worked": "June 2022 - Present",
             "additional_info": [
-                "roles and settings.",
-                "\u2022 Developed a global search engine with shortcut access to important features anywhere in the application, reducing",
-                "overall turnaround time. Received MVP recognition for completing the project in just four days.",
-                "\u2022 Built the first cut of Creative Analytics engine in less than 2 weeks, which automatically pulls data from platforms",
-                "where campaigns run, understands formats, text, imagery, layouts, in the visuals, allows teams to add",
-                "brand-specific data such as offer or goal, visualises this data with information-rich charts. This attracted a great",
-                "attention among the marketers in industry.",
-                "\u2022 Proficient in a variety of technologies, including MongoDB, ExpressJS, React JS, NodeJS, AWS, TypeScript, and",
-                "Ant Design.",
-                "Technical content writer Intern",
-                "Nov 2020 \u2013 May 2021",
-                "GeeksforGeeks",
-                "Virtual",
-                "\u2022 Crafted multiple articles on demanding topics and received good reviews."
+                "Rocketium",
+                "Bangalore",
+                "Developed a range of functionalities for the video editor, such as the option to add, delete, clone, reorder scenes, and",
+                "upload music in bulk. These features enabled the tool to be used effectively for creating video advertisements.",
+                "Created a comprehensive animation engine and timeline view in the video editor from scratch, offering extensive",
+                "control over keyframes and allowing users to add customized animations with ease.",
+                "Developed options to add, delete, clone, reorder scenes and uploading scene music in bulk in the video editor,",
+                "resulting the tool be a ready to use for making video ads.",
+                "Software Engineer - I",
+                "May 2021 - June 2022",
+                "Rocketium",
+                "Bangalore",
+                "Successfully implemented Thirdlight for DAM management and easy media access, resulting in a 67% reduction in"
             ]
         }
     ],
     "linkedin": "",
     "github": "",
-    "projects": "dAd Space - Decentralized Ad Network - You\u2019r gateway to web3 Ad\u2019s. | ReactJS, Node.Js, Polygon\nNov 2022\n\u2022 Won Best Developer Tool or DAO Tooling by Polygon, in world\u2019s biggest ETH Hackathon\n\u2022 The entry point for DAPPs to be monetized with advertisements and analysis technologies to ensure that nobody\ngets inundated with unrelated adverts.\n\u2022 Uses The Graph, Push Protocol and Dune for other features.\n\u2022 View Project\nSummarize | ExpressJS\nMar 2021\n\u2022 Slack App for Summarizing slack threads.\n\u2022 Process video to generate summary out of it.\n\u2022 Summarize thread of 100+ messages in a jiff and ask any questions to get answer from the thread.\nAchievements\n\u2217 Provided mentorship to over 100 college students and professionals at Newton School, empowering them to take\ntheir initial strides into the technology industry.",
+    "projects": "dAd Space - Decentralized Ad Network - You'r gateway to web3 Ad's. | ReactJS, Node.Js, Polygon\nNov 2022\n  Won Best Developer Tool or DAO Tooling by Polygon, in world's biggest ETH Hackathon\n  The entry point for DAPPs to be monetized with advertisements and analysis technologies to ensure that nobody\ngets inundated with unrelated adverts.\n  Uses The Graph, Push Protocol and Dune for other features.\n  View Project\nSummarize | ExpressJS\nMar 2021\n  Slack App for Summarizing slack threads.\n  Process video to generate summary out of it.\n  Summarize thread of 100+ messages in a jiff and ask any questions to get answer from the thread.\nAchievements\n\u2217 Provided mentorship to over 100 college students and professionals at Newton School, empowering them to take\ntheir initial strides into the technology industry.",
     "certifications": null,
     "extra": null,
     "skills": null

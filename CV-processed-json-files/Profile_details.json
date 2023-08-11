@@ -2,8 +2,32 @@
     "name": "Stuti Verma",
     "email": "",
     "phone": "",
-    "education": [],
-    "work_experience": [],
+    "education": [
+        {
+            "university_name": "Indian Institute",
+            "course_name": "Master of Technology",
+            "dates_attended": "2017\u00a0-",
+            "marks_or_percentage": "",
+            "additional_info": [
+                "of Science (IISc)\n - MTech,\u00a0Computational and Data\nSciences\u00a0\u00b7\u00a0(2017\u00a0-\u00a02019)\nNIT RAIPUR\nBachelor's degree,\u00a0Biotechnology\u00a0\u00b7\u00a0(2013\u00a0-\u00a02017)\n\u00a0\nPage 1 of 1"
+            ]
+        }
+    ],
+    "work_experience": [
+        {
+            "company_name": "",
+            "job_title": "Software Engineer 2",
+            "dates_worked": "4 years 1 month",
+            "additional_info": [
+                "Blaize",
+                "May 2020\u00a0-\u00a0Present\u00a0(3 years 3 months)",
+                "Hyderabad, Telangana",
+                "Software Engineer 1",
+                "July 2019\u00a0-\u00a0May 2020\u00a0(11 months)",
+                "Hyderabad Area, India"
+            ]
+        }
+    ],
     "linkedin": "",
     "github": "",
     "projects": null,

@@ -5,37 +5,45 @@
     "education": [],
     "work_experience": [
         {
-            "company_name": "\u2022 Working on building solutions using Large Language Models and Generative",
+            "company_name": "Working on building solutions using Large Language Models and Generative",
             "job_title": "AI capabilities on Google Cloud- GenAI Specialist",
-            "dates_worked": "",
+            "dates_worked": "January 2022\u00a0-\u00a0Present\u00a0(1 year 7 months)",
             "additional_info": [
-                "\u2022 Customer-facing Data Scientist, building machine learning solutions for",
-                "customer use cases leveraging core Google Cloud AI platform and services.",
-                "\u2022 Collaborating cross functionally with product team to perform industry",
+                "Google",
+                "Data Scientist - Google Cloud AI"
+            ]
+        },
+        {
+            "company_name": "customer use cases leveraging core Google Cloud AI platform and services.",
+            "job_title": "Co-leading initiatives for building tools for Responsible AI workflows",
+            "dates_worked": "March 2021\u00a0-\u00a0Present\u00a0(2 years 5 months)",
+            "additional_info": [
+                "Customer-facing Data Scientist, building machine learning solutions for",
+                "Collaborating cross functionally with product team to perform industry",
                 "research on machine learning use-cases and",
                 "building technical assets for end-to-end pipelines",
-                "\u2022 Co-leading initiatives for building tools for Responsible AI workflows",
-                "\u2022 Led a team to develop Data Quality Assessment Framework to be widely",
+                "Led a team to develop Data Quality Assessment Framework to be widely",
                 "used in Google Cloud AI teams",
-                "\u2022 Working on demand forecasting models, MLOps pipelines, personalization",
+                "Working on demand forecasting models, MLOps pipelines, personalization",
                 "models, DocAI, and VisionAI models, across retail, banking and manufacturing",
                 "industries (confidential customers)",
-                "",
                 "Page 2 of 11",
-                "",
-                "",
-                "\u2022 20% \u2013 Working as a PM with the product team to develop features in Vertex",
+                "20% - Working as a PM with the product team to develop features in Vertex",
                 "AI platform (confidential)",
                 "Illuminate AI",
-                "Founder | Mentor",
-                "March 2021\u00a0-\u00a0Present\u00a0(2 years 5 months)",
+                "Founder | Mentor"
+            ]
+        },
+        {
+            "company_name": "First of its kind volunteer mentorship platform for folks in Artificial Intelligence!",
+            "job_title": "is not limited to a senior individual mentoring a novice but is it also open to",
+            "dates_worked": "April 2021\u00a0-\u00a0Present\u00a0(2 years 4 months)",
+            "additional_info": [
                 "California, United States",
-                "First of its kind volunteer mentorship platform for folks in Artificial Intelligence!",
                 "Illuminate - AI is a platform built to connect people from the Artificial",
                 "Intelligence Community.We believe knowledge grows by sharing. We are",
                 "driven to connect mentors, who would like to give to the community, to",
                 "mentees, who are seeking guidance and motivation. The mentorship program",
-                "is not limited to a senior individual mentoring a novice but is it also open to",
                 "peer-mentorship.",
                 "There is a lot to learn!",
                 "A platform is also for sharing thoughts and ideas in the space of Artificial",
@@ -43,48 +51,60 @@
                 "Playlists available are Weekend Musings, AI Guild, What's Tuning and",
                 "Cracking Data Science Interviews.",
                 "O'Reilly Media",
-                "Technical Reviewer - Editorial Board",
-                "April 2021\u00a0-\u00a0Present\u00a0(2 years 4 months)",
-                "Stanford Deep Data Research Computing Center",
-                "Senior Data Scientist",
-                "July 2022\u00a0-\u00a0December 2022\u00a0(6 months)",
-                "Deepchecks",
-                "Open Source Developer Advocate",
-                "April 2022\u00a0-\u00a0December 2022\u00a0(9 months)",
-                "AIM Leaders Council",
+                "Technical Reviewer - Editorial Board"
+            ]
+        },
+        {
+            "company_name": "Stanford Deep Data Research Computing Center",
+            "job_title": "Senior Data Scientist",
+            "dates_worked": "July 2022\u00a0-\u00a0December 2022\u00a0(6 months)",
+            "additional_info": []
+        },
+        {
+            "company_name": "AIM Leaders Council",
+            "job_title": "Open Source Developer Advocate",
+            "dates_worked": "April 2022\u00a0-\u00a0December 2022\u00a0(9 months)",
+            "additional_info": [
+                "Deepchecks"
+            ]
+        },
+        {
+            "company_name": "Advisory Board Member",
+            "job_title": "International Association of Engineers",
+            "dates_worked": "November 2021\u00a0-\u00a0December 2022\u00a0(1 year 2 months)",
+            "additional_info": [
                 "Member",
-                "November 2021\u00a0-\u00a0December 2022\u00a0(1 year 2 months)",
                 "AI for Good Foundation",
-                "Advisory Board Member",
                 "July 2021\u00a0-\u00a0December 2022\u00a0(1 year 6 months)",
-                "",
-                "Page 3 of 11",
-                "",
-                "",
-                "International Association of Engineers",
+                "Page 3 of 11"
+            ]
+        },
+        {
+            "company_name": "The AI Education Project",
+            "job_title": "AI & ML Innovation Leader - Business Development",
+            "dates_worked": "July 2021\u00a0-\u00a0December 2022\u00a0(1 year 6 months)",
+            "additional_info": [
                 "Member",
-                "July 2021\u00a0-\u00a0December 2022\u00a0(1 year 6 months)",
-                "The AI Education Project",
                 "Advisory Board Member",
                 "June 2021\u00a0-\u00a0December 2022\u00a0(1 year 7 months)",
                 "San Francisco Bay University",
                 "Advisory Board Member",
                 "May 2022\u00a0-\u00a0November 2022\u00a0(7 months)",
                 "IBM",
-                "3 years",
-                "AI & ML Innovation Leader - Business Development",
-                "April 2021\u00a0-\u00a0January 2022\u00a0(10 months)",
+                "3 years"
+            ]
+        },
+        {
+            "company_name": "- Building Data and AI capabilities of Cloud Pak for Data, IBM Lead with",
+            "job_title": "- Lead a team to generate new opportunities by proposing new features",
+            "dates_worked": "April 2021\u00a0-\u00a0January 2022\u00a0(10 months)",
+            "additional_info": [
                 "San Francisco Bay Area",
-                "- Building Data and AI capabilities of Cloud Pak for Data, IBM Lead with",
                 "offerings and partnerships by building data science and machine learning",
                 "models to cater to the broader client, sales, and partner communities.",
-                "\u2022 Worked cross functionally with product team, data science team and sales",
+                "Worked cross functionally with product team, data science team and sales",
                 "to research AI use-cases for clients by conducting discovery workshops and",
-                "building demo assets to showcase the value of IBM Cloud services",
-                "- Lead a team to generate new opportunities by proposing new features",
-                "for IBM Cloud Data & AI product offerings based on industry research and",
-                "fostering broader client, and product analytics",
-                "- Leading post-signature activities for CSM, to ensure client"
+                "building demo assets to showcase the value of IBM Cloud services"
             ]
         }
     ],

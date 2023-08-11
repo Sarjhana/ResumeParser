@@ -1,5 +1,5 @@
 name,email,phone,education,work_experience,linkedin,github,projects,certifications,extra,skills
-Docker,professional.sid13@gmail.com,+12018082020,[],"[{'company_name': 'IBM India Pvt Ltd', 'job_title': '~  04/2021 - Working, Bangalore', 'dates_worked': '', 'additional_info': ['Developing in “Vinturas” project with Agile approach. The project is', 'based on Hyperledger-fabric, IBP. Responsible for Developing best', 'solution to meet the client needs in NestJS framework with VS Code IDE.', 'Creating/modifying microservices and containerizing it using Docker.', 'Modifying configurations and updating dependencies of Hyperledger-fabric', 'network and microservices whenever necessary. Unit testing with Jest', 'framework and e2e testing with postman. Managing bit-bucket repository of', 'the project and using it for code review. Deploying the code to dev while', 'monitoring CI/CD pipeline in concourse. Process Automation using n8n.io.', 'Writing deployments for Kubernetes and managing k9s.', 'Blockchain Training Alliance – Certified Blockchain Developer Ethereum', 'Developing and testing D-apps on EVM using Solidity, Remix IDE,', 'Truffle, Hardhat, MetaMask wallet, testing on mainnet/testnet, Ganache,', 'geth, Ether Scan, Web3JS.', 'Certified IBM full-stack JAVA developer.', 'Microsoft Azure - AZ-900 certified.', 'Research Assistant', 'NIT Kurukshetra', '~  07/2018 - 08/2020, Haryana', 'SUMMARY', '', '', 'Highly driven professional with extensive', 'experience in conducting research, contributing', 'to open-source']}]",,https://github.com/demigod-ares,"solutions leveraging AI, IoT, and blockchain 
+Docker,professional.sid13@gmail.com,+12018082020,[],[],,https://github.com/demigod-ares,"solutions leveraging AI, IoT, and blockchain 
 technologies. Delivering impactful solutions that 
 solve complex business problems. Passionate 
 about the ever-evolving tech industry and 
@@ -27,7 +27,7 @@ automation.
 AWARDS 
  
 Manager choice & Event awards at IBM 
-Gold Medal 2020 – NIT  Kurukshetra 
+Gold Medal 2020 - NIT  Kurukshetra 
 Gold Medal 2015 - NPTI   Badarpur 
  B 
  C 

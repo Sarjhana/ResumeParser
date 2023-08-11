@@ -8,7 +8,7 @@ Worked on MavenirBusiness Monetization Platform(MBMP) and
 MBMP-CRM applications(Microservice Architecture)
 Business and user/customer related APIs
 CRM services,Product Catalogs [Cart, Items] service
-Business Hours serviceAPI’s
+Business Hours serviceAPI's
 PostGrid API's integration for address verification.
 Acceptance Testing usingRestAssured framework
 Unit Testing Using Junit

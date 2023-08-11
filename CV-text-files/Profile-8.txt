@@ -64,7 +64,7 @@ analysing linguistic variation in social media with the aim of enriching
 user-centric and personalized natural language processing.
 ⁂ She has a vast experience of research and mentoring. She has
 worked with more than 100 learners in guiding/mentoring their thesis
-and projects in collaboration with Liverpool John Moore’s University,
+and projects in collaboration with Liverpool John Moore's University,
 UK and WiSoc Lab, BITS Pilani, India. In addition to this she also
 headed the R&D team of Towards Vision Technologies Pvt. Ltd for
 their NLP and Machine learning related industrial projects. 

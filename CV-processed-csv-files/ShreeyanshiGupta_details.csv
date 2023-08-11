@@ -1,5 +1,5 @@
 name,email,phone,education,work_experience,linkedin,github,projects,certifications,extra,skills
-Shreeyanshi Gupta,shrynshigupta06@gmail.com,,"[{'university_name': 'Abdul Kalam Technical University', 'course_name': 'Bachelor of Technology in Computer Science\nAug 2016', 'dates_attended': '2016', 'marks_or_percentage': '', 'additional_info': ['KIET Group Of Institutions\n – Oct 2020']}]",[],,,"Shopkart
+Shreeyanshi Gupta,shrynshigupta06@gmail.com,,"[{'university_name': 'Abdul Kalam Technical University', 'course_name': 'Bachelor of Technology in Computer Science\nAug 2016', 'dates_attended': '2016 - Oct 2020', 'marks_or_percentage': '', 'additional_info': ['KIET Group Of Institutions\n - Oct 2020']}]",[],,,"Shopkart
 * Shopkart is an application which integrates our online and offline shopping experience through its website and
 mobile application.
 * Technologies Used: Node.js, MongoDB, React.js, Flutter
@@ -10,7 +10,7 @@ organized by the team for the community and opportunities (internships, meetups)
 * Technologies Used: HTML, CSS, Bootstrap
 Campus Dost
 * A guide built for the college campus which includes all the relevant information for campus members.
-* Technologies Used: Node.js, MongoDB",,,"technical skills, collaborate with like-minded individuals, and further my career goals.
+* Technologies Used: Node.js, MongoDB",,,"
 TECHNICAL SKILLS
 Languages
 : JavaScript, TypeScript, C, C++
@@ -22,16 +22,16 @@ Frontend Dev
 : HTML, CSS, Bootstrap, Tailwind CSS, Angular Material
 EXPERIENCE
 Software Engineer
-Nov 2020 – Present
+Nov 2020 - Present
 DLT Labs
-• Designed and developed dynamic and responsive websites using HTML, CSS, Tailwind, and Angular Material.
-• Extensively worked on developing and integrating REST APIs and databases into the client-side applications.
-• Collaborated with different teams on multiple products that provide a one-stop solution to blockchain enthusiasts.
-• Actively participated in end-to-end product delivery, collaborating with cross-functional teams from initial
+  Designed and developed dynamic and responsive websites using HTML, CSS, Tailwind, and Angular Material.
+  Extensively worked on developing and integrating REST APIs and databases into the client-side applications.
+  Collaborated with different teams on multiple products that provide a one-stop solution to blockchain enthusiasts.
+  Actively participated in end-to-end product delivery, collaborating with cross-functional teams from initial
 planning and development to testing, debugging, and deployments..
 Software Engineer Trainee
-Feb 2020 – Oct 2020
+Feb 2020 - Oct 2020
 Newgen Software
-• Worked on a hybrid mobile application for the client.
-• Troubleshoot issues and fixed bugs in the backend as well as integrate new functionalities to the existing
+  Worked on a hybrid mobile application for the client.
+  Troubleshoot issues and fixed bugs in the backend as well as integrate new functionalities to the existing
 application."

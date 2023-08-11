@@ -6,31 +6,40 @@
     "work_experience": [
         {
             "company_name": "Maceo Restaurant - Paris (75)",
-            "job_title": "",
+            "job_title": "taking onboard feedback from Manager & CEO.",
             "dates_worked": "February 2023 to Present",
             "additional_info": [
-                "\u2022 Research on improving tech setup for business - (Wifi solutions, hardware & digitising accounting.)",
-                "\u2022 Digitilizing 40 years worth of accounting",
+                "Technology researcher",
+                "Research on improving tech setup for business - (Wifi solutions, hardware & digitising accounting.)",
+                "Digitilizing 40 years worth of accounting",
                 "Additional support as a Waiter for special events, wine tastings assisting & welcoming foreign clients.",
                 "Freelance Video & Marketing editor",
                 "PreWarp - London",
                 "December 2022 to February 2023",
-                "\u2022 Scripted, shot & edited main promotional video for fashion-tech startup, for website landing page,",
-                "taking onboard feedback from Manager & CEO.",
-                "\u2022 Edited key customer testimonial video of a director, for marketing and sales.",
-                "\u2022 Created marketing material & presented on the possibilities of AI for generating content to full team",
-                "Property House management",
+                "Scripted, shot & edited main promotional video for fashion-tech startup, for website landing page,"
+            ]
+        },
+        {
+            "company_name": "Property House management",
+            "job_title": "Edited key customer testimonial video of a director, for marketing and sales.",
+            "dates_worked": "Working as part of the changeover team on summer home rentals for an upmarket 5-bedroom villa in",
+            "additional_info": [
+                "Created marketing material & presented on the possibilities of AI for generating content to full team",
                 "Ca's Penelope - Mallorca, Illes Balears provincia",
-                "2018 to 2023",
-                "\u2022 Working as part of the changeover team on summer home rentals for an upmarket 5-bedroom villa in",
+                "2018 to 2023"
+            ]
+        },
+        {
+            "company_name": "maintenance, inc: errands & dog walking.",
+            "job_title": "",
+            "dates_worked": "July 2022 to December 2022",
+            "additional_info": [
                 "Mallorca, in high pressure turn-around times.",
-                "\u2022 Pool cleaning, gardening, furniture moving, assembly & repair, tree-cutting, painting, cleaning.",
+                "Pool cleaning, gardening, furniture moving, assembly & repair, tree-cutting, painting, cleaning.",
                 "Elderly Carer",
                 "Sevenoaks",
-                "July 2022 to December 2022",
-                "\u2022 Cared for elderly couple; dealing with dementia, diabetes & cancer treatment.",
-                "\u2022 Supported on physical movement, personal hygiene, medication, cooking, cleaning & house",
-                "maintenance, inc: errands & dog walking.",
+                "Cared for elderly couple; dealing with dementia, diabetes & cancer treatment.",
+                "Supported on physical movement, personal hygiene, medication, cooking, cleaning & house",
                 "Actor",
                 "ISLA Theatre - Mallorca, Illes Balears provincia",
                 "December 2016 to December 2016",
@@ -44,5 +53,5 @@
     "projects": null,
     "certifications": null,
     "extra": null,
-    "skills": "\u2022 Video editing\n\u2022 Photo editing\n\u2022 Music production\n\u2022 Woodworking\n\u2022 metalworking\n\u2022 Research\n\u2022 Data entry\n\u2022 Software troubleshooting\n\u2022 English\n\u2022 Spanish\n\u2022 French\n\u2022 Adobe Premiere (1 year)\n\u2022 Adobe After Effects (1 year)\n\u2022 Facebook Advertising\n\u2022 Google Ads\n\u2022 TikTok Ads\n\u2022 Adobe Photoshop (1 year)"
+    "skills": "Video editing\n  Photo editing\n  Music production\n  Woodworking\n  metalworking\n  Research\n  Data entry\n  Software troubleshooting\n  English\n  Spanish\n  French\n  Adobe Premiere (1 year)\n  Adobe After Effects (1 year)\n  Facebook Advertising\n  Google Ads\n  TikTok Ads\n  Adobe Photoshop (1 year)"
 }

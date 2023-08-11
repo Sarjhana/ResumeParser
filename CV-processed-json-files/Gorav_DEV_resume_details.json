@@ -16,30 +16,34 @@
     "work_experience": [
         {
             "company_name": "DevOps Engineer\u00a0|\u00a0Spyne\u00a0|\u00a0Gurgaon, Haryana\u00a0|\u00a0April 2023 - Present",
-            "job_title": "\u2022 Managed AWS infrastructure and EC2 instances, including creating and configuring virtual machines, monitoring resource usage, and troubleshooting issues.",
-            "dates_worked": "",
+            "job_title": "Configured and managed Pritunl VPN connections for secure remote access, providing users with secure access to company resources from remote locations.",
+            "dates_worked": "AWS DevOps Intern\u00a0|\u00a0Mactores\u00a0|\u00a0Bellevue, Washington\u00a0|\u00a0December 2022 - March 2023",
             "additional_info": [
-                "\u2022 Utilized Terraform to automate the deployment and management of infrastructure resources, including EC2 instances, security groups, load balancers, and",
+                "Managed AWS infrastructure and EC2 instances, including creating and configuring virtual machines, monitoring resource usage, and troubleshooting issues.",
+                "Utilized Terraform to automate the deployment and management of infrastructure resources, including EC2 instances, security groups, load balancers, and",
                 "more.",
-                "\u2022 Configured and managed Pritunl VPN connections for secure remote access, providing users with secure access to company resources from remote locations.",
-                "\u2022 Maintained and monitored Terraform state files to ensure consistency and accuracy of infrastructure resources.",
-                "AWS DevOps Intern\u00a0|\u00a0Mactores\u00a0|\u00a0Bellevue, Washington\u00a0|\u00a0December 2022 - March 2023",
-                "\u2022 Preparing for AWS Solutions Architect Associate Exam through materials provided by the company.",
-                "\u2022 Completing daily tasks and activities and attending standup calls every day.",
+                "Maintained and monitored Terraform state files to ensure consistency and accuracy of infrastructure resources."
+            ]
+        },
+        {
+            "company_name": "Preparing for AWS Solutions Architect Associate Exam through materials provided by the company.",
+            "job_title": "",
+            "dates_worked": "Completing daily tasks and activities and attending standup calls every day.",
+            "additional_info": [
                 "DevOps Intern\u00a0|\u00a0PearlThoughts IT Consulting and Services\u00a0|\u00a0Thoothukudi, Tamil Nadu\u00a0|\u00a0October 2022 - November 2022",
-                "\u2022 Setting up snipe IT on a local machine with Docker, AWS, GitPod and Kubernetes approach.",
-                "\u2022 Creating dumps, asset management system in Snipe IT.",
-                "\u2022 Implement Github Actions for software deployment workflow.",
+                "Setting up snipe IT on a local machine with Docker, AWS, GitPod and Kubernetes approach.",
+                "Creating dumps, asset management system in Snipe IT.",
+                "Implement Github Actions for software deployment workflow.",
                 "Cloud Intern\u00a0|\u00a0Kainskep Solutions\u00a0|\u00a0Jaipur, Rajasthan\u00a0|\u00a0April 2022 - September 2022",
-                "\u2022 Implementing practices in Microsoft Azure and managing app deployments in Azure app service.",
-                "\u2022 Selecting and deploying appropriate CI/CD Tools.",
-                "\u2022 Implement automation tools like Docker, Jenkins, Kubernetes, and Argo CD for deployments."
+                "Implementing practices in Microsoft Azure and managing app deployments in Azure app service.",
+                "Selecting and deploying appropriate CI/CD Tools.",
+                "Implement automation tools like Docker, Jenkins, Kubernetes, and Argo CD for deployments."
             ]
         }
     ],
     "linkedin": "",
     "github": "",
-    "projects": "Text Translator Web App\n\u2022 Translate text into multiple languages using Artificial Intelligence and Azure Cloud Cognitive Services. \n\u2022 Flask Framework(Python) for the front end and Azure Cognitive services for the Backend. \nSmart Garbage Segregation and Management System using IoT\n\u2022 The two bins are used to store dry and wet waste respectively. \n\u2022 The program is coded in Embedded C.\n\u2022 With the help of Servo motors, the wastes are moved into their respective bins with IR sensors. \nHouse Price Prediction(ML project)\n\u2022 Predict the price of a house based on feature variables like Area, Parking, Bedrooms, etc. \n\u2022 Uses Linear Regression to train the model. \n\u2022 Evaluate the linear regression model by calculating the parameters such as coefficient of determination, MAE, MSE, RMSE, and mean of residuals, and by \nchecking for homoscedasticity.",
+    "projects": "Text Translator Web App\n  Translate text into multiple languages using Artificial Intelligence and Azure Cloud Cognitive Services. \n  Flask Framework(Python) for the front end and Azure Cognitive services for the Backend. \nSmart Garbage Segregation and Management System using IoT\n  The two bins are used to store dry and wet waste respectively. \n  The program is coded in Embedded C.\n  With the help of Servo motors, the wastes are moved into their respective bins with IR sensors. \nHouse Price Prediction(ML project)\n  Predict the price of a house based on feature variables like Area, Parking, Bedrooms, etc. \n  Uses Linear Regression to train the model. \n  Evaluate the linear regression model by calculating the parameters such as coefficient of determination, MAE, MSE, RMSE, and mean of residuals, and by \nchecking for homoscedasticity.",
     "certifications": "Microsoft Azure Certified Fundamentals - AZ 900.\u00a0|\u00a02022\nMicrosoft Certified Azure AI Fundamentals - AI 900.\u00a0|\u00a02022\nMicrosoft Certified Security , Compliance and Identity Fundamentals - SC 900.\u00a0|\u00a02022\nData Science & Data Analytics Nasscom Assessment Clearance\u00a0|\u00a0Nasscom",
     "extra": null,
     "skills": "Programming Languages:- Python, C/C++, MATLAB, HTML.\nTools/Platform:- Docker, Kubernetes, Ansible, Terraform.\nCloud Services:- Microsoft Azure, GCP, Amazon Web Services(AWS).\nDevelopment:- CI/CD, Linux, GIT, Jenkins, Code Pipelines."

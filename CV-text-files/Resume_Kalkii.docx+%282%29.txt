@@ -9,7 +9,7 @@ Education
 June 2014
 Amity University - B. Tech.
 Mechanical & Automation
-– Noida
+- Noida
 Key Skills
 FrontEnd (React/Redux/Next)
 TypeScript/JavaScript
@@ -38,7 +38,7 @@ third-party-api integration through capacitor plugin..
 ▪
 Worked on features and migration of monolith node services to Nest Js
 microservices.
-Technical Lead (Front-End) at Cerebry (Jan ’22 - Feb ‘22)
+Technical Lead (Front-End) at Cerebry (Jan '22 - Feb ‘22)
 ▪
 Worked on the Preact (server side React) framework front-end.
 Senior Software Engineer at Pyxis one (Sep ‘20 - Dec ‘21)

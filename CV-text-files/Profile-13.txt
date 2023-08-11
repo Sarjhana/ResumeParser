@@ -39,20 +39,20 @@ utilizing machine learning to create predictive models and actionable
 insights. 
 My Email: lanyue.meng@gmail.com
 My Technical Skills:
-• Analytics: understanding business problems and building data-
+  Analytics: understanding business problems and building data-
 driven solutions
-• Machine Learning: Regression, Classification, Clustering, Feature
+  Machine Learning: Regression, Classification, Clustering, Feature
 Selection, Model Selection/ Assessment, and Recommendation
-• ETL& Data Mining
-• Natural Language Processing
-• Python Data Analysis: Numpy, Scipy, Pandas, Scikit-learn, NLTK
-• R Data Analysis: Dplyr, Lubridate, Glment, Caret, Tidyr
-• Data Visualization: Tableau, ddplot, matplotlib
-• Big Data related techniques: Spark, Hadoop, Oozie, Sqoop, Hive,
+  ETL& Data Mining
+  Natural Language Processing
+  Python Data Analysis: Numpy, Scipy, Pandas, Scikit-learn, NLTK
+  R Data Analysis: Dplyr, Lubridate, Glment, Caret, Tidyr
+  Data Visualization: Tableau, ddplot, matplotlib
+  Big Data related techniques: Spark, Hadoop, Oozie, Sqoop, Hive,
 Impala
-• Programming Languages: Scala,Python, R, Scala, SQL, C,
+  Programming Languages: Scala,Python, R, Scala, SQL, C,
 JavaScript, Matlab
-• Database: MySQL, SQL Server, TeraData, Vertica, MongoDB
+  Database: MySQL, SQL Server, TeraData, Vertica, MongoDB
 Experience
 Google
 5 years 6 months

@@ -2,53 +2,85 @@
     "name": "Docker",
     "email": "kartikchoudhary416@gmail.com",
     "phone": "+919768002730",
-    "education": [],
+    "education": [
+        {
+            "university_name": "Msc Data Analytics\nDundalk Institute",
+            "course_name": "ber 2020",
+            "dates_attended": "September 2020 - September 2021",
+            "marks_or_percentage": "",
+            "additional_info": [
+                "of Technology, Ireland\n Septem - September 2021\nBE in Information Technology\nXavier Insitute of Engineering, Mumbai\n 2015 - 2019"
+            ]
+        }
+    ],
     "work_experience": [
         {
             "company_name": "using Scrapy, cleaning and mapping the scraped data impacting",
-            "job_title": "millions of job data.",
-            "dates_worked": "",
+            "job_title": "Software Engineer",
+            "dates_worked": "November 2021 - September 2022  Dublin, Ireland",
             "additional_info": [
-                "Associate Software Engineer",
+                "LinkedIn",
+                "Updated old code bases to modern development standards,",
+                "improving functionality.",
+                "Provided guidance and mentored other team members.",
+                "Collaborated with management, internal and development partners",
+                "regarding software application design status and project progress.",
+                "Coordinated with other engineers to evaluate and improve software",
+                "performance and robustness.",
+                "Coordinated e\ufb03cient large-scale software deployments.",
+                "Analyzed proposed technical solutions based on customer",
+                "requirements.",
+                "Created e\ufb03cient spiders that can scrape data from multiple sources"
+            ]
+        },
+        {
+            "company_name": "Applications for Alexa - I performed tasks like debugging issues",
+            "job_title": "Associate Software Engineer",
+            "dates_worked": "December 2019 - July 2020",
+            "additional_info": [
+                "millions of job data.",
                 "Flairlabs",
-                "\ufffd December 2019 \u2013 July 2020",
-                "\ufffd Mumbai, India",
-                "\u2022 Applications for Alexa - I performed tasks like debugging issues",
+                "Mumbai, India"
+            ]
+        },
+        {
+            "company_name": "did some work on OCR Technology like AWS Textract,",
+            "job_title": "",
+            "dates_worked": "August 2019 - October 2019",
+            "additional_info": [
                 "adding new features to existing skills.",
-                "\u2022 Researched and worked on Latex, MathJax Library, worked on",
+                "Researched and worked on Latex, MathJax Library, worked on",
                 "creating Bridges for Native Modules, Implemented Text Editor and",
-                "did some work on OCR Technology like AWS Textract,",
                 "Python-tesseract and others.",
-                "\u2022 Programmed a Deep Learning Model Using Pytorch for converting",
+                "Programmed a Deep Learning Model Using Pytorch for converting",
                 "image to small sized vector and then \ufb01nding similarity between",
                 "di\ufb00erent images.",
-                "\u2022 Created an RPA for web scraping using UiPath which extracts data",
+                "Created an RPA for web scraping using UiPath which extracts data",
                 "related to Alexa skills and exports it as CSV or text \ufb01le.",
-                "\u2022 Wrote routines for fraud detection for performing e-KYC of o\ufb04ine",
+                "Wrote routines for fraud detection for performing e-KYC of o\ufb04ine",
                 "Aadhaar documents.",
-                "\u2022 Wrote function to convert large PDF \ufb01les to high DPI ti\ufb00 images",
+                "Wrote function to convert large PDF \ufb01les to high DPI ti\ufb00 images",
                 "which consumes less storage space.",
                 "Data Science Intern",
                 "U-TO Solutions",
-                "\ufffd August 2019 \u2013 October 2019",
-                "\ufffd Mumbai, India",
-                "\u2022 Created data mining architectures and models to identify trends in",
+                "Mumbai, India",
+                "Created data mining architectures and models to identify trends in",
                 "large data sets.",
-                "\u2022 Created data visualization graphics, translating complex data sets into",
+                "Created data visualization graphics, translating complex data sets into",
                 "comprehensive visual representations.",
-                "\u2022 Performed advanced data extraction and data manipulation.",
-                "\u2022 Pinpointed meaningful insights from large data and metadata sources.",
-                "\u2022 Applied appropriate data science techniques to solve business",
+                "Performed advanced data extraction and data manipulation.",
+                "Pinpointed meaningful insights from large data and metadata sources.",
+                "Applied appropriate data science techniques to solve business",
                 "problems.",
-                "\u2022 Identi\ufb01ed, analyzed and interpreted trends in complex data sets using",
+                "Identi\ufb01ed, analyzed and interpreted trends in complex data sets using",
                 "supervised and unsupervised learning techniques."
             ]
         }
     ],
     "linkedin": "",
     "github": "",
-    "projects": "\u2022 Text Extraction and Analysis using NLP\n\u2022 Covid-19 Data Visualization.\n\u2022 URL Shortner in Serverless Architecture.\n\u2022 Web Scraping and API development with\nBeautiful Soup and Flask.\n\u2022 Smart Notice Board using Raspberry pi.\n\u2022 Time Series Analysis of Sales Data.",
-    "certifications": "\u2022 Docker for Developers by LinkedIn\nLearning.\n\u2022 AWS Technical Essentials by AWS\n\u2022 Big Data Analytics with Hadoop and\nApache Spark.\n\u2022 DevOps Foundations: Continuous\nDelivery/Continuous Integration\nREFERENCES\n\u2022 Avinash Permude, LinkedIn -\n9986068473/apermude@linkedin.com\n\u2022 Daljeet Singh Malhotra, Flairlabs -\n9820261930/daljeet@\ufb02airlabs.com",
+    "projects": "Text Extraction and Analysis using NLP\n  Covid-19 Data Visualization.\n  URL Shortner in Serverless Architecture.\n  Web Scraping and API development with\nBeautiful Soup and Flask.\n  Smart Notice Board using Raspberry pi.\n  Time Series Analysis of Sales Data.",
+    "certifications": "Docker for Developers by LinkedIn\nLearning.\n  AWS Technical Essentials by AWS\n  Big Data Analytics with Hadoop and\nApache Spark.\n  DevOps Foundations: Continuous\nDelivery/Continuous Integration\nREFERENCES\n  Avinash Permude, LinkedIn -\n9986068473/apermude@linkedin.com\n  Daljeet Singh Malhotra, Flairlabs -\n9820261930/daljeet@\ufb02airlabs.com",
     "extra": null,
     "skills": "Python\nAPI\nFlask\nSQL\nNoSQL\nScrum\nMachine Learning\nWeb Scraping\nGit\nPytorch\nPandas\nData Visualization\nMatplotlib\nNumpy\nAWS\nDocker\nData Analysis\nObject Oriented Programming\nPerformance and Scalability Optimization\nACADEMIC/PERSONAL"
 }

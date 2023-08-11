@@ -6,9 +6,11 @@
     "work_experience": [
         {
             "company_name": "SOCIAL",
-            "job_title": "Social Media Marketing",
-            "dates_worked": "",
+            "job_title": "Digital Marketing Executive",
+            "dates_worked": "May 2021 - Dec 2022",
             "additional_info": [
+                "LANGUAGE",
+                "Social Media Marketing",
                 "Content Marketing",
                 "Graphic Design",
                 "Google Ads",
@@ -20,12 +22,15 @@
                 "linkedin.com/in/tanishkamangtani/",
                 "2020 | Bachelor Of Commerce With Computer Application",
                 "Mata Gujri Mahila Mahavidhyalaya, Jabalpur (M.P.)",
-                "Digital Marketing Executive",
-                "IOTA Informatics Private Limited",
-                "May 2021 - Dec 2022",
-                "Sep 2020 - May 2021",
+                "IOTA Informatics Private Limited"
+            ]
+        },
+        {
+            "company_name": "Human Resources Executive",
+            "job_title": "Also worked as Project lead.",
+            "dates_worked": "Sep 2020 - May 2021",
+            "additional_info": [
                 "Jan 2020 - Mar 2020",
-                "Human Resources Executive",
                 "Counselor | Receptionist",
                 "Pixie Hospitality Service Pvt. Ltd.",
                 "Talwalkars",
@@ -38,36 +43,29 @@
                 "Team coordination.",
                 "Running campaigns.",
                 "Graphics creation.",
-                "Web content creation.",
-                "Also worked as Project lead.",
+                "Web content creation."
+            ]
+        },
+        {
+            "company_name": "St. Aloysius Sr. Sec. School, Jabalpur (M.P.)",
+            "job_title": "Human Resources Associate",
+            "dates_worked": "2015 | High School | CBSE",
+            "additional_info": [
                 "2017 | Intermediate | CBSE",
-                "St. Aloysius Sr. Sec. School, Jabalpur (M.P.)",
-                "2015 | High School | CBSE",
-                "St. Aloysius Sr. Sec. School, Jabalpur (M.P.)",
-                "Human Resources Associate",
-                "Saisun Outsourcing Services Pvt. Ltd.",
+                "St. Aloysius Sr. Sec. School, Jabalpur (M.P.)"
+            ]
+        },
+        {
+            "company_name": "Saisun Outsourcing Services Pvt. Ltd.",
+            "job_title": "Back Office Associate",
+            "dates_worked": "Aug 2019 - Oct 2019",
+            "additional_info": [
                 "Handling onroll job recruitment.",
                 "Direct coordination with the client.",
-                "Aug 2019 - Oct 2019",
                 "Marg Software Operator",
                 "Dinesh Exports Private Limited",
                 "May 2019 - July 2019",
-                "Work on marg software, excel sheets, receipts creation.",
-                "Back Office Associate",
-                "Chaze",
-                "Product updation in app, taking orders, solving customer queries, feedback &",
-                "reviews.",
-                "Apr 2019 - May 2019",
-                "facebook.com/tanishkamangtani/",
-                "instagram.com/tanishka_mangtani10/",
-                "https://twitter.com/TanishkaMangta1",
-                "Watching movies & series",
-                "Reading books",
-                "Dancing",
-                "Singing",
-                "Cooking",
-                "PERSONAL",
-                "INTERNSHIPS"
+                "Work on marg software, excel sheets, receipts creation."
             ]
         }
     ],

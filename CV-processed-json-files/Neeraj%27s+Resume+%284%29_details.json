@@ -16,28 +16,39 @@
     "work_experience": [
         {
             "company_name": "NOIDA, Uttarpradesh (India)",
-            "job_title": "I used to edit lecture videos and checking the production quality of raw",
-            "dates_worked": "",
+            "job_title": "Associate Video Editor",
+            "dates_worked": "02/2023 - Present,",
             "additional_info": [
+                "Video Editor",
+                "BLKBOX.ai",
+                "California, United States (Remote)",
+                "I majorly working on SFX of game ad. videos",
+                "Physics Wallah",
+                "05/2022 - 03/2023,"
+            ]
+        },
+        {
+            "company_name": "CBS Venture",
+            "job_title": "Asst. Manager-Studio",
+            "dates_worked": "10/2022 - 03/2023,",
+            "additional_info": [
+                "I used to edit lecture videos and checking the production quality of raw",
                 "videos, and doing Quality Check of \ufb01nal product",
                 "Video Editor (Internship)",
-                "CBS Venture",
-                "10/2022 - 03/2023,",
                 "London, United Kingdom (Remote)",
                 "I used to edit lecture videos and checking the production quality of raw",
-                "videos",
-                "Asst. Manager-Studio",
-                "Jobaaj.com (Nishtya Infotech Pvt. Ltd.)",
-                "01/2020 - 11/2021,",
+                "videos"
+            ]
+        },
+        {
+            "company_name": "Jobaaj.com (Nishtya Infotech Pvt. Ltd.)",
+            "job_title": "the shoots and video editing tasks, and graphics work and I guide and lead",
+            "dates_worked": "01/2020 - 11/2021,",
+            "additional_info": [
                 "AGRA, Uttarpradesh (India)",
                 "Jobaaj.com is a consultancy compony. This company has a multi-platform like an E-",
                 "learnings portal Job portal and many other platforms.",
-                "In this company, I use to take all decisions regarding designs. I handle all",
-                "the shoots and video editing tasks, and graphics work and I guide and lead",
-                "the design team.",
-                "PORTFOLIO",
-                "https://drive.google.com/drive/folders/17wBNKeg-",
-                "Y5ODYJmooin1vFCc1vjra0PF?usp=share_link"
+                "In this company, I use to take all decisions regarding designs. I handle all"
             ]
         }
     ],

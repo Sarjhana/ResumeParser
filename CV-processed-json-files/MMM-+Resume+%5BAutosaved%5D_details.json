@@ -6,20 +6,29 @@
     "work_experience": [
         {
             "company_name": "Hadoop, Hive, Pig, and Spark. Proficient in Python, MATLAB, SAS, R, and SQL.",
-            "job_title": "Experience",
-            "dates_worked": "April \u201923  -",
+            "job_title": "Data Science consultant at Rubixe AI Consulting ( Bangalore)",
+            "dates_worked": "April '23  -",
             "additional_info": [
-                "Present",
-                "Data Science consultant at Rubixe AI Consulting ( Bangalore)",
-                "\u2022 Fulfilled all data science duties for a high-end capital firm.",
-                "\u2022 Created and presented models for potential holdings to fund managers.",
+                "Experience",
+                "Present"
+            ]
+        },
+        {
+            "company_name": "Vemana Institute of Technology, BE (MECH)",
+            "job_title": "Created and presented models for potential holdings to fund managers.",
+            "dates_worked": "2017-2021",
+            "additional_info": [
+                "Fulfilled all data science duties for a high-end capital firm.",
                 "Achieved 20% better returns",
-                "Academics",
-                "2017-2021",
-                "Vemana Institute of Technology, BE (MECH)",
+                "Academics"
+            ]
+        },
+        {
+            "company_name": "Narayana Junior College, PUC (XI - XII)  88%",
+            "job_title": "",
+            "dates_worked": "2015 - 2017",
+            "additional_info": [
                 "CGPA : 7.0/10",
-                "2015 - 2017",
-                "Narayana Junior College, PUC (XI \u2013 XII)  88%",
                 "2015",
                 "Keshava Reddy School, SSC (X) 83%"
             ]
@@ -27,8 +36,8 @@
     ],
     "linkedin": "",
     "github": "",
-    "projects": "Jan\u201923 to  \nFeb\u201923 \nProject : Insurance Cost Prediction \n \nProject Description: In order to make the profit, insurance companies must collect a higher \npremium than the amount which may become due to the insured person. To achieve this, \ninsurance companies have to invest a lot of time, effort, and money in creating models that \naccurately predict healthcare expenses. \nFeb\u201923 to  \nApril\u201923 \nProject : Customer Credit Score \u2013 banking \n \nProject Description: Client of Rubixe  is a major banking client in India . The project goal is to \ncalculate customer credit score and, which is then used for asset risk management and risk \nmodelling of the asset portfolio. \nApril\u201923 to  \nMay\u201923 \nProject : Flight Price Prediction  \n \nProject Description: Predicting Flight ticket prices can be something hard to guess, today we \nmight see a price, tomorow same flight be a different story. That\u2019s why we will try to use machine \nlearning to solve this problem. This can help airlines by predicting what are the prices that can be \nmaintained. \nMay\u201923 to  \nJun\u201923 \n \nProject : AutoPricePred \n \nProject Description:  Here we are modelling the price of the cars with the available different \nspecifications. It will be used by the management to understand how exactly the prices vary with \nthose specifications. Then there can accordingly manipulate the design of the cars, the business \nstrategy etc. to meet certain price levels. Further, the model will be a good way for management \nto understand the pricing dynamics of a new market. \nJun\u201923 to  \nJuly\u201923 \n \nProject : GameWinnerPred \n \nProject Description:  Create a predictive model which is an attempt to predict the win probability \nof the Pubg match and to look at the important factors affecting the win probability of the pubg \ngame.  \n  \n. \nLinkedIn  :- @Mughals \nMohammed Movein Beig  \nGitHub  :-  Movein96",
-    "certifications": "\u2022\nCDS International Association of Business Analytics (IABAC) \n\u2022\nGoogle Data Analytics Coursera 04/2023 \u2013 Present \n\u2022\nCDS Certification by Datamites, Bangalore 03/2023 \n\u2022\nSQL for data analysis Udacity 01/2023 \n\u2022\nZero to Hero in Excel, Python Udemy 12/2022  \n \nMovein96106@gmail.com  \nPh :- 9182917362",
+    "projects": "Jan'23 to  \nFeb'23 \nProject : Insurance Cost Prediction \n \nProject Description: In order to make the profit, insurance companies must collect a higher \npremium than the amount which may become due to the insured person. To achieve this, \ninsurance companies have to invest a lot of time, effort, and money in creating models that \naccurately predict healthcare expenses. \nFeb'23 to  \nApril'23 \nProject : Customer Credit Score - banking \n \nProject Description: Client of Rubixe  is a major banking client in India . The project goal is to \ncalculate customer credit score and, which is then used for asset risk management and risk \nmodelling of the asset portfolio. \nApril'23 to  \nMay'23 \nProject : Flight Price Prediction  \n \nProject Description: Predicting Flight ticket prices can be something hard to guess, today we \nmight see a price, tomorow same flight be a different story. That's why we will try to use machine \nlearning to solve this problem. This can help airlines by predicting what are the prices that can be \nmaintained. \nMay'23 to  \nJun'23 \n \nProject : AutoPricePred \n \nProject Description:  Here we are modelling the price of the cars with the available different \nspecifications. It will be used by the management to understand how exactly the prices vary with \nthose specifications. Then there can accordingly manipulate the design of the cars, the business \nstrategy etc. to meet certain price levels. Further, the model will be a good way for management \nto understand the pricing dynamics of a new market. \nJun'23 to  \nJuly'23 \n \nProject : GameWinnerPred \n \nProject Description:  Create a predictive model which is an attempt to predict the win probability \nof the Pubg match and to look at the important factors affecting the win probability of the pubg \ngame.  \n  \n. \nLinkedIn  :- @Mughals \nMohammed Movein Beig  \nGitHub  :-  Movein96",
+    "certifications": "CDS International Association of Business Analytics (IABAC) \n \nGoogle Data Analytics Coursera 04/2023 - Present \n \nCDS Certification by Datamites, Bangalore 03/2023 \n \nSQL for data analysis Udacity 01/2023 \n \nZero to Hero in Excel, Python Udemy 12/2022  \n \nMovein96106@gmail.com  \nPh :- 9182917362",
     "extra": null,
-    "skills": "MS Excel, MS Office,  \nPower Bi                         \u25cf \u25cf \u25cf \u25cf \u25cf \n \nPython, Numpy, Pandas,  \nSklearn                            \u25cf \u25cf \u25cf \u25cf \n \nData Analysis, Data Cleaning,  \nData Visualization, Tableau,  \nMatplotlib                      \u25cf \u25cf \u25cf \u25cf \n \nMachine Learning Modeling, \nstatistics                         \u25cf \u25cf \u25cf \u25cf \n \nSQL, Cloud, AWS, Flask   \u25cf \u25cf \n \n \nSoft Skills \n \n\uf0d8\nProblem Solving \n\uf0d8\nCritical Thinking \n\uf0d8\nAttention to detail  \n\uf0d8\nCollaboration \n\uf0d8\nCreating positive \ncustomer interactions  \n\uf0d8\nCreative and  \nInterpersonal Skills \nLanguages \n \n\uf076 English                        \u25cf \u25cf \u25cf \u25cf \n\uf076 Telugu                         \u25cf \u25cf             \n\uf076 Hindi                                                  \u25cf \u25cf  \n\uf076 Kananda                      \u25cf \nAddress :-  # Divya Panchami \nApp, 4th main road, Thayappa \ngarden, Bilekahalli, Bangalore-\n560076."
+    "skills": "\nMS Excel, MS Office,  \nPower Bi                                   \n \nPython, Numpy, Pandas,  \nSklearn                                    \n \nData Analysis, Data Cleaning,  \nData Visualization, Tableau,  \nMatplotlib                              \n \nMachine Learning Modeling, \nstatistics                                 \n \nSQL, Cloud, AWS, Flask       \n \n \nSoft Skills \n \n\uf0d8\nProblem Solving \n\uf0d8\nCritical Thinking \n\uf0d8\nAttention to detail  \n\uf0d8\nCollaboration \n\uf0d8\nCreating positive \ncustomer interactions  \n\uf0d8\nCreative and  \nInterpersonal Skills \nLanguages \n \n\uf076 English                                \n\uf076 Telugu                                         \n\uf076 Hindi                                                       \n\uf076 Kananda                        \nAddress :-  # Divya Panchami \nApp, 4th main road, Thayappa \ngarden, Bilekahalli, Bangalore-\n560076."
 }

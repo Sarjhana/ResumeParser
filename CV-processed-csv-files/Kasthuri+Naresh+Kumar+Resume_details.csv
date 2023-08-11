@@ -1,18 +1,18 @@
 name,email,phone,education,work_experience,linkedin,github,projects,certifications,extra,skills
-Narayana Jr College,kasthurinareshkumar68@gmail.com,+919030124591,"[{'university_name': 'Nov \n2021 \n        64   \n2 \nBtech \nGeethanjali College', 'course_name': '', 'dates_attended': '2021', 'marks_or_percentage': '', 'additional_info': ['of \nEngineering and Technology \n 2015-']}, {'university_name': '2019 \n \n        59 \n3 \nIntermediate \nNarayana Jr College', 'course_name': 'Backend Framework          \nDjango \nFrontend \nHTML', 'dates_attended': '2013-2015', 'marks_or_percentage': '', 'additional_info': ['2013-2015 \n         93 \n4 \nSecondary School Education \nSri Gurudatta High School \n2005-2013 \n         92 \n \nSkills:  \nProgramming Languages \nC, Python  \n, CSS \nDatabase \nMySQL \nData Visualization Tool    \nPowerBi  \nVersion Control                 \nGithub \n \n• \nObject Oriented Programming Knowledge on Inheritance, Encapsulation, Polymorphism, Data Abstraction. \n• \nKnowledge on Python Libraries like NumPy, Pandas, Matplotlib and Beautiful Soup. \n• \nKnowledge on Web scraping. \n• \nKnowledge on Regular Expression. \n• \nKnowledge on Multithreading. \n• \nKnowledge on Advanced Functions on Python such as Lambda, Filter, Map, Generator.']}]","[{'company_name': 'FEB  2022-Present', 'job_title': 'Tata Consultancy Services, Hyderabad', 'dates_worked': '', 'additional_info': ['•', 'Identified possible system enhancements to improving functionality and streamline administration.', '•', 'Collaborated with quality assurance team to verify correct implementation of software development changes.', '•', 'Provided advice on project costs, design concepts, or design changes.', '•', 'Worked with software development and testing team members to design and develop robust solutions to meet', 'client requirements for functionality, scalability, and performance.', '', 'Training and Certification:', '•', 'PythonLife – Certified Professional in Python Language', '•', 'Certified as Microsoft Technical Associate (MTA) for Networking fundamental', '•', 'Trained on Web Development and designing using WordPress.', '•', 'Runner-up in Debugging competition held at CVSR college']}]",,,"Key Strengths 
-● Analytical Thinking. 
-● Problem solving 
-● Detail- Oriented. 
-● Team work 
-● Effective communication skills. 
+Narayana Jr College,kasthurinareshkumar68@gmail.com,+919030124591,"[{'university_name': 'Nov \n2021 \n        64   \n2 \nBtech \nGeethanjali College', 'course_name': '', 'dates_attended': '2021', 'marks_or_percentage': '', 'additional_info': ['of \nEngineering and Technology \n 2015-']}, {'university_name': '2019 \n \n        59 \n3 \nIntermediate \nNarayana Jr College', 'course_name': 'Backend Framework          \nDjango \nFrontend \nHTML', 'dates_attended': '2013-2015', 'marks_or_percentage': '', 'additional_info': ['2013-2015 \n         93 \n4 \nSecondary School Education \nSri Gurudatta High School \n2005-2013 \n         92 \n \nSkills:  \nProgramming Languages \nC, Python  \n, CSS \nDatabase \nMySQL \nData Visualization Tool    \nPowerBi  \nVersion Control                 \nGithub \n \n  \nObject Oriented Programming Knowledge on Inheritance, Encapsulation, Polymorphism, Data Abstraction. \n  \nKnowledge on Python Libraries like NumPy, Pandas, Matplotlib and Beautiful Soup. \n  \nKnowledge on Web scraping. \n  \nKnowledge on Regular Expression. \n  \nKnowledge on Multithreading. \n  \nKnowledge on Advanced Functions on Python such as Lambda, Filter, Map, Generator.']}]",[],,,"Key Strengths 
+  Analytical Thinking. 
+  Problem solving 
+  Detail- Oriented. 
+  Team work 
+  Effective communication skills. 
 Personal Information 
-• 
+  
 Date of Birth         :        Aug 06, 1997. 
-• 
+  
 Languages known :        English, Telugu, Hindi. 
-• 
+  
 Marital Status        :        Unmarried. 
-• 
+  
 Nationality            :        Indian. 
 Declaration 
  I do declare that all the information enclosed is true and I thank you in advance for considering my application. I 
@@ -62,7 +62,7 @@ notebook.
 Django E-Commerce 
 Requirements: Python3, Django Framework, MySQL 
 1)This project deals with developing a Virtual website ‘E-
-commerce Website’. User must create username and login to 
+commerce Website'. User must create username and login to 
 authenticate login. 
 2)list of the various products available for purchase in the 
 store will be shown, a shopping cart is provided to the user 

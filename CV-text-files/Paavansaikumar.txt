@@ -106,9 +106,9 @@ stages in websites
 A STAND-ALONE APPLICATION OF IMPLEMENTING LINEAR DATA STRUCTURES 
 (12/2022 - 02/2023) 
 Technology used - JAVA. 
-Concepts Used – Swings, OOPs, Arrays, classes, Methods. 
-Tools Used – Eclipse IDE. 
-Plugin Used – Window Builder (To create JFrames). 
+Concepts Used - Swings, OOPs, Arrays, classes, Methods. 
+Tools Used - Eclipse IDE. 
+Plugin Used - Window Builder (To create JFrames). 
 The main agenda of the project is to showcase the operation and working of diﬀerent linear data 
 structures. 
 PAAVAN SAI KUMAR VIDAVALURU 

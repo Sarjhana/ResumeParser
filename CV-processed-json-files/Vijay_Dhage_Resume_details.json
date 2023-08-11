@@ -3,21 +3,7 @@
     "email": "dhage.vijay678@gmail.com",
     "phone": "",
     "education": null,
-    "work_experience": [
-        {
-            "company_name": "delivering valuable insights via data analytics and advanced data driven methods.",
-            "job_title": "worked on end to end ML and NLP project from data gathering g to model",
-            "dates_worked": "",
-            "additional_info": [
-                "deployment.",
-                "Excellent understanding of Machine learning  (both supervised and unsupervised )",
-                "techniques.",
-                "Experience with common data science toolkits such as Anaconda, NumPy, Pandas,",
-                "Matplotlib, Seaborn, scikit-learn, NLTK etc.",
-                "Well applied statistical"
-            ]
-        }
-    ],
+    "work_experience": [],
     "linkedin": "",
     "github": "",
     "projects": null,

@@ -37,7 +37,7 @@ Why Spotify:- 
 Spotify Apps are written in JavaScript, HTML, and CSS; just like a web
 app. We believe in the future of web standards. These APIs give you
 access to all of the powerful features in the Spotify desktop client with
-simple Javascript functions. In a sense, it’s like Chromium shipped with
+simple Javascript functions. In a sense, it's like Chromium shipped with
 15 million songs.
 @
 O

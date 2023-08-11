@@ -31,7 +31,7 @@ household.
  
  EffecientNetV2 based model for classifying 
 financial annual reports into different classes 
-having extreme class-imbalance (1:50 – 
+having extreme class-imbalance (1:50 - 
 1:100). 
  
  Visual attention based CNN model for 
@@ -81,12 +81,12 @@ Patent filed
 Publications 
 “Real time surface defect analysis and 
 correction in friction stir welding process by 
-image processing” – Patent Drive 2016 
+image processing” - Patent Drive 2016 
 “Reflectance 
 spectroscopy 
 based 
 rapid 
-determination of coal quality parameters– 
+determination of coal quality parameters- 
 Fuel (2020)  
  
 “Diffuse reflectance spectroscopy based 
@@ -97,13 +97,13 @@ framework”
 - 
 Spectrochimica Acta (2021) 
  
-“A k-means clustering–based approach for 
+“A k-means clustering-based approach for 
 3D mapping and characterization of rock 
-faces using digital images.” – AJG (2021) 
+faces using digital images.” - AJG (2021) 
  
-“3D reconstruction–based numerical 
+“3D reconstruction-based numerical 
 modeling of irregular-shaped geo-objects 
-using digital images: a novel approach.” – 
+using digital images: a novel approach.” - 
 BEGE (2021) 
 Achievements 
 IITJEE rank : 4143 
@@ -119,7 +119,7 @@ Generative Adversarial Networks
  
 Senior ML Engineer  v 
 Infrrd AI gg 
-2018 – 2019 h 
+2018 - 2019 h 
 Models in production 
  Developing a Generative Adversarial 
 Network based Cycle-GAN pipeline for 

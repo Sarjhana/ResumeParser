@@ -167,26 +167,26 @@ platform, designed using HTML5, CSS3,
 Laravel and MySQL  
  
 2022 
-EasyDelivery – is E-commerce web application  
+EasyDelivery - is E-commerce web application  
 This application is designed by MERN With AWS 
 I designed and developed for PRODIGIT.in which is an 
 Indian company 
  
 2023  
-WEBH – is web application  
+WEBH - is web application  
 This application is designed by MERN With AWS 
 I designed and developed for PRODIGIT.in which is an 
 Indian company(https://mywebh.com) 
  
 2023  
-NETFLIX clone– is web application  
+NETFLIX clone- is web application  
 This application is designed by MERN  
  
  
  
 Experience 
 2022 - 2023 
-MERN – in PROODIGIT.in 
+MERN - in PROODIGIT.in 
 Here I worked as a mern stack developer 
 For more than one year 
  

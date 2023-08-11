@@ -14,7 +14,7 @@ framework and e2e testing with postman. Managing bit-bucket repository of
 the project and using it for code review. Deploying the code to dev while 
 monitoring CI/CD pipeline in concourse. Process Automation using n8n.io. 
 Writing deployments for Kubernetes and managing k9s. 
-Blockchain Training Alliance – Certified Blockchain Developer Ethereum 
+Blockchain Training Alliance - Certified Blockchain Developer Ethereum 
 Developing and testing D-apps on EVM using Solidity, Remix IDE, 
 Truffle, Hardhat, MetaMask wallet, testing on mainnet/testnet, Ganache, 
 geth, Ether Scan, Web3JS. 
@@ -93,7 +93,7 @@ automation.
 AWARDS 
  
 Manager choice & Event awards at IBM 
-Gold Medal 2020 – NIT  Kurukshetra 
+Gold Medal 2020 - NIT  Kurukshetra 
 Gold Medal 2015 - NPTI   Badarpur 
  B 
  C 

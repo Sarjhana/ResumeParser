@@ -32,10 +32,10 @@ Mock, GitLab
  
  
 Responsibilities 
-• Development of various plugins in Nokia’s internal web 
+  Development of various plugins in Nokia's internal web 
 application software product. 
-• Maintenance of the software product. 
-• Debugging and resolving any legacy issues/bugs. 
+  Maintenance of the software product. 
+  Debugging and resolving any legacy issues/bugs. 
  
 EDUCATION 
 ❖ B. Tech, Computer Science Engineering | Chandigarh Group of Colleges, Landran, Punjab             

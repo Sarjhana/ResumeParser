@@ -16,18 +16,18 @@ Manipal University Jaipur
 Enrolled in computer science and engineering with a strong academic 
 performance, maintaining a CGPA of 8.73. Anticipated completion of Program by 
 2024.
-2020 – 2024
+2020 - 2024
 Jaipur, Rajasthan
 High school diploma
 Sasi junior college
 Completed intermediate education with a remarkable CGPA of 9.84. Specialized in 
 Mathematics, Physics, and Chemistry (MPC) subjects.
-2018 – 2020
+2018 - 2020
 Eluru
 Secondary school of education
 Sasi English Medium school
 Achieved a perfect cumulative grade point average (CGPA) of 10.00
-2017 – 2018
+2017 - 2018
 Eluru, Andhrapradesh
 PROJECTS
 Monkey pox detection using Deep learning
@@ -83,7 +83,7 @@ C Language
 PROFESSIONAL EXPERIENCE
 Data Engineer Trainee Intern
 Celebal Technologies
-05/2023 – 07/2023
+05/2023 - 07/2023
 Jaipur, Rajasthan
 Worked on a team to develop and deploy cloud-based solutions using Azure Cloud 
 platform.

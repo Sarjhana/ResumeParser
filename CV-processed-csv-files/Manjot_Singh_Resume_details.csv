@@ -1,31 +1,32 @@
 name,email,phone,education,work_experience,linkedin,github,projects,certifications,extra,skills
-Manjot Singh,manjotsingh844.ms@gmail.com,,"[{'university_name': '2023\nNetaji Subhas University', 'course_name': '', 'dates_attended': 'Year', 'marks_or_percentage': '7.89/10', 'additional_info': ['of Technology, Delhi\n7.89/10\nAISSCE (Class XII)\n2018\nSukho Khalsa Senior Secondary School, Delhi\n85%\nAISSE (Class X)\n2016\nDayanand Adarsh Vidyalaya, Delhi\n9.6/10']}]","[{'company_name': '– Fixed various bugs that were encountered by the users & worked on the Frontend and Backend part of the software.', 'job_title': '– Developed Plugin using LUA and python based backend server for culling in Lightroom Platform.', 'dates_worked': '', 'additional_info': ['– Technology - Angular, Electron, LUA, Python, Web Development', '• Subject Matter Expert(Computer Science)', 'Chegg Inc.', 'Apr’21 - Jan’22', '– Solved 350+ questions with detailed explanation on various Computer Science concepts that includes Data Structures,', 'Object Orientation Programming ,Operating Systems, Database Management Systems etc.', '– Clarified follow-up queries of students via comments and forum discussions.', '• Frontend Development Intern', 'Evren Global Solution Pvt. Ltd.', 'Jan’21 - Feb’21', '– Handled FrontEnd part, worked on their landing page and additionally making it suitable to view from mobile devices.', '– Technology - ReactJS, Redux']}]",,,"• Blockchain based Identity Management System(using Fingerprints)
-– A Platform where users can authenticate themselves using their fingerprints.
-– Extracted features from fingerprint like termination and bifurcation points.
-– Smart contracts for registering and authenticating in solidity with truffle
-– Web3 py library and flask based backend used to connect different phases.
-– Role - Handled Blockchain based smart contracts and its integration with flask server.
-– Tech Stack and Tools - Python, Flask, web3 py, Solidity, sqlite, truffle, ganache
-• Vaccinometer (Full Stack Webapp) | GitHub Link
-– Drug & medicines authentication and tracking application through Blockchain technology.
-– Progressive Web App using React Hooks and Firebase along with Flask server and SQLite DB.
-– Implemented track of Medicines/Vaccines using QR Code scanning.
-– Role - Handled Backend Development using Flask and database by SQL.
-– Tech Stack and tools - Flask, SQlite, web3 py, ReactJs , Firebase, Solidity, truffle, ganache
-• EazyPay (Full Stack Webapp) | GitHub Link
-– Payment Gateway platform based on Blockchain technology.
-– Progressive Web App using ReactJs and Firebase along with Flask server and SQLite DB.
-– Role - Handled Frontend Development from Scratch with ReactJs and integrated login using Firebase.
-– Tech Stack and tools - Flask, SQlite, web3 py, ReactJs , Firebase, Solidity, truffle, ganache",,,"• Programming Languages: Python, C++, SQL, JAVA, Solidity, HTML/CSS, JavaScript, LUA
-• Web Development:
+Manjot Singh,manjotsingh844.ms@gmail.com,,"[{'university_name': '2023\nNetaji Subhas University', 'course_name': '', 'dates_attended': 'Year', 'marks_or_percentage': '7.89/10', 'additional_info': ['of Technology, Delhi\n7.89/10\nAISSCE (Class XII)\n2018\nSukho Khalsa Senior Secondary School, Delhi\n85%\nAISSE (Class X)\n2016\nDayanand Adarsh Vidyalaya, Delhi\n9.6/10']}]","[{'company_name': '- Developed Plugin using LUA and python based backend server for culling in Lightroom Platform.', 'job_title': 'Software Engineer Intern', 'dates_worked': ""Jan'21 - Feb'21"", 'additional_info': ['Filterpixel', ""Feb'22 - July'22"", '- Worked on the AI culling software, that is designed for photographers to help cull their images automatically.', '- Fixed various bugs that were encountered by the users & worked on the Frontend and Backend part of the software.', '- Technology - Angular, Electron, LUA, Python, Web Development', 'Subject Matter Expert(Computer Science)', 'Chegg Inc.', ""Apr'21 - Jan'22"", '- Solved 350+ questions with detailed explanation on various Computer Science concepts that includes Data Structures,', 'Object Orientation Programming ,Operating Systems, Database Management Systems etc.', '- Clarified follow-up queries of students via comments and forum discussions.', 'Frontend Development Intern', 'Evren Global Solution Pvt. Ltd.']}]",,,"Blockchain based Identity Management System(using Fingerprints)
+- A Platform where users can authenticate themselves using their fingerprints.
+- Extracted features from fingerprint like termination and bifurcation points.
+- Smart contracts for registering and authenticating in solidity with truffle
+- Web3 py library and flask based backend used to connect different phases.
+- Role - Handled Blockchain based smart contracts and its integration with flask server.
+- Tech Stack and Tools - Python, Flask, web3 py, Solidity, sqlite, truffle, ganache
+  Vaccinometer (Full Stack Webapp) | GitHub Link
+- Drug & medicines authentication and tracking application through Blockchain technology.
+- Progressive Web App using React Hooks and Firebase along with Flask server and SQLite DB.
+- Implemented track of Medicines/Vaccines using QR Code scanning.
+- Role - Handled Backend Development using Flask and database by SQL.
+- Tech Stack and tools - Flask, SQlite, web3 py, ReactJs , Firebase, Solidity, truffle, ganache
+  EazyPay (Full Stack Webapp) | GitHub Link
+- Payment Gateway platform based on Blockchain technology.
+- Progressive Web App using ReactJs and Firebase along with Flask server and SQLite DB.
+- Role - Handled Frontend Development from Scratch with ReactJs and integrated login using Firebase.
+- Tech Stack and tools - Flask, SQlite, web3 py, ReactJs , Firebase, Solidity, truffle, ganache",,,"
+Programming Languages: Python, C++, SQL, JAVA, Solidity, HTML/CSS, JavaScript, LUA
+  Web Development:
 Flask, NodeJS, ReactJS, ExpressJS, SQL, MongoDB
-• Machine Learning:
+  Machine Learning:
 Tensorflow, OpenCV, Numpy, Pandas, Matplotlib
 PUBLICATIONS
-• Ensemble Image Explainable AI (XAI) Algorithm for Face Morphing Attack Detection (Deep Learning): Aim to
+  Ensemble Image Explainable AI (XAI) Algorithm for Face Morphing Attack Detection (Deep Learning): Aim to
 be published by Pattern Recognition Journal.
 ACHIEVEMENTS
-• April 2021: Finished in Top 10 teams in MLH Season of 2021, HackVerse 2.0-NITK out of 2800+ participants organized by
+  April 2021: Finished in Top 10 teams in MLH Season of 2021, HackVerse 2.0-NITK out of 2800+ participants organized by
 NIT Surathkal.
-• April 2019: JEE Mains - Secured all india percentile of 98.62
-• Solved 650+ Problems based on Data Structures and Algorithms on Leetcode."
+  April 2019: JEE Mains - Secured all india percentile of 98.62
+  Solved 650+ Problems based on Data Structures and Algorithms on Leetcode."

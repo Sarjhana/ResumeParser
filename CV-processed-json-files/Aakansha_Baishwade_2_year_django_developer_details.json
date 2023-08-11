@@ -25,8 +25,14 @@
     "work_experience": [
         {
             "company_name": "Developed and maintained web applications using Python,",
-            "job_title": "Django, DRF and MySQL.",
-            "dates_worked": "",
+            "job_title": "Jr. Django Developer | RankItRight Media",
+            "dates_worked": "Oct 2021 - OCT 2022",
+            "additional_info": []
+        },
+        {
+            "company_name": "Django, DRF and MySQL.",
+            "job_title": "Django Developer | Intemize",
+            "dates_worked": "Oct 2022 - Present",
             "additional_info": [
                 "Data scraping with BeautifulSoup and Scrapy.",
                 "Developed data caching systems using Redis.",
@@ -48,15 +54,19 @@
                 "Jira/ Excel",
                 "Pandas/ NumPy",
                 "Project name",
-                "Role and Responsibility",
-                "Django Developer | Intemize",
-                "Oct 2022 - Present",
+                "Role and Responsibility"
+            ]
+        },
+        {
+            "company_name": "Create  functions for calculation of BMI and BMR using",
+            "job_title": "Django Developer",
+            "dates_worked": "total experience- 1.7 year's",
+            "additional_info": [
                 "COLLEGE PROJECT",
                 "Role and Responsibility",
                 "Designing and Implementing data storage solutions.",
                 "Creation and Integration of Restful APIs.",
                 "Create model relationships by using Django.",
-                "Create  functions for calculation of BMI and BMR using",
                 "property decorators.",
                 "Email Otp verification.",
                 "Create custom signals for custom Notifications  with",
@@ -73,9 +83,7 @@
                 "with Artificial Intelligence)",
                 "1.",
                 "2.",
-                "3.",
-                "Django Developer",
-                "total experience- 1.7 year's"
+                "3."
             ]
         }
     ],

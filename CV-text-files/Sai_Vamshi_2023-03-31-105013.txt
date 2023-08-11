@@ -5,44 +5,44 @@ Phone no: 9948424434
 Email: saivamshisarab@gmail.com
 Skills
 Frontend
-●
+ 
 HTML
-●
+ 
 CSS
-●
+ 
 Bootstrap
-●
+ 
 JavaScript
-●
+ 
 React.js
 Backend
-●
+ 
 Python
-●
+ 
 Express
-●
+ 
 Node.js
 Data base
-●
+ 
 SQLite
 Other skills
-●
+ 
 .NET
-●
+ 
 AI / ML
-●
+ 
 Android App
-●
+ 
 Angular
-●
+ 
 AngularJS
-●
+ 
 C
-●
+ 
 C++
 Education
 Nxtwave Disruptive Technologies
-Sep ’22 - Ongoing
+Sep '22 - Ongoing
 Industry Ready Certiﬁcation in Full-stack Development
 Mother Teresa PG College, Hyderabad
 2020 - 2022
@@ -61,13 +61,13 @@ Todos Application
 project1_link
 Technologies used : HTML, CSS, JS, Bootstrap
 Developed persistent todo application with CRUD operations to track list of tasks
-●
+ 
 Displayed list of todos with HTML list elements, styled todo list using
 CSS, Bootstrap
-●
+ 
 Implemented todo crud operations by using JavaScript event listeners and
 updated UI dynamically by using JavaScript DOM operations.
-●
+ 
 Used Arrays, Objects and their methods during todolist CRUD
 Operations, Persisted todo list state on page reloads using local storage
 methods.
@@ -76,11 +76,11 @@ project2_link
 Technologies used : HTML, CSS, JS, REST API Calls, Bootstrap
 Developed responsive countries search application which shows all countries and
 respective population in the world. We can also search by speciﬁc country
-●
+ 
 Fetched countries list from server asynchronously using fetch GET HTTP
 API call and implemented responsiveness using Bootstrap grid system
 and CSS box model.
-●
+ 
 - Implemented local search functionality by using input element,
 JavaScript event listeners & ﬁltered countries using Array ﬁlter method.
 Wikipedia Search Application
@@ -89,11 +89,11 @@ Technologies used : HTML, CSS, JS, REST API Calls, Bootstrap
 Developed custom wikipedia search application where user can search and view
 curated results and can see detailed explanation in wikipedia by clicking on the
 speciﬁc result
-●
+ 
 Displayed list of search results with HTML list elements with hyperlink as
 url, styled list using CSS, Bootstrap and implemented responsiveness
 using Flex properties and CSS Box model.
-●
+ 
 Fetched search results from server asynchronously using fetch GET HTTP
 API call. When a user clicks on a particular result, opens the website in a
 new tab by using the target attribute of the anchor tag in HTML.

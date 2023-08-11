@@ -6,37 +6,15 @@
     "work_experience": [
         {
             "company_name": "\u2756 Software Engineer Intern | Nokia Solutions and Networks India Private Limited",
-            "job_title": "",
-            "dates_worked": "",
+            "job_title": "Software Engineer Intern",
+            "dates_worked": "L5, Manayata Tech Park, Bengaluru, Karnataka, 560045",
             "additional_info": [
                 "Company",
-                "",
                 "Nokia Solutions and Networks India Private Limited",
-                "",
                 "Location",
-                "",
-                "L5, Manayata Tech Park, Bengaluru, Karnataka, 560045",
-                "",
                 "Duration",
-                "",
                 "11 months (10/August/2022 to 09/July/2023)",
-                "",
-                "Position",
-                "",
-                "Software Engineer Intern",
-                "",
-                "Technologies",
-                "used",
-                "",
-                "C++, Qt Creator, GDB (GNU DeBugger), Google Test, Google",
-                "Mock, GitLab",
-                "",
-                "",
-                "Responsibilities",
-                "\u2022 Development of various plugins in Nokia\u2019s internal web",
-                "application software product.",
-                "\u2022 Maintenance of the software product.",
-                "\u2022 Debugging and resolving any legacy issues/bugs."
+                "Position"
             ]
         }
     ],

@@ -88,7 +88,7 @@ Decoder: This layer is widely used for the pixel-wise classification task  where
 have to be restored to original input image size. Its aim is to up-sample the image to get the same 
 resolution as the input image.  
  
-The final deconvolution layer ends with one filter, as the image is returned image in the ‘G’ 
+The final deconvolution layer ends with one filter, as the image is returned image in the ‘G' 
 color channel, as we want the predicted lanes to be in green.  
  
 The accuracy was 99% with each epoch where IOU of road pixels had high class score and helps 

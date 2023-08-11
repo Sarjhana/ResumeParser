@@ -2,23 +2,26 @@
     "name": "Shubham Singh",
     "email": "sureshshubham43@gmail.com",
     "phone": "+18563974491",
-    "education": [],
+    "education": [
+        {
+            "university_name": "Bachelor of Technology \nMadan Mohan Malaviya Institute",
+            "course_name": "",
+            "dates_attended": "",
+            "marks_or_percentage": "",
+            "additional_info": [
+                "of\nTechnology \n07/2015 - 05/2019,"
+            ]
+        }
+    ],
     "work_experience": [
         {
             "company_name": "Created Micro Services to handle and process large chunk",
-            "job_title": "of data based on continuous requests.",
-            "dates_worked": "",
+            "job_title": "Software Engineer",
+            "dates_worked": "05/2021 - Present,",
             "additional_info": [
-                "Designed to o\ufb04oad the existing service by Caching.",
-                "Maintained Micro Services using Messaging Protocol.",
-                "Created APIs, designed Database schema required for",
-                "the services.",
-                "Member of Technical Sta\ufb00",
-                "Epikindi\ufb01 Software & Solutions",
-                "07/2020 - 05/2021,",
-                "Integrated APIs with the local \ufb02ow.",
-                "Created a NPM module with more than 20 methods to be",
-                "used internally in the"
+                "High Peak Software",
+                "High Peak Software builds world-class products for small, medium",
+                "and enterprise businesses."
             ]
         }
     ],

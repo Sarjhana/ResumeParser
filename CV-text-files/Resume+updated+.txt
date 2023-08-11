@@ -43,7 +43,7 @@ Hive
 ORM
 MQTT
 INNOMINDS Software pvt.ltd - Big Data Analyst
- 05/2022 – 05/2023 
+ 05/2022 - 05/2023 
 SAS certificate from SAS studio 
 MYSQL training certificate from GreatLearning
 Course completion certificate on cassandra 

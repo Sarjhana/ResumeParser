@@ -4,9 +4,18 @@
     "phone": "",
     "education": [
         {
+            "university_name": "Education\nInternational Institute",
+            "course_name": "mation Technology",
+            "dates_attended": "2016\u00a0-\u00a02018",
+            "marks_or_percentage": "",
+            "additional_info": [
+                "of Infor - Bangalore\nMaster of Technology - MTech,\u00a0Data Science\u00a0\u00b7\u00a0(2016\u00a0-\u00a02018)\nDr."
+            ]
+        },
+        {
             "university_name": "Babasaheb Ambedkar Technological University",
             "course_name": "Bachelor of Technology",
-            "dates_attended": "2016\u00a0-\u00a02018",
+            "dates_attended": "2009\u00a0-\u00a02013",
             "marks_or_percentage": "",
             "additional_info": [
                 ", Lonere - Raigad\n (B.Tech.),\u00a0Information Technology\u00a0\u00b7\u00a0(2009\u00a0-\u00a02013)\nG.V.Khade Vidyalaya Shahapur,Thane,Maharashtra\nScience\u00a0\u00b7\u00a0(2004\u00a0-\u00a02009)\n\u00a0\nPage 5 of 5"
@@ -16,11 +25,20 @@
     "work_experience": [
         {
             "company_name": "Scientist at MiQ (2018 - 2020) and later ascended to the role of Lead",
+            "job_title": "Starting my career in 2013 as a Software Developer focusing on",
+            "dates_worked": "in Data Science (2016 - 2018).",
+            "additional_info": [
+                "backend and API development, I soon pursued my interest in Data",
+                "Science by earning my M.Tech in IT from IIIT Bangalore, specializing",
+                "Upon graduation, I carved out a path in the industry as a Data"
+            ]
+        },
+        {
+            "company_name": "Data Scientist at Oracle (2020 - 2022).",
             "job_title": "",
-            "dates_worked": "Data Scientist at Oracle (2020 - 2022).",
+            "dates_worked": "September 2022. We provide custom AI solutions for clients using",
             "additional_info": [
                 "Inspired by my freelancing success, I founded FutureSmart AI in",
-                "September 2022. We provide custom AI solutions for clients using",
                 "the latest models and techniques in NLP.",
                 "In addition, I run AI Demos, a platform aimed at educating people",
                 "about the latest AI tools through engaging video demonstrations.",
@@ -34,10 +52,7 @@
                 "In the fast-evolving landscape of AI, FutureSmart AI and I stand at",
                 "the forefront, delivering cutting-edge, custom NLP solutions to clients",
                 "across various industries.",
-                "",
                 "Page 1 of 5",
-                "",
-                "",
                 "Upwork Profile: https://www.upwork.com/freelancers/",
                 "~014fdabc6436bf9bd4?viewMode=1",
                 "Experience",

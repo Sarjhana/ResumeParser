@@ -15,29 +15,30 @@
     ],
     "work_experience": [
         {
-            "company_name": "\u2013 Fixed various bugs that were encountered by the users & worked on the Frontend and Backend part of the software.",
-            "job_title": "\u2013 Developed Plugin using LUA and python based backend server for culling in Lightroom Platform.",
-            "dates_worked": "",
+            "company_name": "- Developed Plugin using LUA and python based backend server for culling in Lightroom Platform.",
+            "job_title": "Software Engineer Intern",
+            "dates_worked": "Jan'21 - Feb'21",
             "additional_info": [
-                "\u2013 Technology - Angular, Electron, LUA, Python, Web Development",
-                "\u2022 Subject Matter Expert(Computer Science)",
+                "Filterpixel",
+                "Feb'22 - July'22",
+                "- Worked on the AI culling software, that is designed for photographers to help cull their images automatically.",
+                "- Fixed various bugs that were encountered by the users & worked on the Frontend and Backend part of the software.",
+                "- Technology - Angular, Electron, LUA, Python, Web Development",
+                "Subject Matter Expert(Computer Science)",
                 "Chegg Inc.",
-                "Apr\u201921 - Jan\u201922",
-                "\u2013 Solved 350+ questions with detailed explanation on various Computer Science concepts that includes Data Structures,",
+                "Apr'21 - Jan'22",
+                "- Solved 350+ questions with detailed explanation on various Computer Science concepts that includes Data Structures,",
                 "Object Orientation Programming ,Operating Systems, Database Management Systems etc.",
-                "\u2013 Clarified follow-up queries of students via comments and forum discussions.",
-                "\u2022 Frontend Development Intern",
-                "Evren Global Solution Pvt. Ltd.",
-                "Jan\u201921 - Feb\u201921",
-                "\u2013 Handled FrontEnd part, worked on their landing page and additionally making it suitable to view from mobile devices.",
-                "\u2013 Technology - ReactJS, Redux"
+                "- Clarified follow-up queries of students via comments and forum discussions.",
+                "Frontend Development Intern",
+                "Evren Global Solution Pvt. Ltd."
             ]
         }
     ],
     "linkedin": "",
     "github": "",
-    "projects": "\u2022 Blockchain based Identity Management System(using Fingerprints)\n\u2013 A Platform where users can authenticate themselves using their fingerprints.\n\u2013 Extracted features from fingerprint like termination and bifurcation points.\n\u2013 Smart contracts for registering and authenticating in solidity with truffle\n\u2013 Web3 py library and flask based backend used to connect different phases.\n\u2013 Role - Handled Blockchain based smart contracts and its integration with flask server.\n\u2013 Tech Stack and Tools - Python, Flask, web3 py, Solidity, sqlite, truffle, ganache\n\u2022 Vaccinometer (Full Stack Webapp) | GitHub Link\n\u2013 Drug & medicines authentication and tracking application through Blockchain technology.\n\u2013 Progressive Web App using React Hooks and Firebase along with Flask server and SQLite DB.\n\u2013 Implemented track of Medicines/Vaccines using QR Code scanning.\n\u2013 Role - Handled Backend Development using Flask and database by SQL.\n\u2013 Tech Stack and tools - Flask, SQlite, web3 py, ReactJs , Firebase, Solidity, truffle, ganache\n\u2022 EazyPay (Full Stack Webapp) | GitHub Link\n\u2013 Payment Gateway platform based on Blockchain technology.\n\u2013 Progressive Web App using ReactJs and Firebase along with Flask server and SQLite DB.\n\u2013 Role - Handled Frontend Development from Scratch with ReactJs and integrated login using Firebase.\n\u2013 Tech Stack and tools - Flask, SQlite, web3 py, ReactJs , Firebase, Solidity, truffle, ganache",
+    "projects": "Blockchain based Identity Management System(using Fingerprints)\n- A Platform where users can authenticate themselves using their fingerprints.\n- Extracted features from fingerprint like termination and bifurcation points.\n- Smart contracts for registering and authenticating in solidity with truffle\n- Web3 py library and flask based backend used to connect different phases.\n- Role - Handled Blockchain based smart contracts and its integration with flask server.\n- Tech Stack and Tools - Python, Flask, web3 py, Solidity, sqlite, truffle, ganache\n  Vaccinometer (Full Stack Webapp) | GitHub Link\n- Drug & medicines authentication and tracking application through Blockchain technology.\n- Progressive Web App using React Hooks and Firebase along with Flask server and SQLite DB.\n- Implemented track of Medicines/Vaccines using QR Code scanning.\n- Role - Handled Backend Development using Flask and database by SQL.\n- Tech Stack and tools - Flask, SQlite, web3 py, ReactJs , Firebase, Solidity, truffle, ganache\n  EazyPay (Full Stack Webapp) | GitHub Link\n- Payment Gateway platform based on Blockchain technology.\n- Progressive Web App using ReactJs and Firebase along with Flask server and SQLite DB.\n- Role - Handled Frontend Development from Scratch with ReactJs and integrated login using Firebase.\n- Tech Stack and tools - Flask, SQlite, web3 py, ReactJs , Firebase, Solidity, truffle, ganache",
     "certifications": null,
     "extra": null,
-    "skills": "\u2022 Programming Languages: Python, C++, SQL, JAVA, Solidity, HTML/CSS, JavaScript, LUA\n\u2022 Web Development:\nFlask, NodeJS, ReactJS, ExpressJS, SQL, MongoDB\n\u2022 Machine Learning:\nTensorflow, OpenCV, Numpy, Pandas, Matplotlib\nPUBLICATIONS\n\u2022 Ensemble Image Explainable AI (XAI) Algorithm for Face Morphing Attack Detection (Deep Learning): Aim to\nbe published by Pattern Recognition Journal.\nACHIEVEMENTS\n\u2022 April 2021: Finished in Top 10 teams in MLH Season of 2021, HackVerse 2.0-NITK out of 2800+ participants organized by\nNIT Surathkal.\n\u2022 April 2019: JEE Mains - Secured all india percentile of 98.62\n\u2022 Solved 650+ Problems based on Data Structures and Algorithms on Leetcode."
+    "skills": "\nProgramming Languages: Python, C++, SQL, JAVA, Solidity, HTML/CSS, JavaScript, LUA\n  Web Development:\nFlask, NodeJS, ReactJS, ExpressJS, SQL, MongoDB\n  Machine Learning:\nTensorflow, OpenCV, Numpy, Pandas, Matplotlib\nPUBLICATIONS\n  Ensemble Image Explainable AI (XAI) Algorithm for Face Morphing Attack Detection (Deep Learning): Aim to\nbe published by Pattern Recognition Journal.\nACHIEVEMENTS\n  April 2021: Finished in Top 10 teams in MLH Season of 2021, HackVerse 2.0-NITK out of 2800+ participants organized by\nNIT Surathkal.\n  April 2019: JEE Mains - Secured all india percentile of 98.62\n  Solved 650+ Problems based on Data Structures and Algorithms on Leetcode."
 }

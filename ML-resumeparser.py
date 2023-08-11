@@ -21,6 +21,14 @@ def pdf_to_text(pdf_path, output_directory):
         full_text += page.get_text()
     pdf_document.close()
 
+    # Handle and remove special characters
+    full_text = full_text.replace("\u2022", " ")  # Bullet
+    full_text = full_text.replace("\u25cf", " ")  # Black Circle
+    full_text = full_text.replace("\u25cb", " ")  # White Circle
+    full_text = full_text.replace('\u2019', "'")  # Apostrophe
+    full_text = full_text.replace('\u2013', '-')  # Hyphen or Dash
+    full_text = full_text.replace('\ufffd', '')   # Unknown special character
+
     # Generate the output .txt file name based on the PDF file name
     txt_file_name = os.path.splitext(os.path.basename(pdf_path))[0] + ".txt"
 
@@ -31,6 +39,7 @@ def pdf_to_text(pdf_path, output_directory):
         print(f"Writing txt file for {txt_file_name}")
 
     return txt_file_path
+
 
 def extract_name(doc):
     for ent in doc.ents:
@@ -63,12 +72,43 @@ def extract_phone_number(text):
             return phone_number
     return ""
 
+def extract_dates_from_regex(text):
+    # Extract dates with formats like "2022 - Present", "2021 - 2023", "2021 - Now"
+    return re.findall(r'\d{4} - (?:\d{4}|Present|Now)', text, re.I)
+
 def extract_dates_from_spacy(doc):
     dates = []
+    
+    # Pattern to match various date formats
+    date_pattern = re.compile(r'''
+    (?:
+        # DD/MM/YYYY or MM/DD/YYYY format
+        (?:[0-2]?[0-9]|3[0-1])[/\-](?:0?[1-9]|1[0-2])[/\-]\d{4}
+    )|
+    (?:
+        # MM/YYYY format
+        (?:0?[1-9]|1[0-2])/\d{4}
+    )|
+    (?:
+        # Month DD, YYYY format
+        (?:January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2},\s+\d{4}
+    )|
+    (?:
+        # DD Month YYYY format
+        \d{1,2}\s+(?:January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{4}
+    )|
+    (?:
+        # YYYY-MM-DD format
+        \d{4}[\-](?:0?[1-9]|1[0-2])[\-](?:[0-2]?[0-9]|3[0-1])
+    )
+    ''', re.VERBOSE)
+
     for ent in doc.ents:
-        if ent.label_ == "DATE":
+        # Check if the entity is a date or a valid formatted cardinal
+        if ent.label_ == "DATE" or (ent.label_ == "CARDINAL" and date_pattern.match(ent.text.strip())):
             dates.append(ent.text.strip())
     return dates
+
 
 def extract_section_items(text, section_name):
     section_header = rf"\b{section_name}\b"
@@ -102,48 +142,53 @@ def divide_into_sections(text):
     section_variations = {
         "Skills": ["Skills", "Technical Skills", "Key Skills"],
         "Education": ["Education", "Educational Background", "Academic Qualifications", "Academic details"],
-        "Work Experience": ["Work Experience", "Experience", "Professional Experience"],
+        "Work Experience": ["Work Experience", "Experience", "Professional Experience", "Employment History"],
         "Projects": ["Projects", "Key Projects"],
         "Certifications":["Certifications"],
         "Extra":["Extracurricular", "Leadership", "Leadership roles and responsibilities", "Additional responsibilities", "Interests", "Hobbies", "Interests and Hobbies"]
     }
 
     text_lower = text.lower()
-    section_indexes = {}
+    section_indexes = []
 
-    # Search for each variation and keep the earliest index
+    # Search for each variation and record the earliest index
     for main_title, variations in section_variations.items():
         for variation in variations:
             idx = text_lower.find(variation.lower())
             if idx != -1:
-                # If the section title hasn't been found yet or a new earlier index is found, update
-                if main_title not in section_indexes or idx < section_indexes[main_title]:
-                    section_indexes[main_title] = idx
+                section_indexes.append((main_title, idx))
 
     # If no sections are found, return an empty dictionary
     if not section_indexes:
         return {}
 
     # Sort the section titles based on their order in the text
-    sorted_titles = sorted(section_indexes, key=section_indexes.get)
+    sorted_sections = sorted(section_indexes, key=lambda x: x[1])
 
     # Slice the text to extract each section
-    for i in range(len(sorted_titles)):
-        start_index = section_indexes[sorted_titles[i]]
-
+    for i in range(len(sorted_sections)):
+        main_title, start_index = sorted_sections[i]
+        
         # Move start index to the next line after the heading
         next_line_start = text.find('\n', start_index) + 1
         if next_line_start != -1:  # If there's a new line after the heading
             start_index = next_line_start
 
-        end_index = section_indexes[sorted_titles[i + 1]] if i + 1 < len(sorted_titles) else len(text)
-        sections[sorted_titles[i]] = text[start_index:end_index].strip()
+        end_index = sorted_sections[i + 1][1] if i + 1 < len(sorted_sections) else len(text)
+        section_content = text[start_index:end_index].strip()
+
+        # Check if the section already exists in the dictionary, if so append, otherwise set
+        if main_title in sections:
+            sections[main_title] += "\n" + section_content
+        else:
+            sections[main_title] = section_content
 
     return sections
 
-def extract_dates_from_regex(text):
-    # Extract dates with formats like "2022 - Present", "2021 - 2023", "2021 - Now"
-    return re.findall(r'\d{4} - (?:\d{4}|Present|Now)', text, re.I)
+def is_job_title(line):
+    common_identifiers = ["engineer", "developer", "manager", "analyst", "consultant", "specialist", "senior", "junior", "lead", "principal", "assistant", "associate", "executive", "director", "head", "chief", "vp", "vice president", "informatician"]
+    line = line.lower()
+    return any(identifier in line for identifier in common_identifiers)
 
 def extract_work_experience_section(text):
     work_experience_details = []
@@ -154,52 +199,38 @@ def extract_work_experience_section(text):
     dates_regex = extract_dates_from_regex(text)
     dates = list(set(dates_spacy + dates_regex))
 
-    lines = text.split('\n')
+    lines = [line for line in text.split('\n') if line.strip()]
     i = 0
+
     while i < len(lines):
-        line = lines[i].strip()
+        company_name, job_title, date_worked, additional_details = '', '', '', []
+        parsed_categories = set()
 
-        # Check with SpaCy if it's recognized as a company
-        doc_line = nlp(line)
-        if any(ent.label_ == "ORG" for ent in doc_line.ents):
-            company_name = line
+        while i < len(lines) and len(parsed_categories) < 3:  # Continue until we've found all three categories
+            line = lines[i].strip()
+            doc_line = nlp(line)
 
-            job_title = ''
-            date_worked = ''
-            # Check the next line for job title or date
-            if i + 1 < len(lines):
-                next_line = lines[i + 1].strip()
-                doc_next_line = nlp(next_line)
-                if any(ent.label_ == "DATE" for ent in doc_next_line.ents) or any(date in next_line for date in dates):
-                    date_worked = next_line
-                    i += 2
-                else:
-                    job_title = next_line
-                    # Check the line after the job title for a date
-                    if i + 2 < len(lines) and (any(date in lines[i + 2] for date in dates) or any(ent.label_ == "DATE" for ent in nlp(lines[i + 2].strip()).ents)):
-                        date_worked = lines[i + 2].strip()
-                        i += 3
-                    else:
-                        i += 2
+            if 'ORG' not in parsed_categories and any(ent.label_ == "ORG" for ent in doc_line.ents):
+                company_name = line
+                parsed_categories.add('ORG')
+            elif 'TITLE' not in parsed_categories and is_job_title(line):
+                job_title = line
+                parsed_categories.add('TITLE')
+            elif 'DATE' not in parsed_categories and (any(ent.label_ == "DATE" for ent in doc_line.ents) or any(date in line for date in dates)):
+                date_worked = line
+                parsed_categories.add('DATE')
+            else:
+                additional_details.append(line)
 
-            # Gather additional details until the next company or the end of the list
-            additional_details = []
-            max_iterations = len(lines) * 20
-            current_iterations = 0
+            i += 1
 
-            while i < len(lines) and current_iterations < max_iterations:
-                current_iterations += 1
-                additional_details.append(lines[i].strip())
-                i += 1
-
+        if (company_name or job_title) and date_worked:
             work_experience_details.append({
                 'company_name': company_name,
                 'job_title': job_title,
                 'dates_worked': date_worked,
                 'additional_info': additional_details
             })
-        else:
-            i += 1
 
     return work_experience_details
 
@@ -210,7 +241,7 @@ def extract_education_section(text):
     doc = nlp(education_section_text)
     dates = extract_dates_from_spacy(doc)
     
-    university_pattern = r"((?:[\w\s'’]+?(?: University| College))(?=[\s,;]|\n))"
+    university_pattern = r"((?:[\w\s'’]+?(?: University| College| Institute| Institution))(?=[\s,;]|\n))"
     university_matches = re.split(university_pattern, education_section_text)[1:]
 
     for i in range(0, len(university_matches), 2):
@@ -245,8 +276,6 @@ def extract_details_from_text(text):
     name = extract_name(nlp(text))
     email = extract_email(text)
 
-    linkedin_regex = r'https?://(www\.)?linkedin\.com/'
-    github_regex = r'https?://(www\.)?github\.com/'
     linkedin_url = extract_linkedin_url(text)
     github_url = extract_github_url(text)
 
@@ -256,7 +285,6 @@ def extract_details_from_text(text):
 
     if 'Education' in sections:
         education_text = sections["Education"]
-        print(education_text)
         education_details = extract_education_section(education_text)
     else:
         education_details = None

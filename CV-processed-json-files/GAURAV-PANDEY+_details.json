@@ -1,5 +1,5 @@
 {
-    "name": "Linkedin",
+    "name": "Mahatma Jyotiba Phule",
     "email": "",
     "phone": "",
     "education": [
@@ -15,42 +15,39 @@
     ],
     "work_experience": [
         {
-            "company_name": "\u25cf  Developed a responsive website clone of  MbaChaiWala  for practicing ReactJS skills and gaining hands-on",
-            "job_title": "experience in building modern web applications.",
-            "dates_worked": "",
+            "company_name": "Developed a responsive website clone of  MbaChaiWala  for practicing ReactJS skills and gaining hands-on",
+            "job_title": "",
+            "dates_worked": "MbaChaiWala",
             "additional_info": [
-                "\u25cf  Utilized ReactJS, a popular JavaScript library for creating dynamic user interfaces, to replicate the functionalities",
+                "Github  |  Deployment",
+                "experience in building modern web applications.",
+                "Utilized ReactJS, a popular JavaScript library for creating dynamic user interfaces, to replicate the functionalities",
                 "and design of  MbaChaiWala  website.",
                 "ChatBook",
                 "Github  |  Deployment",
-                "\u25cf  Created a group chat web app using ReactJS, Chakra UI, and Firebase for authentication and database",
+                "Created a group chat web app using ReactJS, Chakra UI, and Firebase for authentication and database",
                 "functionalities.",
-                "\u25cf  Implemented Google email ID authentication for secure and personalized chat experience in the web app.",
+                "Implemented Google email ID authentication for secure and personalized chat experience in the web app.",
                 "Skiecues",
                 "Github  |  Deployment",
-                "\u25cf  Developed Skiecues, a web app using HTML, CSS, and JavaScript that displays weather forecast for",
+                "Developed Skiecues, a web app using HTML, CSS, and JavaScript that displays weather forecast for",
                 "user-speci\ufb01ed locations using OpenWeather API.",
-                "\u25cf  Implemented accurate weather data retrieval and display features for enhanced user experience in Skiecues web",
+                "Implemented accurate weather data retrieval and display features for enhanced user experience in Skiecues web",
                 "app.",
                 "Achievements",
                 "-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
-                "\u25cf",
                 "Winner  of Inter university  Frontend development challenge Webathon 2.0",
-                "\u25cf",
                 "Global rank  2231  of 9000+ in  CodeChef starters  2022 (Div. 3).",
-                "\u25cf",
                 "Secured global rank  26  in  Codechef april long challenge",
-                "\u25cf",
                 "Google Cloud Ready  facilitator Program Fellow 2022 ,Google skill boost profile  CloudSkillBoost",
-                "\u25cf",
                 "Designated as  Chegg SPARK PLUG  for providing good solutions from chegg.inc."
             ]
         }
     ],
     "linkedin": "",
     "github": "",
-    "projects": "----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- \n Musify \n Github  |  Deployment \n \u25cf  Created a feature-rich music player web app using HTML, CSS, and JavaScript, with functionalities like adding, \n playing, pausing, and seeking songs. \n \u25cf  Implemented responsive design using CSS for an aesthetically pleasing and user-friendly music player",
+    "projects": "----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- \n Musify \n Github  |  Deployment \n    Created a feature-rich music player web app using HTML, CSS, and JavaScript, with functionalities like adding, \n playing, pausing, and seeking songs. \n    Implemented responsive design using CSS for an aesthetically pleasing and user-friendly music player",
     "certifications": null,
     "extra": null,
-    "skills": "----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- \n \u25cb  Languages :  C/C++  HTML  CSS  Javascript  MySql  Java \n \u25cb  Frameworks :  Bootstrap v5.1  ReactJS \n \u25cb  Git  Github  VSCode  Linux  DSA  GCP  Computer Network  ADA  WebServices(REST/SOAP)"
+    "skills": "----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- \n    Languages :  C/C++  HTML  CSS  Javascript  MySql  Java \n    Frameworks :  Bootstrap v5.1  ReactJS \n    Git  Github  VSCode  Linux  DSA  GCP  Computer Network  ADA  WebServices(REST/SOAP)"
 }

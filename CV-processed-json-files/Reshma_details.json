@@ -16,35 +16,18 @@
     "work_experience": [
         {
             "company_name": "languages like Python.",
-            "job_title": "MY SKILLS & EXPERTISE",
-            "dates_worked": "",
+            "job_title": "As a Data Analyst in the Stormx Project, I have worked",
+            "dates_worked": "As a Data Analyst for 8 months in the Bespin Project,",
             "additional_info": [
-                "WORK EXPERIENCE",
-                "As a Data Analyst in the Stormx Project, I have worked",
+                "experience in collecting, analyzing,transforming and",
+                "interpreting complex Data. Proficient in vizualization",
+                "tools like Looker, Data Studio and Programming",
+                "MY SKILLS & EXPERTISE",
                 "with a variety of data sources, including Amplitude,",
                 "Braze, Branch, Google Play Store, MongoDB, Postgres,",
                 "and MySQL, and migrated data into BigQuery.  Also",
                 "executed queries in BigQuery and visualized the results",
-                "using Looker and Data Studio.",
-                "As a Data Analyst for 8 months in the Bespin Project,",
-                "worked with data from various sources and migrated",
-                "it to BigQuery using Fivetran.By processing complex",
-                "BigQuery data , created interactive dashboards in",
-                "Looker.",
-                "STORMX - APTON WORKS",
-                "2022 SEP - Present",
-                "2022     FEB  - SEP",
-                "DBMS                                                    : Mysql ,Mongodb",
-                "2021",
-                "Python Fullstack",
-                "Development",
-                "Quest Innovative",
-                "Solution Pvt.Ltd,Calicut",
-                "Operating  Systems                     : Windows ,Linux,macOS",
-                "Version Control System            : Git",
-                "ETL                                                        : Fivetran",
-                "BESPIN - APTON WORKS",
-                "INTERNSHIP"
+                "using Looker and Data Studio."
             ]
         }
     ],

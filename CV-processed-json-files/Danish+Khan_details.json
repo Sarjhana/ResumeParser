@@ -6,9 +6,10 @@
     "work_experience": [
         {
             "company_name": "SKILLS & ABILITIES",
-            "job_title": "Python",
-            "dates_worked": "",
+            "job_title": "K.K COLLAGE OF ENGINEERING AND MANAGEMENT",
+            "dates_worked": "Cloud Platform) 2 months program",
             "additional_info": [
+                "Python",
                 "Django | Flask|Fast Api",
                 "Pandas|Numpy|Scikit",
                 "Learn|Seaboarn|Spacy|TF.2O",
@@ -20,8 +21,6 @@
                 "Google Cloud Platform | Microsoft-",
                 "Azure | HEROKU | AWS",
                 "CODE2HELL.AZUREWEBSITES.NET/",
-                "",
-                "",
                 "SUMMARY",
                 "I am proficiently in python and",
                 "have built Games like Flappy Bird,",
@@ -38,7 +37,6 @@
                 "Sentiment Analysis,House price",
                 "predictor and few NLP projects.",
                 "I have completed Qwiklabs(Google",
-                "Cloud Platform) 2 months program",
                 "and earn skill certificates and",
                 "google swags.",
                 "I've also partifcipate on OpenSorce",
@@ -46,24 +44,25 @@
                 "rewarded by them",
                 "DANISH KHAN",
                 "DHANBAD, JHARKHAND, INDIA",
-                "EDUCATIONAL HISTORY",
-                "K.K COLLAGE OF ENGINEERING AND MANAGEMENT",
+                "EDUCATIONAL HISTORY"
+            ]
+        },
+        {
+            "company_name": "Computer Science & Engineering \u00b7 (2019 - 2023)",
+            "job_title": "",
+            "dates_worked": "12TH SCIENCE  \u00b7 (2019)",
+            "additional_info": [
                 "DHANBAD",
                 "Bachelor of Technology - BTech",
-                "Computer Science & Engineering \u00b7 (2019 - 2023)",
                 "Grade: 7.8 CGPA",
                 "AHSAN ALAM MEMORIAL COLLAGE",
-                "12TH SCIENCE  \u00b7 (2019)",
                 "Grade: 60%",
                 "Dhanbad city school",
                 "10TH  \u00b7 (2017)",
                 "Grade: 8.4 CGPA",
                 "KHAND7661@GMAIL.COM",
-                "",
-                "",
                 "HTTPS://WWW.LINKEDIN.COM/IN/DANISHKHAN420/",
                 "HTTPS://GITHUB.COM/KHAND420",
-                "",
                 "+91 9110187713"
             ]
         }

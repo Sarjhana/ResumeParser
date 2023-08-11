@@ -16,15 +16,16 @@
     "work_experience": [
         {
             "company_name": "QuestionPro pvt. Ltd. , Pune (Remote) \u2014 Full stack developer (React | Java |",
-            "job_title": "Spring Boot | Struts | JSPs | MySQL)",
+            "job_title": "Infosys Ltd, Bangalore (Remote) \u2014 Specialist Programmer (Kotlin | SpringBoot |",
             "dates_worked": "August 2022 - PRESENT",
             "additional_info": [
+                "Spring Boot | Struts | JSPs | MySQL)",
                 "QuestionPro is a web based software for creating and distributing surveys. It consists of an intuitive wizard interface for",
                 "creating survey questions, tools for distributing your survey via email or your website, and tools for analyzing and viewing",
                 "your results.",
                 "1.",
                 "Developed a user-friendly dashboard for managing survey responses, incorporating \ufb01lter",
-                "options for e\ufffdcient data management.",
+                "options for ecient data management.",
                 "2.",
                 "Developed an API that allowed clients to submit responses for Customer Experience",
                 "surveys, streamlining data collection.",
@@ -36,14 +37,19 @@
                 "5.",
                 "Resolved UI bugs in the React codebase, ensuring a smooth user experience.",
                 "6.",
-                "Documented new code and maintained legacy code, fostering an organized and e\ufffdcient",
+                "Documented new code and maintained legacy code, fostering an organized and ecient",
                 "development environment.",
                 "7.",
                 "Applied Agile methodology in software development, promoting collaboration,",
-                "adaptability, and continuous improvement.",
-                "Infosys Ltd, Bangalore (Remote) \u2014 Specialist Programmer (Kotlin | SpringBoot |",
+                "adaptability, and continuous improvement."
+            ]
+        },
+        {
+            "company_name": "Proof of Performance Data Services Pvt Ltd is servicing a fragmented outdoor advertising Industry, on a Pan-India basis",
+            "job_title": "",
+            "dates_worked": "September 2021 - August 2022 |Relieving Letter",
+            "additional_info": [
                 "Junit5 | Mockito)",
-                "September 2021 - August 2022 |Relieving Letter",
                 "1.",
                 "Developed a backend service from scratch to initialize beans at server startup, reducing",
                 "latency from 4 ms to 2 ms and enhancing performance.",
@@ -63,7 +69,6 @@
                 "Proof of performance data services pvt. Ltd. , Noida \u2014 IT App Development",
                 "intern (Python | Kivy | MySQL)",
                 "January 2021 - February 2021 | Internship Certi\ufb01cate",
-                "Proof of Performance Data Services Pvt Ltd is servicing a fragmented outdoor advertising Industry, on a Pan-India basis",
                 "1.",
                 "Developed a standalone desktop application that visualized a list of GPS coordinates on a",
                 "map while concurrently playing a pre-recorded video of the route, providing a",
@@ -75,8 +80,8 @@
     ],
     "linkedin": "https://linkedin.com/in/raunak-burrows/",
     "github": "",
-    "projects": "\u25cf\nRe\ufb02ex Test (3rd year) Source Code\n\u25cf\nJarvis-AI (4th year) Source Code",
+    "projects": "Re\ufb02ex Test (3rd year) Source Code\n \nJarvis-AI (4th year) Source Code",
     "certifications": "1.\n430 AIR in infytq_prep hackerrank\ncontest\n2.\nCleared infytq \ufb01nal coding round\nwith 65+%\n3.\nHackerrank problem solving\ncerti\ufb01cate\n4.\nAIIMS Raipur - Online CME on\nArti\ufb01cial Intelligence in Health Care.\n5.\nPython Linkedin Skill Badge\n6.\nOOPS Linkedin Skill Badge\nPROJECTS\n1.\n3D model of Sun, Moon, Earth\nProject live here\nSource Code",
     "extra": null,
-    "skills": "1.\nLanguages - Java 8, Python 3, Kotlin,\nJavascript\n2.\nObject-oriented programming, Low\nLevel Design (SOLID principles),\nDesign Patterns\n3.\nREST APIs, Distributed Systems,\nMicro-service Architecture, Basic\nHigh Level Design.\n4.\nDatabases \u2013 MySQL\n5.\nFrontEnd Frameworks - React, Redux\n6.\nBackEnd Frameworks -\n\u25cf\nSpring \u2013 Boot /Security / Data\nJPA / MVC\n\u25cf\nStruts\n\u25cf\nExpress.js\n7.\nTesting Frameworks - Junit 5,\nMockito\n8.\nBuild Tools \u2013 Maven\n9.\nRepository Management tools \u2013 Git\nand Github\n10.\nOS - Windows10/11, MacOS, Fedora34\n(Linux)\n11.\nTicket Management Tool - JIRA,\nYoutrack\nAWARDS and"
+    "skills": "1.\nLanguages - Java 8, Python 3, Kotlin,\nJavascript\n2.\nObject-oriented programming, Low\nLevel Design (SOLID principles),\nDesign Patterns\n3.\nREST APIs, Distributed Systems,\nMicro-service Architecture, Basic\nHigh Level Design.\n4.\nDatabases - MySQL\n5.\nFrontEnd Frameworks - React, Redux\n6.\nBackEnd Frameworks -\n \nSpring - Boot /Security / Data\nJPA / MVC\n \nStruts\n \nExpress.js\n7.\nTesting Frameworks - Junit 5,\nMockito\n8.\nBuild Tools - Maven\n9.\nRepository Management tools - Git\nand Github\n10.\nOS - Windows10/11, MacOS, Fedora34\n(Linux)\n11.\nTicket Management Tool - JIRA,\nYoutrack\nAWARDS and"
 }

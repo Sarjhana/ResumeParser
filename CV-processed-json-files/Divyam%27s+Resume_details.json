@@ -13,10 +13,20 @@
             ]
         }
     ],
-    "work_experience": [],
+    "work_experience": [
+        {
+            "company_name": "",
+            "job_title": "Backend Engineer",
+            "dates_worked": "02/2023 - Present,",
+            "additional_info": [
+                "Frytx",
+                "PERSONAL"
+            ]
+        }
+    ],
     "linkedin": "",
     "github": "https://github.com/divyammakhaik01",
-    "projects": "QUIZ \nAdmin(Teacher ) can create test and unique test link will be generated \nAdmin(Teacher ) can also view all the created test links \nAdmin (Teacher) can also activate and deactivate the test link. \nUser (Student) can give test and score along with a line graph (attempted vs correct)will be created . \nUser (Student) will get next easy question if user will give an incorrect answer . \nUser (Student) will get next hard question if user will give an correct answer . \nTech Stack used : React , d3.js , TailwindCSS , Nodejs(Express js) , MongoDB \nGithub : https://github.com/divyammakhaik01/Quiz123 \nLink : https://quiz0123.onrender.com \nShare-IT \nUser can upload document (ie jpg , jpeg , word , pdf , etc) and unique URL will be created . \nUser can share the URL with friends via mail or manually by copying. \nTech Stack used : Nodejs(Express js) , MongoDB , EJS , tailwindcss \nTools : VS CODE IDE , PostMan \nGithub : https://github.com/divyammakhaik01/Share-IT \nLink : https://share-it-y229.onrender.com \nURL_Shortner \nUser can add long url and it will convert it into short url. \nTech Stack used : Nodejs(Express.js), MongoDB, EJS , tailwind CSS \nTools: VS Code IDE \nGitHub : https://github.com/divyammakhaik01/url_shortner \nLink : https://short-url-znf2.onrender.com \nGeneral_store \nImplemented general store using OOP\u2019s concepts. \nadmin can ( add_product , edit_product , delete_product) \nuser can buy items from store . \nTech Stack used : C++ \nTools : Sublime Text 3. \nGitHub link : https://github.com/divyammakhaik01/General-Store \nCODING PROFILES \nLeetcode : https://leetcode.com/Divyam01/ \nGFG : https://auth.geeksforgeeks.org/user/divyammakhaik \nGithub : https://github.com/divyammakhaik01",
+    "projects": "QUIZ \nAdmin(Teacher ) can create test and unique test link will be generated \nAdmin(Teacher ) can also view all the created test links \nAdmin (Teacher) can also activate and deactivate the test link. \nUser (Student) can give test and score along with a line graph (attempted vs correct)will be created . \nUser (Student) will get next easy question if user will give an incorrect answer . \nUser (Student) will get next hard question if user will give an correct answer . \nTech Stack used : React , d3.js , TailwindCSS , Nodejs(Express js) , MongoDB \nGithub : https://github.com/divyammakhaik01/Quiz123 \nLink : https://quiz0123.onrender.com \nShare-IT \nUser can upload document (ie jpg , jpeg , word , pdf , etc) and unique URL will be created . \nUser can share the URL with friends via mail or manually by copying. \nTech Stack used : Nodejs(Express js) , MongoDB , EJS , tailwindcss \nTools : VS CODE IDE , PostMan \nGithub : https://github.com/divyammakhaik01/Share-IT \nLink : https://share-it-y229.onrender.com \nURL_Shortner \nUser can add long url and it will convert it into short url. \nTech Stack used : Nodejs(Express.js), MongoDB, EJS , tailwind CSS \nTools: VS Code IDE \nGitHub : https://github.com/divyammakhaik01/url_shortner \nLink : https://short-url-znf2.onrender.com \nGeneral_store \nImplemented general store using OOP's concepts. \nadmin can ( add_product , edit_product , delete_product) \nuser can buy items from store . \nTech Stack used : C++ \nTools : Sublime Text 3. \nGitHub link : https://github.com/divyammakhaik01/General-Store \nCODING PROFILES \nLeetcode : https://leetcode.com/Divyam01/ \nGFG : https://auth.geeksforgeeks.org/user/divyammakhaik \nGithub : https://github.com/divyammakhaik01",
     "certifications": null,
     "extra": "Playing Cricket \nListening to music \nyoga",
     "skills": "c \nc++ \nJavascript \njava \npython \nHTML/CSS \nLinux \ntailwindcss \nNodejs \nBootstrap \nGit \nMongoDB \nMy SQL \nEJS \nReact \nREST API \npuppeteer \nLANGUAGES \nEnglish \nFull Professional Pro\ufb01ciency \nHindi \nFull Professional Pro\ufb01ciency"
