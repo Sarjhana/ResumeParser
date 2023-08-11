@@ -1,2 +1,27 @@
-name,email,phone,education,work_experience,linkedin,github
-MERN,,,,[],,
+name,email,phone,education,work_experience,linkedin,github,projects,certifications,extra,skills
+MERN,,,,[],,,"2022  
+LibraryManagementSystem -  Web Application  
+The website is designed to host in XAMPP local server. It's an 
+interactive web platform, designed using HTML5, CSS3, Laravel 
+and MySQL  
+2022  
+Online Vaccination System -  Web Application The website is 
+designed to host in XAMPP local server. It's an interactive web 
+platform, designed using HTML5, CSS3,  
+Laravel and MySQL  
+ 
+2022 
+EasyDelivery – is E-commerce web application  
+This application is designed by MERN With AWS 
+I designed and developed for PRODIGIT.in which is an 
+Indian company 
+ 
+2023  
+WEBH – is web application  
+This application is designed by MERN With AWS 
+I designed and developed for PRODIGIT.in which is an 
+Indian company(https://mywebh.com) 
+ 
+2023  
+NETFLIX clone– is web application  
+This application is designed by MERN",,,

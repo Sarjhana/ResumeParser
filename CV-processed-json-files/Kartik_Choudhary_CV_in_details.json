@@ -46,5 +46,9 @@
         }
     ],
     "linkedin": "",
-    "github": ""
+    "github": "",
+    "projects": "\u2022 Text Extraction and Analysis using NLP\n\u2022 Covid-19 Data Visualization.\n\u2022 URL Shortner in Serverless Architecture.\n\u2022 Web Scraping and API development with\nBeautiful Soup and Flask.\n\u2022 Smart Notice Board using Raspberry pi.\n\u2022 Time Series Analysis of Sales Data.",
+    "certifications": "\u2022 Docker for Developers by LinkedIn\nLearning.\n\u2022 AWS Technical Essentials by AWS\n\u2022 Big Data Analytics with Hadoop and\nApache Spark.\n\u2022 DevOps Foundations: Continuous\nDelivery/Continuous Integration\nREFERENCES\n\u2022 Avinash Permude, LinkedIn -\n9986068473/apermude@linkedin.com\n\u2022 Daljeet Singh Malhotra, Flairlabs -\n9820261930/daljeet@\ufb02airlabs.com",
+    "extra": null,
+    "skills": "Python\nAPI\nFlask\nSQL\nNoSQL\nScrum\nMachine Learning\nWeb Scraping\nGit\nPytorch\nPandas\nData Visualization\nMatplotlib\nNumpy\nAWS\nDocker\nData Analysis\nObject Oriented Programming\nPerformance and Scalability Optimization\nACADEMIC/PERSONAL"
 }

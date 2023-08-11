@@ -1,2 +1,62 @@
-name,email,phone,education,work_experience,linkedin,github
-Kyrion,rampukaryadav073@gmail.com,+919643579827,[],[],,
+name,email,phone,education,work_experience,linkedin,github,projects,certifications,extra,skills
+Kyrion,rampukaryadav073@gmail.com,+919643579827,[],[],,,"ABOUT ME
+Hardworking and passionate Full Stack Web
+Developer proficient in front-end and back-end
+technologies such as React, Redux and nodejs.
+Hands-on","Ethical Hacking from Kyrion at IIT Delhi
+Web Development for Beginners from
+Codekaro
+Master Diploma in Computer Information &
+System Management from Web Net Infotech
+Pvt Ltd
+Rampukar Yadav
+Full Stack Web Developer
+rampukaryadav073@gmail.com
+github.com/Imaryan08
+linkedin.com/in/rampukaryadav
+New Delhi, India
+https://rampukaryadav.vercel.app
++91-9643579827
+EXPERIENCE
+Masai School - Nolan Edtech Private Limited
+Instructional Associate 
+May 2022 - Feb 2023, Bengaluru
+Responsible for mentoring over 70 students for all
+technical queries through Daily Standup.
+Conducting Assessments for periodic evaluations.
+Facilitated office hours or problem-solving classes.
+Amazon Prime Video - Clone
+A web application (OTT platform) for movies and TV shows.
+Sign-in/Sign-up using local-storage
+User authentication
+Payment method
+Features:
+Built Home page, Payment page, Signup, and Sign-in page.
+Leading the Team
+Areas of Responsibility:
+Tech Stack: HTML | CSS | JavaScript | Bootstrap
+A collaborative project developed by a team of 4 in 4 days.
+Blinkit/Grofers - Clone
+A web application to buy grocery items.
+Location-based stores
+User authentication
+Sign-in/Sign-up page
+Features:
+Built Product page, Navbar, and Payment page. 
+Leading the Team and managing Git-repository
+Areas of Responsibility:
+Tech Stack: HTML | CSS | JavaScript | Bootstrap
+A collaborative project developed by a team of 4 in 4 days.",,"Problem-Solving
+Time Management
+Teamwork
+Remote Collaboration
+Mentorship
+SKILLS & FRAMEWORKS
+Data Structure & Algorithm
+HTML
+CSS
+JavaScript
+React
+node.js
+Git
+Express"

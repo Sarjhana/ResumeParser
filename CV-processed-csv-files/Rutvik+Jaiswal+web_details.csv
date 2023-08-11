@@ -1,2 +1,85 @@
-name,email,phone,education,work_experience,linkedin,github
-React JS,rutvikjaiswal195@gmail.com,+919673062604,[],[],,https://github.com/sunnyar
+name,email,phone,education,work_experience,linkedin,github,projects,certifications,extra,skills
+React JS,rutvikjaiswal195@gmail.com,+919673062604,[],[],,https://github.com/sunnyar,Python programming,,,"Summary
+Rutvik S Jaiswal
+Python Developer
+rutvik_jaiswal
+Collected and processed quality data for computer vision model training.
+Developed end-to-end pipeline for data collection, model training, prediction, and deployment.
+Implemented object detection and tracking system using YOLO v5 and YOLO v4
+Implemented Deep SORT algorithm for real-time object tracking and analysis.
+Optimized model performance by incorporating multithreading techniques, resulting in a 20%
+improvement and enhanced real-time processing capabilities.
+Responsibilities:
+Smart City
+Position: Associate Engineer 
+As part of a Smart City Project, the team is working to reduce traffic violations and improve road safety
+by detecting and issuing compliance notices to individuals not wearing helmets. This involves the
+development and implementation of a system that can accurately detect helmet usage using computer
+vision techniques 
+rutvik-jaiswal-6a333518a
+May 2022 - Present
+Harman Connected Service
+Experience
+Airport AI
+Position: Associate Engineer [Python Developer]
+Developed web applications using Flask, HTML/CSS, JavaScript and React JS.
+Designed and implemented UI components, APIs to support client requirements.
+Integrated ML models into web applications, creating pipelines that processed data and provided
+insights to end-users.ensuring efficient communication between the front-end and back-end
+components
+Conducted EDA using Pandas, Matplotlib, and other DS libraries.
+Collaborated with team members to identify and prioritize bug fixes and feature improvements, using
+version control (e.g., Git).
+Documented code, processes, and project requirements to ensure smooth transitions between team
+members.
+Participated in code reviews and peer programming sessions to share knowledge and learn new skills
+Responsibilities:
+As part of Smart Airport, Airport Authorities trying to predict the number of people entering/leaving
+the airport for next 24 hours. By using the historical passenger’s data, travelled through the Airport.
+Open Source Contribution
+Github Link : https://github.com/sunnyar/indian_festivals
+PyPi : https://pypi.org/project/indian-festivals
+Contributed to the India Festival Python library, a community-driven project that provides information
+about Indian festivals. Improved the library by modifying the API call and adding exception handling in
+urllib2, resulting in more robust and reliable data retrieval. Played a key role in ensuring the accuracy of
+festival information for users of the library.
+iNeuron 
+Training / Course : 
+Core Python hand on pratice
+Github and Git commands
+Deploying Python Project using Flask API 
+Deploying Project to cloud platform(heruko)
+Build model and store in the docker follow CI-   
+CD Pipeline structure
+Hand on statastics and implement it using
+Python library
+EDA on various kind of data
+Able to scrap review, rating , name of
+customers
+Use case : To train,test of machine
+learning model and used for future
+modeling
+deploy project on heruko
+Review Scrapper
+Project : 
+- 1. Training based on Machine learning and Data
+science
+- Python Core 
+- Build Review Scrapper Project
+- Build Music recommendation system from scatch
+AI/ML Engineer
+iPrimed 
+Internship: 
+March/2022 -May/ 2022
+API : Flask
+1. Python : 5 Star in HackerRank
+Library : Numpy ,pandas ,Scikit-
+learn Matplotlib ,Seaborn ,OS ,Glob
+,
+ 2. SQL (MySQL)
+Technical skill : 
+ 3. Git and GitHub
+ 4. Machine Learning
+ 7. HTML ,CSS . JS
+ 8. Object Oriented Programming 
+ 5. Anaconda / PIP / CONDA"

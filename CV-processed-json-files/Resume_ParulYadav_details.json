@@ -38,5 +38,9 @@
         }
     ],
     "linkedin": "",
-    "github": ""
+    "github": "",
+    "projects": "Net\ufb02ix Clone\n\u2022 Built a clone of Net\ufb02ix website using React.JS\nas a Front-end Firebase as Back-end. Inte-\ngrated TMDB API key to list down the movies.\nCreated Trailer pop-ups, integrated with You\nTube Trailer API key.\n\u2022 Tech Stack - ReactJs, Firebase\nPmail\n\u2022 Pmail is the email exchanging website. It\u2019s a\ncloned version of Gmail with my own design\ntouch, It supports login through Google Ac-\ncount, and has compose message feature.\n\u2022 Tech Stack - ReactJs, Firebase\nSmaCOM\n\u2022 SmaCOM-Smart Contact Manager is the desk-\ntop web application that simply allows one to\nquickly add contact details, e\ufb00ortlessly orga-\nnize them by contactId just like a real folder,\nand search them away for ease of retrieval\nwhenever needed. Users, in SmaCOM, can\nsign up and log in to their accounts and have\naccess to di\ufb00erent features such as adding\nnew contacts, can view previously added con-\ntacts, and can also update them.\n\u2022 Tech Stack - Java, SpringBoot, JPA, Thymeleaf,\nMYSQL\nSpam Classi\ufb01er\n\u2022 Built a Spam Classi\ufb01er Model using the Naive\nBayes algorithm which predicts whether the\nmessage is spam or not.\n\u2022 Tech Stack - Python\nMovie Recommender System\n\u2022 I have made a content-based Movie Recom-\nmender System using the concept of cosine\nsimilarity.\n\u2022 Tech Stack - Python",
+    "certifications": "\u2022 SQL(Advanced)-HackerRank Link\n\u2022 Python-HackerRank Link",
+    "extra": null,
+    "skills": "Programming Languages\n\u2022 Java\n\u2022 Python\nFrameworks Libraries\n\u2022 Springboot\n\u2022 Hibernate\n\u2022 jQuery\n\u2022 HTML5 CSS\n\u2022 ReactJS\n\u2022 JSPs\nDatabase\n\u2022 MySQL\nTools\n\u2022 Postman\n\u2022 Git, Github\n\u2022 Firebase\n\u2022 SonarQube"
 }

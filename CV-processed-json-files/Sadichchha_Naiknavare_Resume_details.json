@@ -43,5 +43,9 @@
         }
     ],
     "linkedin": "",
-    "github": ""
+    "github": "",
+    "projects": "PharmaEasy.com Clone\nIt was a website that give all the imformation \nabout medicine.And also help to buy \nmedicine.\nGitHub link\nFeatures:\nSignup | Login | Profile |Cart| Product Section |Checkout & \nPayment |\nTech Stacks:\nHTML | CSS | JavaScript.\nAreas of responsibility:\nFixed Navbar\nA responsive header, footer\nA collaborative project Developed within 5 days, with a team \nof 5.\nKapsi - Online Cab Booking Application\nGitHub link \nKapsi is a Online Cab Booking Application using Advance \nJava and Spring Boot. It's a REST API for book a cab online \nfor trip, schedule a trip, give ratings to driver and many \nmore such operations.\nFeature:\ncreate Account | login Application | create a new trip, book a \ntrip, schedule a trip, select driver for trip and give ratings to \nthe driver. | Customer update account details ,view the list of \nall customer and can change the status of trip booking. | \nDriver can create a account and login.\nTech Stack:\nMySql | Spring | SpringBoot | lombok | swagger | Spring-\nmvc | advance-java.\nAreas of responsibility:\nInsert Customer | Get all Customer | Viwe Customer | \nUpdate | Customer | Delete Customer\nA collaborative project Developed within 5 days, with a team \nof 5.",
+    "certifications": null,
+    "extra": null,
+    "skills": "TECHNICAL SKILLS\nHTML | CSS | Data Structure | Algorithm | Java | JavaScript  | \nMySQL |  HIBERNATE  | Spring\nSOFT SKILLS\nPositive Attitude | Problem-Solving | Team-Work \nRemote Work | Online Collaboration"
 }

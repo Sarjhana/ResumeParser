@@ -40,5 +40,9 @@
         }
     ],
     "linkedin": "",
-    "github": ""
+    "github": "",
+    "projects": "Expense Tracker \nTech used: nodejs,express,sql,AWS,razorpay \nFeatures:Jwt login,modern ui,create expense,etc \nPremium User features : Dark mode,search user ,ranking of users\naccording to expence \ngroup chat web app \ndeveloped front end using html,css,javascript \ndeveloped backend using nodejs,sql,express \nused AWS for depolyment \nFeatures:multiple group creation,invite user to group,create\ngroup,delete group \nSocial media web app \nmade frontend reactjs,cloudnary is used \nAt backend nodejs,express,mongodb, is used \nfeatures:JWT login,create/delete/update Post,Feed,Stories etc \nShopify like e-commerce platform \nTech used:nodejs,sql,Aws,html,css \nFeatures:Jwt login,Add-to-cart,admin login \nNotes Web App \nTech used: react ,node,mongodb,express,\ufb01gma \nModern user interface \nFeatures:create note,delete note,update note \nVOLUNTEER EXPERIENCE \nyounify radio \nTeam lead \nAIESEC (08/2020 - 01/2021) \nassociate intern \nAchievements/Tasks \nAchievements/Tasks \nAchievements/Tasks \nAchievements/Tasks",
+    "certifications": null,
+    "extra": null,
+    "skills": "reactjs \nnodejs \nangular \njavascript \nsql \nmongodb \ncouchbasedb \nAWS \njava \nAndroid \nGIt \nGithub \nc/c++ \nmicroservices \n\ufb01rebase \ncloudnary \nsendgrid \nredis \nec2 \nPERSONAL"
 }

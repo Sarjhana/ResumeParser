@@ -80,5 +80,9 @@
         }
     ],
     "linkedin": "",
-    "github": ""
+    "github": "",
+    "projects": "using Django including links to the code and live\ndemos.",
+    "certifications": null,
+    "extra": null,
+    "skills": "Python\nDjango & Django Rest\nFramwork\nNLP/ML\nSecurity /\nAuthentication\nRouting\nDebugging\nCaching\nScraping\nTest-cases / Testing\nAws"
 }

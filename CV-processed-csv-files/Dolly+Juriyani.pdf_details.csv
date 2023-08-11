@@ -1,2 +1,25 @@
-name,email,phone,education,work_experience,linkedin,github
-Text Posts,dimpljuriyani78@gmail.com,+918103313129,[],,,
+name,email,phone,education,work_experience,linkedin,github,projects,certifications,extra,skills
+Text Posts,dimpljuriyani78@gmail.com,+918103313129,[],,,,,,"expression via virtual communities and network.
+Technologies used :-
+Back-end : NodeJS, ExpressJS 
+Database : MondoDB 
+Postman 
+Features :- 
+1. Sign Up and Login 
+2. Edit Profile 
+3. Share Posts(Photos, Text Posts) 
+4. Comment and like on Posts
+5. Search other's profile 
+6. Follow/Unfollow other users 
+7. Reset Password via Mail
+C, C++, Management Information System, Visual Basic, Software
+Testing.
+Guru Ghasidas University, 2018-2019
+B.Sc. (Computer Science) CGPA : 8.27
+ Back-end Project | Basic Social Media | Using REST API
+Graduated with a Computer Science background and seeking an entry-level position, as a
+Back-end Developer. Passionate about developing customized interfaces that contribute in
+finding solutions and determining customer satisfaction.
+Programming Languages :-
+C++, JavaScript, Visual Basic
++918103313129",Contact Details

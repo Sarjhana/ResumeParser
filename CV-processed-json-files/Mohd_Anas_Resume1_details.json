@@ -36,27 +36,13 @@
             "company_name": "Hand on project related to Python. We have created",
             "job_title": "various models on Python,Flask and MySql.",
             "dates_worked": "",
-            "additional_info": [
-                "Interests",
-                "",
-                "",
-                "",
-                "",
-                "Cricket",
-                "learning skills",
-                "traveling",
-                "Standup Comedy",
-                "Languages",
-                "",
-                "",
-                "",
-                "",
-                "English",
-                "Hindi",
-                "Urdu"
-            ]
+            "additional_info": []
         }
     ],
     "linkedin": "",
-    "github": ""
+    "github": "",
+    "projects": "Breast Cancer\nML model based on classification, \nMethod to predict Breast Cancer, \nusing Python.\nDeclaration\n \n                                                  \n \n \n\u201cI hereby declare that the contents of my resume\nare accurate to the best of my knowledge and verify\ntheir authenticity.\u201d\nMohd Anas\nDelhi",
+    "certifications": null,
+    "extra": "Cricket \nlearning skills \ntraveling    \nStandup Comedy\nLanguages\n \n                                                   \n \n \nEnglish\nHindi \nUrdu",
+    "skills": "Programming Language\nPython, Flask\nDatabase\nMySql"
 }

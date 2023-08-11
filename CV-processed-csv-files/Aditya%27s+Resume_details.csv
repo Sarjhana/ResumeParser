@@ -1,2 +1,51 @@
-name,email,phone,education,work_experience,linkedin,github
-Aditya Sharma,adityasharma07281@gmail.com,+12017062021,[],"[{'company_name': 'ThirdEye Data', 'job_title': '', 'dates_worked': '12/2022 - Present,', 'additional_info': ['My role is to write API, update DB and creating changes in', 'both Android and IOS apps', 'My Tech Stack :- Django, React, Cordova, JS, HTML, CSS', 'Full Stack Developer', 'Mahindra Logistics', '07/2021 - 12/2022,', 'Working on 3rd party payroll of Appture Technology.', 'Worked on React, Node.js, Django']}]",,
+name,email,phone,education,work_experience,linkedin,github,projects,certifications,extra,skills
+Aditya Sharma,adityasharma07281@gmail.com,+12017062021,[],"[{'company_name': 'ThirdEye Data', 'job_title': '', 'dates_worked': '12/2022 - Present,', 'additional_info': ['My role is to write API, update DB and creating changes in', 'both Android and IOS apps', 'My Tech Stack :- Django, React, Cordova, JS, HTML, CSS', 'Full Stack Developer', 'Mahindra Logistics', '07/2021 - 12/2022,', 'Working on 3rd party payroll of Appture Technology.', 'Worked on React, Node.js, Django']}]",,,"3 projects with Mahindra Logistics. 
+1. BA Portal (Backend was in Node.js and I have created API
+and made changes in backend) 2. Complaints Management
+(A portal for users complaints frontend was in react and
+backend was in Node.js, I designed the whole database as
+well) 3. User Management Portal (Front End was in Angular
+and backend was in Django) 
+Software Developer Internship 
+MAQ Software 
+01/2021 - 07/2021,  
+Worked on 2 projects. 1. Front End React application 2.
+Services Hub (Node.js Application) my role to ﬁx the API that
+were failing. 
+Software Developer Intern 
+Alleviate Technology 
+07/2019 - 12/2020,  
+Worked on React, Node.js, Django projects, Total projects
+completed:- 2.",,,"React 
+OOPS 
+Azure 
+Python 
+Web Devlopment 
+Node js 
+Javascript 
+MongoDb 
+Django 
+Git 
+Cordova 
+PERSONAL PROJECTS 
+Self Driving Car (07/2019 - 06/2020) 
+In this project, I have written and implemented a controller for the
+CARLA simulator. The goal is to control the vehicle to follow a race
+track by navigating through preset waypoints. 
+Portfolio and Other Projects 
+Sharma Ji | Developer 
+CERTIFICATES AND PUBLICATION 
+Self Driving Car (08/2021 - Present) 
+I have published my paper in INTERNATIONAL JOURNAL OF CURRENT
+ENGINEERING AND SCIENTIFIC RESEARCH (IJCESR), It was a review
+paper. Paper link :- http://troindia.in/journal/ijcesr/vol8iss8/77-81.pdf 
+LANGUAGES 
+English 
+Full Professional Proﬁciency 
+Hindi 
+Native or Bilingual Proﬁciency 
+Courses 
+Achievements/Tasks 
+Achievements/Tasks 
+Achievements/Tasks 
+Achievements/Tasks"

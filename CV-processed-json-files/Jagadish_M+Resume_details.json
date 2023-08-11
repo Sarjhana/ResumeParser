@@ -5,5 +5,9 @@
     "education": [],
     "work_experience": [],
     "linkedin": "",
-    "github": ""
+    "github": "",
+    "projects": "\u2022 \nSolved Doubts on MERN stack. \n \nFunctionUp \nFull-Stack  Development Trainee                                   May,2022 \u2013 Jan,2023 \n\u2022 \nUp skilling in Full Stack Web Developer by using Node.JS , \nExpress , MongoDB & React.JS. \n\u2022 \nBuilt backend of 5 group projects with my teammates  \n \n \nMajor Full- Stack Projects \n \n Ecommerce- Shopping website                                               [ Deploy link ] \n\u2022 \nDeveloped backend and frontend of a shopping website \nusing JWT for  auth feature & Bcrypt for passwords. \n\u2022 \nUsed React-Router-Dom for Single page Application. \n\u2022 \nUsed Bootstrap 5 to make Better UI. \n \n \nURL Shortener \n[ Deploy link ] \n\u2022 \nDeveloped Full stack of a website like TinyURL which shortens \na long URL using shortId npm package. \n\u2022 \nUsed Redis for caching urls to improve performance. \n\u2022 \nUsed ReactJs for Frontend. \n \nInfinite Photo Scroll  \n[ Deploy link ] \n\u2022 \nA website which is exact similar to Pexels with desired \nPhoto search. \n\u2022 \nUsed Unsplash api  to fetch photo on application , for infinite \nscroll used Global object properties of scroll bar.",
+    "certifications": null,
+    "extra": "Interests \n \n\u2022 \nCoding \n \n\u2022 \nSports \n \n \n \nACHIEVEMENTS \n \n\u2022 \n1st Prize in ckt debugging \n \n \n \nPersonal Information \n \nNationality: Indian \nGender: Male \nDate of Birth: 05/06/1999 \nLanguages: English, Hindi, Kannada",
+    "skills": "\u2022 \nJavascript , HTML  & CSS \n \n\u2022 \nNode.JS \n \n\u2022 \nExpressJS \n \n\u2022 \nMongoDB \n \n\u2022 \nReact.JS & Redux  \n \n\u2022 \nVS Code, Postman & Rest APIs \n \n\u2022 \nRedis, JWT & Bcrypt \n \n\u2022 \nCORS, Axios \n \n\u2022 \nData Structures & Algorithms \n \n\u2022 \nBootstrap & Material UI \n \n\u2022 \nTeam work &"
 }

@@ -84,34 +84,14 @@
                 "on the bug \ufb01xes, extracting useful data from logs / release description and mapping the closely",
                 "related documents as well",
                 "\u25cf",
-                "Deft at recommending feeds to the users based on their interests, and activities",
-                "\u25cf",
-                "Assisted for a recommendation system in an Idea submission portal where the industrial",
-                "problems are given solutions, idea is built into a product, users can post and follow other",
-                "ideators, etc.",
-                "\u25cf",
-                "Predicted potential client data to renew licenses for Cisco Products, de-normalized data from",
-                "di\ufb00erent systems, cleaned and pre-processed for applying Machine Learning algorithms",
-                "Feb 2012 - Jun 2014",
-                "Software Engineer | Technologies used: SQL, shell script",
-                "Organization",
-                "TCS, India",
-                "Key Result Area",
-                "\u25cf",
-                "Worked for Deutsche Bank Support Project in the Testing Environment Service (TES) team",
-                "\u25cf",
-                "Worked on the product which was helpful to analyse Market data, and make future predictions",
-                "\u25cf",
-                "Con\ufb01gured application data to be used by Volumetrix application to showcase categorized data",
-                "based on various parameters, and user requirement standards",
-                "\u25cf",
-                "Automated manual application tasks through batch and PL/SQL scripts for reduction in manual",
-                "errors, and decrease in work load",
-                "\u25cf",
-                "Automated the Web Logic environment setup by using Web Logic Scripting Tool (WLST)"
+                "Deft at recommending feeds to the users based on their"
             ]
         }
     ],
     "linkedin": "https://www.linkedin.com/in/rishabh-kumar-35690533/",
-    "github": ""
+    "github": "",
+    "projects": null,
+    "certifications": null,
+    "extra": "\u25cf\nAssisted for a recommendation system in an Idea submission portal where the industrial\nproblems are given solutions, idea is built into a product, users can post and follow other\nideators, etc.\n\u25cf\nPredicted potential client data to renew licenses for Cisco Products, de-normalized data from\ndi\ufb00erent systems, cleaned and pre-processed for applying Machine Learning algorithms\nFeb 2012 - Jun 2014\nSoftware Engineer | Technologies used: SQL, shell script\nOrganization\nTCS, India\nKey Result Area\n\u25cf\nWorked for Deutsche Bank Support Project in the Testing Environment Service (TES) team\n\u25cf\nWorked on the product which was helpful to analyse Market data, and make future predictions\n\u25cf\nCon\ufb01gured application data to be used by Volumetrix application to showcase categorized data\nbased on various parameters, and user requirement standards\n\u25cf\nAutomated manual application tasks through batch and PL/SQL scripts for reduction in manual\nerrors, and decrease in work load\n\u25cf\nAutomated the Web Logic environment setup by using Web Logic Scripting Tool (WLST)",
+    "skills": null
 }

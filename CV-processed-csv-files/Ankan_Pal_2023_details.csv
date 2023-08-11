@@ -1,2 +1,24 @@
-name,email,phone,education,work_experience,linkedin,github
-Ankan Pal,ankanpalcse19a@gmail.com,+919735253735,[],"[{'company_name': '• Worked on the backend of a doctor consultation app which allows the patients to book slots for online doctor', 'job_title': 'consultations, provides ambulance services for hospitals and and pharmacy to buy pharmaceutical drugs.', 'dates_worked': '', 'additional_info': ['• Integrated Google calendar API using oauth2.0 protocol to enable online slot bookings and designed and', 'developed various features by backend APIs using NodeJS,thereby increasing monthly user visits by 20 percent', '• End to end product development and deployment after implementing Rate Limiting functionality to the', 'server to support 100+requests/second ,which also helps to prevent DoS attacks and web scraping.', 'Daphnis Labs', 'Feb 2022 – March 2022', 'Software Developer Intern', 'Remote', '• Worked on the backend of an agro trading web application where the buyer can submit their enquiry about a', 'product,seller can participate in the negotiation process over a 120 minute time frame before the buyer places', 'the order by designing and developing backend systems and APIs making it a lot more scalable.', '• Integrated Razorpay payment gateway from scratch which had a direct impact on the first 10k users enabling', 'a very smooth transaction experience between buyer and seller.']}]",,
+name,email,phone,education,work_experience,linkedin,github,projects,certifications,extra,skills
+Ankan Pal,ankanpalcse19a@gmail.com,+919735253735,[],"[{'company_name': '• Worked on the backend of a doctor consultation app which allows the patients to book slots for online doctor', 'job_title': 'consultations, provides ambulance services for hospitals and and pharmacy to buy pharmaceutical drugs.', 'dates_worked': '', 'additional_info': ['• Integrated Google calendar API using oauth2.0 protocol to enable online slot bookings and designed and', 'developed various features by backend APIs using NodeJS,thereby increasing monthly user visits by 20 percent', '• End to end product development and deployment after implementing Rate Limiting functionality to the', 'server to support 100+requests/second ,which also helps to prevent DoS attacks and web scraping.', 'Daphnis Labs', 'Feb 2022 – March 2022', 'Software Developer Intern', 'Remote', '• Worked on the backend of an agro trading web application where the buyer can submit their enquiry about a', 'product,seller can participate in the negotiation process over a 120 minute time frame before the buyer places', 'the order by designing and developing backend systems and APIs making it a lot more scalable.', '• Integrated Razorpay payment gateway from scratch which had a direct impact on the first 10k users enabling', 'a very smooth transaction experience between buyer and seller.']}]",,,"FireFlash
+| React, Node.js, MongoDB, Express.js
+Nov 2020 – Dec 2020
+• A full stack web application consisting of all major functions of a social media similar to Instagram.
+• It also includes user authentication which is implemented using JSON web token.
+Realtime Chat Application
+| React, Node.js, Socket.io
+Dec 2020 – Jan 2021
+• A Chat application in which users can enter into any room of their choice and chat with the other room members
+realtime.
+• It also shows the online visibility of every user. Socket.io module was used for instantaneous bi-directional
+data transfer.
+Achievements
+• Stood 300th out of 35000 in Codechef October Long Challenge
+• Solved 700+ problems on Data Structures and Algorithms at Leetcode
+• Got a rank of 55 out of 10000 in IEMCO Coding Olympiad.
+• Got a rank of 78 out of 6000 in Local Hack Day Share , an MLH hackathon.",,,"• Data Structures and Algorithms (Programming Languages) : C,C++ and Java
+• Web development : React.js, Node.js, JavaScript, MongoDB, CSS, HTML
+• Developer Tools and Technologies : Github,Firebase,Git,VsCode,Eclipse
+• Computer Science Fundamentals : Operating System , Database Management System , OOPs
+Position of responsibilty
+• Codechef IEMK Chapter : Core Committee Member. I have solved various questions of Competitive Coding
+• EddieHub : Core Team Member of a community which promotes open source contributions."

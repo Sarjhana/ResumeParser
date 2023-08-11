@@ -1,2 +1,63 @@
-name,email,phone,education,work_experience,linkedin,github
-Kandagatla,Naveen0905@gmail.com,+919989262918,"[{'university_name': 'Communication from Osmania University', 'course_name': 'bad. \nExperience \nAPRIL 2022', 'dates_attended': 'JUNE 2002', 'marks_or_percentage': '', 'additional_info': [""in \nHydera - PRESENT \nSenior Engineering Manager/ Fabric, Remote \n \nPlatform components for B2C scenario \nRole: Senior Engineer Manager & leading a team of 9 (in Growth Stage). \n• \nPlatform Development: Led the development of a horizontal platform team to address key \nproduct requirements such as authentication and authorization, data publishing platform \n(syndication), and workflow automation (BPMN). \n• \nPartner & Customer Engagement: Drove discussions with partners, delivery teams, system \nimplementers, and customers to gather requirements and deliver solutions. \n• \nProduct Roadmap: Created a roadmap with phased approaches, including MLP, P0, and P1 \nitems, and defined clear KPIs to measure success. \n• \nArchitectural Changes: Driven design and architectural changes to meet clearly defined goals \nand improve the overall platform. \n• \nLive Site Management: Managed the live site of applications and ensured continuous \nimprovement through engineering and performance optimizations. \n• \nTeam Leadership: Coached teams, fostered transparency, and was responsible for team growth \nand development. \n• \nResource Management: Managed resources and capacity planning to ensure the delivery of \nhigh-quality products and services. \n• \nVendor Negotiations: Participated in negotiations with 3rd-party software vendors and pricing \nto align with the company's long-term vision. \n \nMAY 2012 – APRIL 2022 \nSenior Software Engineering Manager/ Microsoft, Hyderabad \n \nOffice 365 Security Product (Microsoft Defender for Office) \nRole: Senior Software Engineer Manager & leading a team of 10. \n• \nDefender for Office: Contributed to the Office 365 Security Product (Microsoft Defender for \nOffice) by processing logs, improving user experiences, generating alerts, and building data \npipelines for researchers. \n• \nData Processing: Handled terabytes of data daily, ensuring the scalability, reliability, and \nobservability of the system. \n• \nMicroservices & API Design: Designed and implemented microservices, APIs, and defined SLOs \nand KPIs to improve system performance. \n \n \n \n \n3 \n• \nGlobal Collaboration: Worked with teams across multiple geographies (U.S., Israel, China, India) \nto achieve common goals. \n• \nProduct Roadmap: Collaborated with stakeholders and product owners to create a roadmap for \nthe future of the application. \n• \nLive Site Management: Managed the live site of the application and ensured continuous \nimprovement through engineering and performance optimizations. \n• \nTeam Leadership: Coached teams, fostered transparency, and was responsible for team growth \nand development. \n• \nArchitectural Changes: Led the design and execution of architectural changes in the system to \nimprove performance and scalability. \nUnified Telemetry Platform CSEO DevOps, Learning & Readiness \nAs a Senior Software Engineer,  \n• \nwas part of a common telemetry platform used by hundreds of applications generating 250TB of \ndata monthly.  \n• \nParticipated in architectural discussions and worked with multiple teams to standardize schema \nand measure the health of all applications uniformly. Implemented autocorrelation of telemetry \nevents with SDKs in various languages. \nAs a Software Engineering II,  \n• \ndefined and executed consistency measures for the team's engineering hygiene across the \norganization.  \n• \nExtended the SonarQube AAD plugin for enterprise needs and created data pipelines for builds, \nreleases, and pull request details.  \n• \nExplored and implemented machine learning opportunities in the learning domain such as \nrecommendations and clustering and enhanced the application architecture to integrate with \nmachine learning models.  \n• \nParticipated in integration with SuccessFactors, Pluralsight, LinkedIn Learning, and Orielly. \nJULY 2010 – APRIL 2012 \nSenior Software Engineer/Thomson Reuters, Hyderabad \n• \nPlayed Major Role in Design, Development & Testing phase of implementing Point-in-time \nimport functionality. \n• \nPlayed Major Role in Architecture of the import functionality in Point-in-time. \n• \nWorked on enhancing performance of some of the existing features. \n• \nInteracting with the Business team to gather the new requirements for every release. \n \nNOVEMBER 2006 – JUNE 2010 \nAssociates -""]}]",[],https://www.linkedin.com/in/naveenkandagatla/,
+name,email,phone,education,work_experience,linkedin,github,projects,certifications,extra,skills
+Kandagatla,Naveen0905@gmail.com,+919989262918,"[{'university_name': 'Communication from Osmania University', 'course_name': 'bad. \nExperience \nAPRIL 2022', 'dates_attended': 'JUNE 2002', 'marks_or_percentage': '', 'additional_info': [""in \nHydera - PRESENT \nSenior Engineering Manager/ Fabric, Remote \n \nPlatform components for B2C scenario \nRole: Senior Engineer Manager & leading a team of 9 (in Growth Stage). \n• \nPlatform Development: Led the development of a horizontal platform team to address key \nproduct requirements such as authentication and authorization, data publishing platform \n(syndication), and workflow automation (BPMN). \n• \nPartner & Customer Engagement: Drove discussions with partners, delivery teams, system \nimplementers, and customers to gather requirements and deliver solutions. \n• \nProduct Roadmap: Created a roadmap with phased approaches, including MLP, P0, and P1 \nitems, and defined clear KPIs to measure success. \n• \nArchitectural Changes: Driven design and architectural changes to meet clearly defined goals \nand improve the overall platform. \n• \nLive Site Management: Managed the live site of applications and ensured continuous \nimprovement through engineering and performance optimizations. \n• \nTeam Leadership: Coached teams, fostered transparency, and was responsible for team growth \nand development. \n• \nResource Management: Managed resources and capacity planning to ensure the delivery of \nhigh-quality products and services. \n• \nVendor Negotiations: Participated in negotiations with 3rd-party software vendors and pricing \nto align with the company's long-term vision. \n \nMAY 2012 – APRIL 2022 \nSenior Software Engineering Manager/ Microsoft, Hyderabad \n \nOffice 365 Security Product (Microsoft Defender for Office) \nRole: Senior Software Engineer Manager & leading a team of 10. \n• \nDefender for Office: Contributed to the Office 365 Security Product (Microsoft Defender for \nOffice) by processing logs, improving user experiences, generating alerts, and building data \npipelines for researchers. \n• \nData Processing: Handled terabytes of data daily, ensuring the scalability, reliability, and \nobservability of the system. \n• \nMicroservices & API Design: Designed and implemented microservices, APIs, and defined SLOs \nand KPIs to improve system performance. \n \n \n \n \n3 \n• \nGlobal Collaboration: Worked with teams across multiple geographies (U.S., Israel, China, India) \nto achieve common goals. \n• \nProduct Roadmap: Collaborated with stakeholders and product owners to create a roadmap for \nthe future of the application. \n• \nLive Site Management: Managed the live site of the application and ensured continuous \nimprovement through engineering and performance optimizations. \n• \nTeam Leadership: Coached teams, fostered transparency, and was responsible for team growth \nand development. \n• \nArchitectural Changes: Led the design and execution of architectural changes in the system to \nimprove performance and scalability. \nUnified Telemetry Platform CSEO DevOps, Learning & Readiness \nAs a Senior Software Engineer,  \n• \nwas part of a common telemetry platform used by hundreds of applications generating 250TB of \ndata monthly.  \n• \nParticipated in architectural discussions and worked with multiple teams to standardize schema \nand measure the health of all applications uniformly. Implemented autocorrelation of telemetry \nevents with SDKs in various languages. \nAs a Software Engineering II,  \n• \ndefined and executed consistency measures for the team's engineering hygiene across the \norganization.  \n• \nExtended the SonarQube AAD plugin for enterprise needs and created data pipelines for builds, \nreleases, and pull request details.  \n• \nExplored and implemented machine learning opportunities in the learning domain such as \nrecommendations and clustering and enhanced the application architecture to integrate with \nmachine learning models.  \n• \nParticipated in integration with SuccessFactors, Pluralsight, LinkedIn Learning, and Orielly. \nJULY 2010 – APRIL 2012 \nSenior Software Engineer/Thomson Reuters, Hyderabad \n• \nPlayed Major Role in Design, Development & Testing phase of implementing Point-in-time \nimport functionality. \n• \nPlayed Major Role in Architecture of the import functionality in Point-in-time. \n• \nWorked on enhancing performance of some of the existing features. \n• \nInteracting with the Business team to gather the new requirements for every release. \n \nNOVEMBER 2006 – JUNE 2010 \nAssociates -""]}]",[],https://www.linkedin.com/in/naveenkandagatla/,,"• 
+Experienced complete SDLC  
+• 
+Worked with client on business requirements.  
+• 
+Involved in implementing the Replication for a specific project requirement. 
+• 
+Played vital role in Architecture design and implementation of Video Analytics module. 
+• 
+Was part of Deployment of the application. 
+• 
+Participated in internal & CMM Level audits.",,,"• 
+Proficient in C#, Asp.net, R, Python, Java, JavaScript, and Node.js 
+• 
+Software Design: Experienced in scalable and distributed software product design 
+• 
+Databases: Knowledgeable in SQL, DocumentDB, KeyValue datastores, and Azure Data Explorer 
+• 
+Distributed Systems: Skilled in implementing Microservices, Service Fabric, Rest API, and API 
+design 
+• 
+Full-stack Development: Full-stack end-to-end development experience 
+• 
+Machine Learning: Familiar with machine learning implementations and worked with data 
+scientists to scale models 
+• 
+Live Site Management: Experience in live site management, Continuous Integration and 
+Continuous Deployment (CICD), Azure DevOps, and Left Shift Engineering process 
+• 
+Diagnostics: Proficient in monitoring, diagnostics, and troubleshooting 
+• 
+Experienced in using Redis, Elastic Search, and Bloom Filter 
+• 
+Architecture: Hands-on experience with architecture patterns and design patterns 
+Leadership Skills 
+• 
+Stakeholder Management: Adept at managing stakeholders and mentoring teams to achieve 
+shared goals. 
+• 
+Model, Coach & Care Philosophy: Strongly committed to the philosophy of leading by example, 
+coaching, and caring for team members. 
+• 
+Cross-functional & Cross-geo Teams: Experienced in leading and working effectively with 
+diverse, cross-functional, and cross-geographic teams. 
+• 
+Partner & Stakeholder Relationships: Skilled in building strong relationships with partners, 
+stakeholders, and customers to develop a clear product roadmap. 
+• 
+Customer-focused: Strong focus on putting the customer first, delivering value, and 
+continuously improving the customer experience. 
+• 
+Talent & Vendor Management: Experienced in recruiting top talent, managing vendors, and 
+building a high-performing team. 
+• 
+Team Building: Successful track record of building teams from scratch and setting a clear vision 
+and roadmap for their success. 
+ 
+ 
+ 
+ 
+ 
+2"

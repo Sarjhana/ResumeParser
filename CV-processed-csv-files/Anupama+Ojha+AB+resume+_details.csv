@@ -1,7 +1,48 @@
-name,email,phone,education,work_experience,linkedin,github
+name,email,phone,education,work_experience,linkedin,github,projects,certifications,extra,skills
 "Anywhere 
  
  
 Personal Details 
  
-Date",anupamaojha.cs12@gmail.com,+919608596033,[],"[{'company_name': 'Netlink Software Pvt. Ltd - Mandideep, Madhya Pradesh', 'job_title': '', 'dates_worked': 'November 2022 to Present', 'additional_info': ['• Analytical understanding of data.', '• Generation of reports, data Modelling, Data Migration, Data Analysis, and manipulation.', '• Analytical dashboard and functional testing, manual testing.', '• Dashboard development', '• SQL, database (vertica), azure, AWS, RDBMs.', '• Advanced Excel (VLOOKUP, lookup).', '• Project management, business requirements (BRD) and KPI Mapping documents.', '• Fresher Interviews, Project Presentation, Client handling etc.', '', 'Trainee Python Developer', 'Rack AI Pvt. Ltd - Bhopal, Madhya Pradesh', 'March 2022 to October 2022', '• I was responsible for developing and implementing functional programs in Python language with', 'its libraries like pandas, NumPy, skit-learn, (keras, TensorFlow).', '• In this role, I had to do teamwork with developers to design algorithms and flowcharts.', '• Along with this, I integrate several software components and third-party modifications in the', 'existing program are also observed by me.', '• I had to create technical documentation for reference and reporting.', '', '• Data visualization with JustPy', '', 'Internship', 'NRI Institute of Technology - Bhopal, Madhya Pradesh', 'July 2021 to December 2021', 'Project work based on Data Analytics and Visualization.', '• Skill: SQL, python, data visualization and analytics, excel, Functional testing etc', '• Interview Preparation, Presentation skills, et', '', '', '', 'Skills / IT Skills', '', '• Communication Skills, Presentations, Client Handling', '• SQL, Microsoft Excel Advances Analysis skills', '• Python', '• Pandas, NumPy, Skit-learn Lib', '• Django', '• Rest API, Keras, TensorFlow', '• Data mining', '• Communication skills', '• Tableau, Power BI tools', '• Machine learning', '• Natural language processing', '• Computer vision', '• Big data, Hadoop', '• Interview Scheduling, Project Management', '• Functional testing', '• Data analytics', '• Artificial Intelligence', '• Simple Chatbot', '• Data analysis skills: Data Modelling, Data Migration', '• Data Manipulation', '', '', 'Languages', '', '• English - Fluent', '• Hindi - Fluent', '• Bengali – Fluent', '', 'Online Profile', '', '', 'LinkedIn: https://www.linkedin.com/in/anupama-ojha-12b055199']}]",https://www.linkedin.com/in/anupama-ojha-12b055199,
+Date",anupamaojha.cs12@gmail.com,+919608596033,[],"[{'company_name': 'Netlink Software Pvt. Ltd - Mandideep, Madhya Pradesh', 'job_title': '', 'dates_worked': 'November 2022 to Present', 'additional_info': ['• Analytical understanding of data.', '• Generation of reports, data Modelling, Data Migration, Data Analysis, and manipulation.', '• Analytical dashboard and functional testing, manual testing.', '• Dashboard development', '• SQL, database (vertica), azure, AWS, RDBMs.', '• Advanced Excel (VLOOKUP, lookup).', '• Project management, business requirements (BRD) and KPI Mapping documents.', '• Fresher Interviews, Project Presentation, Client handling etc.', '', 'Trainee Python Developer', 'Rack AI Pvt. Ltd - Bhopal, Madhya Pradesh', 'March 2022 to October 2022', '• I was responsible for developing and implementing functional programs in Python language with', 'its libraries like pandas, NumPy, skit-learn, (keras, TensorFlow).', '• In this role, I had to do teamwork with developers to design algorithms and flowcharts.', '• Along with this, I integrate several software components and third-party modifications in the', 'existing program are also observed by me.', '• I had to create technical documentation for reference and reporting.', '', '• Data visualization with JustPy', '', 'Internship', 'NRI Institute of Technology - Bhopal, Madhya Pradesh', 'July 2021 to December 2021', 'Project work based on Data Analytics and Visualization.', '• Skill: SQL, python, data visualization and analytics, excel, Functional testing etc', '• Interview Preparation, Presentation skills, et', '', '', '', 'Skills / IT Skills', '', '• Communication Skills, Presentations, Client Handling', '• SQL, Microsoft Excel Advances Analysis skills', '• Python', '• Pandas, NumPy, Skit-learn Lib', '• Django', '• Rest API, Keras, TensorFlow', '• Data mining', '• Communication skills', '• Tableau, Power BI tools', '• Machine learning', '• Natural language processing', '• Computer vision', '• Big data, Hadoop', '• Interview Scheduling, Project Management', '• Functional testing', '• Data analytics', '• Artificial Intelligence', '• Simple Chatbot', '• Data analysis skills: Data Modelling, Data Migration', '• Data Manipulation', '', '', 'Languages', '', '• English - Fluent', '• Hindi - Fluent', '• Bengali – Fluent', '', 'Online Profile', '', '', 'LinkedIn: https://www.linkedin.com/in/anupama-ojha-12b055199']}]",https://www.linkedin.com/in/anupama-ojha-12b055199,,"to analyse and categorize text based on sentiment. The goal is to gain insights from data like social 
+media posts or customer reviews. Steps include data collection, pre-processing, feature extraction, 
+model training, and evaluation. Success depends on data quality, pre-processing techniques, and 
+choice of algorithms. Applications include social media monitoring, brand management, and market 
+research. 
+ 
+Data Analytics and visualization  
+February 2023 – April 2023  
+(Client- Netlink Software’s) 
+Data visualization is the graphical representation of information and data. By using visual elements 
+like charts, graphs, and maps. 
+The Data analysis and visualization project using Python and JustPy involves using Python and the 
+JustPy library to analyse and visualize data. It includes steps like data collection, data preparation, 
+data analysis using libraries like NumPy and Pandas, data visualization using JustPy and other 
+visualization libraries, creating interactive web-based visualizations, and deploying the web 
+application. This project enables the exploration and communication of data insights through 
+interactive and visually appealing web-based visualizations. 
+ 
+Web Scraping  
+March 2022 – September 2022 
+(Client- Rack AI Pvt. Ltd.) 
+Web scraping is a process of automating the extraction of data in an efficient and fast way. With the 
+help of web scraping.  
+Web scraping of images involves automatically extracting images from websites developed with 
+Python, BeautifulSoup, Scrapy, Selenium, Pillow, Pandas, Requests. It includes steps like identifying 
+the target website, parsing the HTML structure, fetching, and parsing web pages, locating image 
+URLs, downloading the images, and optionally performing image processing. The scraped images 
+can be stored and managed for various purposes, such as building datasets or creating image 
+galleries. Legal and ethical considerations should be considered during the process. 
+ 
+Communication Skills  
+October 2020 – Feb 2021 
+(Client- LinkedIn) 
+ 
+It recognizes successful completion of a comprehensive program designed to enhance and refine 
+communication abilities. This certificate validates the individual's competence in various aspects of 
+effective communication, including verbal and nonverbal communication, active listening, public 
+speaking, interpersonal skills, and conflict resolution.","Sentimental Analysis  
+October 2022 – Feb 2023 
+(Client- Netlink Software’s) 
+Sentiment analysis",,"my best to learn new trends and new environmental skills, and if given a chance to work with you, I 
+assure you of my level best. I am new to this industry with 2 years of"

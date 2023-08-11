@@ -28,5 +28,9 @@
         }
     ],
     "linkedin": "",
-    "github": ""
+    "github": "",
+    "projects": "E\u2011commerce website Django\n\u2022 A e\u2011commerce website for a sweet shop.\n\u2022 It uses SqlLite for Database connectivity.\n\u2022 Has a fully functional cart developed using localstorage functionality in js.\nInventory Management System using SQL with PL\u2011SQL\n\u2022 Made ER diagram and Relational diagram using yED\n\u2022 Used the concept of primary key and foreign key\n\u2022 Have written nested queries as well as using join operation\n\u2022 Used nvl having and group by claus\n\u2022 Used the concept of triggers, procedures and functions in PL\u2011SQL\nOnline Compiler and site hosting service in MERN stack\n\u2022 Users can run their HTML, JS and CSS codes and watch the preview of it\n\u2022 Uses AceEditor to beutify and autocomplete the code\n\u2022 Can host the site generated instatly through hash routing in react\n\u2022 Can run the cods of all programming languges mentioned in skills section",
+    "certifications": null,
+    "extra": null,
+    "skills": "Programing Languages\nPython, Java, JavaScript, Ruby, C, C++\nTechnology Explored\nDjango, NodeJs, React, ReactJs, Android Studio, Git, Linux, ExpressJs, SQL, MongoDB, Numpy, Pandas, AWS S3, React Native"
 }

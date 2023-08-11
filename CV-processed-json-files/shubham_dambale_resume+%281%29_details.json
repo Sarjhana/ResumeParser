@@ -24,5 +24,9 @@
         }
     ],
     "linkedin": "",
-    "github": ""
+    "github": "",
+    "projects": "To Book a cab based on cab availability\nAble to view trip history\nDriver can update status i.e. Offline or Online\nAdmin can modify user/driver details\nImplemented the authentication functionality\nCreated the customer module flow\nIntegrated validation through the app\nOnline Cab Booking Application\nRest API for an Online Cab Booking Application\nThis API performs all the fundamental CRUD\noperations.\nFeatures: \nTech Stack: SpringBoot | JAVA | Hibernate |\nMySQL | Swagger\nAreas of responsibility:\nA collaborative project built by a team of \n5 executed in 4 days.",
+    "certifications": null,
+    "extra": null,
+    "skills": "Java | JavaScript | HTML | CSS\nSpring Boot | Hibernate | MySQL | Rest API\nData Structures and Algorithms"
 }

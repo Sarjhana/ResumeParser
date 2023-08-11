@@ -41,5 +41,9 @@
         }
     ],
     "linkedin": "",
-    "github": ""
+    "github": "",
+    "projects": "EXPENSE TRACKER | app-link | source-code\nMar 2023\n\u2022 Created single page react app where user can add expense along with\ntitle,date and user can filter expenses year-wise by using react\nuseState ,hooks ,two-way-binding and state-lifting.\n\u2022 Added dynamic chart for each month to visualise relative expenses\nmonth-wise\n\u2022 Hosted the app on Firebase.\nTech Stack:Javascript,ReactJs,JSX,HTML,CSS\nACHIEVEMENTS\n\u2022 JEE Advanced 2018: Secured an AIR of 6377.\n\u2022 Awarded 2nd Prize in CodingBad ( Hackathon) at InsuranceDekho.\n\u2022 Solved 500+ DSA problems on various coding platforms.",
+    "certifications": null,
+    "extra": null,
+    "skills": "PROGRAMMING\n\u2022JavaScript\n\u2022 C/C++\n\u2022 PHP\n\u2022 NodeJs\n\u2022 ReactJs\n\u2022 ExpressJs\n\u2022 JQuery\n\u2022 MongoDB\n\u2022 MySQL\n\u2022 Data structures\n\u2022 Algorithms\n\u2022 Object Oriented Programming\nTOOLS AND TECHNOLOGIES\n\u2022 Git/Github\n\u2022 Linux\n\u2022 Jenkins\n\u2022 Jira\n\u2022 Postman\n\u2022 VScode\n\u2022 Bitbucket\nLINKS\nGithub:// adityamaurya1512\nLinkedIn:// adityamaurya1512\nLeetcode:// aditya1512\nGeeksForGeeks:// adityamauryaece18"
 }

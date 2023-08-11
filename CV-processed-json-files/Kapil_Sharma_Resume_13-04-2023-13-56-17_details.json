@@ -44,5 +44,9 @@
         }
     ],
     "linkedin": "",
-    "github": ""
+    "github": "",
+    "projects": "Ledger Migration Service, Tide Banking\n05/2021 \u2013 05/2022\n\u2022Migrated the data of a monolithic system to a \nmicroservice ledger which impacted \n1000000 transactions.\nVisitor Management System, Epam Systems\n07/2020 \u2013 10/2020\n\u2022The visitor Management System is used to \nkeep track of visitors, invite\nvisitors and generate a Visitor ID for the visitor \nin an organization.\n\u2022This helps the organization to streamline the \nprocess for 5000 visitors per day.\nFeedback portal, Epam Systems\n09/2019 \u2013 07/2020\n\u2022Trainers can give their valuable feedback to \nthe employee and PM and other higher \nauthorities can view those feedback. \n\u2022This helps 500 new hires and their trainers to \ngive and manage feedback.\nOutCenter Automation System, \nAmity Software\n01/2019 \u2013 09/2019\n\u2022This is an Android app for a weighing system \nin which a person can scan the receipt of the \nfarmer and do the weight of his crop and \nprovide the receipt of the weight to the \nfarmer.\n\u202250 factories and 50000 farmers got impacted.",
+    "certifications": null,
+    "extra": null,
+    "skills": "Data Structure and Algorithms, Java, \nSpring boot, Mysql, Microservices, AWS SQS, \npython, django\nCertificates\nAWS Cloud Badge\nMicrosoft Azure Fundamentals Certified"
 }

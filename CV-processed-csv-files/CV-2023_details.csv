@@ -1,2 +1,51 @@
-name,email,phone,education,work_experience,linkedin,github
-Docker,professional.sid13@gmail.com,+12018082020,[],"[{'company_name': 'IBM India Pvt Ltd', 'job_title': '~  04/2021 - Working, Bangalore', 'dates_worked': '', 'additional_info': ['Developing in “Vinturas” project with Agile approach. The project is', 'based on Hyperledger-fabric, IBP. Responsible for Developing best', 'solution to meet the client needs in NestJS framework with VS Code IDE.', 'Creating/modifying microservices and containerizing it using Docker.', 'Modifying configurations and updating dependencies of Hyperledger-fabric', 'network and microservices whenever necessary. Unit testing with Jest', 'framework and e2e testing with postman. Managing bit-bucket repository of', 'the project and using it for code review. Deploying the code to dev while', 'monitoring CI/CD pipeline in concourse. Process Automation using n8n.io.', 'Writing deployments for Kubernetes and managing k9s.', 'Blockchain Training Alliance – Certified Blockchain Developer Ethereum', 'Developing and testing D-apps on EVM using Solidity, Remix IDE,', 'Truffle, Hardhat, MetaMask wallet, testing on mainnet/testnet, Ganache,', 'geth, Ether Scan, Web3JS.', 'Certified IBM full-stack JAVA developer.', 'Microsoft Azure - AZ-900 certified.', 'Research Assistant', 'NIT Kurukshetra', '~  07/2018 - 08/2020, Haryana', 'SUMMARY', '', '', 'Highly driven professional with extensive', 'experience in conducting research, contributing', 'to open-source']}]",,https://github.com/demigod-ares
+name,email,phone,education,work_experience,linkedin,github,projects,certifications,extra,skills
+Docker,professional.sid13@gmail.com,+12018082020,[],"[{'company_name': 'IBM India Pvt Ltd', 'job_title': '~  04/2021 - Working, Bangalore', 'dates_worked': '', 'additional_info': ['Developing in “Vinturas” project with Agile approach. The project is', 'based on Hyperledger-fabric, IBP. Responsible for Developing best', 'solution to meet the client needs in NestJS framework with VS Code IDE.', 'Creating/modifying microservices and containerizing it using Docker.', 'Modifying configurations and updating dependencies of Hyperledger-fabric', 'network and microservices whenever necessary. Unit testing with Jest', 'framework and e2e testing with postman. Managing bit-bucket repository of', 'the project and using it for code review. Deploying the code to dev while', 'monitoring CI/CD pipeline in concourse. Process Automation using n8n.io.', 'Writing deployments for Kubernetes and managing k9s.', 'Blockchain Training Alliance – Certified Blockchain Developer Ethereum', 'Developing and testing D-apps on EVM using Solidity, Remix IDE,', 'Truffle, Hardhat, MetaMask wallet, testing on mainnet/testnet, Ganache,', 'geth, Ether Scan, Web3JS.', 'Certified IBM full-stack JAVA developer.', 'Microsoft Azure - AZ-900 certified.', 'Research Assistant', 'NIT Kurukshetra', '~  07/2018 - 08/2020, Haryana', 'SUMMARY', '', '', 'Highly driven professional with extensive', 'experience in conducting research, contributing', 'to open-source']}]",,https://github.com/demigod-ares,"solutions leveraging AI, IoT, and blockchain 
+technologies. Delivering impactful solutions that 
+solve complex business problems. Passionate 
+about the ever-evolving tech industry and 
+committed to staying up-to-date with the latest 
+trends and technologies. Skilled at building 
+relationships and collaborating with cross-
+functional teams, clients, and stakeholders to 
+drive successful outcomes.",,,"Client-Side: HTML, CSS, Bootstrap, JS, 
+TypeScript, Angular, React 
+Server-side: Typescript, NodeJS, NestJS, 
+Jest, JAVA, Spring Boot, JUnit, Docker, 
+Docker-compose, Kubernetes, k9s, REST 
+Blockchain: Hyperledger Fabric, IBP, 
+Ethereum. 
+ML, DL & AI: Python, NumPy, SciPy, Scikit-
+learn, Keras, Eli5, TensorFlow, PyTorch 
+Data Visualization & Processing: 
+Tableau, MS Excel, matplotlib 
+Cloud: AWS, MS Azure, IBM Cloud 
+Database: MySQL, Couch DB, Mongo DB 
+Management Frameworks: Scaled Agile 
+(SAFE), LEAN, Agile, Scrum, Fast Works 
+Others: Postman scripting & testing, n8n.io 
+automation. 
+AWARDS 
+ 
+Manager choice & Event awards at IBM 
+Gold Medal 2020 – NIT  Kurukshetra 
+Gold Medal 2015 - NPTI   Badarpur 
+ B 
+ C 
+ A 
+ D 
+ F 
+ E 
+Siddharth Singh 
+Full-stack Development (Blockchain / AI & ML) 
+Software Developer 
+WebPro Technologies 
+~  02/2016 - 05/2018,  Faizabad 
+Faculty - Industrial Automation 
+Prolific Systems & Technology 
+~  07/2015 - 01/2016,  Noida 
+Manish Thaper 
+Engineering Manager, [XX] -A fortune 500 Organization 
+REFERENCES (ON REQUEST) 
+ 
+Sharvil Singh 
+Digital Technology"

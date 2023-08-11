@@ -1,2 +1,144 @@
-name,email,phone,education,work_experience,linkedin,github
-linkedin.com/in/hastak-desai,desaihastak2406@gmail.com,+917041292196,"[{'university_name': 'The Maharaja \nSayajirao University', 'course_name': 'Baroda', 'dates_attended': 'Month/Year', 'marks_or_percentage': '6%', 'additional_info': ['of \n, Vadodara \nThe Maharaja Sayajirao \nUniversity of Baroda \n \nApril 2019 \n \n85.6% \n \nSSC \nRaghuvir Vidhya Vihar, \nAhmedabad \nGujarat Secondary and Higher \nSecondary Education Board \n \nMarch 2016 \n \n88.17% \n \nPERSONAL INFORMATION \n \n \n \n \n \n \n \n \n \n \n \n \n \nDECLARATIONS \nI hereby declare that the above-mentioned information is correct up to my knowledge and I bear the responsibility for \nthe correctness of the above-mentioned particulars. \n \nHastak Desai \nDate: - 25th April 2023 \nFull Name \n: Hastak Arvindbhai Desai \nDate of Birth \n: 24th June 2001 \nLanguages Known \n: English, Hindi, and Gujarati \nAddress \n: A-404, Kavya Residency, Nr. Thakkarbapanagar Canal Road, \nNava Naroda, Ahmedabad-382350, Gujarat (India)']}]",[],,
+name,email,phone,education,work_experience,linkedin,github,projects,certifications,extra,skills
+linkedin.com/in/hastak-desai,desaihastak2406@gmail.com,+917041292196,"[{'university_name': 'The Maharaja \nSayajirao University', 'course_name': 'Baroda', 'dates_attended': 'Month/Year', 'marks_or_percentage': '6%', 'additional_info': ['of \n, Vadodara \nThe Maharaja Sayajirao \nUniversity of Baroda \n \nApril 2019 \n \n85.6% \n \nSSC \nRaghuvir Vidhya Vihar, \nAhmedabad \nGujarat Secondary and Higher \nSecondary Education Board \n \nMarch 2016 \n \n88.17% \n \nPERSONAL INFORMATION \n \n \n \n \n \n \n \n \n \n \n \n \n \nDECLARATIONS \nI hereby declare that the above-mentioned information is correct up to my knowledge and I bear the responsibility for \nthe correctness of the above-mentioned particulars. \n \nHastak Desai \nDate: - 25th April 2023 \nFull Name \n: Hastak Arvindbhai Desai \nDate of Birth \n: 24th June 2001 \nLanguages Known \n: English, Hindi, and Gujarati \nAddress \n: A-404, Kavya Residency, Nr. Thakkarbapanagar Canal Road, \nNava Naroda, Ahmedabad-382350, Gujarat (India)']}]",[],,,"Algorithmic 
+Cryptocurrency Trading 
+Platform 
+ As a member of a product development team for company's own product, I have 
+been tasked with working on various aspects of the project, including frontend and 
+backend development, cryptocurrency data streaming, containerization, and 
+deployment. 
+ Our main aim is to utilize machine learning algorithms to assist cryptocurrency 
+trading for inexperienced individuals, providing an accessible platform that 
+simplifies the process for all levels of expertise. 
+ Project Technology stack includes:  
+ Frontend: Antd Pro, dva, css, Typescript 
+ Backend: DjangoREST  
+ Data streaming: RabbitMQ 
+ Containerization: Docker, Docker Compose, Kubernetes, Skaffold 
+ Deployment: GitHub Actions, AWS 
+ 
+AI Cover Letter 
+Generator 
+ Working on the development of client’s project enables users to create customized 
+cover letters based on a job listing they have found on LinkedIn. 
+ The project aims to streamline the job application process by developing a user-
+friendly platform that automatically generates tailored cover letters based on 
+specific job requirements, saving users time and increasing their chances of getting 
+hired. 
+ Integrated Open API and LinkedIn API to enhance the functionality of the 
+application 
+ Project Technology stack includes:  
+ Frontend: React, CSS, MUI 
+ Backend: DjangoREST  
+ Deployment: GitHub Actions, AWS 
+ 
+ 
+Financial calculator 
+ 
+ This client project is focused on developing a centralized repayment calculator for 
+asset finance brokers, which will require minimal inputs to produce accurate 
+results. 
+ The calculator will generate an exact repayment amount if all necessary details are 
+provided, and a range of repayment amounts if some details are missing. 
+ The system will be adaptable to include other types of retail finance in the long 
+term. 
+ The financier settings will be adjustable, enabling users to make rate changes 
+easily. 
+ Ultimately, the software will provide an efficient and user-friendly solution for 
+stakeholders in the finance process. 
+ Project Technology stack includes:  
+ Frontend: React, Redux, Tailwind CSS, Typescript 
+ 
+ACHIEVEMENTS & TRAINING 
+ Currently doing course ‘Learn React Router 6’ on Scrimba. 
+ Successfully completed course of ‘Front-End Web UI Frameworks and Tools: Bootstrap 4’ from The Hong Kong 
+University of science and Technology on Coursera.",,,"organization. Willing to work as a key player in a challenging and creative environment. 
+ 
+SKILLS 
+ 
+ 
+Area of Interest 
+Full stack Developer 
+Frontend Technologies 
+Backend Technologies 
+Languages 
+ HTML 
+ CSS 
+ Javascript 
+ Typescript 
+ Python 
+Frameworks/ Libraries 
+ React 
+ React-Redux 
+ Tailwind CSS 
+ MUI 
+ Django 
+ DjangoREST 
+ 
+Other Packages/ Tools/ 
+Technologies Known 
+ Git 
+ GitHub 
+ Jira 
+ Django Scheduler 
+ Django ORM with MySQL 
+ Cron Jobs 
+ RabbitMQ 
+ Redis 
+ Postman 
+ Docker 
+ Docker Compose 
+ Kubernetes 
+ Skaffold 
+ AWS 
+ 
+SUMMARY 
+ Have 1.5+ years of industry experience in developing responsive and dynamic web applications using front-
+end technologies such as HTML, CSS, TypeScript, JavaScript, React, React-Redux, MUI, and Tailwind CSS. 
+ Strong programming skills, especially with python. 
+ Proficient in back-end development using Django, DjangoREST, and Django ORM with MySQL, and 
+knowledgeable in containerization using Docker, Kubernetes, Skaffold, and Docker Compose. 
+ Familiar with various tools including Django Scheduler, Cron Jobs, RabbitMQ, Redis, Postman, and AWS 
+infrastructure maintenance and improvement. 
+ Utilizes Git and GitHub for version control and collaborating with cross-functional teams, and manages 
+project tasks and timelines using JIRA. 
+ 
+ 
+ 
+ 
+EXPERIENCE 
+ 
+ 
+F(x) Data Labs PVT LTD. 
+Software Engineer 
+Jan 2022 to Apr 2023 
+(Includes 6 months 
+internship from JAN 2022 
+to JUN 2022) 
+ Developed responsive and dynamic web applications using a range of front-end 
+technologies including HTML, CSS, TypeScript, JavaScript, React, React-Redux, MUI, 
+and Tailwind CSS, combined with the power of back-end development using 
+Django and DjangoREST. 
+ Proficient in Django Scheduler, Cron Jobs, RabbitMQ, and Redis, utilizing these 
+tools to schedule and manage tasks, efficiently handle messages and events, and 
+optimize performance. 
+ Gained experience in containerization by working with Docker, Kubernetes, 
+Skaffold, and Docker Compose for development and deployment purposes. 
+ Contributed to the maintenance and improvement of AWS infrastructure, making 
+bug fixes and minor changes as needed, while ensuring scalability, security, and 
+reliability of the cloud infrastructure. 
+ Leveraged Django ORM with MySQL to efficiently manage data models and interact 
+with databases, optimizing performance and ensuring data integrity. 
+ Demonstrated proficiency in utilizing the Postman tool to effectively test and 
+validate REST APIs, ensuring optimal communication between front-end and back-
+end systems. 
+ Worked with cross-functional teams to design, develop, and deploy web 
+applications. 
+ Conducted code reviews and provided feedback to team members. 
+ Proficient in version control using Git, including various features for managing 
+source code and collaborating with team members, and experienced in using 
+GitHub as a platform for hosting repositories, managing code reviews, and 
+collaborating with other developers. 
+ Managed project tasks and timelines using JIRA 
+ 
+ 
+RECENT"

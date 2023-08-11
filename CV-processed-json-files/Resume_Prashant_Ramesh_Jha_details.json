@@ -47,10 +47,19 @@
                 "",
                 "Maintained network related grievances for my hostel as elected for the post of Network Representative",
                 "POSITION OF RESPONSIBILITY",
-                "Center for Technical"
+                "Center for Technical Education",
+                "Jan 2020 - May 2020",
+                "- Role: Instructor | Cause: Education",
+                "Taught Introduction to Linux (Ubuntu) course to students in Center for Technical Education BITS Goa",
+                "VOLUNTEER EXPERIENCE",
+                "7.95"
             ]
         }
     ],
     "linkedin": "",
-    "github": ""
+    "github": "",
+    "projects": "Technologies Used : Python (TensorFlow, PyTorch, OpenCV), GIS, GeoJSON, React.js, Git, Linux, Docker.\n \nWorked on the backend of SMS Classification and Parsing System that manages finance for its users.\nWorked on the FinPal Community project which aims at bridging the gap between finance experts and common users.\nTechnologies Used : SQL, JavaScript, RegEx, Scrapy, Excel.\nSUMMER INTERNSHIP /",
+    "certifications": null,
+    "extra": null,
+    "skills": null
 }

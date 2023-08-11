@@ -1,2 +1,41 @@
-name,email,phone,education,work_experience,linkedin,github
-Sadichchha Naiknavare,sadichchha15@gmail.com,+12019092021,"[{'university_name': 'Solapur University', 'course_name': 'Maharashtra\nB.Sc.', 'dates_attended': '', 'marks_or_percentage': '', 'additional_info': [',Solapur\n07/2019 – 09/2021 | Solapur, (Physics)\nK.B.P.Mahavidyalaya, Pandharpur\n04/2016 – 05/2019 | Solapur, Maharashtra']}]","[{'company_name': 'Mindarika Pvt Ltd', 'job_title': '', 'dates_worked': '07/2021 – 03/2022 | Pune, India', 'additional_info': ['Subject Matter Expert', 'Chegg', '08/2020 – present', 'PROFILE', 'An ambitious developer with strong command in Java,', 'JavaScript, HTML, SQL database, Web API, etc. Constant', 'learner and ability to adapt to new technologies and can', 'work in a challenging atmosphere. 12000+ hours of Practical', 'Coding.', 'AWARDS', '2nd prize winner Kirloskar Vasundhara', 'Green Collage Clean Collage competition', '(2020)', 'A to Z viral news Speech competition 1st', 'price winner (2021)', 'Zoom Marathon Certificate', 'Basic of web Development Certificate', 'Course', 'SQL Basic And SQL intermediate', 'certificate']}]",,
+name,email,phone,education,work_experience,linkedin,github,projects,certifications,extra,skills
+Sadichchha Naiknavare,sadichchha15@gmail.com,+12019092021,"[{'university_name': 'Solapur University', 'course_name': 'Maharashtra\nB.Sc.', 'dates_attended': '', 'marks_or_percentage': '', 'additional_info': [',Solapur\n07/2019 – 09/2021 | Solapur, (Physics)\nK.B.P.Mahavidyalaya, Pandharpur\n04/2016 – 05/2019 | Solapur, Maharashtra']}]","[{'company_name': 'Mindarika Pvt Ltd', 'job_title': '', 'dates_worked': '07/2021 – 03/2022 | Pune, India', 'additional_info': ['Subject Matter Expert', 'Chegg', '08/2020 – present', 'PROFILE', 'An ambitious developer with strong command in Java,', 'JavaScript, HTML, SQL database, Web API, etc. Constant', 'learner and ability to adapt to new technologies and can', 'work in a challenging atmosphere. 12000+ hours of Practical', 'Coding.', 'AWARDS', '2nd prize winner Kirloskar Vasundhara', 'Green Collage Clean Collage competition', '(2020)', 'A to Z viral news Speech competition 1st', 'price winner (2021)', 'Zoom Marathon Certificate', 'Basic of web Development Certificate', 'Course', 'SQL Basic And SQL intermediate', 'certificate']}]",,,"PharmaEasy.com Clone
+It was a website that give all the imformation 
+about medicine.And also help to buy 
+medicine.
+GitHub link
+Features:
+Signup | Login | Profile |Cart| Product Section |Checkout & 
+Payment |
+Tech Stacks:
+HTML | CSS | JavaScript.
+Areas of responsibility:
+Fixed Navbar
+A responsive header, footer
+A collaborative project Developed within 5 days, with a team 
+of 5.
+Kapsi - Online Cab Booking Application
+GitHub link 
+Kapsi is a Online Cab Booking Application using Advance 
+Java and Spring Boot. It's a REST API for book a cab online 
+for trip, schedule a trip, give ratings to driver and many 
+more such operations.
+Feature:
+create Account | login Application | create a new trip, book a 
+trip, schedule a trip, select driver for trip and give ratings to 
+the driver. | Customer update account details ,view the list of 
+all customer and can change the status of trip booking. | 
+Driver can create a account and login.
+Tech Stack:
+MySql | Spring | SpringBoot | lombok | swagger | Spring-
+mvc | advance-java.
+Areas of responsibility:
+Insert Customer | Get all Customer | Viwe Customer | 
+Update | Customer | Delete Customer
+A collaborative project Developed within 5 days, with a team 
+of 5.",,,"TECHNICAL SKILLS
+HTML | CSS | Data Structure | Algorithm | Java | JavaScript  | 
+MySQL |  HIBERNATE  | Spring
+SOFT SKILLS
+Positive Attitude | Problem-Solving | Team-Work 
+Remote Work | Online Collaboration"

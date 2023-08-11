@@ -1,2 +1,26 @@
-name,email,phone,education,work_experience,linkedin,github
-M.A Economics,rs4774442@gmail.com,,"[{'university_name': 'D Goenka University', 'course_name': 'M.A Economics                                                                                  Gurgaon', 'dates_attended': '', 'marks_or_percentage': '', 'additional_info': ['2018-2020']}]",[],,
+name,email,phone,education,work_experience,linkedin,github,projects,certifications,extra,skills
+M.A Economics,rs4774442@gmail.com,,"[{'university_name': 'D Goenka University', 'course_name': 'M.A Economics                                                                                  Gurgaon', 'dates_attended': '', 'marks_or_percentage': '', 'additional_info': ['2018-2020']}]",[],,," 
+Created a Python CLI tool utilizing Dialogflow API to generate detailed CSV reports on intent 
+matching accuracy, enabling users to optimize their models effectively. 
+ 
+Developed a BOT Dump Tool using Python and the Dialogflow API to efficiently retrieve and 
+store over 30,000 data records in CSV format, enabling seamless data management and 
+analysis. 
+ 
+Implemented a login API for the chatbot using Python Flask framework, facilitating secure user 
+authentication and authorization processes, ensuring seamless integration of the chatbot with 
+the backend system. 
+ 
+Responsible for writing webhook responses in Python Flask for the chatbot, enabling dynamic 
+actions and seamless integration with external services and APIs. 
+ Demonstrated strong problem-solving skills in identifying and resolving technical 
+challenges related to the chatbot's API and integration processes. 
+ Led the setup of the chatbot on Dialogflow, configuring intents, entities, and responses 
+to enhance conversational capabilities and ensure a seamless, user-friendly",,,"• Python • Flask • Django • Django Rest Framework •PostgreSql • Git • Dialogflow  
+ 
+Employment History 
+ 
+EVC Ventures Pvt. Ltd.                                                                    Gurgaon 
+Python Developer                                                                                Feb 2021- May 2023 
+Responsibilities: Development, Support and Management of the product. 
+Technical Stack: Python, Flask, Django, Django Rest Framework, PostgreSQL."

@@ -1,2 +1,53 @@
-name,email,phone,education,work_experience,linkedin,github
-Jind Haryana,ankitbadgujar78@gmail.com,+919289792967,"[{'university_name': 'Guru Jambheshwar University', 'course_name': 'Btech Computer science and Engineering\nJawahar Navodaya vidyalaya Khunga Kothi Jind\n12th', 'dates_attended': '', 'marks_or_percentage': '', 'additional_info': ['of Science and Technology\n\n\ue93b']}]",[],https://www.linkedin.com/in/ankitbadgujar,
+name,email,phone,education,work_experience,linkedin,github,projects,certifications,extra,skills
+Jind Haryana,ankitbadgujar78@gmail.com,+919289792967,"[{'university_name': 'Guru Jambheshwar University', 'course_name': 'Btech Computer science and Engineering\nJawahar Navodaya vidyalaya Khunga Kothi Jind\n12th', 'dates_attended': '', 'marks_or_percentage': '', 'additional_info': ['of Science and Technology\n\n\ue93b']}]",[],https://www.linkedin.com/in/ankitbadgujar,,"Aiqahealth App
+It's a doctor on call app and app where patient can consult the doctor
+according to their selected disease and a specialised doctor is assigned
+to the patient . Consultant can be both audio and video and a prescription
+is generated where doctor provides medicines , exercises etc to be taken
+and there adherence is taken in to account.
+Roles and responsibilities:-
+Developing backend components for both web and mobile application on
+aiqahealth patient app/doctor app.
+Doctor web with major feature of audio and video consultation using
+webrtc (agora) and django's websockets using django channels.
+Automatic rescheduling of consultation at certain time using celery.
+Finncub
+Finncub :- It's a ﬁntech project made with the sole purpose of making
+loan disbursement,kyc and other feature much easier.
+Role and responsibilities:-
+My role in this project is handling the reporting service which is mainly
+handling the big data using python libraries like pandas and creating
+differnt kind of reports in excel,pdf and csv of that big data using both
+synchronous and asynchtonous mehods.
+Kreditserve
+Website for Factoring process in Financial Transaction.
+Subal Kisan
+Website for giving the platform to a call center
+Agent to place, track and deliver the farmers’ orders. another one is
+building .
+ LINKEDIN
+https://www.linkedin.com/in/ankitbadgujar",,,"Python
+Docker
+Django
+Django Rest Framework
+Html
+CSS
+Javascript
+Svelte js
+Bootstrap
+jQuery
+Websockets
+MySQL
+Postgresql
+Nov 21 -
+March 22
+March 2022 -
+Present
+2017-2021
+2016
+ANKIT
+ Objective
+To enhance my professional skills, capabilities and knowledge in an
+organization which recognizes the value of hard work and trusts me with
+responsibilities and challenges.
+"

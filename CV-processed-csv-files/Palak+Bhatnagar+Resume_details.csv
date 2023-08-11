@@ -1,2 +1,63 @@
-name,email,phone,education,work_experience,linkedin,github
-Android Developer | SSJ IT,tanubhatnagar2001@gmail.com,+917599074312,"[{'university_name': 'IMS Engineering College', 'course_name': 'bad', 'dates_attended': '2019 - 2023', 'marks_or_percentage': '', 'additional_info': ['| Ghazia \n\uf0b7 \nRelevant Coursework: Computer Science and Engineering \n\uf0b7 \nPresident at NGO WINGS IN IMSEC \n\uf0b7 \nTop Performer in all the semesters of CSE Branch in IMSEC. \n\uf0b7 \nPercentage: 88.72 % \n \n2017 - 2018 \nIntermediate | SS Children Academy Girls School | Moradabad \n\uf0b7 \nRelevant Coursework: Physics Chemistry, Math \n\uf0b7 \nPercentage: 78.8 % \n \nTECHNICAL SKILLS \n\uf0b7 \nCore Java  \n\uf0b7 \nC Programming \n\uf0b7 \nPython Programming \n\uf0b7 \nMachine Learning \n\uf0b7 \nHTML and CSS with PHP \n\uf0b7 \nMySQL Database \n\uf0b7 \nAndroid Development \n\uf0b7 \nWeb Development \n\uf0b7 \nMicrosoft Power BI Tool  \n\uf0b7 \nLinux \n\uf0b7 \nNetworking \n \n \nPROFESSIONAL SKILLS \n \n\uf0b7 \nEffective Communication \n\uf0b7']}]","[{'company_name': 'Software Intern | National Informatics Center | New Delhi', 'job_title': 'Unlocking the complexities of government application, worked on data for analysis along with making website.', 'dates_worked': '', 'additional_info': ['Some project was a Responsive website that was developed using html, css, javascript and php to predict the', 'current weather of the city. DNS Changer Application was made to change the DNS and IP of the network to', 'which the device was connected. Data Analysis project made using Microsoft Power BI Tool.', '', '03/2022 - 06/2022', 'Android Developer | SSJ IT Solutions Pvt. Ltd | Ghaziabad', 'Made a live android application named MyNaav- A boat booking App. This application was made on', 'company’s demand and was made for booking boats on the Varanasi ghats. The application was made using', 'JAVA.', '', '06/2021 - 09/2021', 'Industrial Trainee | netcamp.in | Ghaziabad', 'Honed my Android development skills with Java, cultivated expertise in website development using HTML,', 'CSS, and PHP, and gained knowledge about the underlying concepts of networking and Linux. Some']}]",,
+name,email,phone,education,work_experience,linkedin,github,projects,certifications,extra,skills
+Android Developer | SSJ IT,tanubhatnagar2001@gmail.com,+917599074312,"[{'university_name': 'IMS Engineering College', 'course_name': 'bad', 'dates_attended': '2019 - 2023', 'marks_or_percentage': '', 'additional_info': ['| Ghazia \n\uf0b7 \nRelevant Coursework: Computer Science and Engineering \n\uf0b7 \nPresident at NGO WINGS IN IMSEC \n\uf0b7 \nTop Performer in all the semesters of CSE Branch in IMSEC. \n\uf0b7 \nPercentage: 88.72 % \n \n2017 - 2018 \nIntermediate | SS Children Academy Girls School | Moradabad \n\uf0b7 \nRelevant Coursework: Physics Chemistry, Math \n\uf0b7 \nPercentage: 78.8 % \n \nTECHNICAL SKILLS \n\uf0b7 \nCore Java  \n\uf0b7 \nC Programming \n\uf0b7 \nPython Programming \n\uf0b7 \nMachine Learning \n\uf0b7 \nHTML and CSS with PHP \n\uf0b7 \nMySQL Database \n\uf0b7 \nAndroid Development \n\uf0b7 \nWeb Development \n\uf0b7 \nMicrosoft Power BI Tool  \n\uf0b7 \nLinux \n\uf0b7 \nNetworking \n \n \nPROFESSIONAL SKILLS \n \n\uf0b7 \nEffective Communication \n\uf0b7']}]","[{'company_name': 'Software Intern | National Informatics Center | New Delhi', 'job_title': 'Unlocking the complexities of government application, worked on data for analysis along with making website.', 'dates_worked': '', 'additional_info': ['Some project was a Responsive website that was developed using html, css, javascript and php to predict the', 'current weather of the city. DNS Changer Application was made to change the DNS and IP of the network to', 'which the device was connected. Data Analysis project made using Microsoft Power BI Tool.', '', '03/2022 - 06/2022', 'Android Developer | SSJ IT Solutions Pvt. Ltd | Ghaziabad', 'Made a live android application named MyNaav- A boat booking App. This application was made on', 'company’s demand and was made for booking boats on the Varanasi ghats. The application was made using', 'JAVA.', '', '06/2021 - 09/2021', 'Industrial Trainee | netcamp.in | Ghaziabad', 'Honed my Android development skills with Java, cultivated expertise in website development using HTML,', 'CSS, and PHP, and gained knowledge about the underlying concepts of networking and Linux. Some']}]",,,"were Babble- A video calling application which enables users to connect with each other through video 
+calling, accommodating up to 60 participants.",," 
+Time Management 
+ 
+Critical Thinking 
+ 
+Adaptability 
+ 
+Teamwork and Collaboration 
+ 
+ 
+VOLUNTEER PROJECTS 
+Live Weather Forecasting Website 
+ 
+ A website which uses open weather api to extract and show the data of the weather according to the 
+selected city. 
+ 
+ Website is integrated with google OAuth and twitter OAuth for login and verification purpose. 
+Predictive Maintenance of HVAC System 
+ 
+This is a sponsored project by Auto test mechanism. 
+ 
+It’s a part of industry 4.0 and helps to predict the health of system using Hardware and software 
+simultaneously. 
+Driver Drowsiness Detection Using Machine Learning 
+ 
+A python program integrated with KNN theorem to detect the face of the driver and beeps an alarm 
+when a driver closes its eyes for 8 seconds and more to prevent the accidents. 
+MyNaav-Boat Booking Application 
+ 
+This android application was made to book a boat online to visit the ghats of Varanasi. 
+ 
+This application is integrated with payment system as well to pay the charges online. 
+Babble-Hassle Free Video Calling 
+ 
+This android application is integrated with jitsi meet which allows a user to make video calls to others 
+with the help of an access code. 
+ 
+This application allows at most 60 users to connect simultaneously without time limit. 
+ 
+Firebase is also integrated in the application to authenticate the user. 
+ 
+CERTIFICATES 
+ 
+Python for Data Science by IBM Developer 
+ 
+MICROSOFT POWER BI by ICT Academy 
+ 
+Introduction to Cloud by IBM Developer 
+ 
+SQL AND RELATIONAL DATABASE by IBM 
+ 
+Artificial Inteligence Virtual Exp. by Forage. 
+ 
+Java Training by EDUCBA. 
+ 
+Python for Machine Learning by Great Learning Academy. 
+ 
+Build Responsive Website using HTML5, CSS3 by EDUCBA. 
+ 
+Cyber Security Experience by Forage","passionate about pursuing a career in the IT industry, and I am excited to contribute to the growth of the 
+company by channeling my enthusiasm and sharpening my expertise."

@@ -5,11 +5,11 @@
     "education": [
         {
             "university_name": "2018\nBACHELOR OF COMPUTER\nAPPLICATIONS\nJaipur National University",
-            "course_name": "Marital Status\nNationality\nKnown Languages\nCerti\ufb01cate of Completion",
+            "course_name": "",
             "dates_attended": "2016 - 2018",
             "marks_or_percentage": "",
             "additional_info": [
-                "2020 - Present\nTravel\nMusic\nFilming\nPhotography\nINTERESTS\nPERSONAL DETAILS\n\n- Indian\n- Single\n- Hindi, English, Gujarati\n- video editing in premiere pro course by Udemy\nACHIVEMENTS"
+                "2020 - Present\nTravel\nMusic\nFilming\nPhotography"
             ]
         }
     ],
@@ -37,5 +37,9 @@
         }
     ],
     "linkedin": "",
-    "github": ""
+    "github": "",
+    "projects": "Sumit Lohar\nF I L M  E D I T O R\nF I L M  E D I T O R",
+    "certifications": null,
+    "extra": "PERSONAL DETAILS\nMarital Status\nNationality\nKnown Languages\nCerti\ufb01cate of Completion\n- Indian\n- Single\n- Hindi, English, Gujarati\n- video editing in premiere pro course by Udemy\nACHIVEMENTS",
+    "skills": null
 }

@@ -1,2 +1,35 @@
-name,email,phone,education,work_experience,linkedin,github
-Faym-wall,0822deepakverma@gmail.com,+917701834592,[],"[{'company_name': 'Grynow Media Pvt. Ltd.(Faym)🔗', 'job_title': 'Remote', 'dates_worked': '', 'additional_info': ['Software Developer Engineer( Nest.js, Typescript, AWS, Firebase)', 'May/2022 - Present', '●', 'Developed multiple Faym-wall’s for influencers to boost online presence and engagement.', '●', 'Built a dashboard using Google Analytics APIs to monitor and summarize website clicks and views, enabling effective', ""measurement of the Faym-walls' impact on achieving influencer goals."", '●', 'Developed and integrated various modules, including order tracking, influencer dashboard, and wallet, while utilizing', 'third-party APIs like Admitad, Razorpay, and Google Spreadsheet to meet business requirements.', '●', 'Worked closely with the founder to understand product requirements and provided scalable, efficient solutions that', 'optimized performance. Utilized AWS services such as S3, EC2, and IAM to deploy and host websites and APIs.', 'Fly0kart🔗', 'Remote', 'Fullstack Developer (React.js, Node.js, MongoDB, JavaScript)', 'Oct/2021 - May/2022', '●', 'Developed and maintained a flight booking portal, fixing existing bugs and adding new features to meet requirements.', 'Achieved zero errors and a seamless user experience.', '●', 'Managed development and deployment of HRMS, ticketing tool, Zoho, and the official website on various platforms', 'like Bluehost, Netlify, and Render. Also, performed domain configuration and email service setup for efficient operation.', '●', 'Collaborated closely with the founder, led a team of 7 developers, and interviewed 20+ candidates for respective', 'roles, gaining valuable']}]",,
+name,email,phone,education,work_experience,linkedin,github,projects,certifications,extra,skills
+Faym-wall,0822deepakverma@gmail.com,+917701834592,[],"[{'company_name': 'Grynow Media Pvt. Ltd.(Faym)🔗', 'job_title': 'Remote', 'dates_worked': '', 'additional_info': ['Software Developer Engineer( Nest.js, Typescript, AWS, Firebase)', 'May/2022 - Present', '●', 'Developed multiple Faym-wall’s for influencers to boost online presence and engagement.', '●', 'Built a dashboard using Google Analytics APIs to monitor and summarize website clicks and views, enabling effective', ""measurement of the Faym-walls' impact on achieving influencer goals."", '●', 'Developed and integrated various modules, including order tracking, influencer dashboard, and wallet, while utilizing', 'third-party APIs like Admitad, Razorpay, and Google Spreadsheet to meet business requirements.', '●', 'Worked closely with the founder to understand product requirements and provided scalable, efficient solutions that', 'optimized performance. Utilized AWS services such as S3, EC2, and IAM to deploy and host websites and APIs.', 'Fly0kart🔗', 'Remote', 'Fullstack Developer (React.js, Node.js, MongoDB, JavaScript)', 'Oct/2021 - May/2022', '●', 'Developed and maintained a flight booking portal, fixing existing bugs and adding new features to meet requirements.', 'Achieved zero errors and a seamless user experience.', '●', 'Managed development and deployment of HRMS, ticketing tool, Zoho, and the official website on various platforms', 'like Bluehost, Netlify, and Render. Also, performed domain configuration and email service setup for efficient operation.', '●', 'Collaborated closely with the founder, led a team of 7 developers, and interviewed 20+ candidates for respective', 'roles, gaining valuable']}]",,,"MENTOR( Git, Github, MERN stack, Data Structures & Algorithm)
+June/2021 - June/2022
+●
+Mentored 500+ folks at various open-source programs like GWOC’21, GSSoC’22, DevIncept’21 and LGMSoC’21.
+●
+Guided and cleared doubts of 300+ Contributors regarding React.js, Js, HTML, CSS via One-to-One interaction.
+●
+Projects worked with: LearnZania🔗, DevEmpire🔗, EmpowHer🔗 and Awesome-portfolio-websites🔗.
+Get Me Therapy🔗
+HTML, CSS, Bootstrap, Zoho CRM & Javascript
+● Developed User-friendly, Responsive pages i.e. Landing Page, Pricing Page, Client Page and T&C Page from scratch.
+● Integrated Zoho Webforms where the user can put his query, which gets mapped in the Zoho CRM.
+● Worked with Domain Management, WordPress Dashboard and Hosting as well.
+Amazing CSS Projects🔗
+HTML, CSS, Javascript
+Implemented 50 unique projects using Javascript & CSS, gaining practical experience and expertise.",,"Ranjan Technologies Pvt. Ltd.🔗
+Remote
+FullStack Developer(HTML, CSS, Javascript, Bootstrap, Node.js, MongoDB)
+Sep/2021 - Nov/2021
+●
+Created user-friendly dashboards for teachers, students, and admins. The new UI streamlined interactions between all
+parties, resulting in improved communication and greater efficiency.
+●
+Integrated Twilio, Google Maps, AWS storage, and RazorPay APIs for payment and other features, improving the
+functionality and usability of the application.
+●
+Developed a Node.js-based API for efficient request handling and transaction management between frontend and
+backend, improving application functionality and performance.
+OPEN-SOURCE &","●
+Languages: C++, C, JavaScript, Typescript, Data Structures & Algorithm
+●
+Frontend: React.js, Redux,BootStrap, EJS, HTML, CSS, JQuery, SCSS
+●
+Backend: Nodejs, Mongoose, Express.js, MongoDB, RESTful API, OAuth 2.0, MySQL, Nest.js"

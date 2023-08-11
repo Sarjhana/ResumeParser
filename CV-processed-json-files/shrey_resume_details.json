@@ -31,5 +31,9 @@
         }
     ],
     "linkedin": "",
-    "github": "https://github.com/sb369"
+    "github": "https://github.com/sb369",
+    "projects": "Path Planner\n- Built a global planner for a non-holonomic robot in C++\nHotel Booking\n- Full Stack Hotel booking web app using angular, .NET and SQL\nLane Detection\n- Identifying Lane Lines on road for a self-driving car using openCV\nSudoku Solver\n- Solve the sudoku puzzle by simply scanning an image using openCV",
+    "certifications": null,
+    "extra": "Automation. My core competencies include critical thinking, decision making\nand analytical reasoning. Seeking opportunities that will help me embark on a\ncareer to make a tangible impact.",
+    "skills": "Programming  \nPython [Numpy | Pandas | Keras |\nTensorflow | Matplotlib | openCV],\nC, C++, C#, SQL, R, Java, HTML,\nCSS\nMachine Learning / Statistics \nRegression analysis, Decision Trees,\nClassification, SVM, Clustering, KNN,\nNeural Networks, Deep Learning [CNN\n| RNN | GAN] \nOthers\nGit, MS Office, Angular, .NET,\nMatlab, Linux, Google Cloud, ROS,\nPoint Cloud\nLanguages\nEnglish\nHindi\n30 Days of Google Cloud Project                                          [OCT 2020]\n- Worked on GCP to build and deploy ML models on kubernetes.\n- Learnt basics of Google Cloud Platform and Cloud Management.\nFastenal India (Software Developer Intern)   [JAN 2023 - MAY 2023]\n- Learnt and built a full stack hotel booking web application using  \n  Angular for frontend, .NET 6 in backend for creating API services\n  and MS SQL for database."
 }

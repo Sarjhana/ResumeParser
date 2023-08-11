@@ -38,5 +38,9 @@
         }
     ],
     "linkedin": "",
-    "github": ""
+    "github": "",
+    "projects": "Text Translator Web App\n\u2022 Translate text into multiple languages using Artificial Intelligence and Azure Cloud Cognitive Services. \n\u2022 Flask Framework(Python) for the front end and Azure Cognitive services for the Backend. \nSmart Garbage Segregation and Management System using IoT\n\u2022 The two bins are used to store dry and wet waste respectively. \n\u2022 The program is coded in Embedded C.\n\u2022 With the help of Servo motors, the wastes are moved into their respective bins with IR sensors. \nHouse Price Prediction(ML project)\n\u2022 Predict the price of a house based on feature variables like Area, Parking, Bedrooms, etc. \n\u2022 Uses Linear Regression to train the model. \n\u2022 Evaluate the linear regression model by calculating the parameters such as coefficient of determination, MAE, MSE, RMSE, and mean of residuals, and by \nchecking for homoscedasticity.",
+    "certifications": "Microsoft Azure Certified Fundamentals - AZ 900.\u00a0|\u00a02022\nMicrosoft Certified Azure AI Fundamentals - AI 900.\u00a0|\u00a02022\nMicrosoft Certified Security , Compliance and Identity Fundamentals - SC 900.\u00a0|\u00a02022\nData Science & Data Analytics Nasscom Assessment Clearance\u00a0|\u00a0Nasscom",
+    "extra": null,
+    "skills": "Programming Languages:- Python, C/C++, MATLAB, HTML.\nTools/Platform:- Docker, Kubernetes, Ansible, Terraform.\nCloud Services:- Microsoft Azure, GCP, Amazon Web Services(AWS).\nDevelopment:- CI/CD, Linux, GIT, Jenkins, Code Pipelines."
 }

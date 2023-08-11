@@ -23,5 +23,9 @@
         }
     ],
     "linkedin": "",
-    "github": ""
+    "github": "",
+    "projects": "Documented the projects based on the features. \nUsed technologies like Run-Deck for API scheduling for\ndi\ufb00erent features in the projects.",
+    "certifications": null,
+    "extra": "Reading Tech Blogs \nCricket \nPuzzles \nBadminton \nAchievements/Tasks \nAchievements/Tasks",
+    "skills": "Node.js \nJavascript \nJava \nReact \nSQL \nPostGres \nMySQL \nMongoDB \nHTML \nCSS \nRabbitMQ \nLoopBack \nExpress \nGit \nRedux \nPERSONAL PROJECTS \nbCard (02/2020 - 04/2020) \nbCard is a Web Application where a user can create digital cards\nand share it with clients. \nDesigned the model/schema to store all the data in the PostgreSQL\ndatabase & fetch them using APIs. \nUsed Sequelize ORM to update/add all the data in the database. \nBlog-App (12/2019 - 02/2020) \nBuilt the server side of the App using various feature-prone\nmodules based on top of Express.js & Node.js. \nDesigned and Integrated MongoDB schema to store & manipulate\nthe collected data of each respective user. \nBuilt a user-interactive Login/Signup \ufb02ow for two kinds of users,\nusing the Express-session module. \nUsed jQuery and AJAX to update the webpage and make it\ndynamic. \nPOSITIONS OF RESPONSIBILITIES \nTraining and Placement Cell, MMMUT\n (07/2017 - 05/2019) \nExecutive Member of Placement Cell"
 }

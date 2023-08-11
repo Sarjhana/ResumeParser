@@ -101,11 +101,11 @@ def divide_into_sections(text):
     # Each main section has its possible variations
     section_variations = {
         "Skills": ["Skills", "Technical Skills", "Key Skills"],
-        "Education": ["Education", "Educational Background", "Academic Qualifications"],
+        "Education": ["Education", "Educational Background", "Academic Qualifications", "Academic details"],
         "Work Experience": ["Work Experience", "Experience", "Professional Experience"],
         "Projects": ["Projects", "Key Projects"],
         "Certifications":["Certifications"],
-        "Extra":["Extracurricular", "Leadership", "Leadership roles and responsibilities", "Additional responsibilities"]
+        "Extra":["Extracurricular", "Leadership", "Leadership roles and responsibilities", "Additional responsibilities", "Interests", "Hobbies", "Interests and Hobbies"]
     }
 
     text_lower = text.lower()
@@ -267,16 +267,39 @@ def extract_details_from_text(text):
     else:
         work_experience_details = None
 
+    if 'Skills' in sections:
+        skills_text = sections["Skills"]
+    else:
+        skills_text = None
+    
+    if 'Projects' in sections:
+        projects_text = sections["Projects"]
+    else:
+        projects_text = None
+
+    if 'Certifications' in sections:
+        certifications_text = sections["Certifications"]
+    else:
+        certifications_text = None
+
+    if 'Extra' in sections:
+        extra_text = sections["Extra"]
+    else:
+        extra_text = None
+
 
     details = {
         'name': name,
         'email': email,
         'phone': phone,
-        #'skills': skills,
         'education': education_details,
         'work_experience': work_experience_details,
         'linkedin': linkedin_url,
-        'github': github_url
+        'github': github_url,
+        'projects': projects_text,
+        'certifications': certifications_text,
+        'extra': extra_text,
+        'skills': skills_text,
     }
     return details
 
@@ -327,19 +350,7 @@ def main():
         with open(txt_file_path, 'r', encoding='utf-8') as f:
             pdf_text = f.read()
         
-        '''# Extract details from the text using extract_details_from_text
-        sections = divide_into_sections(pdf_text)
-
-        if 'Education' in sections:
-            education_text = sections["Education"]
-            print(education_text)
-            education_details = extract_education_section(education_text)
-        if 'Work Experience' in sections:
-            work_experience_text = sections["Work Experience"]
-            work_experience = extract_work_experience_section(work_experience_text)'''
-        
         resume_details = extract_details_from_text(pdf_text)
-        #print(resume_details['education'])
 
         # Save the details to a CSV file
         output_file = os.path.splitext(pdf_file)[0] + '_details.csv'

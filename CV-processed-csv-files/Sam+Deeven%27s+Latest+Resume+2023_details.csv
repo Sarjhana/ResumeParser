@@ -1,2 +1,40 @@
-name,email,phone,education,work_experience,linkedin,github
-Sam Deeven,samdeevn@gmail.com,+12022022022,"[{'university_name': 'in Mechanical Engineering \nPragati Engineering College', 'course_name': '', 'dates_attended': '10x', 'marks_or_percentage': '', 'additional_info': [', Surampalem \n09/2014 - 05/2018,  \nPercentage: 70.']}, {'university_name': '78 \nClass XII \nVijaya Gayatri Junior College', 'course_name': '', 'dates_attended': '', 'marks_or_percentage': '', 'additional_info': [', Kakinada \n06/2012 - 04/2014,  \nPercentage: 91.7 \nClass X \nBhashyam Public School, Kakinada \n06/2011 - 04/2012,  \nCGPA: 8.8']}]",[],,
+name,email,phone,education,work_experience,linkedin,github,projects,certifications,extra,skills
+Sam Deeven,samdeevn@gmail.com,+12022022022,"[{'university_name': 'in Mechanical Engineering \nPragati Engineering College', 'course_name': '', 'dates_attended': '10x', 'marks_or_percentage': '', 'additional_info': [', Surampalem \n09/2014 - 05/2018,  \nPercentage: 70.']}, {'university_name': '78 \nClass XII \nVijaya Gayatri Junior College', 'course_name': '', 'dates_attended': '', 'marks_or_percentage': '', 'additional_info': [', Kakinada \n06/2012 - 04/2014,  \nPercentage: 91.7 \nClass X \nBhashyam Public School, Kakinada \n06/2011 - 04/2012,  \nCGPA: 8.8']}]",[],,,"Movie Listing Application 
+Personal Project 
+01/2022 - 02/2022,  
+Technologies used: HTML, CSS, JavaScript, React JS. 
+Built a movie listing application where users can search movie
+name and ﬁnd results. 
+Postify 
+Internship, 10x Academy 
+09/2021 - 10/2021,  
+Technologies Used: HTML, CSS , JavaScript, ReactJS, NodeJS,
+ExpressJS, MongoDB. 
+Built a photo sharing application where users can create, like the
+posts.","Received First Prize in Paper Presentation
+conducted on Engineer’s Day 2016 at Pragati
+Engineering College, Surampalem 
+Completed a course on Python
+Programming in the Skill Improvement
+Program conducted by APSSDC (Andhra
+Pradesh State Development Corporation). 
+Achievements 
+Achievements",,"HTML5 
+CSS3 
+JavaScript 
+ES6 
+React.js 
+Node.js 
+API 
+JSON 
+Python (Programming Language) 
+Express.js 
+MongoDB 
+Git 
+React Native 
+Bootstrap 
+GitHub 
+Debugging 
+Front-end Development 
+Web Development 
+C (Programming Language)"

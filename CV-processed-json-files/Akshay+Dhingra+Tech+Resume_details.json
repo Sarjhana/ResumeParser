@@ -31,5 +31,9 @@
         }
     ],
     "linkedin": "",
-    "github": ""
+    "github": "",
+    "projects": "Analysis of Position and Velocity data of a player (Data Analysis)\nBITS Pilani, RJ\nGroup Lead\nJan 2021 \u2013 Mar 2021\n\u25cf\nAnalysed the data of different parameters of a football player such as velocity, heart beat, calories burnt,\ndistance travelled etc. from data visualization created using matplotlib library in Python.\n\u25cf\nThis project improves the decision making of the coach to improve the performance of the player by\nanalysing the conclusions obtained from the data visualization.\nPolygons for CAD Modelling\nBITS Pilani, RJ\n\u25cf\nPerformed polygon operations of simple polygons for cad modelling using sympy and numpy libraries in\nPython.\n\u25cf\nSloved problems related to the 3D models such as rotation around a given axis, etc. using Python.\n\u25cf\nProjected all the polygons using matplotlib library.",
+    "certifications": null,
+    "extra": "Skills: Python | MongoDB | SQL | Node.js | C++ | DSA | Django\nInterests: Analytics, Personal Finance, BasketBall, Gaming.",
+    "skills": ""
 }

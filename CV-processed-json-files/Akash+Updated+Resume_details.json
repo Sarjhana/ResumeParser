@@ -33,5 +33,9 @@
         }
     ],
     "linkedin": "https://www.linkedin.com/in/akashprj/",
-    "github": "https://github.com/akashprj"
+    "github": "https://github.com/akashprj",
+    "projects": "Airline Reservation System \ufffd | Java, Java Swing, AWT, SQL, OOPs, JDBC Driver\n\u2022 This app is made for a flight admin, where the admin is the person who handles all of the flight companies\u2019\noperations using our app. key points to highlight.\n\u2022 Features: Customer Creation, Customer Search, Customer Data Updation, Flight Creation,\nTicket Booking, User Creation.\n\u2022 The app will only be accessible to authorized users, and this will be facilitated by a login screen that will\nrequire a username and password.\nStudent Grade Calculator \ufffd | HTML, CSS, JavaScript\n\u2022 Each student has to enter respective subject marks and see all output.\n\u2022 Features: Find Total, Find Percentage, Find Grade, Check Pass or Fail.\nTic Tac Toe \ufffd | HTML, CSS, JavaScript\n\u2022 About Project Tic Tac Toe , Xs and Os is a paper-and-pencil game for two players, X and O, who\ntake turns marking the spaces in a 3\u00d73 grid. The player who succeeds in placing three of their\nmarks in a horizontal, vertical, or diagonal row is the winner.",
+    "certifications": "\u2022 SQL - Udemy\n\u2022 Java - Great Learning\n\u2022\nC++ - Great Learning\nLINKS\n\u2022 Portfolio\n\u2022 LeetCode\n\u2022 GitHub",
+    "extra": "\u2022 Award for Academic Excellence: Got first rank in B.Tech first year\n\u2022 Workshop on Web Development: Attend Web Development Workshop organized by Apponix\n\u2022 Interests: Cricket, Music, Travelling, Blogging",
+    "skills": "Languages: Java, C, C++, C#, Python, SQL\nWeb Technologies: HTML, CSS, Bootstrap, JavaScript, PHP\nDatabases: MySQL, PostgreSQL\nTools: VS Code, Apache NetBeans, Intellij, Xampp, Git, GitHub\nCourse Work: Data Structures & Algorithms, OOPs, DBMS, Excel"
 }

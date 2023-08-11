@@ -15,5 +15,9 @@
     ],
     "work_experience": [],
     "linkedin": "",
-    "github": ""
+    "github": "",
+    "projects": "\uf0b7 \nCreated a Python CLI tool utilizing Dialogflow API to generate detailed CSV reports on intent \nmatching accuracy, enabling users to optimize their models effectively. \n\uf0b7 \nDeveloped a BOT Dump Tool using Python and the Dialogflow API to efficiently retrieve and \nstore over 30,000 data records in CSV format, enabling seamless data management and \nanalysis. \n\uf0b7 \nImplemented a login API for the chatbot using Python Flask framework, facilitating secure user \nauthentication and authorization processes, ensuring seamless integration of the chatbot with \nthe backend system. \n\uf0b7 \nResponsible for writing webhook responses in Python Flask for the chatbot, enabling dynamic \nactions and seamless integration with external services and APIs. \n\uf0b7 Demonstrated strong problem-solving skills in identifying and resolving technical \nchallenges related to the chatbot's API and integration processes. \n\uf0b7 Led the setup of the chatbot on Dialogflow, configuring intents, entities, and responses \nto enhance conversational capabilities and ensure a seamless, user-friendly",
+    "certifications": null,
+    "extra": null,
+    "skills": "\u2022 Python \u2022 Flask \u2022 Django \u2022 Django Rest Framework \u2022PostgreSql \u2022 Git \u2022 Dialogflow  \n \nEmployment History \n \nEVC Ventures Pvt. Ltd.                                                                    Gurgaon \nPython Developer                                                                                Feb 2021- May 2023 \nResponsibilities: Development, Support and Management of the product. \nTechnical Stack: Python, Flask, Django, Django Rest Framework, PostgreSQL."
 }

@@ -26,5 +26,9 @@
         }
     ],
     "linkedin": "",
-    "github": ""
+    "github": "",
+    "projects": "FireFlash\n| React, Node.js, MongoDB, Express.js\nNov 2020 \u2013 Dec 2020\n\u2022 A full stack web application consisting of all major functions of a social media similar to Instagram.\n\u2022 It also includes user authentication which is implemented using JSON web token.\nRealtime Chat Application\n| React, Node.js, Socket.io\nDec 2020 \u2013 Jan 2021\n\u2022 A Chat application in which users can enter into any room of their choice and chat with the other room members\nrealtime.\n\u2022 It also shows the online visibility of every user. Socket.io module was used for instantaneous bi-directional\ndata transfer.\nAchievements\n\u2022 Stood 300th out of 35000 in Codechef October Long Challenge\n\u2022 Solved 700+ problems on Data Structures and Algorithms at Leetcode\n\u2022 Got a rank of 55 out of 10000 in IEMCO Coding Olympiad.\n\u2022 Got a rank of 78 out of 6000 in Local Hack Day Share , an MLH hackathon.",
+    "certifications": null,
+    "extra": null,
+    "skills": "\u2022 Data Structures and Algorithms (Programming Languages) : C,C++ and Java\n\u2022 Web development : React.js, Node.js, JavaScript, MongoDB, CSS, HTML\n\u2022 Developer Tools and Technologies : Github,Firebase,Git,VsCode,Eclipse\n\u2022 Computer Science Fundamentals : Operating System , Database Management System , OOPs\nPosition of responsibilty\n\u2022 Codechef IEMK Chapter : Core Committee Member. I have solved various questions of Competitive Coding\n\u2022 EddieHub : Core Team Member of a community which promotes open source contributions."
 }

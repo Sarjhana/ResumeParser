@@ -1,2 +1,10 @@
-name,email,phone,education,work_experience,linkedin,github
-Veriﬁed,athignath1999@gmail.com,+918078407084,[],"[{'company_name': 'Tata Technologies', 'job_title': 'City: Pune', 'dates_worked': '', 'additional_info': ['Country: India', '• Designed, developed, and tested software solutions for clients using Java', 'programming language.', '• Worked on multiple']}]",,
+name,email,phone,education,work_experience,linkedin,github,projects,certifications,extra,skills
+Veriﬁed,athignath1999@gmail.com,+918078407084,[],"[{'company_name': 'Tata Technologies', 'job_title': 'City: Pune', 'dates_worked': '', 'additional_info': ['Country: India', '• Designed, developed, and tested software solutions for clients using Java', 'programming language.', '• Worked on multiple']}]",,,"solutions
+• Troubleshot and resolved technical issues reported by clients
+• Wrote clean, clear and well-texted code for various projects
+• Veriﬁed and resolved bug reports and issues.",,,"• Programming Languages: Java, Python, JavaScript, C 
+ • Framework: Springboot 
+ • Platforms: Windows, Linux 
+ • Databases: Oracle, SQL Server, MySQL 
+ • Tools: Git, ,Eclipse, Visual Studio, IntelliJ IDEA 
+ • Web Technologies: AngularJS, ReactJS"

@@ -1,2 +1,76 @@
-name,email,phone,education,work_experience,linkedin,github
-Mohamed Salman Faarsi S,mohamedsalmanfaarsi@gmail.com,+918072656649,"[{'university_name': 'Thiagarajar College', 'course_name': 'Madurai', 'dates_attended': '2020', 'marks_or_percentage': '', 'additional_info': ['of Engineering,   \n, Tamil Nadu   \n   \nBachelor, Computer Science            Graduated,2018(CGPA – 6.92)']}, {'university_name': 'The American College', 'course_name': 'Madurai', 'dates_attended': '', 'marks_or_percentage': '', 'additional_info': [', \nTamil Nadu']}]","[{'company_name': 'Blackboard Inc.', 'job_title': 'Chennai, Tamil Nadu', 'dates_worked': '', 'additional_info': ['', '• Developing features and updating the functionalities in Python-Django for BBComms. Bbcomms is a', 'school management application. It acts as a bridge between the Teacher Parent relationship.', '• Worked in AWS. Using AWS Queue to reduce internal traffic and develop a cloud supported', 'infrastructure for a lightweight application.', '• Developed code in Angular JS for an intuitive UI and ease of accessibility for the user.', '• Debugging and bug analysis on the application for a better performance', '• Build creation and Deployment in the testing environments using AWS Opsworks stacks.', '', 'January 2020 –  July 2021', '', 'AI/ML Software Developer', 'ETOP Technology Pvt Ltd', 'Chennai, Tamil Nadu', '', '• Creation of Custom Deep learning models that are far better in accuracy compared with the default', 'models through cost effective method for the betterment of the organization.', '• Application Development in multiple language platforms and multiple domains for the stable and dynamic', 'usage of the Application.', '• Analysing and filtering the dataset as per the model and for the perfection and accuracy.', '• Collaborated with project managers to select ambitious, but realistic coding milestones on pre-release', 'software project development.', '• Prepared test plans and test cases based on Custom Deep Learning model requirements.', '• Developed software for both desktop and mobile operating systems, including Windows and Linux, as', 'well as Android .', '• Designed intuitive graphical user interfaces using knowledge of serial communications and database', 'design to improve user experience.', '', 'September 2019 –  December 2019 ( Part Time )', '', 'Software Developer', 'Youcode Intelligence Solutions', 'Madurai, Tamil Nadu', '', '• Revised, modularized and updated old code bases to modern development standards, reducing', 'operating costs and improving functionality.', '• Collaborated with project managers to select ambitious, but realistic coding milestones on pre-release', 'software project development.', '• Prepared test plans and test cases based on Custom Deep Learning model requirements.', '• Developed software for both desktop and mobile operating systems, including Windows and Linux, as', 'well as Android.', '• Designed intuitive graphical user interfaces using knowledge of serial communications and database', 'design to improve user experience.', '', 'Skill Set', '', '• Python', '• Django', '• AWS', '• JavaScript', '• Tensorflow', '• Keras', '• CNN Algorithms', '• Pytorch', '• Pycharm', '• Pandas', '• Matplot', '• Scikit-Learn', '• Hypertuning Parameters', '• LSTM', '• OpenCV', '• HTML', '• CSS', '• PHP', '• MySQL', '• Mongo DB', '• AWS Textract', '• Coral Development Board', '• Linux (Ubuntu,arch)', '', '', 'Achievements', '', '•', 'Represented the school volleyball team for Zonal level Volleyball tournament organized by Tamilnadu', 'Government( 2010 )', '•', 'Represented the school football team for District level Football tournament organized by Tamilnadu', 'Government( 2013 )', '•', 'State First community rank in TANCET 2018', '•', 'Obtained 53.667 ( Normalized ) marks in TANCET 2018, 29th OVERALL RANK', '•', '2006 Time’s Person of the Year', '', 'Languages', '', '•', 'Tamil', '•', 'English', '', '', 'Personal Interests', '', '', '', '', '', '•', 'Sports ( Football )', '•', 'Content Creator', '', '•', 'Meme Creation', '(https://www.instagram.com/singlethuva__naadu/?hl=en )', '•', 'Travelling', '', '', 'Personal Details', '', 'Father’s Name:  Mr. Syed Ibrahim', '', 'Birthday: December 27,1997', '', 'Gender:', 'Male', '', '', 'Passport Number and Expiry :    R6314577( 2027)', 'Marital Status:', 'Single', 'Nationality:', 'Indian', '', '', 'Declaration', '', 'I, Mohamed Salman Faarsi S hereby declare that the above written particulars are true to the best of my', 'knowledge and belief. I am also confident of my ability to work in a team.', '', 'Place : Chennai', 'Date:', 'Yours Faithfully', '', '(Mohamed Salman Faarsi S)']}]",,
+name,email,phone,education,work_experience,linkedin,github,projects,certifications,extra,skills
+Mohamed Salman Faarsi S,mohamedsalmanfaarsi@gmail.com,+918072656649,"[{'university_name': 'Thiagarajar College', 'course_name': 'Madurai', 'dates_attended': '2020', 'marks_or_percentage': '', 'additional_info': ['of Engineering,   \n, Tamil Nadu   \n   \nBachelor, Computer Science            Graduated,2018(CGPA – 6.92)']}, {'university_name': 'The American College', 'course_name': 'Madurai', 'dates_attended': '', 'marks_or_percentage': '', 'additional_info': [', \nTamil Nadu']}]","[{'company_name': 'Blackboard Inc.', 'job_title': 'Chennai, Tamil Nadu', 'dates_worked': '', 'additional_info': ['', '• Developing features and updating the functionalities in Python-Django for BBComms. Bbcomms is a', 'school management application. It acts as a bridge between the Teacher Parent relationship.', '• Worked in AWS. Using AWS Queue to reduce internal traffic and develop a cloud supported', 'infrastructure for a lightweight application.', '• Developed code in Angular JS for an intuitive UI and ease of accessibility for the user.', '• Debugging and bug analysis on the application for a better performance', '• Build creation and Deployment in the testing environments using AWS Opsworks stacks.', '', 'January 2020 –  July 2021', '', 'AI/ML Software Developer', 'ETOP Technology Pvt Ltd', 'Chennai, Tamil Nadu', '', '• Creation of Custom Deep learning models that are far better in accuracy compared with the default', 'models through cost effective method for the betterment of the organization.', '• Application Development in multiple language platforms and multiple domains for the stable and dynamic', 'usage of the Application.', '• Analysing and filtering the dataset as per the model and for the perfection and accuracy.', '• Collaborated with project managers to select ambitious, but realistic coding milestones on pre-release', 'software project development.', '• Prepared test plans and test cases based on Custom Deep Learning model requirements.', '• Developed software for both desktop and mobile operating systems, including Windows and Linux, as', 'well as Android .', '• Designed intuitive graphical user interfaces using knowledge of serial communications and database', 'design to improve user experience.', '', 'September 2019 –  December 2019 ( Part Time )', '', 'Software Developer', 'Youcode Intelligence Solutions', 'Madurai, Tamil Nadu', '', '• Revised, modularized and updated old code bases to modern development standards, reducing', 'operating costs and improving functionality.', '• Collaborated with project managers to select ambitious, but realistic coding milestones on pre-release', 'software project development.', '• Prepared test plans and test cases based on Custom Deep Learning model requirements.', '• Developed software for both desktop and mobile operating systems, including Windows and Linux, as', 'well as Android.', '• Designed intuitive graphical user interfaces using knowledge of serial communications and database', 'design to improve user experience.', '', 'Skill Set', '', '• Python', '• Django', '• AWS', '• JavaScript', '• Tensorflow', '• Keras', '• CNN Algorithms', '• Pytorch', '• Pycharm', '• Pandas', '• Matplot', '• Scikit-Learn', '• Hypertuning Parameters', '• LSTM', '• OpenCV', '• HTML', '• CSS', '• PHP', '• MySQL', '• Mongo DB', '• AWS Textract', '• Coral Development Board', '• Linux (Ubuntu,arch)', '', '', 'Achievements', '', '•', 'Represented the school volleyball team for Zonal level Volleyball tournament organized by Tamilnadu', 'Government( 2010 )', '•', 'Represented the school football team for District level Football tournament organized by Tamilnadu', 'Government( 2013 )', '•', 'State First community rank in TANCET 2018', '•', 'Obtained 53.667 ( Normalized ) marks in TANCET 2018, 29th OVERALL RANK', '•', '2006 Time’s Person of the Year', '', 'Languages', '', '•', 'Tamil', '•', 'English', '', '', 'Personal']}]",,,"1. AI Proctor  JavaScript, Artificial Intelligence ( Deep Learning Models ), HTML, CSS    
+   
+Web application on the base of Tensorflow JS to detect and recognize the student and their facial motions 
+throughout an Examination.   
+   
+2. Document OCR ( Python, MySQL, AWS Textract, JavaScript, HTML, CSS )  
+   
+Python application that detects the text and tables in the bills and the data is stored into MySQL database and 
+the information is displayed as a whole in a webpage. The text extraction is done through AWS Textract. It can 
+also be done through Google Cloud OCR but comparatively AWS Textract is much more accurate.   
+   
+3. Emotional Intelligence JavaScript, PHP, Artificial Intelligence ( Deep Learning Models 
+), JSON, HTML, CSS   
+   
+Web application on the base of Face API that detects the face and facial emotions of the user to predict the 
+Emotional Status of the user and directs the respective website or advertisement to the respective user.   
+     
+Professional Qualifications and Affiliations   
+   
+   
+• Application Development and design (Python, Web App)   
+• Web development projects   
+• Internet Of Things Developer   
+• Technical Analysis   
+• Product development   
+• Critical thinking   
+   
+   
+Career Highlights   
+   
+• Supervised team of 10 staff members.   
+• Resolved product issue through consumer testing.   
+• Managed a group of 3 junior developers, ensuring that a project was completed on time and met all key 
+milestones.   
+• Following completion of internship, was offered a desirable position with Youcode Intelligence Solutions.   
+• Identified and eliminated website bugs to improve user",,"• 
+Sports ( Football )      
+• 
+Content Creator   
+   
+• 
+Meme Creation  
+(https://www.instagram.com/singlethuva__naadu/?hl=en )  
+• 
+Travelling   
+   
+   
+Personal Details   
+   
+Father’s Name:  Mr. Syed Ibrahim   
+  
+Birthday: December 27,1997   
+    
+Gender:   
+Male   
+   
+   
+Passport Number and Expiry :    R6314577( 2027)   
+Marital Status:   
+Single   
+Nationality:   
+Indian   
+   
+   
+Declaration   
+   
+I, Mohamed Salman Faarsi S hereby declare that the above written particulars are true to the best of my 
+knowledge and belief. I am also confident of my ability to work in a team.    
+  
+Place : Chennai 
+Date:    
+Yours Faithfully   
+   
+(Mohamed Salman Faarsi S)","development and configuration and training in Application Development. Motivated to learn, explore, grow and 
+excel in any field provided."

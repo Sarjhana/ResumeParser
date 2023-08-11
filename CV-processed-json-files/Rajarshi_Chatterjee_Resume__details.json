@@ -34,5 +34,9 @@
         }
     ],
     "linkedin": "",
-    "github": ""
+    "github": "",
+    "projects": "\u2022 Car Price Prediction\nDec. 2021\nDeveloped a simple Flask web app which predicts the after-market price of a car with 88 % accuracy\n\u2013 Data used: scraped from cardekho.com\n\u2013 Model used: RandomForrestRegressor\n\u2013 Tools & technologies used: BeautifulSoup, Python, Pandas, Scikit-learn, Flask\n\u2022 Wheat-head detection, on Kaggle\nJan. 2022\nDeveloped yolov5 model with yolov5s architecture on pre-annotated images that detects wheat heads\n\u2022 AI Presentation maker\nFeb. 2023\nDeveloped using GPT-3 and Stable diffusion for automated custom slides generation\nKey Courses Taken\n\u2022 Data Structures, Algorithms, DBMS, Operating System, Computer Networks, Pattern Recognition, Natural\nLanguage Processing, Deep Learning, Artificial Intelligence",
+    "certifications": "\u2022\nNPTEL Certification on Data Analysis with Python, IIT Roorkee\n\u2022\nDeep Learning Specialisation, DeepLearning.ai\n\u2022\nNatural Language Processing Specialisation, DeepLearning.ai",
+    "extra": null,
+    "skills": "\u2022 Programming:\nC/C++, Python, SQL\n\u2022 Tools & OS: Git, Jupyter Notebook, Google Colab, PyCharm, VSCode, Linux, Windows\n\u2022 Libraries/Frameworks: Pandas, Numpy, Scikit-learn, PyTorch, NLTK, spaCy, Hugginface\n\u2022 Web Skills & DB: HTML/CSS, Flask, FastAPI, PostgresSQL, MySQL, MongoDB\nPositions of Responsibility\n\u2022 Teaching Assistant,Fundamentals of Data Science, BITS Goa\nJanuary 2022 - May 2022\n\u2022 Research Practice,Biologically-Inspired Neural Nets, BITS Goa\nSeptember 2021 - December 2021\nAchievements\n\u2022 Secured AWS AI & ML Scholarship\n2022"
 }

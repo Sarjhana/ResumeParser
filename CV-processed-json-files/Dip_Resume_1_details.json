@@ -54,5 +54,9 @@
         }
     ],
     "linkedin": "https://www.linkedin.com/in/dip-sidpara-697855159/",
-    "github": "https://github.com/dip333"
+    "github": "https://github.com/dip333",
+    "projects": "\u2022 Text Extraction From Image: (Python, OCRSpace, OpenCV)\n\u25e6 This tool is used to extract the text from the image. Initially, In the Pre-processing stage of the tool it\u2019s improving the\nimage quality, After that in the Processing stage it\u2019s performing text detection/text localization and text binarization, In final\nPost-Processing stage it\u2019s performing segmentation and parsing and after that It\u2019ll print text.\n\u25e6 Also, This is supporting around 20 languages to detect the text available on the image and is also implemented in a chatbot.\n\u2022 NLP to SQL Tool: (Python, NLTK)\n\u25e6 This is an NLP tool to query a database in natural language. The tool takes speech as an input using Python Speech\nRecognition, after that it will convert it to a sentence and returns a well-structured SQL query as output using NLTK\nlibrary.\n\u25e6 Before printing the final Query, the Sentence is processed through different stages like, Tokenization, Escape word remover,\nAnalyze the tagged tokens and map it to table names and attributes, Filter redundancy and ambiguity check, etc.",
+    "certifications": null,
+    "extra": null,
+    "skills": "\u2022 Languages: Python, C++, Java\n\u2022 Framework and Technologies: Django, Spark, Kafka, Hive, HDFS\n\u2022 Databases: MongoDB, SQL\n\u2022 Tools: GIT, JIRA, PyCharm"
 }

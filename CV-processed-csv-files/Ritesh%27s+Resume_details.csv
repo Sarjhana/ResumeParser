@@ -1,2 +1,51 @@
-name,email,phone,education,work_experience,linkedin,github
-Raspberry Pi High,ritzn95@gmail.com,,[],"[{'company_name': 'SOFTWARES/FRAMEWORKS &', 'job_title': '', 'dates_worked': '', 'additional_info': ['SOFTWARES/FRAMEWORKS &']}]",,
+name,email,phone,education,work_experience,linkedin,github,projects,certifications,extra,skills
+Raspberry Pi High,ritzn95@gmail.com,,[],"[{'company_name': 'SOFTWARES/FRAMEWORKS &', 'job_title': '', 'dates_worked': '', 'additional_info': ['SOFTWARES/FRAMEWORKS &']}]",,,"Java Web application using Spring boot 
+Developed a learn spring boot Website on local host server 
+Developed a RestApi Project using Spring Boot 
+Developed a ToDo Spring Boot project using RestAPI's 
+Developed Library Management App using Spring Boot 
+ToDo Web Application
+ 
+ 
+Developed a FullStack Project using Java Spring Boot 
+Used Html, CSS and JSPs to build the Frontend of the Project
+and link it to the Backend of the Project 
+Developed Login for user using Spring Security and stored the
+user data in H2dataBase 
+Developed Various Models, Repositories, Services and
+Controllers to build the api's . Developed RestApi to perform
+CRUD on the Data 
+Library Management Web Application
+ 
+ 
+Developed a Library management Application using Java Spring
+boot 3 
+Developed Various Models, Repositories, Services and
+Controllers to build the api's 
+Developed RestApi's to perform CRUD on the data 
+Used the redis NoSQL database to store the data of the project 
+Mini Projects 
+Used RestApi to Get and Post data from a carsales Website
+from udemy 
+Used RestApi to Get and Post gifs from GIPHY 
+Used Postman to Get, Post, Delete and Update Api 
+Used tableau, Mysql to do data analysis using data from udemy 
+Automated websites using Selenium WebDrivers and Eclipse
+IDE 
+Facial Recognition System to collect Student Attendance 
+Tasked with",,,"Java 
+Python 
+C/C++ 
+DSA 
+Embedded C 
+RestAPI 
+SQL 
+NoSQL 
+POSTMAN 
+Selenium 
+Spring Boot 
+Tableau 
+Html 
+Redis 
+MySQL 
+PERSONAL"

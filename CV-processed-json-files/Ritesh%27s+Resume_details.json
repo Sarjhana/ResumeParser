@@ -14,5 +14,9 @@
         }
     ],
     "linkedin": "",
-    "github": ""
+    "github": "",
+    "projects": "Java Web application using Spring boot \nDeveloped a learn spring boot Website on local host server \nDeveloped a RestApi Project using Spring Boot \nDeveloped a ToDo Spring Boot project using RestAPI's \nDeveloped Library Management App using Spring Boot \nToDo Web Application\n \n \nDeveloped a FullStack Project using Java Spring Boot \nUsed Html, CSS and JSPs to build the Frontend of the Project\nand link it to the Backend of the Project \nDeveloped Login for user using Spring Security and stored the\nuser data in H2dataBase \nDeveloped Various Models, Repositories, Services and\nControllers to build the api's . Developed RestApi to perform\nCRUD on the Data \nLibrary Management Web Application\n \n \nDeveloped a Library management Application using Java Spring\nboot 3 \nDeveloped Various Models, Repositories, Services and\nControllers to build the api's \nDeveloped RestApi's to perform CRUD on the data \nUsed the redis NoSQL database to store the data of the project \nMini Projects \nUsed RestApi to Get and Post data from a carsales Website\nfrom udemy \nUsed RestApi to Get and Post gifs from GIPHY \nUsed Postman to Get, Post, Delete and Update Api \nUsed tableau, Mysql to do data analysis using data from udemy \nAutomated websites using Selenium WebDrivers and Eclipse\nIDE \nFacial Recognition System to collect Student Attendance \nTasked with",
+    "certifications": null,
+    "extra": null,
+    "skills": "Java \nPython \nC/C++ \nDSA \nEmbedded C \nRestAPI \nSQL \nNoSQL \nPOSTMAN \nSelenium \nSpring Boot \nTableau \nHtml \nRedis \nMySQL \nPERSONAL"
 }

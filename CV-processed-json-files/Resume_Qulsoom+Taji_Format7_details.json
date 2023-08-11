@@ -5,11 +5,11 @@
     "education": [
         {
             "university_name": "Ramadevi\nWomen's University",
-            "course_name": "male\nNationality\nIndian\nMarital Status\nSingle\nLanguages Known\n1.English",
-            "dates_attended": "2.Hindi",
+            "course_name": "",
+            "dates_attended": "",
             "marks_or_percentage": "",
             "additional_info": [
-                "Bhubhaneswar.\n2021\nSTRENGTHS\n1.Quick-learner, 2.Problem Solver, 3.Detail-oriented &, 4.Adaptable.\nHOBBIES\n1.Listening to soft-music &, 2. Doing things for the welfare of the society.\nPERSONAL DETAILS\nDate of Birth\n23.12.2000\nGender\nFe, 2.Hindi, 3.Odia &, 4.Quranic Arabic.\nQulsoom Taji"
+                "Bhubhaneswar.\n2021\nSTRENGTHS\n1.Quick-learner, 2.Problem Solver, 3.Detail-oriented &, 4.Adaptable."
             ]
         }
     ],
@@ -50,5 +50,9 @@
         }
     ],
     "linkedin": "",
-    "github": ""
+    "github": "",
+    "projects": null,
+    "certifications": null,
+    "extra": "1.Listening to soft-music &, 2. Doing things for the welfare of the society.\nPERSONAL DETAILS\nDate of Birth\n23.12.2000\nGender\nFemale\nNationality\nIndian\nMarital Status\nSingle\nLanguages Known\n1.English, 2.Hindi, 3.Odia &, 4.Quranic Arabic.\nQulsoom Taji",
+    "skills": "\ufb01rm's pro\ufb01tability.\ufffd\nSKILLS\n1.General:Basics of computer hardware & software.\n2.Good in using MS-OFFICE\n3.Business & Managerial Skills.\n4.Accounting & Data Management Skills.\n5.Effective member & leader of project team.\n6.Carry out multiple assignments concurrently."
 }

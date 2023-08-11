@@ -1,2 +1,38 @@
-name,email,phone,education,work_experience,linkedin,github
-Docker,kartikchoudhary416@gmail.com,+919768002730,[],"[{'company_name': 'using Scrapy, cleaning and mapping the scraped data impacting', 'job_title': 'millions of job data.', 'dates_worked': '', 'additional_info': ['Associate Software Engineer', 'Flairlabs', '� December 2019 – July 2020', '� Mumbai, India', '• Applications for Alexa - I performed tasks like debugging issues', 'adding new features to existing skills.', '• Researched and worked on Latex, MathJax Library, worked on', 'creating Bridges for Native Modules, Implemented Text Editor and', 'did some work on OCR Technology like AWS Textract,', 'Python-tesseract and others.', '• Programmed a Deep Learning Model Using Pytorch for converting', 'image to small sized vector and then ﬁnding similarity between', 'diﬀerent images.', '• Created an RPA for web scraping using UiPath which extracts data', 'related to Alexa skills and exports it as CSV or text ﬁle.', '• Wrote routines for fraud detection for performing e-KYC of oﬄine', 'Aadhaar documents.', '• Wrote function to convert large PDF ﬁles to high DPI tiﬀ images', 'which consumes less storage space.', 'Data Science Intern', 'U-TO Solutions', '� August 2019 – October 2019', '� Mumbai, India', '• Created data mining architectures and models to identify trends in', 'large data sets.', '• Created data visualization graphics, translating complex data sets into', 'comprehensive visual representations.', '• Performed advanced data extraction and data manipulation.', '• Pinpointed meaningful insights from large data and metadata sources.', '• Applied appropriate data science techniques to solve business', 'problems.', '• Identiﬁed, analyzed and interpreted trends in complex data sets using', 'supervised and unsupervised learning techniques.']}]",,
+name,email,phone,education,work_experience,linkedin,github,projects,certifications,extra,skills
+Docker,kartikchoudhary416@gmail.com,+919768002730,[],"[{'company_name': 'using Scrapy, cleaning and mapping the scraped data impacting', 'job_title': 'millions of job data.', 'dates_worked': '', 'additional_info': ['Associate Software Engineer', 'Flairlabs', '� December 2019 – July 2020', '� Mumbai, India', '• Applications for Alexa - I performed tasks like debugging issues', 'adding new features to existing skills.', '• Researched and worked on Latex, MathJax Library, worked on', 'creating Bridges for Native Modules, Implemented Text Editor and', 'did some work on OCR Technology like AWS Textract,', 'Python-tesseract and others.', '• Programmed a Deep Learning Model Using Pytorch for converting', 'image to small sized vector and then ﬁnding similarity between', 'diﬀerent images.', '• Created an RPA for web scraping using UiPath which extracts data', 'related to Alexa skills and exports it as CSV or text ﬁle.', '• Wrote routines for fraud detection for performing e-KYC of oﬄine', 'Aadhaar documents.', '• Wrote function to convert large PDF ﬁles to high DPI tiﬀ images', 'which consumes less storage space.', 'Data Science Intern', 'U-TO Solutions', '� August 2019 – October 2019', '� Mumbai, India', '• Created data mining architectures and models to identify trends in', 'large data sets.', '• Created data visualization graphics, translating complex data sets into', 'comprehensive visual representations.', '• Performed advanced data extraction and data manipulation.', '• Pinpointed meaningful insights from large data and metadata sources.', '• Applied appropriate data science techniques to solve business', 'problems.', '• Identiﬁed, analyzed and interpreted trends in complex data sets using', 'supervised and unsupervised learning techniques.']}]",,,"• Text Extraction and Analysis using NLP
+• Covid-19 Data Visualization.
+• URL Shortner in Serverless Architecture.
+• Web Scraping and API development with
+Beautiful Soup and Flask.
+• Smart Notice Board using Raspberry pi.
+• Time Series Analysis of Sales Data.","• Docker for Developers by LinkedIn
+Learning.
+• AWS Technical Essentials by AWS
+• Big Data Analytics with Hadoop and
+Apache Spark.
+• DevOps Foundations: Continuous
+Delivery/Continuous Integration
+REFERENCES
+• Avinash Permude, LinkedIn -
+9986068473/apermude@linkedin.com
+• Daljeet Singh Malhotra, Flairlabs -
+9820261930/daljeet@ﬂairlabs.com",,"Python
+API
+Flask
+SQL
+NoSQL
+Scrum
+Machine Learning
+Web Scraping
+Git
+Pytorch
+Pandas
+Data Visualization
+Matplotlib
+Numpy
+AWS
+Docker
+Data Analysis
+Object Oriented Programming
+Performance and Scalability Optimization
+ACADEMIC/PERSONAL"

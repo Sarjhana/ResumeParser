@@ -1,2 +1,35 @@
-name,email,phone,education,work_experience,linkedin,github
-Hindi,,,"[{'university_name': 'Jaypee University', 'course_name': 'mation Technology\nB. Tech', 'dates_attended': 'May 2020', 'marks_or_percentage': '', 'additional_info': ['of Infor,\xa0Electrical, Electronics and Communications\nEngineering\xa0·\xa0(2007\xa0-\xa02011)\n\xa0\nPage 2 of 2']}]","[{'company_name': 'I possess a combination of technical expertise, Analytical thinking,', 'job_title': 'and business acumen with a demonstrated history of creating', 'dates_worked': '', 'additional_info': ['and implementing successful data science products, and driving', 'data-driven value across diverse industries, including healthcare,', 'technology, audit, shipping and logistics, and consulting.', 'I have expertise in building end-to-end solutions that incorporate', 'machine learning, statistical modeling, Natural Language', 'Processing, Deep Learning, and data analytics to extract valuable', 'insights from complex datasets, leading to improved decision-making', 'and better business outcomes.', 'Experience', 'Microsoft', 'Senior Data Scientist', 'February 2022\xa0-\xa0Present\xa0(1 year 6 months)', 'Hyderabad, Telangana, India', 'A.P. Moller - Maersk', 'Data Scientist', 'December 2019\xa0-\xa0February 2022\xa0(2 years 3 months)', 'Bengaluru Area, India', 'Mavenir', ""Machine Learning - R&D (As a part of Accelopt's Acquisition)"", 'November 2018\xa0-\xa0December 2019\xa0(1 year 2 months)', 'Bengaluru Area, India', 'Accelopt Networks', 'Machine Learning Specialist', '', 'Page 1 of 2', '', '', 'June 2018\xa0-\xa0November 2018\xa0(6 months)', 'Bengaluru Area, India', 'IQVIA', 'Consultant - Data Science', 'September 2017\xa0-\xa0June 2018\xa0(10 months)', 'Bengaluru Area, India', 'KPMG', 'Senior Associate - Advanced Analytics', 'May 2015\xa0-\xa0September 2017\xa0(2 years 5 months)', 'Bengaluru Area, India', 'Accenture in India', 'Senior Business Intelligence Analyst', 'July 2011\xa0-\xa0November 2014\xa0(3 years 5 months)', 'Bengaluru Area, India']}]",,
+name,email,phone,education,work_experience,linkedin,github,projects,certifications,extra,skills
+Hindi,,,"[{'university_name': 'Jaypee University', 'course_name': 'mation Technology\nB. Tech', 'dates_attended': 'May 2020', 'marks_or_percentage': '', 'additional_info': ['of Infor,\xa0Electrical, Electronics and Communications\nEngineering\xa0·\xa0(2007\xa0-\xa02011)\n\xa0\nPage 2 of 2']}]","[{'company_name': 'I possess a combination of technical expertise, Analytical thinking,', 'job_title': 'and business acumen with a demonstrated history of creating', 'dates_worked': '', 'additional_info': ['and implementing successful data science products, and driving', 'data-driven value across diverse industries, including healthcare,', 'technology, audit, shipping and logistics, and consulting.', 'I have expertise in building end-to-end solutions that incorporate', 'machine learning, statistical modeling, Natural Language', 'Processing, Deep Learning, and data analytics to extract valuable', 'insights from complex datasets, leading to improved decision-making', 'and better business outcomes.', 'Experience', 'Microsoft', 'Senior Data Scientist', 'February 2022\xa0-\xa0Present\xa0(1 year 6 months)', 'Hyderabad, Telangana, India', 'A.P. Moller - Maersk', 'Data Scientist', 'December 2019\xa0-\xa0February 2022\xa0(2 years 3 months)', 'Bengaluru Area, India', 'Mavenir', ""Machine Learning - R&D (As a part of Accelopt's Acquisition)"", 'November 2018\xa0-\xa0December 2019\xa0(1 year 2 months)', 'Bengaluru Area, India', 'Accelopt Networks', 'Machine Learning Specialist', '', 'Page 1 of 2', '', '', 'June 2018\xa0-\xa0November 2018\xa0(6 months)', 'Bengaluru Area, India', 'IQVIA', 'Consultant - Data Science', 'September 2017\xa0-\xa0June 2018\xa0(10 months)', 'Bengaluru Area, India', 'KPMG', 'Senior Associate - Advanced Analytics', 'May 2015\xa0-\xa0September 2017\xa0(2 years 5 months)', 'Bengaluru Area, India', 'Accenture in India', 'Senior Business Intelligence Analyst', 'July 2011\xa0-\xa0November 2014\xa0(3 years 5 months)', 'Bengaluru Area, India']}]",,,,"Microsoft Certified: Azure
+Fundamentals
+Alteryx Designer Core
+R Programming (on Coursera)
+QM901x Predictive Analytics (on
+edX)
+Apache Spark Essential Training:
+Big Data Engineering
+Honors-Awards
+Client Excellence Award
+Best Employee of the month
+Top Performer of Green Field
+Training’11
+Winner of IBM The Great Mind
+Challenge'10
+Winner of IBM The Great Mind
+Challenge'09
+Publications
+Analysis for Detection of fraudulent
+Site in Online Transactions using
+Game Theoretic PAPA (GTP)
+International Gold Price Analytics
+Nitin Agarwal
+Applied Data Science | Machine Learning | Generative AI/LLMs |
+Mentor
+Bangalore Urban, Karnataka, India
+Summary
+Data Scientist with 12 years of industry",,"Large Language Models (LLM)
+Generative AI
+Communication
+Languages
+German (Elementary)
+English (Professional Working)
+Hindi (Native or Bilingual)"

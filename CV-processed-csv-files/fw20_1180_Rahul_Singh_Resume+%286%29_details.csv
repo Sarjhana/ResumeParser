@@ -1,2 +1,7 @@
-name,email,phone,education,work_experience,linkedin,github
-Rahul Singh,ranafd9984@gmail.com,+12015072018,[],"[{'company_name': 'Digital Garage', 'job_title': '', 'dates_worked': '', 'additional_info': ['Digital Garage']}]",,
+name,email,phone,education,work_experience,linkedin,github,projects,certifications,extra,skills
+Rahul Singh,ranafd9984@gmail.com,+12015072018,[],"[{'company_name': 'Digital Garage', 'job_title': '', 'dates_worked': '', 'additional_info': ['Digital Garage']}]",,,"PROFESSIONAL SUMMARY
+FULL STACK DEVELOPER
+Rahul Singh
+Deoria, Uttar Pradesh
+Linkedin
+ranafd9984@gmail.com",,,

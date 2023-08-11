@@ -1,2 +1,67 @@
-name,email,phone,education,work_experience,linkedin,github
-rjy,saikirangadhamsetti@gmail.com,+16309609226,[],"[{'company_name': 'Technology used: Python,Flask,VS buildtools , MySql.', 'job_title': 'Responsibilities:', 'dates_worked': '', 'additional_info': ['To design and provide a good user interface which involves processing the videos so as to give the', 'user the top 10 videos in his selected choice using collaborative filtering approach which was', 'implemented using ANN algorithm.And worked on creating database for the same.', 'Co-curricular Activities:-', '\uf0b7 Successfully completed the “C programming” test organized at Santhiram Engineering', 'college,nandyal.', '\uf0b7 Successfully completed and Achieved a certificate from “HACKERRANK” in “PYTHON', 'PROGRAMMING”.', '\uf0b7 Successfully completed and Achieved a certificate from “UDEMY” in “DJANGO”.', '\uf0b7 Successfully completed and Achieved a certificate from “COURSERA”in “DATABASE', 'MANAGEMENT ESSENTIALS”.', 'Hobbies and Interest:-', '\uf0b7 Dancing and Fitness.', 'STRENGTHS:-', '\uf0b7 Creativity and Adaptibility', '\uf0b7 Quick learning to new things and independent learner', '\uf0b7 Critical Thinking and Problem Solving skills', 'Declaration:-', 'I hereby declare that the details and information given above are complete and true to the best of my', 'knowledge.', '', '', 'Date:27/05/2023', '(G.Sai Kiran)']}]",,
+name,email,phone,education,work_experience,linkedin,github,projects,certifications,extra,skills
+rjy,saikirangadhamsetti@gmail.com,+16309609226,"[{'university_name': 'Andhra University', 'course_name': 'mediate Education \nA.P. \nSASI junior college \n \n2016', 'dates_attended': '2021-2022', 'marks_or_percentage': '', 'additional_info': ['Anil Neerukonda \nInstitute of \nTechnology and \nSciences \n2021-2022 \n82.3 \n2020-2021 \n81.4 \n2019-2020 \n79.6 \n2018-2019 \n78.9 \nBoard of Inter-2018 \n \n96.3 \nBoard of Secondary Education A.P. \nBHASHYAM \nTalent School \n \n2015-2016 \n \n95.0 \n \n \nComputer']}]",[],,,"Project-1:-Website for shortening the given url and keep it save and be retrieved whenever it is  
+needed using Django and html,css,Sqlite. 
+Project-2:-Website for a library to enter data of each book with description and retrieve data of each  
+book and update it done using Django rest framework,MySql 
+Project-3:-Created a website for saving and using a TO-DO List using Django and Html/CSS,MySql 
+Project-4:-Created a website for school management system for both the staff and students to handle 
+their operations using Django,HTML/CSS and MySql. 
+Project-5:Created a dual intefface wed app for admin and users where admin can give different tasks 
+to his users,This was done using Django and Django rest frame works along with HTML,CSS,Js 
+Project-6:Created a python project for uploading excel sheets and created an interface using html and 
+django for retrieving the data of excel sheets in table format using python numpy and pandas 
+libraries. 
+Title: Captivating Youtube Recommendation System 
+Description: Enhancing the user",,"Technology used: Python,Flask,VS buildtools , MySql. 
+Responsibilities: 
+To design and provide a good user interface which involves processing the videos so as to give the 
+user the top 10 videos in his selected choice using collaborative filtering approach which was 
+implemented using ANN algorithm.And worked on creating database for the same. 
+Co-curricular Activities:- 
+ Successfully completed the “C programming” test organized at Santhiram Engineering 
+college,nandyal. 
+ Successfully completed and Achieved a certificate from “HACKERRANK” in “PYTHON 
+PROGRAMMING”. 
+ Successfully completed and Achieved a certificate from “UDEMY” in “DJANGO”. 
+ Successfully completed and Achieved a certificate from “COURSERA”in “DATABASE 
+MANAGEMENT ESSENTIALS”. 
+Hobbies and Interest:- 
+ Dancing and Fitness. 
+STRENGTHS:- 
+ Creativity and Adaptibility 
+ Quick learning to new things and independent learner 
+ Critical Thinking and Problem Solving skills 
+Declaration:- 
+I hereby declare that the details and information given above are complete and true to the best of my 
+knowledge. 
+ 
+ 
+Date:27/05/2023 
+(G.Sai Kiran)"," 
+Programming Language: - 
+C, Java and Python. 
+ 
+Database: - 
+MySQL. 
+ 
+OS: - 
+Windows and Linux. 
+ 
+Web Technologies:- 
+HTML,CSS,Django,React. 
+ 
+DSA AND OOPS IN PYTHON AND C. 
+ 
+MS WORD AND MS EXCEL 
+Internships: 
+ Successfully completed 2 months internship in “Cloud Computing” at “VERZEO in AZURE 
+domain” from 12th jun 2021 to 15th aug 2021. 
+In this internship we had gone through the entire resources of azure platform and performed 
+tasks on vitual networks and subnets and also prepared the required test reports.
+Seminar and Workshops: 
+ Participated in “WORKSHOP ON HADOOP AND BIGDATA”conducted by the vortex pvt.Ltd. 
+Project Details: 
+ 
+Title: A Responsive Movie Website  
+ 
+Description:Created some of the"
