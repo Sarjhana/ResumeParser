@@ -5,17 +5,18 @@
     "education": [],
     "work_experience": [
         {
-            "company_name": "Modules,Machine Learning models.Have the ability to understand the business, solve problems and",
-            "job_title": "Skilled in Python, Machine Learning, Business Analyst and SQL.",
-            "dates_worked": "1.6 Year of experience in Business Analyst.",
+            "company_name": "Skilled in Python, Machine Learning, Business Analyst and SQL.",
+            "job_title": "1.6 Year of experience in Business Analyst.",
+            "dates_worked": "Python Machine Learning, Data Analysis, Django Jupyter Notebook with 6 months of Training",
             "additional_info": [
+                "Modules,Machine Learning models.Have the ability to understand the business, solve problems and",
                 "describe solutions by storytelling."
             ]
         },
         {
-            "company_name": "Python Machine Learning, Data Analysis, Django Jupyter Notebook with 6 months of Training",
+            "company_name": "Python Machine Learning API with Data Analysis 4 months of experience.",
             "job_title": "Working as Business Analyst in NoBroker Technology Solution Pvt Ltd since April 2022.",
-            "dates_worked": "Python Machine Learning API with Data Analysis 4 months of experience.",
+            "dates_worked": "Worked as Python Machine Learning in ITax Easy Pvt Ltd in January 2022 to April 2022.",
             "additional_info": [
                 "experience.",
                 "Experienced in JavaScript, core Java.",
@@ -27,7 +28,7 @@
             ]
         },
         {
-            "company_name": "Worked as Python Machine Learning in ITax Easy Pvt Ltd in January 2022 to April 2022.",
+            "company_name": ": NoBroker Technology Solution Pvt Ltd, Gurgaon",
             "job_title": ": Business Analyst",
             "dates_worked": "during June 2019 to December 2019.",
             "additional_info": [
@@ -36,7 +37,6 @@
                 "Worked as Summer Training from Ellen Infotech Jalandhar",
                 "Project 04",
                 "Company",
-                ": NoBroker Technology Solution Pvt Ltd, Gurgaon",
                 "Client",
                 ": India",
                 "Duration",
@@ -65,7 +65,7 @@
             ]
         },
         {
-            "company_name": "Worked on reports, Enhancement & Smart forms.",
+            "company_name": ": ITspark Technology, Noida",
             "job_title": "",
             "dates_worked": ": Jan 2019 - Dec 2019",
             "additional_info": [
@@ -74,9 +74,9 @@
                 "Important Objects Developed / Customized:",
                 "Developed Interfaces",
                 "Build web applications",
+                "Worked on reports, Enhancement & Smart forms.",
                 "Project 2",
                 "Company",
-                ": ITspark Technology, Noida",
                 "Client",
                 ": India",
                 "Duration",

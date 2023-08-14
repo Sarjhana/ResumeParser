@@ -15,7 +15,7 @@
     ],
     "work_experience": [
         {
-            "company_name": "to the model sustainability efforts which allows Google to run and",
+            "company_name": "SkillSet",
             "job_title": "-- GCP Certified Data Engineer",
             "dates_worked": "June 2021\u00a0-\u00a0Present\u00a0(2 years 2 months)",
             "additional_info": [
@@ -25,6 +25,7 @@
                 "generated content via counter abusive machine learning models",
                 "to protect our surface from any form of abuse and vandalism and",
                 "ensure publication of highest data quality on Maps. I also contribute",
+                "to the model sustainability efforts which allows Google to run and",
                 "operate Machine Learning models at scale and prevent them from",
                 "becoming stale.",
                 "Some of my previous work includes building an :",
@@ -33,7 +34,6 @@
                 "image denoising with no access to ground truth.",
                 "3. Cell Detection for automatic localisation and classification of nuclei",
                 "and microtubules in microscopic images.",
-                "SkillSet",
                 "Page 1 of 5",
                 "Cloud Computing:",
                 "-- AWS Certified Solution Architect",
@@ -102,7 +102,7 @@
             ]
         },
         {
-            "company_name": "to run and operate Machine Learning models at scale and prevent them from",
+            "company_name": "Data Science Mentor (mentors.to/mohitkhanna)",
             "job_title": "",
             "dates_worked": "December 2021\u00a0-\u00a0Present\u00a0(1 year 8 months)",
             "additional_info": [
@@ -113,9 +113,9 @@
                 "counter abusive machine learning models to protect our surface from any",
                 "form of abuse and vandalism and ensure publication of highest data quality on",
                 "Maps. I also contribute to the model sustainability efforts which allows Google",
+                "to run and operate Machine Learning models at scale and prevent them from",
                 "becoming stale.",
                 "MentorCruise",
-                "Data Science Mentor (mentors.to/mohitkhanna)",
                 "Bangalore Urban, Karnataka, India",
                 "I mentor folks where I help them with learning and executing data science"
             ]

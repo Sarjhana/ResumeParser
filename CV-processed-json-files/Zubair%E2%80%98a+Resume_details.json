@@ -15,7 +15,7 @@
     ],
     "work_experience": [
         {
-            "company_name": "worked on Building rest API'S using Nodejs,expressjs,mysq",
+            "company_name": "Iniesta Webtech Solutions",
             "job_title": "Worked with other 2 senior developers to implement redis",
             "dates_worked": "08/2022 - Present,",
             "additional_info": [
@@ -31,24 +31,30 @@
                 "Full Stack developer intern",
                 "YAV Technology",
                 "03/2021 - 06/2021,",
-                "Bangalore(remote)"
+                "Bangalore(remote)",
+                "worked on Building rest API'S using Nodejs,expressjs,mysq",
+                "Made user Dashboard, ranking leader board using Reactjs",
+                "worked on client side rendering",
+                "Deployed on AWS",
+                "Android Development Intern"
             ]
         },
         {
-            "company_name": "Iniesta Webtech Solutions",
-            "job_title": "Made user Dashboard, ranking leader board using Reactjs",
+            "company_name": "with di\ufb00ernt mobile devices",
+            "job_title": "",
             "dates_worked": "05/2020 - 06/2020,",
             "additional_info": [
-                "worked on client side rendering",
-                "Deployed on AWS",
-                "Android Development Intern",
                 "07/2020 - 08/2020,",
                 "remote",
                 "responsible for e-commerce ui using xml&java",
                 "was responsible for making responsible ui",
                 "made backend using java",
                 "Android Development Intern",
-                "Sankalpsoft soultions"
+                "Sankalpsoft soultions",
+                "remote",
+                "worked on frontend using xml",
+                "made backend for online exam platform",
+                "troubleshoot and debugged code to ensure compatibility"
             ]
         }
     ],

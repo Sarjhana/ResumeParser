@@ -22,7 +22,29 @@
             ]
         }
     ],
-    "work_experience": [],
+    "work_experience": [
+        {
+            "company_name": "Mobile App. Design(iOS/Android)",
+            "job_title": "",
+            "dates_worked": "Austin, Texas (USA) based company providing AI based solutions (Oct 2019 - June 2020)",
+            "additional_info": [
+                "UI-UX DESIGNER @ INSTAACODERS (ENDCLIENT- COCOLEVIO LLC)",
+                "Create user centric design, mobile application design(iOS/android), user flows,",
+                "process flows & site maps to effectively communicate interaction and design ideas.",
+                "Conduct user research and evaluate user feedback for design-related problems and",
+                "devise elegant solutions.",
+                "ABOUT",
+                "HCI Certified UI-UX Designer with a passion for metrics and beating former",
+                "\"best-yets.\" Results oriented, innovative, passionate and visionary designer",
+                "in Product UI-UX Design with high proficiency in visual design, UX research",
+                "HCI, User-centered design principles and front-end development.",
+                "CORE QUALIFICATIONS",
+                "Persona Creation",
+                "Coding",
+                "Communication"
+            ]
+        }
+    ],
     "linkedin": "",
     "github": "",
     "projects": null,

@@ -15,23 +15,19 @@
     ],
     "work_experience": [
         {
-            "company_name": "automated configuration files from excel sheet itself using Ruby on Rails. Getting hands-on in AWS, Postman, JIRA, Git, ROR",
+            "company_name": "",
             "job_title": "Software Engineer Intern",
             "dates_worked": "Nov 2022-May 2023",
             "additional_info": [
                 "Yubi",
                 "Chennai",
-                "Building APIs from scratch for clients. Performing different levels of testing of the APIs. Building a platform \u201dBlitz-Scale\u201d to generate the"
-            ]
-        },
-        {
-            "company_name": "Individually designed a Social Media Web Application for the company. Web UI framework used ReactJS, Backend was done using NodeJS,",
-            "job_title": "",
-            "dates_worked": "May 2021-July 2021",
-            "additional_info": [
+                "Building APIs from scratch for clients. Performing different levels of testing of the APIs. Building a platform \u201dBlitz-Scale\u201d to generate the",
+                "automated configuration files from excel sheet itself using Ruby on Rails. Getting hands-on in AWS, Postman, JIRA, Git, ROR",
                 "Coding Blocks",
                 "WFH",
                 "Web Development Intern",
+                "May 2021-July 2021",
+                "Individually designed a Social Media Web Application for the company. Web UI framework used ReactJS, Backend was done using NodeJS,",
                 "ExpressJS, Storing and fetching the user's data and CRUD functionality was managed using MongoDB, GraphQL.",
                 "DoEarn",
                 "Varanasi",

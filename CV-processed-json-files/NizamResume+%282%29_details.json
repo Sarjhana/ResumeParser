@@ -5,7 +5,7 @@
     "education": null,
     "work_experience": [
         {
-            "company_name": "Developed with ReactJS, scss, git ,json. Integrated google sheet API with contact box",
+            "company_name": ":- Majlis Application (ReactNative)",
             "job_title": "Frontend developer",
             "dates_worked": "it is a complete full-stack web application for handling and comparing our daily expenses. It is",
             "additional_info": [
@@ -29,24 +29,25 @@
                 "and firebase",
                 "https://crafty-a2f12.web.app/",
                 ":- Rt Arcades",
+                "Developed with ReactJS, scss, git ,json. Integrated google sheet API with contact box",
                 "https://www.rtarcades.com/",
                 ":- Chocochi",
                 "Developed with ReactJS, scss, git , json. Integrated google sheet API with contact box",
                 "https://www.chocochi.com/",
-                ":- Majlis Application (ReactNative)",
                 "contributed on an mobile application frontend development for college using reactNative",
                 "https://github.com/nizam-chenath/majlis-app",
                 ":- PocketPilot web app (mern)"
             ]
         },
         {
-            "company_name": "A web application for watching football highlights developed using reactJS with integrated API",
+            "company_name": "govt. Rajahs kottakkal",
             "job_title": "",
             "dates_worked": "2018 - 2020",
             "additional_info": [
                 "developed with react,redux,express,mongodb",
                 "https://pocketpilot.netlify.app/",
                 ":- Highlights",
+                "A web application for watching football highlights developed using reactJS with integrated API",
                 "https://highlights2022.netlify.app/",
                 ":- Quiz app",
                 "A web application for improving knowledge with quiz . It is developed using reactJS with integrated",
@@ -64,7 +65,6 @@
                 "Bootstrap",
                 "Rest API",
                 "Firebase",
-                "govt. Rajahs kottakkal",
                 "Higer secondary (Xll)",
                 "P O R T F O L I O S",
                 "Github:-",

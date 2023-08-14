@@ -15,13 +15,20 @@
     ],
     "work_experience": [
         {
-            "company_name": "Created Micro Services to handle and process large chunk",
+            "company_name": "Epikindi\ufb01 Software & Solutions",
             "job_title": "Software Engineer",
             "dates_worked": "05/2021 - Present,",
             "additional_info": [
                 "High Peak Software",
                 "High Peak Software builds world-class products for small, medium",
-                "and enterprise businesses."
+                "and enterprise businesses.",
+                "Created Micro Services to handle and process large chunk",
+                "of data based on continuous requests.",
+                "Designed to o\ufb04oad the existing service by Caching.",
+                "Maintained Micro Services using Messaging Protocol.",
+                "Created APIs, designed Database schema required for",
+                "the services.",
+                "Member of Technical Sta\ufb00"
             ]
         }
     ],

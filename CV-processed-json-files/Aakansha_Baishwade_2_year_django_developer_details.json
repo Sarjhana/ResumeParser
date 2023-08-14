@@ -24,13 +24,15 @@
     ],
     "work_experience": [
         {
-            "company_name": "Developed and maintained web applications using Python,",
+            "company_name": "Django, DRF and MySQL.",
             "job_title": "Jr. Django Developer | RankItRight Media",
             "dates_worked": "Oct 2021 - OCT 2022",
-            "additional_info": []
+            "additional_info": [
+                "Developed and maintained web applications using Python,"
+            ]
         },
         {
-            "company_name": "Django, DRF and MySQL.",
+            "company_name": "HTML, Css, JavaScript",
             "job_title": "Django Developer | Intemize",
             "dates_worked": "Oct 2022 - Present",
             "additional_info": [
@@ -44,7 +46,6 @@
                 "Django Query Optimization  for Seamless User Experience.",
                 "Performance Optimization",
                 "Problem Solving",
-                "HTML, Css, JavaScript",
                 "Server Management",
                 "SQL, PostgreSQL",
                 "Git&Github",
@@ -58,7 +59,7 @@
             ]
         },
         {
-            "company_name": "Create  functions for calculation of BMI and BMR using",
+            "company_name": "Ful.io (Data Analysis Tool)",
             "job_title": "Django Developer",
             "dates_worked": "total experience- 1.7 year's",
             "additional_info": [
@@ -67,6 +68,7 @@
                 "Designing and Implementing data storage solutions.",
                 "Creation and Integration of Restful APIs.",
                 "Create model relationships by using Django.",
+                "Create  functions for calculation of BMI and BMR using",
                 "property decorators.",
                 "Email Otp verification.",
                 "Create custom signals for custom Notifications  with",
@@ -76,7 +78,6 @@
                 "Code Refactoring and Optimization.",
                 "Used third party API including Google API's.",
                 "Project name",
-                "Ful.io (Data Analysis Tool)",
                 "Obesity(Hospital Management System)",
                 "SCM (Supply Chain Management System)",
                 "MediConnectAI (Advancing Medical Research",

@@ -5,7 +5,7 @@
     "education": [],
     "work_experience": [
         {
-            "company_name": "using POI jar.",
+            "company_name": "Databases : SQL , Oracle",
             "job_title": "Engineered a Sentiment Analysis model using Python, trained",
             "dates_worked": "record of providing excellent support operations. Possessing 2 years of experience, I am",
             "additional_info": [
@@ -13,24 +13,20 @@
                 "generation process. We have used java for generating the",
                 "letters, By accessing the oracle DB. Also Have developed to read",
                 "to the data from input excel sheet and loading into database",
+                "using POI jar.",
                 "and refined it to achieve higher accuracy. Implemented the",
                 "Sentiment Analysis model and leveraged its insights to develop a",
                 "cutting-edge Recommendation system. Employed FastAPI for",
                 "seamless deployment, enabling realtime analysis and delivering",
                 "actionable insights to the endusers.",
-                "Experienced professional with a strong background in Python technologies and a proven track"
-            ]
-        },
-        {
-            "company_name": "Databases : SQL , Oracle",
-            "job_title": "SYSTEMS ENGINEER",
-            "dates_worked": "July  2021 - Present",
-            "additional_info": [
+                "Experienced professional with a strong background in Python technologies and a proven track",
                 "highly skilled in troubleshooting and resolving complex issues, with a focus on delivering",
                 "effective solutions in a timely manner. Adept at working collaboratively with cross-functional",
                 "teams, I am committed to achieving the best possible outcomes for clients and stakeholders.",
                 "My expertise in Python technologies enables me to develop innovative solutions that optimize",
                 "system performance and enhance user experience , Hands on experience on DEVOPS",
+                "SYSTEMS ENGINEER",
+                "July  2021 - Present",
                 "EXPERTISE",
                 "CERTIFICATION",
                 "programming Languages : C ,",
@@ -38,7 +34,7 @@
             ]
         },
         {
-            "company_name": "Kornshell scripting",
+            "company_name": "Microsoft Azure fundamentals",
             "job_title": "SRKR Engineering",
             "dates_worked": "2017 - 2021",
             "additional_info": [
@@ -47,10 +43,10 @@
                 ":",
                 "HTML",
                 ",CSS",
+                "Kornshell scripting",
                 "Backend : Javascript .",
                 "Virtualization Tools : Excel",
                 "AZ-900",
-                "Microsoft Azure fundamentals",
                 "college",
                 "ADITYA junior college",
                 "Bachelor of Technology - ECE"

@@ -33,12 +33,13 @@
     ],
     "work_experience": [
         {
-            "company_name": "Develop fully functioning projects based on Java.",
+            "company_name": "Learned Data Structures and Algorithms, Web Development, SQL.",
             "job_title": "Full Stack Developer Training",
             "dates_worked": "June 2022 - Dec 2022",
             "additional_info": [
                 "AccioJob",
-                "Gurgaon, India"
+                "Gurgaon, India",
+                "Develop fully functioning projects based on Java."
             ]
         }
     ],

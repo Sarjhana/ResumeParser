@@ -5,25 +5,21 @@
     "education": [],
     "work_experience": [
         {
-            "company_name": "Worked on the backend of a doctor consultation app which allows the patients to book slots for online doctor",
+            "company_name": "",
             "job_title": "Software Development Engineer Intern",
             "dates_worked": "June 2022 - Aug 2022",
             "additional_info": [
                 "Kylo Apps",
-                "Remote"
-            ]
-        },
-        {
-            "company_name": "",
-            "job_title": "Software Developer Intern",
-            "dates_worked": "developed various features by backend APIs using NodeJS,thereby increasing monthly user visits by 20 percent",
-            "additional_info": [
+                "Remote",
+                "Worked on the backend of a doctor consultation app which allows the patients to book slots for online doctor",
                 "consultations, provides ambulance services for hospitals and and pharmacy to buy pharmaceutical drugs.",
                 "Integrated Google calendar API using oauth2.0 protocol to enable online slot bookings and designed and",
+                "developed various features by backend APIs using NodeJS,thereby increasing monthly user visits by 20 percent",
                 "End to end product development and deployment after implementing Rate Limiting functionality to the",
                 "server to support 100+requests/second ,which also helps to prevent DoS attacks and web scraping.",
                 "Daphnis Labs",
                 "Feb 2022 - March 2022",
+                "Software Developer Intern",
                 "Remote",
                 "Worked on the backend of an agro trading web application where the buyer can submit their enquiry about a",
                 "product,seller can participate in the negotiation process over a 120 minute time frame before the buyer places",

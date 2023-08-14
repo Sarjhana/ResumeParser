@@ -5,7 +5,7 @@
     "education": [],
     "work_experience": [
         {
-            "company_name": "\uf0fc In-house OCR module custom-trained model",
+            "company_name": "Neural Network: CNN, LSTM, RNN",
             "job_title": "Senior Researcher",
             "dates_worked": "financial annual reports into different classes",
             "additional_info": [
@@ -14,6 +14,7 @@
                 "table,column and cell extraction of  scanned",
                 "and electronic PDF documents using YOLOv5",
                 "(mAP 91)",
+                "\uf0fc In-house OCR module custom-trained model",
                 "for accurate text recognition in scanned/noisy",
                 "documents.",
                 "\uf0fc ResNet50 based module for object detection",
@@ -24,7 +25,6 @@
                 "1:100).",
                 "\uf0fc Visual attention based CNN model for",
                 "detection of eye diseases from fundus images",
-                "Neural Network: CNN, LSTM, RNN",
                 "Data Preprocessing, Visualization",
                 "Statistical modelling",
                 "Siamese network, Similarity learning",

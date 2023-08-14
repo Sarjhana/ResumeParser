@@ -15,20 +15,16 @@
     ],
     "work_experience": [
         {
-            "company_name": "Deployed Python Scripts to migrate data of  ~10 Lacs users from SQL Database to MongoDB database.",
+            "company_name": "",
             "job_title": "Software Developer Engineer - 1",
             "dates_worked": "July 2022 - Present",
             "additional_info": [
                 "Questt",
-                "Bengaluru, KA"
-            ]
-        },
-        {
-            "company_name": "students using Nodejs.",
-            "job_title": "",
-            "dates_worked": "Wrote a listener to generate dynamic links using python saving ~4 hrs of daily man work.",
-            "additional_info": [
+                "Bengaluru, KA",
+                "Deployed Python Scripts to migrate data of  ~10 Lacs users from SQL Database to MongoDB database.",
                 "Created APIs to reduce the TAT of user's information by 30%, in turn created a study plan in real time for",
+                "students using Nodejs.",
+                "Wrote a listener to generate dynamic links using python saving ~4 hrs of daily man work.",
                 "Designed a dashboard to generate a report for ~50 schools on the basis of students data of questions played",
                 "using SQL, MongoDB and Python.",
                 "Questt",

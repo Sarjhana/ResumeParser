@@ -79,38 +79,33 @@
             ]
         },
         {
-            "company_name": "InMemory Index Periodically Persisted to Disk/Cloud Storage Object.",
+            "company_name": "MySql, API development (Go-Lang) and deployment on Serverless Architecture (AWS",
             "job_title": "Senior Software Engineer at Rippling, a YC",
             "dates_worked": "Company (Dec 2021 - May 2022)",
             "additional_info": [
                 "generation pace. (dropwizard, java, gcp, docker,git)",
                 "MemoryMapped Files are used to e\ufb03ciently retrieve data on disk, supporting 100 ms",
                 "response time over 10 million data points, with a result page size of 100.",
+                "InMemory Index Periodically Persisted to Disk/Cloud Storage Object.",
                 "Distributed Processing for Machine Learning Production Pipelines Using Apache Beam on",
                 "Google Cloud DataFlow, PubSub.",
-                "Deepak Marathe"
-            ]
-        },
-        {
-            "company_name": "Developed APIs for Reporting, Analytics (Python, Django, MongoDB)",
-            "job_title": "Staff Software Engineer at Quartic.ai (Nov",
-            "dates_worked": "2019 - March 2020)",
-            "additional_info": [
+                "Deepak Marathe",
+                "Developed APIs for Reporting, Analytics (Python, Django, MongoDB)",
                 "Improved Code Coverage to 95% by Systematic Refactoring to make the modules Unit",
                 "Testable.",
-                "I quit my full time employment to pursue my Entrepreneurship ventures in Generative AI."
-            ]
-        },
-        {
-            "company_name": "working Remote.",
-            "job_title": "SDE3/Lead Software Engineer at Halodoc (Dec",
-            "dates_worked": "2018 - Dec 2019)",
-            "additional_info": [
+                "I quit my full time employment to pursue my Entrepreneurship ventures in Generative AI.",
+                "Staff Software Engineer at Quartic.ai (Nov",
+                "2019 - March 2020)",
                 "Optimized Distributed Rule Engine by 8X (Kafka, Drools, Scala, Spark,Postgres)",
                 "Improved Code Coverage to 90% by Systematic Refactoring to make the modules Unit",
                 "Testable.",
                 "Implemented Data Retention Policies on ElasticSearch (Python, Django, Air\ufb02ow)",
-                "Onset of Covid affected my Full-Time Employment with Quartic. I moved on to Freelancing"
+                "Onset of Covid affected my Full-Time Employment with Quartic. I moved on to Freelancing",
+                "working Remote.",
+                "SDE3/Lead Software Engineer at Halodoc (Dec",
+                "2018 - Dec 2019)",
+                "Developed and Deployed Features in the Halodoc Backend System.",
+                "Developed RESTful Microservices(Java, Dropwizard, Hibernate), Domain modeling on"
             ]
         }
     ],

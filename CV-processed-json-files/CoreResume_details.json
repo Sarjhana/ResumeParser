@@ -5,13 +5,13 @@
     "education": [],
     "work_experience": [
         {
-            "company_name": "it to AppStore. I follow the UI/UX designs to keep it pixel perfect to make it intuitive user experiences.",
+            "company_name": "golang, dotntet & rust.",
             "job_title": "I am self motivated & strong developer, working for excellent results!",
             "dates_worked": "Salespanda Feb 2020 - Present",
             "additional_info": [
                 "experience in mobile application development using Flutter, Swift pogromming languages and publishing",
+                "it to AppStore. I follow the UI/UX designs to keep it pixel perfect to make it intuitive user experiences.",
                 "Experience in building REST-API's, Micro Services, Frameworks, SDKS using many languages such as",
-                "golang, dotntet & rust.",
                 "I also worked as a Ethical Hacker.",
                 "I architect mobile application as per the industry followed design patterns to make it robust, reusable and",
                 "testing independently. I implement design patterns such as MVC, MVVM patterns based on the complexity",
@@ -36,19 +36,15 @@
             ]
         },
         {
-            "company_name": "Worked in building a digital marketting  app for HDFC Mutual Fund.",
+            "company_name": "LegalTrustNetwork(LTN) Apr 2023 - Present",
             "job_title": "Mid-Senior Level Flutter Developer",
             "dates_worked": "LegalTrustNetwork(LTN) Apr 2023 - Present",
             "additional_info": [
-                "App Link: https://play.google.com/store/apps/details?id=com.hdfcmf.app"
-            ]
-        },
-        {
-            "company_name": "they manages the court cases, building an user friendly app which gives connection between the user and",
-            "job_title": "Lead Full Stack Mobile Application Developer(Flutter, Golang)",
-            "dates_worked": "LegalTrustNetwork(LTN) Apr 2023 - Present",
-            "additional_info": [
+                "Worked in building a digital marketting  app for HDFC Mutual Fund.",
+                "App Link: https://play.google.com/store/apps/details?id=com.hdfcmf.app",
+                "Lead Full Stack Mobile Application Developer(Flutter, Golang)",
                 "Worked as a lead full stack mobile application developer at a company called legaltrustnetwork, where",
+                "they manages the court cases, building an user friendly app which gives connection between the user and",
                 "the advocat.",
                 "f ll",
                 "l",
@@ -60,23 +56,19 @@
             ]
         },
         {
-            "company_name": "they manages the court cases, building an user friendly app which gives connection between the user and",
+            "company_name": "NDA May 2020 - Dec 2020",
             "job_title": "Worked as a lead full stack mobile application developer at a company called legaltrustnetwork, where",
             "dates_worked": "NDA(Not Preffered To Tell) Jan 2023 - Mar 2023",
             "additional_info": [
+                "they manages the court cases, building an user friendly app which gives connection between the user and",
                 "the advocat.",
                 "fully legealized application",
                 "Link: https://legaltrustnetwork.com/#/",
-                "Platforms: Cross-Platform(web, mobile, desktop)"
-            ]
-        },
-        {
-            "company_name": "NDA May 2020 - Dec 2020",
-            "job_title": "Security Engineer",
-            "dates_worked": "Rust, Solidity May 2023 - Present",
-            "additional_info": [
+                "Platforms: Cross-Platform(web, mobile, desktop)",
+                "Security Engineer",
                 "Worked as security engineer building bootkits, and many other tools for web-space worked in with",
                 "contract",
+                "Rust, Solidity May 2023 - Present",
                 "Blockchain Developer",
                 "Developing smart contracts and distributed applications"
             ]

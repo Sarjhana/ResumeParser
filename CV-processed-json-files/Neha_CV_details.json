@@ -5,7 +5,7 @@
     "education": [],
     "work_experience": [
         {
-            "company_name": "the pathology part and segment it. We used MaskRCNN, U-Net",
+            "company_name": "ML/DS thesis supervisor",
             "job_title": "Senior AI Researcher",
             "dates_worked": "February 2022 - Ongoing",
             "additional_info": [
@@ -26,16 +26,16 @@
                 "\ufb01nd out where there is a change on the basis of anatomy and",
                 "tool. In this, we combined tool, anatomy and bad frame model to",
                 "get the proper results.",
-                "Pathology Segmentation: Given the endoscopy video we look for"
+                "Pathology Segmentation: Given the endoscopy video we look for",
+                "the pathology part and segment it. We used MaskRCNN, U-Net",
+                "model to get the proper segmentation."
             ]
         },
         {
-            "company_name": "ML/DS thesis supervisor",
+            "company_name": "UpGrad, India",
             "job_title": "",
             "dates_worked": "January 2021 - Ongoing",
             "additional_info": [
-                "model to get the proper segmentation.",
-                "UpGrad, India",
                 "Part-Time",
                 "Upgrad is an"
             ]

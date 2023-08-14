@@ -15,11 +15,12 @@
     ],
     "work_experience": [
         {
-            "company_name": "Developed a responsive website clone of  MbaChaiWala  for practicing ReactJS skills and gaining hands-on",
+            "company_name": "app.",
             "job_title": "",
             "dates_worked": "MbaChaiWala",
             "additional_info": [
                 "Github  |  Deployment",
+                "Developed a responsive website clone of  MbaChaiWala  for practicing ReactJS skills and gaining hands-on",
                 "experience in building modern web applications.",
                 "Utilized ReactJS, a popular JavaScript library for creating dynamic user interfaces, to replicate the functionalities",
                 "and design of  MbaChaiWala  website.",
@@ -33,7 +34,6 @@
                 "Developed Skiecues, a web app using HTML, CSS, and JavaScript that displays weather forecast for",
                 "user-speci\ufb01ed locations using OpenWeather API.",
                 "Implemented accurate weather data retrieval and display features for enhanced user experience in Skiecues web",
-                "app.",
                 "Achievements",
                 "-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
                 "Winner  of Inter university  Frontend development challenge Webathon 2.0",

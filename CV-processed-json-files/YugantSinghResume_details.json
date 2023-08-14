@@ -24,34 +24,23 @@
     ],
     "work_experience": [
         {
-            "company_name": "app that facilitates effortless communication and collaboration between hospitals, doctors, and patients.",
+            "company_name": "Stack: OpenCV, Tensorflow, Google Colab, Arduino and ESP32 camera.",
             "job_title": "Spearheaded a cross-functional team of 8 members to successfully develop and launch Health+, an innovative",
             "dates_worked": "Apr. 2022",
             "additional_info": [
                 "Health Plus | Github Live",
                 "A complete health app that connects hospitals, doctors, and patients and helps you to keep track of your health",
                 "and fitness.",
-                "Stack: Next.js, React, Tailwind, MongoDB, Vercel"
-            ]
-        },
-        {
-            "company_name": "Demonstrated the app to the reviewers and received positive feedback and recognition for its functionality and",
-            "job_title": "",
-            "dates_worked": "Jan. 2022",
-            "additional_info": [
+                "Stack: Next.js, React, Tailwind, MongoDB, Vercel",
+                "app that facilitates effortless communication and collaboration between hospitals, doctors, and patients.",
                 "Constructed the frontend utilizing cutting-edge technologies such as React, Next.js, and Tailwind CSS, and",
                 "seamlessly integrated it with backend services.",
+                "Demonstrated the app to the reviewers and received positive feedback and recognition for its functionality and",
                 "usability.",
                 "Home Defender | Github",
+                "Jan. 2022",
                 "HomeDefender is a project that utilizes cutting-edge technology to process video feeds from a camera module",
-                "and accurately classify objects in real-time, all while transmitting the feed seamlessly over WiFi.",
-                "Stack: OpenCV, Tensorflow, Google Colab, Arduino and ESP32 camera.",
-                "Created a low-cost system that can easily detect and classify objects, providing users with an affordable and",
-                "effective home security solution, even cheaper than current market offerings.",
-                "Implemented seamless transmission of the video feed over WiFi, providing users with real-time updates on",
-                "detected objects.",
-                "Demonstrated the app to the reviewers and received positive feedback and recognition for its functionality and",
-                "usability."
+                "and accurately classify objects in real-time, all while transmitting the feed seamlessly over WiFi."
             ]
         }
     ],

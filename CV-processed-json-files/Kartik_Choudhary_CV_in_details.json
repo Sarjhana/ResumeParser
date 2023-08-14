@@ -15,7 +15,7 @@
     ],
     "work_experience": [
         {
-            "company_name": "using Scrapy, cleaning and mapping the scraped data impacting",
+            "company_name": "did some work on OCR Technology like AWS Textract,",
             "job_title": "Software Engineer",
             "dates_worked": "November 2021 - September 2022  Dublin, Ireland",
             "additional_info": [
@@ -30,50 +30,17 @@
                 "Coordinated e\ufb03cient large-scale software deployments.",
                 "Analyzed proposed technical solutions based on customer",
                 "requirements.",
-                "Created e\ufb03cient spiders that can scrape data from multiple sources"
-            ]
-        },
-        {
-            "company_name": "Applications for Alexa - I performed tasks like debugging issues",
-            "job_title": "Associate Software Engineer",
-            "dates_worked": "December 2019 - July 2020",
-            "additional_info": [
+                "Created e\ufb03cient spiders that can scrape data from multiple sources",
+                "using Scrapy, cleaning and mapping the scraped data impacting",
                 "millions of job data.",
+                "Associate Software Engineer",
                 "Flairlabs",
-                "Mumbai, India"
-            ]
-        },
-        {
-            "company_name": "did some work on OCR Technology like AWS Textract,",
-            "job_title": "",
-            "dates_worked": "August 2019 - October 2019",
-            "additional_info": [
+                "December 2019 - July 2020",
+                "Mumbai, India",
+                "Applications for Alexa - I performed tasks like debugging issues",
                 "adding new features to existing skills.",
                 "Researched and worked on Latex, MathJax Library, worked on",
-                "creating Bridges for Native Modules, Implemented Text Editor and",
-                "Python-tesseract and others.",
-                "Programmed a Deep Learning Model Using Pytorch for converting",
-                "image to small sized vector and then \ufb01nding similarity between",
-                "di\ufb00erent images.",
-                "Created an RPA for web scraping using UiPath which extracts data",
-                "related to Alexa skills and exports it as CSV or text \ufb01le.",
-                "Wrote routines for fraud detection for performing e-KYC of o\ufb04ine",
-                "Aadhaar documents.",
-                "Wrote function to convert large PDF \ufb01les to high DPI ti\ufb00 images",
-                "which consumes less storage space.",
-                "Data Science Intern",
-                "U-TO Solutions",
-                "Mumbai, India",
-                "Created data mining architectures and models to identify trends in",
-                "large data sets.",
-                "Created data visualization graphics, translating complex data sets into",
-                "comprehensive visual representations.",
-                "Performed advanced data extraction and data manipulation.",
-                "Pinpointed meaningful insights from large data and metadata sources.",
-                "Applied appropriate data science techniques to solve business",
-                "problems.",
-                "Identi\ufb01ed, analyzed and interpreted trends in complex data sets using",
-                "supervised and unsupervised learning techniques."
+                "creating Bridges for Native Modules, Implemented Text Editor and"
             ]
         }
     ],

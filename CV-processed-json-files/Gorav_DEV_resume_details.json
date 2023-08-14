@@ -15,21 +15,17 @@
     ],
     "work_experience": [
         {
-            "company_name": "DevOps Engineer\u00a0|\u00a0Spyne\u00a0|\u00a0Gurgaon, Haryana\u00a0|\u00a0April 2023 - Present",
-            "job_title": "Configured and managed Pritunl VPN connections for secure remote access, providing users with secure access to company resources from remote locations.",
+            "company_name": "",
+            "job_title": "DevOps Engineer\u00a0|\u00a0Spyne\u00a0|\u00a0Gurgaon, Haryana\u00a0|\u00a0April 2023 - Present",
             "dates_worked": "AWS DevOps Intern\u00a0|\u00a0Mactores\u00a0|\u00a0Bellevue, Washington\u00a0|\u00a0December 2022 - March 2023",
             "additional_info": [
                 "Managed AWS infrastructure and EC2 instances, including creating and configuring virtual machines, monitoring resource usage, and troubleshooting issues.",
                 "Utilized Terraform to automate the deployment and management of infrastructure resources, including EC2 instances, security groups, load balancers, and",
                 "more.",
-                "Maintained and monitored Terraform state files to ensure consistency and accuracy of infrastructure resources."
-            ]
-        },
-        {
-            "company_name": "Preparing for AWS Solutions Architect Associate Exam through materials provided by the company.",
-            "job_title": "",
-            "dates_worked": "Completing daily tasks and activities and attending standup calls every day.",
-            "additional_info": [
+                "Configured and managed Pritunl VPN connections for secure remote access, providing users with secure access to company resources from remote locations.",
+                "Maintained and monitored Terraform state files to ensure consistency and accuracy of infrastructure resources.",
+                "Preparing for AWS Solutions Architect Associate Exam through materials provided by the company.",
+                "Completing daily tasks and activities and attending standup calls every day.",
                 "DevOps Intern\u00a0|\u00a0PearlThoughts IT Consulting and Services\u00a0|\u00a0Thoothukudi, Tamil Nadu\u00a0|\u00a0October 2022 - November 2022",
                 "Setting up snipe IT on a local machine with Docker, AWS, GitPod and Kubernetes approach.",
                 "Creating dumps, asset management system in Snipe IT.",

@@ -24,10 +24,11 @@
     ],
     "work_experience": [
         {
-            "company_name": "I possess a combination of technical expertise, Analytical thinking,",
+            "company_name": "Microsoft",
             "job_title": "insights from complex datasets, leading to improved decision-making",
             "dates_worked": "February 2022\u00a0-\u00a0Present\u00a0(1 year 6 months)",
             "additional_info": [
+                "I possess a combination of technical expertise, Analytical thinking,",
                 "and business acumen with a demonstrated history of creating",
                 "and implementing successful data science products, and driving",
                 "data-driven value across diverse industries, including healthcare,",
@@ -37,7 +38,6 @@
                 "Processing, Deep Learning, and data analytics to extract valuable",
                 "and better business outcomes.",
                 "Experience",
-                "Microsoft",
                 "Senior Data Scientist"
             ]
         },

@@ -34,12 +34,12 @@
             ]
         },
         {
-            "company_name": "- AI Recommendations to address imbalances in narrative",
+            "company_name": "- Compute 'Application Score Index' for each CM story",
             "job_title": "Python Developer",
             "dates_worked": "Noida | May 2019 - May 2021",
             "additional_info": [
                 "- Auto extraction of entity concepts",
-                "- Compute 'Application Score Index' for each CM story",
+                "- AI Recommendations to address imbalances in narrative",
                 "- Document pre-processing script",
                 "- Parallelization of pipeline execution",
                 "- Clustering the CM stories based on pre-defined themes",
@@ -49,13 +49,14 @@
             ]
         },
         {
-            "company_name": "assisted QA engine.",
+            "company_name": "Knadia - TCS Internal)",
             "job_title": "Release Engineer",
             "dates_worked": "2014 - 2018",
             "additional_info": [
                 "- Development of chatbot framework i.e. conversational",
                 "dialogue system that uses concepts of Knowledge",
                 "Synthesis for intra-enterprise use to provide knowledge",
+                "assisted QA engine.",
                 "- Data Harvesting for Knowledge Synthesis Framework.",
                 "-  Create various training console commands.",
                 "Specializations",
@@ -78,7 +79,6 @@
                 "- Linux",
                 "- Chatbot Frameworks",
                 "(Google Dialogflow,",
-                "Knadia - TCS Internal)",
                 "TCS Research and Innovation Labs",
                 "Project - Semantics System and Knowledge Synthesis (SSA)",
                 "Noida | Sept 2018 - Apr 2019",

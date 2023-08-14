@@ -190,6 +190,10 @@ def is_job_title(line):
     line = line.lower()
     return any(identifier in line for identifier in common_identifiers)
 
+def contains_verb(doc):
+    """Checks if the spaCy parsed document contains a verb."""
+    return any(token.pos_ == "VERB" for token in doc)
+
 def extract_work_experience_section(text):
     work_experience_details = []
 
@@ -210,7 +214,8 @@ def extract_work_experience_section(text):
             line = lines[i].strip()
             doc_line = nlp(line)
 
-            if 'ORG' not in parsed_categories and any(ent.label_ == "ORG" for ent in doc_line.ents):
+            # Check for organization label, but ensure it's not a sentence
+            if 'ORG' not in parsed_categories and any(ent.label_ == "ORG" for ent in doc_line.ents) and not contains_verb(doc_line):
                 company_name = line
                 parsed_categories.add('ORG')
             elif 'TITLE' not in parsed_categories and is_job_title(line):
@@ -233,6 +238,7 @@ def extract_work_experience_section(text):
             })
 
     return work_experience_details
+
 
 def extract_education_section(text):
     education_details = []
@@ -343,11 +349,19 @@ def save_details_to_json(details, output_file, output_directory):
         json.dump(details, f, indent=4)
 
 def main():
+    '''
+    input_directory = '/Users/sarjhana/Projects/Campuzzz/Testing'  # Specify the directory containing the PDF files
+    output_directory_txt = '/Users/sarjhana/Projects/Campuzzz/CV-text-files-test'  # Specify the desired output directory for text files
+    output_directory_csv = '/Users/sarjhana/Projects/Campuzzz/CV-processed-csv-files-test'  # Specify the desired output directory for CSV files
+    output_directory_json = '/Users/sarjhana/Projects/Campuzzz/CV-processed-json-files-test' # Specify the desired output directory for JSON files
+    
+    '''
     input_directory = '/Users/sarjhana/Projects/Campuzzz/CV Archive'  # Specify the directory containing the PDF files
     output_directory_txt = '/Users/sarjhana/Projects/Campuzzz/CV-text-files'  # Specify the desired output directory for text files
     output_directory_csv = '/Users/sarjhana/Projects/Campuzzz/CV-processed-csv-files'  # Specify the desired output directory for CSV files
     output_directory_json = '/Users/sarjhana/Projects/Campuzzz/CV-processed-json-files' # Specify the desired output directory for JSON files
-    
+
+
     # Create a single text file to store all the converted text
     all_text_file = '/Users/sarjhana/Projects/Campuzzz/all_resumes_text.txt'
     with open(all_text_file, 'w', encoding='utf-8') as f:
