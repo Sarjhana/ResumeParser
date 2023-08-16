@@ -1,17 +1,10 @@
-import fitz  # PyMuPDF
+import fitz
 import re
 import spacy
-import nltk
 import phonenumbers
-import pandas as pd
 import os
 import json
-import datetime
 
-from nltk.corpus import wordnet
-
-# Download the NLTK wordnet data (if not already downloaded)
-nltk.download('wordnet')
 nlp = spacy.load("en_core_web_sm")
 
 def pdf_to_text(pdf_path, output_directory):
@@ -39,7 +32,6 @@ def pdf_to_text(pdf_path, output_directory):
         print(f"Writing txt file for {txt_file_name}")
 
     return txt_file_path
-
 
 def extract_name(doc):
     for ent in doc.ents:
@@ -93,56 +85,79 @@ def extract_details_from_text(text):
     return details
 
 
+def clean_text(text, details):
+    cleaned_text = text
+
+    # Remove extracted personal information
+    if details['name']:
+        cleaned_text = cleaned_text.replace(details['name'], '')
+    if details['email']:
+        cleaned_text = cleaned_text.replace(details['email'], '')
+    if details['phone']:
+        phone_matches = list(phonenumbers.PhoneNumberMatcher(cleaned_text, "US"))
+        for match in phone_matches:
+            start, end = match.start, match.end
+            cleaned_text = cleaned_text[:start] + cleaned_text[end:]
+    if details['linkedin']:
+        cleaned_text = cleaned_text.replace(details['linkedin'], '')
+    if details['github']:
+        cleaned_text = cleaned_text.replace(details['github'], '')
+
+    return cleaned_text
+
+
+def remove_and_save_personal_info(input_text_path, output_directory, resume_details):
+    with open(input_text_path, 'r', encoding='utf-8') as input_file:
+        original_text = input_file.read()
+
+    cleaned_text = clean_text(original_text, resume_details)
+
+    # Generate the output .txt file name based on the input file name
+    input_file_name = os.path.basename(input_text_path)
+    output_file_name = os.path.splitext(input_file_name)[0] + "_cleaned.txt"
+
+    # Save the cleaned text to a new .txt file in the specified output directory
+    output_file_path = os.path.join(output_directory, output_file_name)
+    with open(output_file_path, 'w', encoding='utf-8') as output_file:
+        output_file.write(cleaned_text)
+        print(f"Writing cleaned txt file for {output_file_name}")
+
 def save_details_to_json(details, output_file, output_directory):
     output_file_path = os.path.join(output_directory, output_file)
     with open(output_file_path, 'w', encoding='utf-8') as f:
         json.dump(details, f, indent=4)
 
 def main():
+    input_directory = '/Users/sarjhana/Projects/Campuzzz/Testing'
+    output_directory_txt = '/Users/sarjhana/Projects/Campuzzz/CV-text-files-test'
+    output_directory_cleaned_txt = '/Users/sarjhana/Projects/Campuzzz/prepared-CV-test'
+    output_directory_json = '/Users/sarjhana/Projects/Campuzzz/personal-info-JSON-test'
 
-    input_directory = '/Users/sarjhana/Projects/Campuzzz/Testing'  # Specify the directory containing the PDF files
-    output_directory_txt = '/Users/sarjhana/Projects/Campuzzz/CV-text-files-test'  # Specify the desired output directory for text files
-    output_directory_csv = '/Users/sarjhana/Projects/Campuzzz/CV-processed-csv-files-test'  # Specify the desired output directory for CSV files
-    output_directory_json = '/Users/sarjhana/Projects/Campuzzz/CV-processed-json-files-test' # Specify the desired output directory for JSON files
-    
-    '''
-    input_directory = '/Users/sarjhana/Projects/Campuzzz/CV Archive'  # Specify the directory containing the PDF files
-    output_directory_txt = '/Users/sarjhana/Projects/Campuzzz/CV-text-files'  # Specify the desired output directory for text files
-    output_directory_csv = '/Users/sarjhana/Projects/Campuzzz/CV-processed-csv-files'  # Specify the desired output directory for CSV files
-    output_directory_json = '/Users/sarjhana/Projects/Campuzzz/CV-processed-json-files' # Specify the desired output directory for JSON files
-    '''
-    
-    # Get a list of all PDF files in the input directory
     pdf_files = [file for file in os.listdir(input_directory) if file.endswith('.pdf')]
-
-    # Initialize a counter variable to keep track of the file number
     file_count = 0
 
     for pdf_file in pdf_files:
         file_count += 1
         print(f"Processing File {file_count}/{len(pdf_files)} - {pdf_file}")
 
-        # Construct the full path of the PDF file
         pdf_path = os.path.join(input_directory, pdf_file)
-
-        # Convert the PDF to text and save it as a .txt file
         txt_file_path = pdf_to_text(pdf_path, output_directory_txt)
 
-        # Read the content of the text file
         with open(txt_file_path, 'r', encoding='utf-8') as f:
             pdf_text = f.read()
-            with open(all_text_file, 'a', encoding='utf-8') as f:
-                f.write(pdf_text + "\n")
 
-        with open(txt_file_path, 'r', encoding='utf-8') as f:
-            pdf_text = f.read()
-        
         resume_details = extract_details_from_text(pdf_text)
-
-
-        # Save the details to a JSON file
         output_file = os.path.splitext(pdf_file)[0] + '_details.json'
         save_details_to_json(resume_details, output_file, output_directory_json)
+
+        # Clean the text
+        cleaned_text = clean_text(pdf_text, resume_details)
+
+        # Remove extracted details and save cleaned text to a separate text file
+        cleaned_txt_file_path = os.path.join(output_directory_cleaned_txt, os.path.splitext(pdf_file)[0] + "_cleaned.txt")
+        with open(cleaned_txt_file_path, 'w', encoding='utf-8') as f:
+            f.write(cleaned_text)
+            print(f"Writing cleaned txt file for {pdf_file}")
 
 if __name__ == "__main__":
     main()

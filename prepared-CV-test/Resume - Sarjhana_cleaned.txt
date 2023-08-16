@@ -1,0 +1,133 @@
+
+; ,
+, 
+EDUCATION
+King's College London
+Sept. 2022
+MSc Artificial Intelligence
+Pass with Merit (68%)
+ 
+Relevant Modules: Data Mining, AI Planning, Computer Vision, AI Reasoning & Decision Making,
+Nature-Inspired Learning Algorithms, Pattern Recognition, Neural Networks, and Deep Learning.
+ 
+Dissertation: Explainable Predictive Frameworks from Medical Time Series supervised by Dr. Zina Ibrahim.
+ 
+Aim: Develop an interpretable classifier using a next-generation Neurosymbolic AI approach, “Logic
+Explained Networks” that produces first-order logic explanations for time-series data. Github
+Anna University
+May 2021
+B.Engg. Computer Science & Engineering
+CGPA : 8.7/10
+ 
+Team Research Project: Early Detection of Alzheimer's Disease
+ 
+Proposed a novel approach of combining Residual Neural Networks(ResNet) and Ensemble Learning
+(Majority Voting).
+ 
+Led the team to preprocess MRI Brain Images from the ADNI dataset and implement the ResNet
+classifier using Transfer Learning. Github
+WORK EXPERIENCE
+National Health Service (NHS - CAMHS) London, UK
+Feb 2023 - Present
+Clinical Informatician
+ 
+Conducted research and developed extensions for NLP solutions to analyse unstructured health records data.
+ 
+Developed several Robotic Process Automation (RPA) bots using industry-leading technologies to automate
+business processes and enhance operational efficiency.
+ 
+Conducted rigorous testing and debugging of RPA bots to ensure accurate functionality, identify and resolve
+issues, and optimize performance.
+Child and Adolescent Mental Health Services (KCL) London, UK
+Aug 2022 - Feb 2023
+Senior Analyst (Part-time)
+ 
+Performed data extraction, manipulation, and analysis using Microsoft SQL Server for ADHD research
+projects.
+ 
+Created impactful reports, dashboards, and data visualizations using Power BI to analyse mental health data.
+Predactica LLC Remote
+Aug 2021 - Oct 2022
+AI/ML R&D consultant (Part-time)
+ 
+Worked on researching and developing Explainable AI capabilities to generate global and local explanations
+using the SHAP and LIME libraries.
+ 
+Tested counterfactual understanding of churn data and performed clustering for customer segmentation to
+help Fortune 500 companies diagnose and reduce customer churn rate resulting in a 20% increase in revenue.
+ 
+Authored optimal codes to effectively formulate Model Stability using Population Stability Index (PSI) and
+Characteristic Stability Index (CSI).
+ 
+Acted as a single point of communication between the intern team and management team to engineer the
+new features and integrate them into the existing product.
+ 
+Built LSTM, CNN, NN, and BERT models to test various explainability libraries like SHAP, LIME, and ex-BERT
+using TensorFlow and Huggingface.
+Hatch Chennai, India
+June 2019 - July 2019
+Software Developer (Intern)
+ 
+Collaborated with the developer team to work on the demands specified by the client and created a
+prototype for a mobile application using React-Native that underwent various mockups.
+TECHNICAL SKILLS & CERTIFICATIONS
+Technologies:
+Artificial Intelligence, Machine Learning, Deep Learning, NLP, Computer Vision
+Programming:
+Python, C, C++, Dart, Matlab, R
+Databases:
+MySQL, FireBase
+Libraries:
+Tensorflow, Pytorch, Keras, Scikit Learn, NLTK, Numpy, Pandas, SHAP, LIME, DICE
+Certifications:
+Artificial Intelligence(Harvard University), Machine Learning(Stanford University),
+Deep Learning Specialization (CNN, LSTM from Coursera),
+Introduction to Programming using Python(Microsoft, Credential ID - wLps5-H9MW)
+PROJECTS
+People Detection, Tracking and Counting
+June 2021
+ 
+Developed an object detector, tracker, and counter in TensorFlow using state-of-the-art techniques - YOLOv4
+and DeepSORT. GitHub
+AI in Marketing
+Jan. 2021
+ 
+Trained a K-Means Clustering Model on customer dataset to identify similar groups which can be used for
+targeted ads or customised marketing campaigns.
+ 
+Performed Exploratory Data Analysis and PCA dimensionality reduction. GitHub
+Credit Card Default Detection
+May 2020
+ 
+Trained an XGBoost model with hyperparameter tuning by a Grid search to predict if a customer would
+default on credit card payments. GitHub
+ACHIEVEMENTS
+Winner, Smart India Hackathon
+Aug. 2020
+ 
+Developed ‘MIDDAY MEALS', an automated auditing system to monitor the free lunch scheme employed in
+over 1 million schools across India, for a 36-hour hackathon conducted by The Government of India.
+ 
+Achieved 95% accuracy for Custom Food Detection model trained in SSD EfficientDet. Github
+Winner, Think-a-thon
+Feb. 2019
+ 
+Created prototype of Optical Character Recognition (OCR) system for automating and validating bank cheques
+using Tesseract and Android Studio for a 24-hour hackathon conducted by Anna University, India. Github
+Best Innovation Award, SAACHACK
+July 2018
+ 
+Designed and implemented the project ‘ParkSmart', an automated cloud-based parking system using Android
+Studio for a 24-hour hackathon conducted by Anna University, India. Github
+LEADERSHIP RESPONSIBILITIES & VOLUNTEERING EXPERIENCE
+Python Instructor, Hatch School of Code
+May 2020 - Aug 2020
+ 
+Taught foundational basics to advanced-level hands-on Python coding for kids of age 5 to 15.
+President, Association of Computer Engineers, Anna University
+July 2018 - May 2021
+ 
+Played a crucial role in organising various technical events, hackathons, and the National level Symposium
+“Interrupt” for three consecutive years as a president, secretary, and an executive member.
+ 
+Accomplished a 40% increase in student participation by enforcing new marketing strategies.
