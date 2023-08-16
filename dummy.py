@@ -1,55 +1,79 @@
-def is_job_title(line):
-    common_identifiers = ["engineer", "developer", "manager", "analyst", "consultant", "specialist", "senior", "junior", "lead", "principal", "assistant", "associate", "executive", "director", "head", "chief", "vp", "vice president", "informatician"]
-    line = line.lower()
-    return any(identifier in line for identifier in common_identifiers)
+import openai
+
+openai.api_key = "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"
+
+def get_completion(prompt, model="gpt-3.5-turbo", temperature=0): 
+    messages = [{"role": "user", "content": prompt}]
+    response = openai.ChatCompletion.create(
+        model=model,
+        messages=messages,
+        temperature=temperature, 
+    )
+    return response.choices[0].message["content"]
+
+def save_details_to_json(details, output_file, output_directory):
+    output_file_path = os.path.join(output_directory, output_file)
+    with open(output_file_path, 'w', encoding='utf-8') as f:
+        json.dump(details, f, indent=4)
+
+file_path = '/Users/sarjhana/Projects/Campuzzz/CV-text-files-test/Resume - Sarjhana.txt'
+with open(file_path, 'r') as file:
+    text = file.read()
+
+print(text)
+
+prompt = f"""Extract details from the text of resume delimited by angle brackets into a JSON. For any details that are blank or not found, use the word 'Unknown'.
+                The JSON should have the following keys. 
+                {
+                    "personal_info": {
+                        "name": "",
+                        "email": "",
+                        "phone": "",
+                        "address": ""
+                    },
+                    "education": [
+                        {
+                        "degree": "",
+                        "university": "",
+                        "graduation_year": ""
+                        },
+                        {
+                        "degree": "",
+                        "university": "",
+                        "graduation_year": ""
+                        }
+                    ],
+                    "work_experience": [
+                        {
+                        "title": "",
+                        "company": "",
+                        "start_date": "",
+                        "end_date": "",
+                        "description": ""
+                        },
+                        {
+                        "title": "",
+                        "company": "",
+                        "start_date": "",
+                        "end_date": "",
+                        "description": ""
+                        }
+                    ],
+                    "skills": [],
+                    "certifications": [],
+                    "projects": [],
+                    "extracurricular_activities": [],
+                    }
+
+                
+                
+                <{text}>"""
+response = get_completion(prompt)
+save_details_to_json(response,'Resume1.json', '/Users/sarjhana/Projects/Campuzzz/CV-GPT-processed-JSON')
 
 
-def extract_work_experience_section(text):
-    work_experience_details = []
-    
-    # Extract dates as before
-    doc = nlp(text)
-    dates = extract_dates_from_spacy(doc)
 
-    lines = text.split('\n')
-    i = 0
-    while i < len(lines):
-        line = lines[i].strip()
 
-        company_name, job_title, date_worked, additional_details = '', '', '', []
-
-        # Check for company name or job title
-        doc_line = nlp(line)
-        if any(ent.label_ == "ORG" for ent in doc_line.ents):
-            company_name = line
-            i += 1
-        elif is_job_title(line):
-            job_title = line
-            i += 1
-
-        # Continue the loop to fetch corresponding company or job title and date worked
-        while i < len(lines) and not date_worked:
-            line = lines[i].strip()
-            doc_line = nlp(line)
-
-            if not company_name and any(ent.label_ == "ORG" for ent in doc_line.ents):
-                company_name = line
-            elif not job_title and is_job_title(line):
-                job_title = line
-            elif any(ent.label_ == "DATE" for ent in doc_line.ents) or any(date in line for date in dates):
-                date_worked = line
-            else:
-                additional_details.append(line)
-
-            i += 1
-
-        # Save details
-        if company_name or job_title:
-            work_experience_details.append({
-                'company_name': company_name,
-                'job_title': job_title,
-                'dates_worked': date_worked,
-                'additional_info': additional_details
-            })
-
-    return work_experience_details
+prompt = f"""Extract details from the text of resume delimited by angle brackets into a JSON. The details that need to be extracted are: 
+                Name, Phone number, email address, linkedin URL, github URL, work experience, education, skills, projects, extracurricular activities, certifications.
+                For any details that are blank or not found, use the word 'Unknown' <{text}>"""
