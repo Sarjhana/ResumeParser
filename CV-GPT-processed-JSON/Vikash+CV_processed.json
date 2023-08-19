@@ -1,0 +1,61 @@
+{
+  "name": "Unknown",
+  "email": "vikash0303kumar0303@gmail.com",
+  "phone": "+91 9588299731",
+  "address": "Unknown",
+  "linkedin URL": "Unknown",
+  "github URL": "Unknown",
+  "education": [
+    {
+      "education level": "B.Tech",
+      "specialization": "Computer Science",
+      "university name": "Rajasthan Technical University, RTU",
+      "duration": "2014 - 2018",
+      "marks/percentage/cgpa obtained": "71%",
+      "additional information": "In 2014 starts career with interest in basic knowledge of programming languages in C, C++, Java, Python, PHP, HTML-CSS, DBMS, SOL, MYSQL, MS Office. In 2015 starts some competitive programming skills from Git-Hub, Geeks-for-Geeks, Hacker Rank, Hacker-Earth, Code-forces, Code-chefs and many other platforms. In 2016 gradually in 3rd year, I found myself and attract towards various algorithm and application of Programming in the real world projects. In 2017 final year however real-time projects roles leads towards Application of Artificial Intelligence and Machine Learning Algorithms and models."
+    },
+    {
+      "education level": "Higher Secondary school",
+      "specialization": "PCM and Computer Science",
+      "university name": "Kendriya Vidyalaya Danapur Cantt (KVD), Patna",
+      "duration": "2012 - 2014",
+      "marks/percentage/cgpa obtained": "66%",
+      "additional information": ""
+    },
+    {
+      "education level": "Secondary School",
+      "specialization": "Science, Maths And Computer",
+      "university name": "Sunshine Residential Public School, Maner, Patna",
+      "duration": "2010 - 2012",
+      "marks/percentage/cgpa obtained": "10 CGPA",
+      "additional information": ""
+    }
+  ],
+  "work_experience": [
+    {
+      "title": "Unknown",
+      "company": "Unknown",
+      "start_date": "Unknown",
+      "end_date": "Unknown",
+      "description": "1 year of experience in online coding teaching in C, C++, Java, Python, HTML-CSS, and other programming Languages."
+    }
+  ],
+  "skills": [
+    "C",
+    "C++",
+    "Java",
+    "Python",
+    "PHP",
+    "DBMS",
+    "SQL",
+    "NoSQL",
+    "MYSQL",
+    "HTML-CSS",
+    "MS Office",
+    "Artificial Intelligence Algorithms",
+    "Machine Learning Models"
+  ],
+  "certifications": [],
+  "projects": [],
+  "extracurricular_activities": []
+}

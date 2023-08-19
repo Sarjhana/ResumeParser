@@ -1,0 +1,86 @@
+{
+  "name": "Neha Gupta",
+  "email": "nehag2124@gmail.com",
+  "phone": "9953682495",
+  "address": "Unknown",
+  "linkedin URL": "Unknown",
+  "github URL": "Unknown",
+  "education": [
+    {
+      "education level": "M.Sc",
+      "specialization": "Computer Science",
+      "university name": "ALGAPPA UNIVERSITY",
+      "duration": "2013 to 2015",
+      "marks/percentage/cgpa obtained": "Unknown",
+      "additional information": "Unknown"
+    },
+    {
+      "education level": "B.Sc",
+      "specialization": "Animation & Multimedia",
+      "university name": "FRAMEBOXX",
+      "duration": "2010 to 2013",
+      "marks/percentage/cgpa obtained": "Unknown",
+      "additional information": "Unknown"
+    },
+    {
+      "education level": "High School",
+      "specialization": "Unknown",
+      "university name": "D.A.V. Public School",
+      "duration": "Unknown",
+      "marks/percentage/cgpa obtained": "Unknown",
+      "additional information": "Unknown"
+    }
+  ],
+  "work_experience": [
+    {
+      "title": "Product Designer",
+      "company": "Unknown",
+      "start_date": "Unknown",
+      "end_date": "Unknown",
+      "description": "Goal-focussed UI/UX designer. Worked on different projects including design of cryptocurrency exchange, mobile app, wireframes, and improved UX."
+    },
+    {
+      "title": "Sr. UI/UX Designer",
+      "company": "Classic Informatics",
+      "start_date": "JULY 2021",
+      "end_date": "PRESENT",
+      "description": "Bright beginner in Classic Informatics"
+    },
+    {
+      "title": "Sr. Web Designer",
+      "company": "Oodles Technologies",
+      "start_date": "DEC 2017",
+      "end_date": "JUNE 2021",
+      "description": "Developed landing pages, dashboards and online applications using Adobe XD, Adobe Photoshop, and Adobe Illustrator. Create user flows, wireframes, low-ﬁdelity and high-ﬁdelity design mockups. Experience working in agile and product-centered environment. Created eye catching and produced design mockups and prototypes to strengthen designs, enhance user experiences and improve site interactions. Present and defend designs and key milestone deliverables to peers and executive level stakeholders"
+    },
+    {
+      "title": "Graphics & Web Designer",
+      "company": "Arihant Webtech Pvt Ltd",
+      "start_date": "JUNE 2016",
+      "end_date": "NOV 2017",
+      "description": "Managed a large variety of property marketing activities, including branding, ads, brochure development, flyers/e-flyers, direct mail campaigns, invitations, announcements, marketing center items (boards, promotional items, signage, etc.) Designed customized deliverables per team and stakeholders needs Image correction, Cropping, Generate & Edit new images"
+    },
+    {
+      "title": "Unknown",
+      "company": "iZeneth Innovative Technologies",
+      "start_date": "JUNE 2014",
+      "end_date": "MAY 2016",
+      "description": "Unknown"
+    }
+  ],
+  "skills": [
+    "Adobe XD",
+    "Figma (Basic)",
+    "Adobe Illustrator",
+    "Adobe Photoshop",
+    "Zeplin (Assets)",
+    "Basic knowledge of HTML/CSS"
+  ],
+  "certifications": [],
+  "projects": [],
+  "extracurricular_activities": [],
+  "summary": "8 years of experience with a demonstrated history of working in the computer software industry. Proﬁciency in handling project independently. Developed landing pages, dashboards and online applications using Adobe XD, Adobe Photoshop, and Adobe Illustrator. Completed full redesigns of existing websites to improve navigation, enhance visuals and strengthen search engine rankings. Explore the ways to enhance the user experience and create a value proposition for the end user of the product and services being offered for user engagement and product enhancement.",
+  "awards": [
+    "Won The Addressya Bunch Of Flowers For Exceptional Team Efforts And Contributions"
+  ]
+}

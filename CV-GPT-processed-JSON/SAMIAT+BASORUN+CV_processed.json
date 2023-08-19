@@ -1,0 +1,57 @@
+{
+  "name": "Unknown",
+  "email": "samiatzosia@gmail.com",
+  "phone": "07546362236",
+  "address": "Unknown",
+  "linkedin URL": "@SamiatBasorun",
+  "github URL": "Unknown",
+  "education": [
+    {
+      "education level": "Master of Arts",
+      "specialization": "Corporate Communications, Marketing, and Public Relations",
+      "university name": "University of Leeds",
+      "duration": "SEPTEMBER 2022-SEPTEMBER 2023",
+      "marks/percentage/cgpa obtained": "2:1 Honours",
+      "additional information": "Student Media Club, Peer mentor volunteer"
+    },
+    {
+      "education level": "Bachelor of Arts",
+      "specialization": "Media and Communications",
+      "university name": "Coventry University",
+      "duration": "SEPTEMBER 2019-JULY 2022",
+      "marks/percentage/cgpa obtained": "Unknown",
+      "additional information": "Unknown"
+    }
+  ],
+  "work_experience": [
+    {
+      "title": "Retail Assistant",
+      "company": "PRIMARK",
+      "start_date": "JUNE 2022",
+      "end_date": "SEPTEMBER 2022",
+      "description": "Anticipated customer needs by providing a high quality service while upholding brand standards and values to ensure customer satisfaction. Solving customer queries and issues, while effortlessly upholding brand standards and policy. Administered POS transactions; including cash, credit, exchanges, and refunds, to ensure accurate cash flow."
+    },
+    {
+      "title": "Public Affairs Intern",
+      "company": "MINISTRY OF INFORMATION (LAGOS)",
+      "start_date": "AUGUST 2019",
+      "end_date": "SEPTEMBER 2019",
+      "description": "Monitored and provided updates on current conversations on the State, active government figures, political parties, and events. Perform research and communication analysis activities relating to the state. And produce corresponding reports. Facilitated administrative duties."
+    }
+  ],
+  "skills": [
+    "Oral and Written Communication Skills",
+    "Microsoft Office Efficiency",
+    "Market Research",
+    "Time Management",
+    "Customer Service",
+    "Social Media",
+    "Organisational Skills",
+    "Creative Thinking",
+    "Networking",
+    "Market Research"
+  ],
+  "certifications": [],
+  "projects": [],
+  "extracurricular_activities": []
+}

@@ -1,0 +1,56 @@
+{
+  "name": "NIKHITHA REDDY",
+  "email": "nikhithareddy.t630@gmail.com",
+  "phone": "+91-6305074108",
+  "address": "Hyderabad, Telangana",
+  "linkedin URL": "Unknown",
+  "github URL": "Unknown",
+  "education": [
+    {
+      "education level": "B.TECH",
+      "specialization": "Electronics and Communication Engineering",
+      "university name": "University college of Engineering and Technology for women",
+      "duration": "Unknown",
+      "marks/percentage/cgpa obtained": "83%",
+      "additional information": "Unknown"
+    },
+    {
+      "education level": "Intermediate",
+      "specialization": "Unknown",
+      "university name": "TSWREIS College Mattampally, Suryapet",
+      "duration": "Unknown",
+      "marks/percentage/cgpa obtained": "92%",
+      "additional information": "Unknown"
+    },
+    {
+      "education level": "10th Standard",
+      "specialization": "Unknown",
+      "university name": "TSWREIS Nakrekal Nalgonda(D)",
+      "duration": "Unknown",
+      "marks/percentage/cgpa obtained": "92%",
+      "additional information": "Unknown"
+    }
+  ],
+  "work_experience": [
+    {
+      "title": "Unknown",
+      "company": "Unknown",
+      "start_date": "Unknown",
+      "end_date": "Unknown",
+      "description": "Unknown"
+    }
+  ],
+  "skills": [
+    "C",
+    "Python"
+  ],
+  "certifications": [
+    "Unknown"
+  ],
+  "projects": [
+    "Unknown"
+  ],
+  "extracurricular_activities": [
+    "Unknown"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "name": "Unknown",
+  "email": "Unknown",
+  "phone": "Unknown",
+  "address": "Unknown",
+  "linkedin URL": "Unknown",
+  "github URL": "Unknown",
+  "education": [
+    {
+      "education level": "CIM Level 4 award in digital marketing (Pass)",
+      "specialization": "Unknown",
+      "university name": "Milton Keynes College",
+      "duration": "Unknown",
+      "marks/percentage/cgpa obtained": "Unknown",
+      "additional information": "Unknown"
+    },
+    {
+      "education level": "Principles of coding BCS Level 3 (Pass)",
+      "specialization": "Unknown",
+      "university name": "Milton Keynes College",
+      "duration": "Unknown",
+      "marks/percentage/cgpa obtained": "Unknown",
+      "additional information": "Unknown"
+    },
+    {
+      "education level": "Marketing principles Level 3 (Pass)",
+      "specialization": "Unknown",
+      "university name": "Milton Keynes College",
+      "duration": "Unknown",
+      "marks/percentage/cgpa obtained": "Unknown",
+      "additional information": "Unknown"
+    },
+    {
+      "education level": "Digital Marketing Level 3 (Pass)",
+      "specialization": "Unknown",
+      "university name": "Milton Keynes College",
+      "duration": "Unknown",
+      "marks/percentage/cgpa obtained": "Unknown",
+      "additional information": "Unknown"
+    }
+  ],
+  "work_experience": [
+    {
+      "title": "Brand and Design Executive",
+      "company": "Unknown",
+      "start_date": "June 2021",
+      "end_date": "May 2022",
+      "description": "It was my job to ensure all client facing collateral was branded correctly and designed to the highest level. I created all social media and website content as well  as event stands. I also designed presentations, reports and webinars for all members of the Springboard team."
+    },
+    {
+      "title": "Marketing Executive",
+      "company": "Unknown",
+      "start_date": "May 2020",
+      "end_date": "June 2021",
+      "description": "In this role I was able to put my skills to work and evaluate the marketing process we had in place and how to improve them. Within this time I created a new social media strategy which improved engagement levels by 43% on average across the channels. I also ran email campaigns for our new services and products."
+    },
+    {
+      "title": "Digital Marketing Assistant",
+      "company": "Unknown",
+      "start_date": "November 2018",
+      "end_date": "May 2020",
+      "description": "The team allowed me to assist with all marketing activities to expand my knowledge and gain expertise in certain areas. This included event work, email marketing and social media work."
+    },
+    {
+      "title": "Social Media Content Producer",
+      "company": "Unknown",
+      "start_date": "Jan 2023",
+      "end_date": "Present",
+      "description": "Handle strategic planning, content strategy, and execution of posts across Wed2b's Instagram, Facebook, and TikTok.\n\nCreate all content that features on the Wed2b TikTok page. This includes BTS, Product based videos, Tiktok Trends, Competitions and fun brand awareness videos.\n\nDirect shoots on a biweekly basis capturing video and photo content for our socials. I create on-brand visuals using our photo studio, retail stores and location shoots.\n\nRecieve a monthly budget for social shoots; I manage talent bookings, invoices, travel, locations and styling props.\n\nAssist with the planning of campaign shoots with the design team. I ensure the appropriate content can be captured for socials, and additional images for use in emails and on the website."
+    },
+    {
+      "title": "Creative Graphic Designer",
+      "company": "Unknown",
+      "start_date": "May 2022",
+      "end_date": "Jan 2023",
+      "description": "I created design guidelines for the social channels and newsletters to ensure the branding was cohesive and in line with new brand guidelines. I created a wide variety of new collateral for stores including posters, banners & flyers. I worked closely with the marketing and agency team to create a variety of static and video ads that featured on our social channels and in publications such as The Mirror."
+    }
+  ],
+  "skills": [
+    "SPRINGBOARD",
+    "WED2B"
+  ],
+  "certifications": [],
+  "projects": [],
+  "extracurricular_activities": [],
+  "career_objective": "Unknown"
+}

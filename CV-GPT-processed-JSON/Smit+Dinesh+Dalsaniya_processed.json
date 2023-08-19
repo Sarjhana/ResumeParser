@@ -1,0 +1,31 @@
+{
+  "name": "Unknown",
+  "email": "Unknown",
+  "phone": "Unknown",
+  "address": "Unknown",
+  "linkedin URL": "Unknown",
+  "github URL": "Unknown",
+  "education": [
+    {
+      "education level": "Unknown",
+      "specialization": "Unknown",
+      "university name": "Unknown",
+      "duration": "Unknown",
+      "marks/percentage/cgpa obtained": "Unknown",
+      "additional information": "Unknown"
+    }
+  ],
+  "work_experience": [
+    {
+      "title": "Unknown",
+      "company": "Unknown",
+      "start_date": "Unknown",
+      "end_date": "Unknown",
+      "description": "Unknown"
+    }
+  ],
+  "skills": [],
+  "certifications": [],
+  "projects": [],
+  "extracurricular_activities": []
+}

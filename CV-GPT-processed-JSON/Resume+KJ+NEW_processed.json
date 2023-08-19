@@ -1,0 +1,66 @@
+{
+  "name": "Jagadeesh Karri",
+  "email": "jagadeesh2102@gmail.com",
+  "phone": "+91 80749 23672",
+  "address": "Visakhapatnam, AndhraPradesh-530046",
+  "linkedin URL": "Unknown",
+  "github URL": "Unknown",
+  "education": [
+    {
+      "education level": "B. Tech",
+      "specialization": "Unknown",
+      "university name": "Vignan's institute of information technology",
+      "duration": "Unknown",
+      "marks/percentage/cgpa obtained": "8.97",
+      "additional information": "Unknown"
+    },
+    {
+      "education level": "Intermediate",
+      "specialization": "Unknown",
+      "university name": "Sri Chaitanya junior college",
+      "duration": "Unknown",
+      "marks/percentage/cgpa obtained": "88.6%",
+      "additional information": "Unknown"
+    },
+    {
+      "education level": "School",
+      "specialization": "Unknown",
+      "university name": "New horizon high school",
+      "duration": "Unknown",
+      "marks/percentage/cgpa obtained": "8.8",
+      "additional information": "Unknown"
+    }
+  ],
+  "work_experience": [
+    {
+      "title": "Unknown",
+      "company": "Unknown",
+      "start_date": "Unknown",
+      "end_date": "Unknown",
+      "description": "Unknown"
+    }
+  ],
+  "skills": [
+    "Proficient in python and Java Programming languages.",
+    "Familiar with HTML, CSS, JavaScript and react framework.",
+    "Understanding of UI/UX principles.",
+    "Basic Knowledge of MySQL, Git and GitHub version control systems.",
+    "Good Communication and interpersonal skills."
+  ],
+  "certifications": [
+    "Course completion of python by FLM Edu Tech.",
+    "Certified on Java Skill test in Hacker Rank.",
+    "Course completion of Java full stack by Digital-Lync.",
+    "Course completion certificate of react.js by Udemy E-learning platform."
+  ],
+  "projects": [
+    "Portfolio: Developed a personal portfolio website using HTML, CSS and JavaScript, showcasing my programming abilities and professional experience.",
+    "Netflix-Clone: Developed a clone website using ReactJS, redux toolkit, firebase, Google auth, stripe, CSS, HTML.",
+    "Theme-Calculator: Developed using Html, CSS, JavaScript.",
+    "Responsive Music-App: Developed using Html, CSS, JavaScript."
+  ],
+  "extracurricular_activities": [
+    "Fitness activities.",
+    "Photography and Videography."
+  ]
+}

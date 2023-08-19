@@ -1,0 +1,113 @@
+{
+  "name": "SUMEIRA YOUSUF",
+  "email": "sumairayousuf36@gmail.com",
+  "phone": "+91-9622333402",
+  "address": "RAJBAGH SRINAGAR",
+  "linkedin URL": "Unknown",
+  "github URL": "Unknown",
+  "education": [
+    {
+      "education level": "Master of Technology (M.Tech)",
+      "specialization": "Computer Science",
+      "university name": "UNIVERSITY OF KASHMIR",
+      "duration": "2018-2021",
+      "marks/percentage/cgpa obtained": "CGPA: 9.31 /10",
+      "additional information": "Position: 1st with Gold Medal"
+    },
+    {
+      "education level": "Bachelor of Technology (B.Tech)",
+      "specialization": "Computer Science Engineering",
+      "university name": "UNIVERSITY OF KASHMIR",
+      "duration": "2012-2017",
+      "marks/percentage/cgpa obtained": "CGPA: 7.71",
+      "additional information": "Unknown"
+    },
+    {
+      "education level": "Higher Secondary (XII)",
+      "specialization": "Unknown",
+      "university name": "MALLINSON GIRLS SCHOOL",
+      "duration": "2010",
+      "marks/percentage/cgpa obtained": "CGPA: 8.48",
+      "additional information": "Unknown"
+    },
+    {
+      "education level": "Secondary (X)",
+      "specialization": "Unknown",
+      "university name": "MALLINSON GIRLS SCHOOL",
+      "duration": "2008",
+      "marks/percentage/cgpa obtained": "CGPA: 9.26",
+      "additional information": "Unknown"
+    }
+  ],
+  "work_experience": [
+    {
+      "title": "Unknown",
+      "company": "Unknown",
+      "start_date": "Unknown",
+      "end_date": "Unknown",
+      "description": "Unknown"
+    }
+  ],
+  "skills": [
+    "C",
+    "C++",
+    "Java",
+    "Html",
+    "Css",
+    "Java Script",
+    "Data Structures",
+    "Network Security",
+    "Deep Learning",
+    "Machine Learning",
+    "Verbal and written Communication",
+    "Detail oriented",
+    "Active listening",
+    "Problem solving",
+    "Multitasking",
+    "Customer needs assessment",
+    "phone and chat skills",
+    "Time management",
+    "Resolving customer issues",
+    "Team Leader",
+    "Motivation",
+    "Microsoft Applications proficiency",
+    "MS Office",
+    "Business Operations",
+    "CRM",
+    "Strong Work Ethics",
+    "Ability to accept and learn from criticism",
+    "Public speaking"
+  ],
+  "certifications": [],
+  "projects": [
+    {
+      "title": "LANE DETECTION IN AUTONOMOUS VEHICLES BUILT USING SEMANTIC SEGMENTATION",
+      "company": "Unknown",
+      "start_date": "Unknown",
+      "end_date": "Unknown",
+      "description": "This project has been designed to detect lanes based on machine learning built using machine learning CNN, Python, Keras, NumPy, Tensorflow.\n\n- Created a semantic segmentation model that takes an image as an input, and provides us output, a category classification for every pixel. It uses computer vision\n- Ideated and developed a model which perfectly worked with offline test data set with 99% accuracy, thereby eliminating scalability issues.\n- It uses a CNN which consists of an encoder and decoder network.\n- Encoder is the part of the algorithm network structure to extract image features.\n- Decoder: This layer is widely used for the pixel-wise classification task where the feature maps have to be restored to original input image size. Its aim is to up-sample the image to get the same resolution as the input image.\n- The final deconvolution layer ends with one filter, as the image is returned image in the ‘G' color channel, as we want the predicted lanes to be in green.\n- The accuracy was 99% with each epoch where IOU of road pixels had high class score and helps to detect a trajectory that is safe and efficient."
+    },
+    {
+      "title": "VEHICLE DETECTION",
+      "company": "Unknown",
+      "start_date": "Unknown",
+      "end_date": "Unknown",
+      "description": "This project has been designed to detect vehicles based on machine learning built using HOG, Python, Keras, NumPy, Tensorflow and SVM.\n\n- Built a model in python which uses Histogram of Oriented Gradients (HOG) feature extraction on a labelled training set of images.\n- It Trains a Linear Support Vector Machine (SVM) classifier.\n- It Implements a sliding-window technique and uses the trained SVM classifier to search for vehicles in images.\n- The model runs the pipeline on a video stream and creates a heat map of recurring detections frame by frame to reject outliers and follows detected vehicles.\n- We finally estimate a bounding box for vehicles which are detected.\n- Implemented multiprocessing and python libraries to solve scalability challenges and provides a better frame rate of average 5.5 fps which is far better than the cv model.\n- The model was able to detect vehicles with 99.26% efficiency."
+    },
+    {
+      "title": "DEEP LEARNING IN AUTONOMOUS VEHICLES",
+      "company": "Unknown",
+      "start_date": "Unknown",
+      "end_date": "Unknown",
+      "description": "Designed a simulation model of self driving system using imitation learning policy “Behavioral Cloning ,python and PyTorch\n\n- Using behavioral cloning, we give raw sensor data as input to train our network.\n- The model learns to imitate the actions of the expert system.\n- The output of the network is the driving policy, represented by desired steering angle and/or acceleration or breaking.\n- To build the training dataset, we collected about 72 hours of real-world driving videos.\n- During the evaluation, the car was able to drive itself with accuracy of 98%."
+    },
+    {
+      "title": "FREELANCING ANDROID APPLICATION",
+      "company": "Unknown",
+      "start_date": "Unknown",
+      "end_date": "Unknown",
+      "description": "An android application which provides a platform for developers and employers to interact with each other and get the projects done within the deadline by hiring the developers with suitable profiles using MySQL, PHP, Apache Tomcat server, Java and Android Studio.\n\n- It is a responsive application and works comfortably on any platform.\n- It provides separate profiles for employers and freelancers where both profiles have different features in their corresponding navigation drawers.\n- The application provides Push Notifications, feedback options, chat facility, push project, bid project settings, inbox, client verification and authentication.\n- Employers post the project, Choose the perfect freelancer, browse the freelancer profiles, chat in real time and pay when satisfied."
+    }
+  ],
+  "extracurricular_activities": []
+}

@@ -1,0 +1,108 @@
+{
+  "name": "Nidhi Aggarwal",
+  "email": "Unknown",
+  "phone": "Unknown",
+  "address": "Unknown",
+  "linkedin URL": "www.linkedin.com/in/nidhiaggarwal1",
+  "github URL": "Unknown",
+  "education": [
+    {
+      "education level": "MBA",
+      "specialization": "Finance",
+      "university name": "Indian School of Business",
+      "duration": "2006 - 2007",
+      "marks/percentage/cgpa obtained": "Unknown",
+      "additional information": "Unknown"
+    },
+    {
+      "education level": "MBA",
+      "specialization": "Finance, Marketing",
+      "university name": "Indian School of Business",
+      "duration": "2005 - 2006",
+      "marks/percentage/cgpa obtained": "Unknown",
+      "additional information": "Unknown"
+    },
+    {
+      "education level": "MBA",
+      "specialization": "Strategy, Finance and Marketing",
+      "university name": "Indian School of Business",
+      "duration": "2005 - 2006",
+      "marks/percentage/cgpa obtained": "Unknown",
+      "additional information": "Unknown"
+    },
+    {
+      "education level": "B Tech",
+      "specialization": "Mechanical Engineering",
+      "university name": "Indian Institute of Technology, Delhi",
+      "duration": "1998 - 2002",
+      "marks/percentage/cgpa obtained": "Unknown",
+      "additional information": "Unknown"
+    }
+  ],
+  "work_experience": [
+    {
+      "title": "Head of Corporate Development & Strategic Initiatives",
+      "company": "Vodafone",
+      "start_date": "February 2023",
+      "end_date": "Present",
+      "description": "Drive planning and integration of proposed merger of VF UK and Three UK"
+    },
+    {
+      "title": "Head of Strategy at Vodafone Group",
+      "company": "Vodafone",
+      "start_date": "August 2020",
+      "end_date": "February 2023",
+      "description": "Unknown"
+    },
+    {
+      "title": "Finance Executive",
+      "company": "Vodafone",
+      "start_date": "September 2018",
+      "end_date": "August 2020",
+      "description": "Unknown"
+    },
+    {
+      "title": "VP- Financial Planning & Analysis",
+      "company": "Vodafone",
+      "start_date": "September 2014",
+      "end_date": "September 2018",
+      "description": "Unknown"
+    },
+    {
+      "title": "Head, Corporate Strategy",
+      "company": "Vodafone",
+      "start_date": "May 2010",
+      "end_date": "September 2014",
+      "description": "Unknown"
+    },
+    {
+      "title": "Project Manager",
+      "company": "Sistema Shyam Teleservices Ltd",
+      "start_date": "July 2009",
+      "end_date": "May 2010",
+      "description": "Unknown"
+    },
+    {
+      "title": "Senior Associate",
+      "company": "Diamond Management and Technology Consultants",
+      "start_date": "May 2006",
+      "end_date": "June 2009",
+      "description": "Unknown"
+    },
+    {
+      "title": "Sr. Consultant",
+      "company": "i2 Technologies",
+      "start_date": "June 2002",
+      "end_date": "April 2005",
+      "description": "Unknown"
+    }
+  ],
+  "skills": [
+    "Forecasting",
+    "Relationship Building",
+    "Quarterly Reporting"
+  ],
+  "certifications": [],
+  "projects": [],
+  "extracurricular_activities": []
+}
