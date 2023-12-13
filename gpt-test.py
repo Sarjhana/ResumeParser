@@ -3,7 +3,7 @@ import os
 import json
 import time
 
-openai.api_key = "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"
+openai.api_key = ""
 
 def get_completion(prompt, model="gpt-3.5-turbo", temperature=0): 
     messages = [{"role": "user", "content": prompt}]
