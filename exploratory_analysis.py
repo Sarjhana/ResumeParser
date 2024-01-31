@@ -61,7 +61,7 @@ def main():
     nlp = spacy.load("en_core_web_sm")
 
     # Read the contents of the all_resumes_text.txt file
-    all_resumes_text_file = '/Users/sarjhana/Projects/Campuzzz/all_resumes_text.txt'
+    all_resumes_text_file = '# path to file with concatenated resumes'
     with open(all_resumes_text_file, 'r', encoding='utf-8') as f:
         all_resumes_text = f.read()
 
