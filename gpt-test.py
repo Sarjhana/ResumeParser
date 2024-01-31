@@ -48,8 +48,8 @@ json_sample = {
 
 def main():
 
-    input_directory = '/Users/sarjhana/Projects/Campuzzz/CV-text-files'  
-    output_directory = '/Users/sarjhana/Projects/Campuzzz/CV-GPT-processed-JSON'
+    input_directory = '#text files directory'  
+    output_directory = '#output directory'
 
     # Get a list of all PDF files in the input directory
     pdf_files = [file for file in os.listdir(input_directory) if file.endswith('.txt')]
@@ -79,7 +79,6 @@ def main():
         print(f"Response received in {execution_time:.2f} seconds")
 
         file_name = os.path.splitext(pdf_file)[0] + '_processed.json'
-        output_directory = '/Users/sarjhana/Projects/Campuzzz/CV-GPT-processed-JSON'
         json_file_path = os.path.join(output_directory, file_name)
         with open(json_file_path, 'w', encoding='utf-8') as f:
                 f.write(response)
