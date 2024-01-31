@@ -16,7 +16,7 @@ def save_details_to_json(details, output_file, output_directory):
     with open(output_file_path, 'w', encoding='utf-8') as f:
         json.dump(details, f, indent=4)
 
-file_path = '/Users/sarjhana/Projects/Campuzzz/CV-text-files-test/Akash+Updated+Resume.txt'
+file_path = '#give the file path to a txt file'
 with open(file_path, 'r') as file:
     text = file.read()
 
@@ -70,7 +70,7 @@ prompt = f"""Extract details from the text of resume delimited by angle brackets
                 <{text}>"""
 response = get_completion(prompt)
 
-save_details_to_json(response,'Resume2.json', '/Users/sarjhana/Projects/Campuzzz/CV-GPT-processed-JSON')
+save_details_to_json(response,'Resume2.json', '#file path to where JSON must be stored')
 
 
 prompt = f"""Extract details from the text of resume delimited by angle brackets into a JSON. The details that need to be extracted are: 
